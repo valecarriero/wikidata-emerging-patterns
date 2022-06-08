@@ -1,1 +1,0 @@
-The partial facts (3M) about the music domain extracted from Wikidata can be downloaded from [here](https://liveunibo.sharepoint.com/:u:/s/polifonia/EXEWou_BuT1Pv3zEmi649m8BXAKsJPdXTJr17dOy4dnK5w?e=gWupvi) (143 MB)
