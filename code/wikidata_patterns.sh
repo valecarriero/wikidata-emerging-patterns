@@ -1,18 +1,19 @@
 #! /bin/bash
-
+CODE_DIRECTORY=$(pwd)
+read -p "Enter the absolute path of the folder where you want to store the results: " OUTPUTPATH
 read -p "Enter the absolute path of the KGTK tsv edgefile of your domain KG: " EDGEFILE
 read -p "Enter the absolute path of the KGTK tsv nodefile / labelfile of your domain KG: " NODEFILE
 read -p "Enter the absolute path of the KGTK tsv edgefile containing P279star triples: " P279STARFILE
-mkdir output
-export kypher="kgtk --debug query --graph-cache wikidata.sqlite3.db"
+mkdir $OUTPUTPATH/output
+export kypher="kgtk --debug query"
 ### I generate a file that counts all instances of all classes: output tsv file
-$kypher -i $EDGEFILE -o output/classes.tsv --match  '(instance)-[:P31]->(class)' --return 'class as class, count(distinct instance) as count' --order-by 'count desc'
-kgtk add-labels --input-file output/classes.tsv --label-file $NODEFILE --output-file output/classes.tsv
+$kypher -i $EDGEFILE -o $OUTPUTPATH/output/classes.tsv --match  '(instance)-[:P31]->(class)' --return 'class as class, count(distinct instance) as count' --order-by 'count desc'
+kgtk add-labels --input-file $OUTPUTPATH/output/classes.tsv --label-file $NODEFILE --output-file $OUTPUTPATH/output/classes.tsv
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common classes. 0 means that only the most common class will be selected, 1 that all classes will be selected: " K
-CLASSES_TSV=$(python -W ignore return_filtered_distribution.py --input_file output/classes.tsv --k_value $K --output_folder output/)
+CLASSES_TSV=$(python -W ignore return_filtered_distribution.py --input_file $OUTPUTPATH/output/classes.tsv --k_value $K --output_folder $OUTPUTPATH/output)
 echo "the file with the most populated classes based on the threshold has been created:"
 echo $CLASSES_TSV
-SUBGRAPHS_FOLDER="output/all_subgraphs"
+SUBGRAPHS_FOLDER=$OUTPUTPATH/output/all_subgraphs
 mkdir $SUBGRAPHS_FOLDER
 python extract_subgraphs.py --classes_tsv $CLASSES_TSV --output_folder $SUBGRAPHS_FOLDER --edgefile $EDGEFILE --p279starfile $P279STARFILE
 
@@ -20,7 +21,7 @@ python extract_subgraphs.py --classes_tsv $CLASSES_TSV --output_folder $SUBGRAPH
 chmod +x subgraphs_KGTKcommands.sh
 ./subgraphs_KGTKcommands.sh
 
-mkdir output/patterns
+mkdir $OUTPUTPATH/output/patterns
 cd $SUBGRAPHS_FOLDER
 ### generate a file with all properties for each selected class
 for FILE in *.gz
@@ -41,7 +42,7 @@ for FILE in *.gz
 		CLASS=$(echo $FILE | cut -d'.' -f 1)
 		### partial file without datatype ranges
 		#wrong $kypher -i $FILE --as DKG -i $ALLEDGES --as ALL -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
-		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), a: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
+		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
 		
 		### node file with all ranges (both entities and datatypes)
 		#wrong $kypher -i DKG -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
@@ -49,13 +50,13 @@ for FILE in *.gz
 
 		### node file with only ranges with :P31
 		#wrong $kypher -i DKG -i ALL -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
-		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), a: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
 
 		### filter the first file with the second one -> obtain a node file with only datatypes
 		kgtk ifnotexists --input-file ../patterns/$CLASS/$CLASS-all-ranges.tsv --filter-on ../patterns/$CLASS/$CLASS-typed-ranges.tsv --o ../patterns/$CLASS/$CLASS-datatype-ranges.tsv
 		
 		### separate "real" datatypes and Qentities that are not typed (i.e. missing P31)
-		python -W ignore ../../filter_Q_notQ_wd_entities.py ../patterns/$CLASS/$CLASS-datatype-ranges.tsv ../patterns/$CLASS/$CLASS-Q-datatype-ranges.tsv ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv
+		python -W ignore $CODE_DIRECTORY/filter_Q_notQ_wd_entities.py ../patterns/$CLASS/$CLASS-datatype-ranges.tsv ../patterns/$CLASS/$CLASS-Q-datatype-ranges.tsv ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv
 		
 		### obtain an edge file with only datatypes
 		kgtk ifexists --input-file $FILE --filter-on ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv -o ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --input-keys node2
@@ -67,7 +68,7 @@ for FILE in *.gz
 		#wrong $kypher -i ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --as SUBDKG -i DKG -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match 'SUBDKG: (s)-[p]->(o {wikidatatype: type}), DKG: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
 		$kypher -i $ONLYDATATYPESUBGRAPH -i $FILE -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match '(s)-[p]->(o {wikidatatype: type}), z: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
 
-		python -W ignore ../../merge_nodatatype_yesdatatype.py --nodp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --yesdp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --output_file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
+		python -W ignore $CODE_DIRECTORY/merge_nodatatype_yesdatatype.py --nodp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --yesdp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --output_file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
 		kgtk add-labels --input-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv --label-file $NODEFILE --output-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
 		COUNTER=$[$COUNTER +1]
 done
@@ -75,12 +76,13 @@ done
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K3
 ### going back to code folder
-cd ../..
+cd $CODE_DIRECTORY
 
 ### for each file with all properties for each selected class, I run the kgtk commands for returning the most common properties based on a threshold
-for FOLDER in output/patterns/*
+for FOLDER in $OUTPUTPATH/output/patterns/*
 	do
-		CLASS=$(echo $FOLDER | cut -d'/' -f 3)
+		#CLASS=$(echo $FOLDER | cut -d'/' -f 3)
+		CLASS=${FOLDER##*/}
 		echo $CLASS		
 		echo $FOLDER
 		for FILE in $FOLDER/*properties.tsv
