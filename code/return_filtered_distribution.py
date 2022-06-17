@@ -17,7 +17,7 @@ def return_filtered_distribution(input_file, k, output_folder):
 
     output_file = output_folder + "/" + input_file.split("/")[-1].split(".")[0] + "_" + str(k*100).split(".")[0] + "_" + str(filtered_df.shape[0]) + ".tsv"
 
-    filtered_df.reset_index(drop=True).to_csv(output_file, sep="\t")
+    filtered_df.reset_index(drop=True).to_csv(output_file, sep="\t", index=False)
 
     print(output_file)
     return filtered_df
