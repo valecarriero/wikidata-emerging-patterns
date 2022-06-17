@@ -22,7 +22,7 @@ chmod +x subgraphs_KGTKcommands.sh
 mkdir output/patterns
 cd $SUBGRAPHS_FOLDER
 ### generate a file with all properties for each selected class
-for FILE in *
+for FILE in *.gz
 	do
 		CLASS=$(echo $FILE | cut -d'.' -f 1)
 		mkdir ../patterns/$CLASS
@@ -35,42 +35,64 @@ read -p "Enter the absolute path of the KGTK tsv edgefile containing all triples
 ### generate a file with domain and ranges pairs
 COUNTER=1
 QUOTE=\'
-for FILE in *
+for FILE in *.gz
 	do
 		CLASS=$(echo $FILE | cut -d'.' -f 1)
 		### partial file without datatype ranges
-		kgtk --debug query -i $FILE --as DKG -i $ALLEDGES --as ALL -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
+		#wrong $kypher -i $FILE --as DKG -i $ALLEDGES --as ALL -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
+		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), a: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
+		
 		### node file with all ranges (both entities and datatypes)
-		$kypher -i DKG -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+		#wrong $kypher -i DKG -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+
 		### node file with only ranges with :P31
-		$kypher -i DKG -i ALL -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+		#wrong $kypher -i DKG -i ALL -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), a: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+
 		### filter the first file with the second one -> obtain a node file with only datatypes
 		kgtk ifnotexists --input-file ../patterns/$CLASS/$CLASS-all-ranges.tsv --filter-on ../patterns/$CLASS/$CLASS-typed-ranges.tsv --o ../patterns/$CLASS/$CLASS-datatype-ranges.tsv
+		
 		### separate "real" datatypes and Qentities that are not typed (i.e. missing P31)
 		python -W ignore ../../filter_Q_notQ_wd_entities.py ../patterns/$CLASS/$CLASS-datatype-ranges.tsv ../patterns/$CLASS/$CLASS-Q-datatype-ranges.tsv ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv
+		
 		### obtain an edge file with only datatypes
-		kgtk ifexists --input-file DKG --filter-on ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv -o ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --input-keys node2
+		kgtk ifexists --input-file $FILE --filter-on ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv -o ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --input-keys node2
+		
+		ONLYDATATYPESUBGRAPH=../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz
+
+
 		### partial file with only datatype ranges
-		$kypher -i ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --as SUBDKG -i DKG -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match 'SUBDKG: (s)-[p]->(o {wikidatatype: type}), DKG: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
+		#wrong $kypher -i ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --as SUBDKG -i DKG -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match 'SUBDKG: (s)-[p]->(o {wikidatatype: type}), DKG: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
+		$kypher -i $ONLYDATATYPESUBGRAPH -i $FILE -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match '(s)-[p]->(o {wikidatatype: type}), z: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
+
 		python -W ignore ../../merge_nodatatype_yesdatatype.py --nodp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --yesdp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --output_file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
+		kgtk add-labels --input-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv --label-file $NODEFILE --output-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
 		COUNTER=$[$COUNTER +1]
 done
 
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
+read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K3
 ### going back to code folder
 cd ../..
 
-### for each file with all properties for each selected class, I run the kgtk commands for returning the most common properties based on a threshold (max deviation)
+### for each file with all properties for each selected class, I run the kgtk commands for returning the most common properties based on a threshold
 for FOLDER in output/patterns/*
 	do
+		CLASS=$(echo $FOLDER | cut -d'/' -f 3)
+		echo $CLASS		
 		echo $FOLDER
-		## e.g. output/patterns/Q105543609
-		for FILE in $FOLDER/*
+		for FILE in $FOLDER/*properties.tsv
 			do
-				echo $FILE
+				#echo $FILE
 				# e.g. output/patterns/Q105543609/Q105543609-properties.tsv
 	    		PROP_TSV=$(python -W ignore return_filtered_distribution.py --input_file $FILE --k_value $K2 --output_folder $FOLDER)
-	    		kgtk add-labels --input-file PROP_TSV --label-file $NODEFILE --output-file PROP_TSV
+	    		echo $PROP_TSV
+	    		kgtk add-labels --input-file $PROP_TSV --label-file $NODEFILE --output-file $PROP_TSV
+	    		# i filter the dr pairs file with the most common properties
+	    		FILTERED_DR_TSV=$(python -W ignore filter_drpairs_basedon_properties.py --dr_pairs $FOLDER/$CLASS-dr-pairs.tsv --filtered_properties $PROP_TSV --output_folder $FOLDER/$CLASS)
+		    	FILTERED_RANGE_TSV=$(python -W ignore filter_drpairs_basedon_filtered_distribution.py --input_file $FILTERED_DR_TSV --k_value $K3 --output_folder $FOLDER)
+
 	    done
 done
 
