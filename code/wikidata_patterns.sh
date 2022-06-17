@@ -2,6 +2,7 @@
 
 read -p "Enter the absolute path of the KGTK tsv edgefile of your domain KG: " EDGEFILE
 read -p "Enter the absolute path of the KGTK tsv nodefile / labelfile of your domain KG: " NODEFILE
+read -p "Enter the absolute path of the KGTK tsv edgefile containing P279star triples: " P279STARFILE
 mkdir output
 export kypher="kgtk --debug query --graph-cache wikidata.sqlite3.db"
 ### I generate a file that counts all instances of all classes: output tsv file
@@ -13,7 +14,7 @@ echo "the file with the most populated classes based on the threshold has been c
 echo $CLASSES_TSV
 SUBGRAPHS_FOLDER="output/all_subgraphs"
 mkdir $SUBGRAPHS_FOLDER
-python extract_subgraphs.py --classes_tsv $CLASSES_TSV --output_folder $SUBGRAPHS_FOLDER --edgefile $EDGEFILE
+python extract_subgraphs.py --classes_tsv $CLASSES_TSV --output_folder $SUBGRAPHS_FOLDER --edgefile $EDGEFILE --p279starfile $P279STARFILE
 
 ### run file with kgtk commands for generating a file containing a subgraph for each selected class
 chmod +x subgraphs_KGTKcommands.sh
@@ -85,12 +86,12 @@ for FOLDER in output/patterns/*
 		for FILE in $FOLDER/*properties.tsv
 			do
 				#echo $FILE
-				# e.g. output/patterns/Q105543609/Q105543609-properties.tsv
 	    		PROP_TSV=$(python -W ignore return_filtered_distribution.py --input_file $FILE --k_value $K2 --output_folder $FOLDER)
 	    		echo $PROP_TSV
 	    		kgtk add-labels --input-file $PROP_TSV --label-file $NODEFILE --output-file $PROP_TSV
 	    		# i filter the dr pairs file with the most common properties
 	    		FILTERED_DR_TSV=$(python -W ignore filter_drpairs_basedon_properties.py --dr_pairs $FOLDER/$CLASS-dr-pairs.tsv --filtered_properties $PROP_TSV --output_folder $FOLDER/$CLASS)
+		    	# i filter the new dr pairs file with the most common ranges
 		    	FILTERED_RANGE_TSV=$(python -W ignore filter_drpairs_basedon_filtered_distribution.py --input_file $FILTERED_DR_TSV --k_value $K3 --output_folder $FOLDER)
 
 	    done
