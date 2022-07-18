@@ -1,0 +1,12 @@
+property	count	property;label
+P646	3577	'Freebase ID'@en
+P17	3123	'country'@en
+P571	2905	'inception'@en
+P966	2600	'MusicBrainz label ID'@en
+P856	1833	'official website'@en
+P1955	1064	'Discogs label ID'@en
+P159	1023	'headquarters location'@en
+P136	972	'genre'@en
+P112	714	'founded by'@en
+P214	661	'VIAF ID'@en
+P7859	625	'WorldCat Identities ID'@en

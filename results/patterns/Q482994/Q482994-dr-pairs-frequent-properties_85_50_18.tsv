@@ -1,0 +1,19 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q482994	P155	Q482994	40542.0	'album'@en	'follows'@en	'album'@en
+Q482994	P577	time	60723.0	'album'@en	'publication date'@en	
+Q482994	P264	Q18127	46554.0	'album'@en	'record label'@en	'record label'@en
+Q482994	P175	Q5	28193.0	'album'@en	'performer'@en	'human'@en
+Q482994	P175	Q215380	25521.0	'album'@en	'performer'@en	'musical group'@en
+Q482994	P136	Q188451	54127.0	'album'@en	'genre'@en	'music genre'@en
+Q482994	P162	Q5	17010.0	'album'@en	'producer'@en	'human'@en
+Q482994	P156	Q482994	42066.0	'album'@en	'followed by'@en	'album'@en
+Q482994	P1954	external-id	38301.0	'album'@en	'Discogs master ID'@en	
+Q482994	P1729	external-id	13607.0	'album'@en	'AllMusic album ID'@en	
+Q482994	P646	external-id	59757.0	'album'@en	'Freebase ID'@en	
+Q482994	P436	external-id	49031.0	'album'@en	'MusicBrainz release group ID'@en	
+Q482994	P407	Q34770	17474.0	'album'@en	'language of work or name'@en	'language'@en
+Q482994	P407	Q1288568	17451.0	'album'@en	'language of work or name'@en	'modern language'@en
+Q482994	P407	Q33742	15577.0	'album'@en	'language of work or name'@en	'natural language'@en
+Q482994	P437	Q81941037	9689.0	'album'@en	'distribution format'@en	'product distribution method'@en
+Q482994	P7937	Q81947509	19699.0	'album'@en	'form of creative work'@en	'album type'@en
+Q482994	P7937	Q59913930	19631.0	'album'@en	'form of creative work'@en	'recording industry term'@en

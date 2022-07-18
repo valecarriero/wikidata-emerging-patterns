@@ -1,0 +1,495 @@
+property	count	property;label
+P646	13916	'Freebase ID'@en
+P7937	11610	'form of creative work'@en
+P577	10332	'publication date'@en
+P175	9222	'performer'@en
+P136	8449	'genre'@en
+P435	7968	'MusicBrainz work ID'@en
+P86	7306	'composer'@en
+P361	5777	'part of'@en
+P407	5507	'language of work or name'@en
+P264	4996	'record label'@en
+P676	4254	'lyrics by'@en
+P1476	4093	'title'@en
+P156	2904	'followed by'@en
+P155	2890	'follows'@en
+P162	2517	'producer'@en
+P495	2344	'country of origin'@en
+P1827	2204	'ISWC'@en
+P2624	2075	'MetroLyrics ID'@en
+P1651	1916	'YouTube video ID'@en
+P2908	1654	'SecondHandSongs work ID'@en
+P214	1653	'VIAF ID'@en
+P244	1456	'Library of Congress authority ID'@en
+P227	1408	'GND ID'@en
+P268	1386	'Bibliothèque nationale de France ID'@en
+P6216	1348	'copyright status'@en
+P1191	1322	'date of first performance'@en
+P1994	1304	'AllMusic composition ID'@en
+P839	1296	'IMSLP ID'@en
+P1552	1258	'has quality'@en
+P436	1242	'MusicBrainz release group ID'@en
+P87	1202	'librettist'@en
+P826	1190	'tonality'@en
+P1889	1188	'different from'@en
+P1954	1178	'Discogs master ID'@en
+P373	1120	'Commons category'@en
+P528	1102	'catalog code'@en
+P18	1031	'image'@en
+P5229	1027	'Carnegie Hall work ID'@en
+P571	845	'inception'@en
+P4647	808	'location of first performance'@en
+P1417	756	'Encyclopædia Britannica Online ID'@en
+P2635	724	'number of parts of this work'@en
+P870	684	'instrumentation'@en
+P437	652	'distribution format'@en
+P144	609	'based on'@en
+P674	607	'characters'@en
+P2581	561	'BabelNet ID'@en
+P4969	522	'derivative work'@en
+P1829	405	'Roud Folk Song Index number'@en
+P1219	380	'Internet Broadway Database show ID'@en
+P2047	365	'duration'@en
+P5358	335	'Operone opera ID'@en
+P2671	331	'Google Knowledge Graph ID'@en
+P8856	317	'British Phonographic Industry ID'@en
+P4894	309	'ACE Repertory work ID'@en
+P4860	291	'BMI work ID'@en
+P8732	288	'Archivio Storico Ricordi opera ID'@en
+P8189	282	'National Library of Israel J9U ID'@en
+P5251	265	'Corago opera ID'@en
+P3417	249	'Quora topic ID'@en
+P17	239	'country'@en
+P51	234	'audio'@en
+P138	214	'named after'@en
+P409	213	'Libraries Australia ID'@en
+P1730	213	'AllMusic song ID'@en
+P972	202	'catalog'@en
+P921	199	'main subject'@en
+P950	198	'Biblioteca Nacional de España ID'@en
+P8294	194	'AusStage work ID'@en
+P527	191	'has part or parts'@en
+P1433	185	'published in'@en
+P1242	169	'Theatricalia play ID'@en
+P6262	168	'Fandom article ID'@en
+P1922	163	'first line'@en
+P50	155	'author'@en
+P1625	154	'has melody'@en
+P6218	151	'Genius song ID'@en
+P166	151	'award received'@en
+P5241	138	'Songfacts song ID'@en
+P840	134	'narrative location'@en
+P7212	133	'LyricsTranslate ID'@en
+P2207	133	'Spotify track ID'@en
+P1705	133	'native label'@en
+P8313	124	'Den Store Danske ID'@en
+P269	121	'IdRef ID'@en
+P825	118	'dedicated to'@en
+P135	118	'movement'@en
+P856	114	'official website'@en
+P906	113	'SELIBR ID'@en
+P747	109	'has edition or translation'@en
+P9089	107	'Songlexikon ID'@en
+P1343	104	'described by source'@en
+P4342	99	'Store norske leksikon ID'@en
+P1411	99	'nominated for'@en
+P2724	96	'Deezer track ID'@en
+P3192	85	'Last.fm ID'@en
+P949	81	'National Library of Israel ID (old)'@en
+P5008	78	'on focus list of Wikimedia project'@en
+P1725	78	'beats per minute'@en
+P5059	77	'modified version of'@en
+P9899	70	'music created for'@en
+P910	69	'topic\'s main category'@en
+P123	69	'publisher'@en
+P1236	67	'Parsons code'@en
+P973	65	'described at URL'@en
+P941	63	'inspired by'@en
+P358	63	'discography'@en
+P2408	63	'set in period'@en
+P58	62	'screenwriter'@en
+P5915	61	'Shazam track ID'@en
+P8392	60	'Rate Your Music release ID'@en
+P3040	60	'SoundCloud ID'@en
+P3132	59	'last line'@en
+P3219	58	'Encyclopædia Universalis ID'@en
+P179	56	'part of the series'@en
+P1729	56	'AllMusic album ID'@en
+P5197	52	'Melon song ID'@en
+P2754	51	'production date'@en
+P2000	51	'CPDL ID'@en
+P9215	50	'set during recurring event'@en
+P1809	50	'choreographer'@en
+P2206	49	'Discogs release ID'@en
+P1695	49	'NLP ID (old)'@en
+P5202	48	'adapted by'@en
+P9984	44	'CANTIC ID'@en
+P483	43	'recorded at studio or venue'@en
+P1273	42	'CANTIC ID (old)'@en
+P8179	40	'Canadiana Name Authority ID'@en
+P641	40	'sport'@en
+P2561	40	'name'@en
+P154	40	'logo image'@en
+P1638	39	'working title'@en
+P1296	39	'Gran Enciclopèdia Catalana ID'@en
+P170	37	'creator'@en
+P7067	36	'Album of the Year album ID'@en
+P243	36	'OCLC control number'@en
+P6802	35	'related image'@en
+P9133	34	'AZLyrics.com song ID'@en
+P195	34	'collection'@en
+P953	33	'full work available at URL'@en
+P7293	33	'PLWABN ID'@en
+P793	30	'significant event'@en
+P3030	30	'sheet music'@en
+P1580	30	'University of Barcelona authority ID (obsolete)'@en
+P8411	29	'set in environment'@en
+P6679	29	'Encyklopedia Teatru Polskiego play ID'@en
+P6181	29	'Disney A to Z ID'@en
+P6439	28	'has lyrics'@en
+P2670	28	'instance has part(s) of the class'@en
+P989	27	'spoken text audio'@en
+P7818	27	'French Vikidia ID'@en
+P4839	27	'Wolfram Language entity code'@en
+P1680	27	'subtitle'@en
+P935	26	'Commons gallery'@en
+P1449	26	'nickname'@en
+P88	25	'commissioned by'@en
+P5833	25	'Playbill production ID'@en
+P345	25	'IMDb ID'@en
+P7166	24	'Acharts.co song ID'@en
+P691	24	'NKCR AUT ID'@en
+P4035	24	'Shironet song ID'@en
+P1670	24	'Canadiana Authorities ID (former scheme)'@en
+P8345	23	'media franchise'@en
+P6760	23	'Know Your Meme ID'@en
+P406	23	'soundtrack release'@en
+P1344	23	'participant in'@en
+P9182	22	'uta-net.com song ID'@en
+P3929	22	'V&A item ID'@en
+P291	22	'place of publication'@en
+P57	21	'director'@en
+P180	21	'depicts'@en
+P2014	20	'Museum of Modern Art work ID'@en
+P1814	20	'name in kana'@en
+P6348	19	'Hymnary text ID'@en
+P6080	19	'Discogs composition ID'@en
+P1877	19	'after a work by'@en
+P364	18	'original language of film or TV show'@en
+P2291	18	'charted in'@en
+P6706	17	'De Agostini ID'@en
+P6058	17	'Larousse ID'@en
+P4404	17	'MusicBrainz recording ID'@en
+P3996	17	'Bait La Zemer Ha-Ivri song ID'@en
+P655	16	'translator'@en
+P585	16	'point in time'@en
+P161	16	'cast member'@en
+P1243	16	'ISRC'@en
+P460	15	'said to be the same as'@en
+P9290	14	'TikTok music ID'@en
+P737	14	'influenced by'@en
+P3222	14	'NE.se ID'@en
+P1558	14	'tempo marking'@en
+P9745	13	'translation of'@en
+P5395	13	'Canadian Encyclopedia article ID'@en
+P7956	12	'SESAC work number'@en
+P5019	12	'Brockhaus Enzyklopädie online ID'@en
+P3931	12	'copyright holder'@en
+P3569	12	'Cultureel Woordenboek ID'@en
+P3241	12	'Catholic Encyclopedia ID'@en
+P2603	12	'Kinopoisk film ID'@en
+P767	11	'contributor to the creative work or subject'@en
+P1001	11	'applies to jurisdiction'@en
+P8687	10	'social media followers'@en
+P8419	10	'Archive of Our Own tag'@en
+P6839	10	'TV Tropes identifier'@en
+P5302	10	'BRAHMS work ID'@en
+P2819	10	'Yandex Music release ID'@en
+P2205	10	'Spotify album ID'@en
+P2002	10	'Twitter username'@en
+P1617	10	'BBC Things ID'@en
+P10	10	'video'@en
+P5063	9	'Interlingual Index ID'@en
+P4072	9	'Zemereshet song ID'@en
+P272	9	'production company'@en
+P2163	9	'FAST ID'@en
+P2093	9	'author name string'@en
+P1292	9	'DNB editions'@en
+P996	8	'document file on Wikimedia Commons'@en
+P485	8	'archives at'@en
+P366	8	'has use'@en
+P3553	8	'Zhihu topic ID'@en
+P3440	8	'time signature'@en
+P2924	8	'Great Russian Encyclopedia Online ID'@en
+P276	8	'location'@en
+P2013	8	'Facebook ID'@en
+P1441	8	'present in work'@en
+P8814	7	'WordNet 3.1 Synset ID'@en
+P7487	7	'Kinematoscope literary work ID'@en
+P724	7	'Internet Archive ID'@en
+P6686	7	'musical motif'@en
+P6412	7	'Gran Enciclopèdia de la Música ID'@en
+P6166	7	'quotes work'@en
+P443	7	'pronunciation audio'@en
+P4097	7	'MuseScore ID'@en
+P2515	7	'costume designer'@en
+P1953	7	'Discogs artist ID'@en
+P1365	7	'replaces'@en
+P8524	6	'Offizielle Deutsche Charts song ID'@en
+P7955	6	'Global Music Rights work ID'@en
+P6517	6	'WhoSampled artist ID'@en
+P5986	6	'Getty Iconography Authority ID'@en
+P5262	6	'Les Enfoirés song ID'@en
+P4608	6	'scenographer'@en
+P1407	6	'MusicBrainz series ID'@en
+P1366	6	'replaced by'@en
+P8408	5	'KBpedia ID'@en
+P8106	5	'SOCAN work number'@en
+P750	5	'distributed by'@en
+P6718	5	'music video'@en
+P6366	5	'Microsoft Academic ID'@en
+P625	5	'coordinate location'@en
+P5707	5	'samples from work'@en
+P5235	5	'Cité de la Musique-Philharmonie de Paris work ID'@en
+P5027	5	'number of representations'@en
+P3300	5	'musical conductor'@en
+P2540	5	'Aarne–Thompson–Uther Tale Type Index'@en
+P2522	5	'victory'@en
+P2281	5	'Apple Music album ID (U.S. version)'@en
+P1535	5	'used by'@en
+P1434	5	'takes place in fictional universe'@en
+P1274	5	'ISFDB title ID'@en
+P1071	5	'location of creation'@en
+P9965	4	'Musik-Sammler.de artist ID'@en
+P9629	4	'Armeniapedia ID'@en
+P9469	4	'Singers.com ID'@en
+P8549	4	'Opera Online work ID'@en
+P8432	4	'Österreichisches Musiklexikon Online ID'@en
+P7829	4	'English Vikidia ID'@en
+P7081	4	'quotation or excerpt'@en
+P4947	4	'TMDb movie ID'@en
+P3893	4	'public domain date'@en
+P3794	4	'Dictionary of Sydney ID'@en
+P3280	4	'BAnQ author ID'@en
+P10335	4	'doollee.com play ID'@en
+P9545	3	'Encyclopedia of China Online Database ID (Second Edition)'@en
+P8371	3	'references work, tradition or theory'@en
+P8201	3	'ACUM work ID'@en
+P7982	3	'Hrvatska enciklopedija ID'@en
+P7859	3	'WorldCat Identities ID'@en
+P7704	3	'Europeana entity'@en
+P6883	3	'LilyPond notation'@en
+P6742	3	'Musixmatch track ID'@en
+P658	3	'tracklist'@en
+P648	3	'Open Library ID'@en
+P508	3	'BNCF Thesaurus ID'@en
+P5047	3	'Rosetta Code ID'@en
+P4932	3	'Todotango.com work ID'@en
+P4013	3	'Giphy username'@en
+P3827	3	'JSTOR topic ID'@en
+P3365	3	'Treccani ID'@en
+P3352	3	'musipedia tune ID'@en
+P2596	3	'culture'@en
+P2529	3	'ČSFD film ID'@en
+P2397	3	'YouTube channel ID'@en
+P2336	3	'Swedish Film Database soundtrack ID'@en
+P2279	3	'ambitus'@en
+P1545	3	'series ordinal'@en
+P131	3	'located in the administrative territorial entity'@en
+P1269	3	'facet of'@en
+P8885	2	'Namuwiki ID'@en
+P854	2	'reference URL'@en
+P828	2	'has cause'@en
+P7305	2	'Online PWN Encyclopedia ID'@en
+P710	2	'participant'@en
+P6900	2	'NicoNicoPedia ID'@en
+P6821	2	'Uppsala University Alvin ID'@en
+P6670	2	'musical quotation or excerpt'@en
+P629	2	'edition or translation of'@en
+P6127	2	'Letterboxd film ID'@en
+P6079	2	'Discogs track ID'@en
+P607	2	'conflict'@en
+P5882	2	'Muziekweb performer ID'@en
+P582	2	'end time'@en
+P5813	2	'MusicBrainz release ID'@en
+P580	2	'start time'@en
+P547	2	'commemorates'@en
+P5331	2	'OCLC work ID'@en
+P5123	2	'Swedish Literature Bank edition'@en
+P4983	2	'TMDb TV series ID'@en
+P4854	2	'Uppslagsverket Finland ID'@en
+P462	2	'color'@en
+P4529	2	'Douban film ID'@en
+P4457	2	'DAHR artist ID'@en
+P4077	2	'Pizmonet ID'@en
+P4073	2	'Fandom wiki ID'@en
+P4071	2	'Zemereshet artist ID'@en
+P3259	2	'intangible cultural heritage status'@en
+P3194	2	'INA video ID'@en
+P2888	2	'exact match'@en
+P2723	2	'Deezer album ID'@en
+P2554	2	'production designer'@en
+P2441	2	'literal translation'@en
+P2354	2	'has list'@en
+P217	2	'inventory number'@en
+P2003	2	'Instagram username'@en
+P2001	2	'Revised Romanization'@en
+P1942	2	'McCune-Reischauer romanization'@en
+P1844	2	'HathiTrust ID'@en
+P1823	2	'BAnQ work ID'@en
+P1813	2	'short name'@en
+P1801	2	'commemorative plaque image'@en
+P1766	2	'place name sign'@en
+P1303	2	'instrument'@en
+P1256	2	'Iconclass notation'@en
+P1225	2	'U.S. National Archives Identifier'@en
+P1218	2	'Internet Broadway Database production ID'@en
+P1142	2	'political ideology'@en
+P110	2	'illustrator'@en
+P106	2	'occupation'@en
+P998	1	'Curlie ID'@en
+P958	1	'section, verse, paragraph, or clause'@en
+P957	1	'ISBN-10'@en
+P942	1	'theme music'@en
+P9365	1	'Modernist Commons ID'@en
+P9287	1	'Cyprus Bibliography ID'@en
+P9281	1	'Encyclopedia of Greater Philadelphia ID'@en
+P9116	1	'Musica Brasilis score ID'@en
+P902	1	'HDS ID'@en
+P898	1	'IPA transcription'@en
+P8669	1	'Encyclopaedia Beliana ID'@en
+P8665	1	'Présence Compositrices work ID'@en
+P8591	1	'Grove Music Online ID'@en
+P859	1	'sponsor'@en
+P8290	1	'Archivio Storico Ricordi person ID'@en
+P8236	1	'LiederNet song cycle ID'@en
+P8156	1	'NKAA ID'@en
+P7822	1	'Italian Vikidia ID'@en
+P7816	1	'textove.com song ID'@en
+P7775	1	'RationalWiki ID'@en
+P7772	1	'Atlas Obscura identifier'@en
+P7723	1	'The Encyclopedia of Oklahoma History and Culture ID'@en
+P7502	1	'Golden ID'@en
+P7439	1	'FantLab work ID'@en
+P7398	1	'Internet Off-Broadway Database production ID'@en
+P7357	1	'Diccionari de la Literatura Catalana ID'@en
+P735	1	'given name'@en
+P734	1	'family name'@en
+P7334	1	'Vudu video ID'@en
+P7194	1	'AZLyrics.com artist ID'@en
+P7161	1	'Kinsky–Halm Catalogue'@en
+P7140	1	'München Wiki article ID'@en
+P7085	1	'TikTok username'@en
+P7055	1	'Jaxsta release ID'@en
+P7042	1	'The Latin Library author ID'@en
+P7039	1	'National Library of Iceland ID'@en
+P7033	1	'Australian Educational Vocabulary ID'@en
+P7024	1	'Flemish Public Libraries ID'@en
+P6868	1	'Hoopla artist ID'@en
+P669	1	'located on street'@en
+P6520	1	'Lokalhistoriewiki.no ID'@en
+P6431	1	'Hymnary tune ID'@en
+P6385	1	'Krugosvet article'@en
+P6375	1	'street address'@en
+P6359	1	'Crew United title ID'@en
+P6291	1	'advertises'@en
+P6217	1	'Genius album ID'@en
+P6175	1	'Bitraga work ID'@en
+P6145	1	'Academy Awards Database film ID'@en
+P6122	1	'MusicNotes song ID'@en
+P6116	1	'chord progression'@en
+P6111	1	'MusicNotes product ID'@en
+P6110	1	'AllMusic release ID'@en
+P6104	1	'maintained by WikiProject'@en
+P5844	1	'Treccani Vocabulary ID'@en
+P5749	1	'Amazon Standard Identification Number'@en
+P5737	1	'Chinese Moegirlpedia ID'@en
+P570	1	'date of death'@en
+P5587	1	'Libris-URI'@en
+P5504	1	'RISM ID'@en
+P5495	1	'Mormon Literature and Creative Arts Database Works ID'@en
+P5357	1	'The Encyclopedia of Science Fiction ID'@en
+P5337	1	'Google News topics ID'@en
+P5160	1	'Thesaurus for Graphic Materials ID'@en
+P5072	1	'presented in'@en
+P5017	1	'last update'@en
+P5002	1	'Orthodox Encyclopedia ID'@en
+P4953	1	'Library of Congress Genre/Form Terms ID'@en
+P4903	1	'New Georgia Encyclopedia ID'@en
+P487	1	'Unicode character'@en
+P478	1	'volume'@en
+P4746	1	'Elhuyar ZTH ID'@en
+P4607	1	'Swedish Musical Heritage ID'@en
+P4578	1	'Tidal track ID'@en
+P4549	1	'ARLIMA ID'@en
+P449	1	'original broadcaster'@en
+P444	1	'review score'@en
+P4431	1	'Google Doodle'@en
+P4215	1	'nLab ID'@en
+P4104	1	'Carnegie Hall agent ID'@en
+P3984	1	'subreddit'@en
+P3838	1	'Tab4u song ID'@en
+P349	1	'National Diet Library ID'@en
+P3483	1	'VGMdb album ID'@en
+P3430	1	'SNAC ARK ID'@en
+P3383	1	'film poster'@en
+P3368	1	'Prabook ID'@en
+P3174	1	'art director'@en
+P3155	1	'Runeberg book ID'@en
+P304	1	'page(s)'@en
+P2977	1	'LBT person ID'@en
+P2959	1	'permanent duplicated item'@en
+P2868	1	'subject has role'@en
+P2847	1	'Google+ ID'@en
+P2704	1	'EIDR content ID'@en
+P27	1	'country of citizenship'@en
+P2675	1	'reply to'@en
+P2664	1	'units sold'@en
+P2572	1	'hashtag'@en
+P2551	1	'used metre'@en
+P2550	1	'recording or performance of'@en
+P242	1	'locator map image'@en
+P2401	1	'Six Degrees of Francis Bacon ID'@en
+P2373	1	'Genius artist ID'@en
+P2364	1	'production code'@en
+P2345	1	'AGORHA event identifier'@en
+P2344	1	'AGORHA work ID'@en
+P2341	1	'indigenous to'@en
+P2283	1	'uses'@en
+P2184	1	'history of topic'@en
+P212	1	'ISBN-13'@en
+P21	1	'sex or gender'@en
+P2049	1	'width'@en
+P2048	1	'height'@en
+P1902	1	'Spotify artist ID'@en
+P186	1	'made from material'@en
+P1728	1	'AllMusic artist ID'@en
+P1619	1	'date of official opening'@en
+P159	1	'headquarters location'@en
+P1566	1	'GeoNames ID'@en
+P1559	1	'name in native language'@en
+P1557	1	'manifestation of'@en
+P1448	1	'official name'@en
+P1435	1	'heritage designation'@en
+P1424	1	'topic\'s main template'@en
+P1415	1	'Oxford Dictionary of National Biography ID'@en
+P140	1	'religion or worldview'@en
+P1368	1	'LNB ID'@en
+P1362	1	'Theaterlexikon der Schweiz ID'@en
+P1353	1	'original spelling'@en
+P1327	1	'partner in business or sport'@en
+P1325	1	'external data available at'@en
+P1316	1	'Swedish Media Database ID'@en
+P1315	1	'NLA Trove people ID'@en
+P1259	1	'coordinates of the point of view'@en
+P1220	1	'Internet Broadway Database person ID'@en
+P1207	1	'NUKAT ID'@en
+P1144	1	'Library of Congress Control Number (LCCN) (bibliographic)'@en
+P1113	1	'number of episodes'@en
+P1104	1	'number of pages'@en
+P10291	1	'Wikisimpsons ID'@en
+P1025	1	'SUDOC editions'@en
+P10187	1	'JSTOR artwork ID'@en
+P10175	1	'Digital Index of Middle English Verse ID'@en
+P1015	1	'NORAF ID'@en
+P10136	1	'Pandora track ID'@en

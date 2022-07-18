@@ -1,0 +1,64 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q5	P5882	external-id	26005.0	'human'@en	'Muziekweb performer ID'@en	
+Q5	P3368	external-id	15231.0	'human'@en	'Prabook ID'@en	
+Q5	P106	Q12737077	55840.0	'human'@en	'occupation'@en	'occupation'@en
+Q5	P106	Q66715801	53274.0	'human'@en	'occupation'@en	'musical profession'@en
+Q5	P106	Q28640	31988.0	'human'@en	'occupation'@en	'profession'@en
+Q5	P69	Q3918	6147.0	'human'@en	'educated at'@en	'university'@en
+Q5	P69	Q184644	5252.0	'human'@en	'educated at'@en	'conservatory'@en
+Q5	P69	Q23002054	4744.0	'human'@en	'educated at'@en	'private not-for-profit educational institution'@en
+Q5	P69	Q9826	4154.0	'human'@en	'educated at'@en	'high school'@en
+Q5	P3430	external-id	12311.0	'human'@en	'SNAC ARK ID'@en	
+Q5	P20	Q1549591	7913.0	'human'@en	'place of death'@en	'big city'@en
+Q5	P20	Q515	5486.0	'human'@en	'place of death'@en	'city'@en
+Q5	P20	Q1093829	4249.0	'human'@en	'place of death'@en	'city of the United States'@en
+Q5	P20	Q1637706	4190.0	'human'@en	'place of death'@en	'million city'@en
+Q5	P2163	external-id	15072.0	'human'@en	'FAST ID'@en	
+Q5	P21	Q48264	63581.0	'human'@en	'sex or gender'@en	'gender identity'@en
+Q5	P21	Q4369513	63516.0	'human'@en	'sex or gender'@en	'sex of humans'@en
+Q5	P1953	external-id	41729.0	'human'@en	'Discogs artist ID'@en	
+Q5	P856	url	18946.0	'human'@en	'official website'@en	
+Q5	P269	external-id	13245.0	'human'@en	'IdRef ID'@en	
+Q5	P2013	external-id	10658.0	'human'@en	'Facebook ID'@en	
+Q5	P569	time	58759.0	'human'@en	'date of birth'@en	
+Q5	P1343	Q12038942	6360.0	'human'@en	'described by source'@en	'multimedia database'@en
+Q5	P1343	Q186165	6360.0	'human'@en	'described by source'@en	'web portal'@en
+Q5	P734	Q101352	40483.0	'human'@en	'family name'@en	'family name'@en
+Q5	P136	Q188451	31935.0	'human'@en	'genre'@en	'music genre'@en
+Q5	P345	external-id	25361.0	'human'@en	'IMDb ID'@en	
+Q5	P18	commonsMedia	31658.0	'human'@en	'image'@en	
+Q5	P735	Q12308941	40807.0	'human'@en	'given name'@en	'male given name'@en
+Q5	P7293	external-id	12097.0	'human'@en	'PLWABN ID'@en	
+Q5	P691	external-id	14414.0	'human'@en	'NKCR AUT ID'@en	
+Q5	P2031	time	27375.0	'human'@en	'work period (start)'@en	
+Q5	P950	external-id	10610.0	'human'@en	'Biblioteca Nacional de España ID'@en	
+Q5	P4985	external-id	11709.0	'human'@en	'TMDb person ID'@en	
+Q5	P1728	external-id	22089.0	'human'@en	'AllMusic artist ID'@en	
+Q5	P1006	external-id	13094.0	'human'@en	'Nationale Thesaurus voor Auteurs ID'@en	
+Q5	P7704	external-id	48393.0	'human'@en	'Europeana entity'@en	
+Q5	P1207	external-id	10296.0	'human'@en	'NUKAT ID'@en	
+Q5	P7859	external-id	42115.0	'human'@en	'WorldCat Identities ID'@en	
+Q5	P264	Q18127	15895.0	'human'@en	'record label'@en	'record label'@en
+Q5	P5404	external-id	12649.0	'human'@en	'Rate Your Music artist ID'@en	
+Q5	P646	external-id	62770.0	'human'@en	'Freebase ID'@en	
+Q5	P570	time	22719.0	'human'@en	'date of death'@en	
+Q5	P1303	Q110295396	10586.0	'human'@en	'instrument'@en	'type of musical instrument'@en
+Q5	P268	external-id	23511.0	'human'@en	'Bibliothèque nationale de France ID'@en	
+Q5	P1559	monolingualtext	9634.0	'human'@en	'name in native language'@en	
+Q5	P213	external-id	36169.0	'human'@en	'ISNI'@en	
+Q5	P434	external-id	44848.0	'human'@en	'MusicBrainz artist ID'@en	
+Q5	P373	string	20006.0	'human'@en	'Commons category'@en	
+Q5	P1412	Q34770	29096.0	'human'@en	'languages spoken, written or signed'@en	'language'@en
+Q5	P1412	Q1288568	29054.0	'human'@en	'languages spoken, written or signed'@en	'modern language'@en
+Q5	P1412	Q33742	20335.0	'human'@en	'languages spoken, written or signed'@en	'natural language'@en
+Q5	P227	external-id	24664.0	'human'@en	'GND ID'@en	
+Q5	P27	Q3624078	59718.0	'human'@en	'country of citizenship'@en	'sovereign state'@en
+Q5	P27	Q6256	58701.0	'human'@en	'country of citizenship'@en	'country'@en
+Q5	P2002	external-id	10330.0	'human'@en	'Twitter username'@en	
+Q5	P3478	external-id	17774.0	'human'@en	'Songkick artist ID'@en	
+Q5	P244	external-id	35507.0	'human'@en	'Library of Congress authority ID'@en	
+Q5	P1902	external-id	9940.0	'human'@en	'Spotify artist ID'@en	
+Q5	P214	external-id	43534.0	'human'@en	'VIAF ID'@en	
+Q5	P19	Q1549591	20850.0	'human'@en	'place of birth'@en	'big city'@en
+Q5	P19	Q515	13865.0	'human'@en	'place of birth'@en	'city'@en
+Q5	P19	Q1093829	11007.0	'human'@en	'place of birth'@en	'city of the United States'@en

@@ -1,0 +1,15 @@
+property	count	property;label
+P175	61772	'performer'@en
+P577	60742	'publication date'@en
+P646	59784	'Freebase ID'@en
+P136	54621	'genre'@en
+P264	49054	'record label'@en
+P436	49051	'MusicBrainz release group ID'@en
+P156	44289	'followed by'@en
+P155	43320	'follows'@en
+P1954	38308	'Discogs master ID'@en
+P7937	19772	'form of creative work'@en
+P162	18362	'producer'@en
+P407	17572	'language of work or name'@en
+P1729	13609	'AllMusic album ID'@en
+P437	11735	'distribution format'@en

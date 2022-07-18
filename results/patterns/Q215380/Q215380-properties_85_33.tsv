@@ -1,0 +1,34 @@
+property	count	property;label
+P646	22423	'Freebase ID'@en
+P495	21810	'country of origin'@en
+P136	21011	'genre'@en
+P434	20969	'MusicBrainz artist ID'@en
+P1953	20408	'Discogs artist ID'@en
+P2031	19714	'work period (start)'@en
+P571	16928	'inception'@en
+P3478	15784	'Songkick artist ID'@en
+P214	13658	'VIAF ID'@en
+P213	13199	'ISNI'@en
+P856	13183	'official website'@en
+P7859	13010	'WorldCat Identities ID'@en
+P740	12850	'location of formation'@en
+P264	12466	'record label'@en
+P5882	12141	'Muziekweb performer ID'@en
+P1728	10512	'AllMusic artist ID'@en
+P2013	9725	'Facebook ID'@en
+P18	9650	'image'@en
+P5404	9392	'Rate Your Music artist ID'@en
+P3265	9057	'Myspace ID'@en
+P527	8221	'has part or parts'@en
+P244	8184	'Library of Congress authority ID'@en
+P3192	6993	'Last.fm ID'@en
+P1902	6559	'Spotify artist ID'@en
+P2002	6378	'Twitter username'@en
+P4208	6271	'Billboard artist ID'@en
+P7212	5549	'LyricsTranslate ID'@en
+P373	5204	'Commons category'@en
+P2722	4856	'Deezer artist ID'@en
+P8687	4487	'social media followers'@en
+P7109	3881	'Acharts.co artist ID'@en
+P268	3651	'Bibliothèque nationale de France ID'@en
+P227	3474	'GND ID'@en

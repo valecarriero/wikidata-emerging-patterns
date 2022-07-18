@@ -1,0 +1,49 @@
+property	count	property;label
+P21	63583	'sex or gender'@en
+P106	62955	'occupation'@en
+P646	62779	'Freebase ID'@en
+P27	60783	'country of citizenship'@en
+P569	58759	'date of birth'@en
+P735	55607	'given name'@en
+P7704	48393	'Europeana entity'@en
+P19	48202	'place of birth'@en
+P434	44848	'MusicBrainz artist ID'@en
+P214	43535	'VIAF ID'@en
+P7859	42115	'WorldCat Identities ID'@en
+P1953	41729	'Discogs artist ID'@en
+P734	40586	'family name'@en
+P1303	40291	'instrument'@en
+P213	36169	'ISNI'@en
+P244	35513	'Library of Congress authority ID'@en
+P136	32289	'genre'@en
+P18	31663	'image'@en
+P1412	29275	'languages spoken, written or signed'@en
+P2031	27375	'work period (start)'@en
+P5882	26005	'Muziekweb performer ID'@en
+P345	25361	'IMDb ID'@en
+P227	24666	'GND ID'@en
+P268	23514	'Bibliothèque nationale de France ID'@en
+P570	22719	'date of death'@en
+P1728	22089	'AllMusic artist ID'@en
+P69	20612	'educated at'@en
+P373	20015	'Commons category'@en
+P856	18947	'official website'@en
+P3478	17774	'Songkick artist ID'@en
+P20	16764	'place of death'@en
+P264	16694	'record label'@en
+P3368	15231	'Prabook ID'@en
+P2163	15074	'FAST ID'@en
+P691	14414	'NKCR AUT ID'@en
+P269	13245	'IdRef ID'@en
+P1006	13094	'Nationale Thesaurus voor Auteurs ID'@en
+P5404	12649	'Rate Your Music artist ID'@en
+P3430	12311	'SNAC ARK ID'@en
+P7293	12097	'PLWABN ID'@en
+P4985	11709	'TMDb person ID'@en
+P2013	10658	'Facebook ID'@en
+P950	10610	'Biblioteca Nacional de España ID'@en
+P2002	10330	'Twitter username'@en
+P1207	10296	'NUKAT ID'@en
+P1902	9940	'Spotify artist ID'@en
+P1559	9635	'name in native language'@en
+P1343	9543	'described by source'@en
