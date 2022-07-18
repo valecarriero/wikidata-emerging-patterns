@@ -14,4 +14,4 @@ The folder `patterns` contains the actual results of the patterns extraction met
 
 Here's an example of a pattern extracted from the Wikidata subgraph on music, corresponding to the `Q482994/Q482994-dr-pairs-frequent-properties_85_50_18.tsv` file
 
-<img src="https://user-images.githubusercontent.com/36740200/179528783-239fc2de-3de1-4fb1-a5e9-a5791b25fb5b.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/36740200/179528783-239fc2de-3de1-4fb1-a5e9-a5791b25fb5b.png" width=70% height=70%>
