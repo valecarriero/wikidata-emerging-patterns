@@ -12,3 +12,6 @@ The folder `patterns` contains the actual results of the patterns extraction met
 - the file `[CLASS]-dr-pairs-frequent-properties_85.tsv` contains all the triplets (domain, property, range) involving the most frequent properties and instantiated in the subgraph, with their number of occurrences
 - the file `[CLASS]-dr-pairs-frequent-properties_85_50_[NUMBER-OF-TRIPLETS].tsv` contains the triplets that have been selected based on the 0.50 threshold, with their number of occurrences
 
+Here's an example of a pattern extracted from the Wikidata subgraph on music, corresponding to the `Q482994/Q482994-dr-pairs-frequent-properties_85_50_18.tsv` file
+
+<img src="https://user-images.githubusercontent.com/36740200/179528783-239fc2de-3de1-4fb1-a5e9-a5791b25fb5b.png" width=50% height=50%>
