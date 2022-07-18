@@ -18,4 +18,10 @@ while the second most frequent triplet including this property is
 ```
 with 25,521 number of occurrences (out of a total of 63,213 instances of album).
 
+Here's an example of a pattern extracted from the Wikidata subgraph on music, using specific thresholds (0.85 for properties, 0.5 for ranges).
+
+
+<img src="https://user-images.githubusercontent.com/36740200/179528783-239fc2de-3de1-4fb1-a5e9-a5791b25fb5b.png" width=50% height=50%>
+
+
 
