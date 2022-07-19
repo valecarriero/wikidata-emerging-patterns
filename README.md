@@ -1,4 +1,4 @@
-# Wikidata Music Statistical Patterns
+# Wikidata Emerging Ontology Design Patterns
 This repository contains the code for extracting statistical patterns from a subgraph of Wikidata and the results of the experiments focusing on a subgraph about the music domain.
 
 These patterns are expressed in the form `< domain, property, range >` triplets, where `domain` is the type (`wdt:P31`) of the subject and `range` is either the type of the object (when the object is a `wikibase-item`) or the wikidata `data type`.
