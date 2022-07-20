@@ -1,3 +1,0 @@
-#! /bin/bash
-$kypher -i /Users/vale/Documents/PhD/Music_WIKIDATA/wikidata-20220404/final/claims.sorted.music.cleaned.tsv.gz -o output/all_subgraphs/Q5.tsv.gz --match '(n2 {wikidatatype: type})<-[l {label: property}]-(n1)-[:P31]->(:Q5)' --return 'l as id, n1 as node1, property as label, n2 as node2, type'
-$kypher -i /Users/vale/Documents/PhD/Music_WIKIDATA/wikidata-20220404/final/claims.sorted.music.cleaned.tsv.gz -o output/all_subgraphs/Q482994.tsv.gz --match '(n2 {wikidatatype: type})<-[l {label: property}]-(n1)-[:P31]->(:Q482994)' --return 'l as id, n1 as node1, property as label, n2 as node2, type'
