@@ -1,5 +1,10 @@
 # Results on the portion of Wikidata addressing the music domain
 
+## Input
+< link to all KGTK files given as input >
+
+## Output
+
 The `classes.tsv` file contains all the classes that have instances in the input domain subgraph on music, with their number of instances.
 
 The `classes_95_7.tsv` file contains the 7 classes that have been selected based on the 0.95 threshold, with their number of instances.
