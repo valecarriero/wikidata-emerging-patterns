@@ -50,15 +50,12 @@ for FILE in *.gz
 		mkdir $TEMP_FOLDER
 
 		### partial file without datatype ranges
-		#wrong $kypher -i $FILE --as DKG -i $ALLEDGES --as ALL -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
 		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
 		
 		### node file with all ranges (both entities and datatypes)
-		#wrong $kypher -i DKG -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
 		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
 
 		### node file with only ranges with :P31
-		#wrong $kypher -i DKG -i ALL -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
 		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
 
 		### filter the first file with the second one -> obtain a node file with only datatypes
@@ -74,7 +71,6 @@ for FILE in *.gz
 
 
 		### partial file with only datatype ranges
-		#wrong $kypher -i ../patterns/$CLASS/$CLASS-subgraph-onlydatatype.tsv.gz --as SUBDKG -i DKG -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match 'SUBDKG: (s)-[p]->(o {wikidatatype: type}), DKG: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
 		$kypher -i $ONLYDATATYPESUBGRAPH -i $FILE -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match '(s)-[p]->(o {wikidatatype: type}), z: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
 
 		python -W ignore $CODE_DIRECTORY/merge_nodatatype_yesdatatype.py --nodp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --yesdp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --output_file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
