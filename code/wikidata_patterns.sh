@@ -4,12 +4,17 @@ read -p "Enter the absolute path of the folder where you want to store the resul
 read -p "Enter the absolute path of the KGTK tsv edgefile of your domain KG: " EDGEFILE
 read -p "Enter the absolute path of the KGTK tsv nodefile / labelfile of your domain KG: " NODEFILE
 read -p "Enter the absolute path of the KGTK tsv edgefile containing P279star triples: " P279STARFILE
+read -p "Enter the absolute path of the KGTK tsv edgefile containing all type P31 assertions (including the objects in your domain KG): " ALLEDGES
+read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common classes. 0 means that only the most common class will be selected, 1 that all classes will be selected: " K
+read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
+read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K3
+
 mkdir $OUTPUTPATH/output
 export kypher="kgtk --debug query"
 ### I generate a file that counts all instances of all classes: output tsv file
 $kypher -i $EDGEFILE -o $OUTPUTPATH/output/classes.tsv --match  '(instance)-[:P31]->(class)' --return 'class as class, count(distinct instance) as count' --order-by 'count desc'
 kgtk add-labels --input-file $OUTPUTPATH/output/classes.tsv --label-file $NODEFILE --output-file $OUTPUTPATH/output/classes.tsv
-read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common classes. 0 means that only the most common class will be selected, 1 that all classes will be selected: " K
+
 CLASSES_TSV=$(python -W ignore return_filtered_distribution.py --input_file $OUTPUTPATH/output/classes.tsv --k_value $K --output_folder $OUTPUTPATH/output)
 echo "the file with the most populated classes based on the threshold has been created:"
 echo $CLASSES_TSV
@@ -22,24 +27,28 @@ chmod +x subgraphs_KGTKcommands.sh
 ./subgraphs_KGTKcommands.sh
 
 mkdir $OUTPUTPATH/output/patterns
+
 cd $SUBGRAPHS_FOLDER
 ### generate a file with all properties for each selected class
 for FILE in *.gz
 	do
 		CLASS=$(echo $FILE | cut -d'.' -f 1)
 		mkdir ../patterns/$CLASS
-		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-properties.tsv --match '(instance)-[p]->()' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct p.label as property, count(distinct instance) as count' --order-by 'count desc'
+		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-properties.tsv --match '(class)<-[:P31]-(instance)-[p]->()' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct p.label as property, count(distinct instance) as count' --order-by 'count desc'
 		kgtk add-labels --input-file ../patterns/$CLASS/$CLASS-properties.tsv --label-file $NODEFILE --output-file ../patterns/$CLASS/$CLASS-properties.tsv
 done
 
-read -p "Enter the absolute path of the KGTK tsv edgefile containing all triples (e.g. including type assertions of objects in your domain KG). Can be also the same as the previous edgefile: " ALLEDGES
-
 ### generate a file with domain and ranges pairs
-COUNTER=1
+#COUNTER=1
 QUOTE=\'
 for FILE in *.gz
 	do
 		CLASS=$(echo $FILE | cut -d'.' -f 1)
+		echo $CLASS
+
+		TEMP_FOLDER=$OUTPUTPATH/output/patterns/$CLASS/temp
+		mkdir $TEMP_FOLDER
+
 		### partial file without datatype ranges
 		#wrong $kypher -i $FILE --as DKG -i $ALLEDGES --as ALL -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match 'DKG: (domain)<-[:P31]-(s)-[p]->(o), ALL: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
 		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
@@ -70,11 +79,19 @@ for FILE in *.gz
 
 		python -W ignore $CODE_DIRECTORY/merge_nodatatype_yesdatatype.py --nodp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --yesdp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --output_file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
 		kgtk add-labels --input-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv --label-file $NODEFILE --output-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
-		COUNTER=$[$COUNTER +1]
+#		COUNTER=$[$COUNTER +1]
+
+		mv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv $TEMP_FOLDER
+		mv ../patterns/$CLASS/$CLASS-all-ranges.tsv $TEMP_FOLDER
+		mv ../patterns/$CLASS/$CLASS-typed-ranges.tsv $TEMP_FOLDER
+		mv ../patterns/$CLASS/$CLASS-datatype-ranges.tsv $TEMP_FOLDER
+		mv ../patterns/$CLASS/$CLASS-Q-datatype-ranges.tsv $TEMP_FOLDER
+		mv ../patterns/$CLASS/$CLASS-notQ-datatype-ranges.tsv $TEMP_FOLDER
+		mv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv $TEMP_FOLDER
+		mv $ONLYDATATYPESUBGRAPH $TEMP_FOLDER
+
 done
 
-read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
-read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K3
 ### going back to code folder
 cd $CODE_DIRECTORY
 
@@ -84,17 +101,17 @@ for FOLDER in $OUTPUTPATH/output/patterns/*
 		#CLASS=$(echo $FOLDER | cut -d'/' -f 3)
 		CLASS=${FOLDER##*/}
 		echo $CLASS		
-		echo $FOLDER
+		#echo $FOLDER
 		for FILE in $FOLDER/*properties.tsv
 			do
 				#echo $FILE
 	    		PROP_TSV=$(python -W ignore return_filtered_distribution.py --input_file $FILE --k_value $K2 --output_folder $FOLDER)
-	    		echo $PROP_TSV
+	    		#echo $PROP_TSV
 	    		kgtk add-labels --input-file $PROP_TSV --label-file $NODEFILE --output-file $PROP_TSV
 	    		# i filter the dr pairs file with the most common properties
 	    		FILTERED_DR_TSV=$(python -W ignore filter_drpairs_basedon_properties.py --dr_pairs $FOLDER/$CLASS-dr-pairs.tsv --filtered_properties $PROP_TSV --output_folder $FOLDER/$CLASS)
 		    	# i filter the new dr pairs file with the most common ranges
-		    	FILTERED_RANGE_TSV=$(python -W ignore filter_drpairs_basedon_filtered_distribution.py --input_file $FILTERED_DR_TSV --k_value $K3 --output_folder $FOLDER)
+		    	FILTERED_RANGE_TSV=$(python -W ignore filter_drpairs_basedon_filtered_distribution.py --clas $CLASS --input_file $FILTERED_DR_TSV --k_value $K3 --output_folder $FOLDER)
 
 	    done
 done
