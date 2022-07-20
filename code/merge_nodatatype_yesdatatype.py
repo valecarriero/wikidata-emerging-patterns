@@ -15,10 +15,6 @@ def merge_noyes_datatype(nodp_tsv, yesdp_tsv, output_merged_tsv):
 		df = pd.read_csv(f, sep="\t")
 		all_df.append(df)
 
-#	df_from_each_file = (pd.read_csv(f, sep=',') for f in files)
-#	df_merged = pd.concat(df_from_each_file, ignore_index=True)
-	#df_merged.to_csv( "merged.csv")
-
 	merged_df = pd.concat(all_df, ignore_index=True).fillna("-")
 	merged_df.sort_values(by=['property', 'count'], ascending=[False, False])
 
@@ -37,13 +33,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     merge_noyes_datatype(args.nodp_tsv, args.yesdp_tsv, args.output_file)
-
-
-
-# all_df = []
-# for f in all_files:
-#     df = pd.read_csv(f, sep=',')
-#     f['file'] = f.split('/')[-1]
-#     all_df.append(df)
-    
-# merged_df = pd.concat(all_df, ignore_index=True, , sort=True)

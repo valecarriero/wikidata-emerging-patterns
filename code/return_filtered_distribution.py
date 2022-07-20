@@ -34,6 +34,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     return_filtered_distribution(args.input_file, args.k_value, args.output_folder)
-
-#return_filtered_distribution("/Users/vale/Documents/PhD/Music_WIKIDATA/code/output/patterns/Q5/Q5-properties.tsv", 0.8, "/Users/vale/Documents/PhD/Music_WIKIDATA/code/test/")
-#return_filtered_distribution("/Users/vale/Documents/PhD/Music_WIKIDATA/code/output-kgtk-corrupt-dump/classes.tsv", 1, "/Users/vale/Documents/PhD/Music_WIKIDATA/code/test-kgtk-corrupt-dump/max_deviation/")
