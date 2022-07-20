@@ -1,4 +1,4 @@
-# Results
+# Results on the portion of Wikidata addressing the music domain
 
 The `classes.tsv` file contains all the classes that have instances in the input domain subgraph on music, with their number of instances.
 
