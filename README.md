@@ -8,13 +8,13 @@ Each triplet is associated with the number of instances in the Wikidata sub-KG t
 For instance, the most frequent property of the _album_ statistical pattern is `wdt:performer`, and the most frequent triplet including this property is 
 
 ```
-< wd:Q482994,  wdt:P175, wd:Q5 > (<album, perfomer, human >)
+< wd:Q482994,  wdt:P175, wd:Q5 > (< album, perfomer, human >)
 ```
 with 28,193 number of occurrences (out of a total of 63,213 instances of album),
 
 while the second most frequent triplet including this property is
 ```
-< wd:Q482994,  wdt:P175, wd:Q215380 > (<album, perfomer, musical group >)
+< wd:Q482994,  wdt:P175, wd:Q215380 > (< album, perfomer, musical group >)
 ```
 with 25,521 number of occurrences (out of a total of 63,213 instances of album).
 
