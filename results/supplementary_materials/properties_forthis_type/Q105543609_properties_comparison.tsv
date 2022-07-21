@@ -1,0 +1,42 @@
+property	forthistype	pattern	label	count
+P646	no	yes	'Freebase ID'@en	9975.0
+P7937	yes	yes	'form of creative work'@en	9795.0
+P577	yes	yes	'publication date'@en	7549.0
+P175	no	yes	'performer'@en	7091.0
+P435	yes	yes	'MusicBrainz work ID'@en	6153.0
+P136	no	yes	'genre'@en	5884.0
+P86	yes	yes	'composer'@en	5232.0
+P361	no	yes	'part of'@en	4019.0
+P407	yes	no	'language of work or name'@en	3759.0
+P1476	yes	no	'title'@en	3239.0
+P676	yes	no	'lyrics by'@en	3095.0
+P1827	yes	no	'ISWC'@en	2110.0
+P2908	yes	no	'SecondHandSongs work ID'@en	1620.0
+P1994	yes	no	'AllMusic composition ID'@en	1185.0
+P826	yes	no	'tonality'@en	1090.0
+P5229	yes	no	'Carnegie Hall work ID'@en	916.0
+P839	yes	no	'IMSLP ID'@en	884.0
+P6216	yes	no	'copyright status'@en	843.0
+P870	yes	no	'instrumentation'@en	674.0
+P4969	yes	no	'derivative work'@en	386.0
+P4894	yes	no	'ACE Repertory work ID'@en	299.0
+P4860	yes	no	'BMI work ID'@en	285.0
+P2635	yes	no	'number of parts of this work'@en	235.0
+P144	yes	no	'based on'@en	216.0
+P972	yes	no	'catalog'@en	193.0
+P2047	yes	no	'duration'@en	193.0
+P1625	yes	no	'has melody'@en	112.0
+P527	yes	no	'has part or parts'@en	77.0
+P9089	yes	no	'Songlexikon ID'@en	74.0
+P123	yes	no	'publisher'@en	66.0
+P5059	yes	no	'modified version of'@en	63.0
+P1236	yes	no	'Parsons code'@en	52.0
+P5202	yes	no	'adapted by'@en	27.0
+P3030	yes	no	'sheet music'@en	26.0
+P6439	yes	no	'has lyrics'@en	26.0
+P1558	yes	no	'tempo marking'@en	14.0
+P7956	yes	no	'SESAC work number'@en	12.0
+P6686	yes	no	'musical motif'@en	7.0
+P7955	yes	no	'Global Music Rights work ID'@en	5.0
+P767	yes	no	'contributor to the creative work or subject'@en	5.0
+P6670	yes	no	'musical quotation or excerpt'@en	2.0

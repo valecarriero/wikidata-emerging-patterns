@@ -1,0 +1,32 @@
+property	forthistype	pattern	label	count
+P646	no	yes	'Freebase ID'@en	20332.0
+P495	yes	yes	'country of origin'@en	19897.0
+P136	yes	yes	'genre'@en	19202.0
+P434	no	yes	'MusicBrainz artist ID'@en	19005.0
+P1953	no	yes	'Discogs artist ID'@en	18582.0
+P2031	yes	yes	'work period (start)'@en	17936.0
+P571	no	yes	'inception'@en	15245.0
+P3478	no	yes	'Songkick artist ID'@en	14336.0
+P213	no	yes	'ISNI'@en	12377.0
+P214	no	yes	'VIAF ID'@en	12215.0
+P856	yes	yes	'official website'@en	11750.0
+P7859	no	yes	'WorldCat Identities ID'@en	11670.0
+P740	yes	yes	'location of formation'@en	11564.0
+P264	yes	yes	'record label'@en	11094.0
+P5882	no	yes	'Muziekweb performer ID'@en	10905.0
+P1728	no	yes	'AllMusic artist ID'@en	9293.0
+P2013	no	yes	'Facebook ID'@en	8601.0
+P18	yes	yes	'image'@en	8390.0
+P5404	no	yes	'Rate Your Music artist ID'@en	8361.0
+P3265	no	yes	'Myspace ID'@en	8252.0
+P527	yes	no	'has part or parts'@en	6955.0
+P1902	yes	no	'Spotify artist ID'@en	5558.0
+P358	yes	no	'discography'@en	2336.0
+P2850	yes	no	'Apple Music artist ID (U.S. version)'@en	1317.0
+P2561	yes	no	'name'@en	1129.0
+P166	yes	no	'award received'@en	479.0
+P154	yes	no	'logo image'@en	344.0
+P1411	yes	no	'nominated for'@en	228.0
+P1344	yes	no	'participant in'@en	209.0
+P737	yes	no	'influenced by'@en	113.0
+P990	yes	no	-	0.0

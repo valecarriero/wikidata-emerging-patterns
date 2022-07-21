@@ -1,0 +1,26 @@
+property	forthistype	pattern	label	count
+P577	yes	yes	'publication date'@en	20852.0
+P175	yes	yes	'performer'@en	20802.0
+P646	no	yes	'Freebase ID'@en	20183.0
+P264	yes	yes	'record label'@en	19189.0
+P136	no	yes	'genre'@en	19080.0
+P361	no	yes	'part of'@en	17770.0
+P156	no	yes	'followed by'@en	15594.0
+P155	no	yes	'follows'@en	15055.0
+P2624	no	yes	'MetroLyrics ID'@en	8849.0
+P436	yes	no	'MusicBrainz release group ID'@en	7941.0
+P1954	yes	no	'Discogs master ID'@en	7838.0
+P437	yes	no	'distribution format'@en	1970.0
+P1729	yes	no	'AllMusic album ID'@en	348.0
+P2206	yes	no	'Discogs release ID'@en	202.0
+P658	yes	no	'tracklist'@en	158.0
+P291	yes	no	'place of publication'@en	116.0
+P2205	yes	no	'Spotify album ID'@en	47.0
+P2291	yes	no	'charted in'@en	33.0
+P2635	yes	no	'number of parts of this work'@en	24.0
+P2281	yes	no	'Apple Music album ID (U.S. version)'@en	21.0
+P2723	yes	no	'Deezer album ID'@en	11.0
+P585	yes	no	'point in time'@en	6.0
+P4577	yes	no	'Tidal album ID'@en	6.0
+P5813	yes	no	'MusicBrainz release ID'@en	4.0
+P6110	yes	no	'AllMusic release ID'@en	1.0

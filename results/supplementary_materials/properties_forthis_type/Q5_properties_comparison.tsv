@@ -1,0 +1,72 @@
+property	forthistype	pattern	label	count
+P21	yes	yes	'sex or gender'@en	63583.0
+P106	yes	yes	'occupation'@en	62955.0
+P646	no	yes	'Freebase ID'@en	62779.0
+P27	yes	yes	'country of citizenship'@en	60783.0
+P569	yes	yes	'date of birth'@en	58759.0
+P735	yes	yes	'given name'@en	55607.0
+P7704	no	yes	'Europeana entity'@en	48393.0
+P19	yes	yes	'place of birth'@en	48202.0
+P434	no	yes	'MusicBrainz artist ID'@en	44848.0
+P214	no	yes	'VIAF ID'@en	43535.0
+P7859	no	yes	'WorldCat Identities ID'@en	42115.0
+P1953	no	yes	'Discogs artist ID'@en	41729.0
+P734	yes	yes	'family name'@en	40586.0
+P1303	no	yes	'instrument'@en	40291.0
+P213	no	yes	'ISNI'@en	36169.0
+P244	no	yes	'Library of Congress authority ID'@en	35513.0
+P136	no	yes	'genre'@en	32289.0
+P18	yes	yes	'image'@en	31663.0
+P1412	yes	yes	'languages spoken, written or signed'@en	29275.0
+P2031	no	yes	'work period (start)'@en	27375.0
+P5882	no	yes	'Muziekweb performer ID'@en	26005.0
+P345	no	yes	'IMDb ID'@en	25361.0
+P227	no	yes	'GND ID'@en	24666.0
+P268	no	yes	'Bibliothèque nationale de France ID'@en	23514.0
+P570	yes	yes	'date of death'@en	22719.0
+P1728	no	yes	'AllMusic artist ID'@en	22089.0
+P69	no	yes	'educated at'@en	20612.0
+P373	no	yes	'Commons category'@en	20015.0
+P856	no	yes	'official website'@en	18947.0
+P3478	no	yes	'Songkick artist ID'@en	17774.0
+P20	yes	yes	'place of death'@en	16764.0
+P264	no	yes	'record label'@en	16694.0
+P3368	no	yes	'Prabook ID'@en	15231.0
+P2163	no	yes	'FAST ID'@en	15074.0
+P691	no	yes	'NKCR AUT ID'@en	14414.0
+P269	no	yes	'IdRef ID'@en	13245.0
+P1006	no	yes	'Nationale Thesaurus voor Auteurs ID'@en	13094.0
+P1559	yes	no	'name in native language'@en	9635.0
+P463	yes	no	'member of'@en	7124.0
+P1477	yes	no	'birth name'@en	7099.0
+P509	yes	no	'cause of death'@en	5694.0
+P108	yes	no	'employer'@en	5338.0
+P26	yes	no	'spouse'@en	4792.0
+P1196	yes	no	'manner of death'@en	4655.0
+P103	yes	no	'native language'@en	4527.0
+P742	yes	no	'pseudonym'@en	4342.0
+P172	yes	no	'ethnic group'@en	4191.0
+P119	yes	no	'place of burial'@en	3920.0
+P22	yes	no	'father'@en	3259.0
+P40	yes	no	'child'@en	3133.0
+P3373	yes	no	'sibling'@en	2962.0
+P101	yes	no	'field of work'@en	1992.0
+P140	yes	no	'religion or worldview'@en	1931.0
+P551	yes	no	'residence'@en	1858.0
+P25	yes	no	'mother'@en	1631.0
+P937	yes	no	'work location'@en	1605.0
+P39	yes	no	'position held'@en	1589.0
+P102	yes	no	'member of political party'@en	1164.0
+P2048	yes	no	'height'@en	920.0
+P1050	yes	no	'medical condition'@en	813.0
+P451	yes	no	'unmarried partner'@en	668.0
+P1449	yes	no	'nickname'@en	615.0
+P737	yes	no	'influenced by'@en	568.0
+P2067	yes	no	'mass'@en	488.0
+P1576	yes	no	'lifestyle'@en	133.0
+P3342	yes	no	'significant person'@en	86.0
+P1317	yes	no	'floruit'@en	82.0
+P1636	yes	no	'date of baptism in early childhood'@en	79.0
+P1813	yes	no	'short name'@en	42.0
+P4602	yes	no	'date of burial or cremation'@en	40.0
+P8258	yes	no	-	0.0

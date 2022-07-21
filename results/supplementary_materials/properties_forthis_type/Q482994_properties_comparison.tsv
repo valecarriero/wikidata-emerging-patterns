@@ -1,0 +1,32 @@
+property	forthistype	pattern	label	count
+P175	yes	yes	'performer'@en	61772.0
+P577	yes	yes	'publication date'@en	60742.0
+P646	no	yes	'Freebase ID'@en	59784.0
+P136	yes	yes	'genre'@en	54621.0
+P264	yes	yes	'record label'@en	49054.0
+P436	yes	yes	'MusicBrainz release group ID'@en	49051.0
+P156	no	yes	'followed by'@en	44289.0
+P155	no	yes	'follows'@en	43320.0
+P1954	yes	yes	'Discogs master ID'@en	38308.0
+P7937	yes	yes	'form of creative work'@en	19772.0
+P162	yes	yes	'producer'@en	18362.0
+P407	yes	yes	'language of work or name'@en	17572.0
+P1729	yes	yes	'AllMusic album ID'@en	13609.0
+P437	yes	no	'distribution format'@en	11735.0
+P1476	yes	no	'title'@en	9007.0
+P2205	yes	no	'Spotify album ID'@en	8252.0
+P291	yes	no	'place of publication'@en	4021.0
+P2635	yes	no	'number of parts of this work'@en	3808.0
+P2047	yes	no	'duration'@en	3624.0
+P658	yes	no	'tracklist'@en	2715.0
+P2721	yes	no	'Encyclopaedia Metallum release ID'@en	1102.0
+P483	yes	no	'recorded at studio or venue'@en	786.0
+P444	yes	no	'review score'@en	722.0
+P8392	yes	no	'Rate Your Music release ID'@en	362.0
+P2291	yes	no	'charted in'@en	306.0
+P2723	yes	no	'Deezer album ID'@en	243.0
+P2819	yes	no	'Yandex Music release ID'@en	219.0
+P2281	yes	no	'Apple Music album ID (U.S. version)'@en	201.0
+P4199	yes	no	'Google Play Music album ID (former scheme)'@en	110.0
+P4577	yes	no	'Tidal album ID'@en	81.0
+P5171	yes	no	'Rockipedia release ID'@en	23.0
