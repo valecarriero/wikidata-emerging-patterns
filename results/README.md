@@ -1,7 +1,7 @@
 # Results on the portion of Wikidata addressing the music domain
 
 ## Input
-< link to all KGTK files given as input >
+The files that have been given as input for performing these experiments can be found in [this folder](https://drive.google.com/drive/folders/1l5Suqku_KFfxgAG5q5cNqpsJTvMoQqsm?usp=sharing).
 
 ## Output
 
