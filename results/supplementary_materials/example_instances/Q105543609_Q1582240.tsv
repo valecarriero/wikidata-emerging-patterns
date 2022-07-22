@@ -16,7 +16,7 @@ Q1582240-P361-Q3622215-a1d182a2-0	Q1582240	P361	Q3622215	wikibase-item	'I Knew Y
 Q1582240-P407-Q1860-2a6487ee-0	Q1582240	P407	Q1860	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'language of work or name'@en	'English'@en
 Q1582240-P435-67237d-e78dc347-0	Q1582240	P435	"6502bdad-44e6-36c6-9fca-f3d85079b005"	external-id	'I Knew You Were Waiting (For Me)'@en	'MusicBrainz work ID'@en	
 Q1582240-P436-9350d3-b1d3b3fa-0	Q1582240	P436	"38c5e9a7-f6dc-49f6-8e20-aa27ad019cc9"	external-id	'I Knew You Were Waiting (For Me)'@en	'MusicBrainz release group ID'@en	
-Q1582240-P4839-2c6654-959a665a-0	Q1582240	P4839	"Entity[\"MusicWork\", \"IKnewYouWereWaitingForMe::nh5r7\"]"	external-id	'I Knew You Were Waiting (For Me)'@en	'Wolfram Language entity code'@en	
+Q1582240-P4839-2c6654-959a665a-0	Q1582240	P4839	"Entity["MusicWork", "IKnewYouWereWaitingForMe::nh5r7"]"	external-id	'I Knew You Were Waiting (For Me)'@en	'Wolfram Language entity code'@en	
 Q1582240-P495-Q30-856a6735-0	Q1582240	P495	Q30	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'country of origin'@en	'United States of America'@en
 Q1582240-P577-22abcc-508d0d82-0	Q1582240	P577	^1987-01-01T00:00:00Z/10	time	'I Knew You Were Waiting (For Me)'@en	'publication date'@en	
 Q1582240-P646-830b57-4d212f4f-0	Q1582240	P646	"/m/07yxqf"	external-id	'I Knew You Were Waiting (For Me)'@en	'Freebase ID'@en	
