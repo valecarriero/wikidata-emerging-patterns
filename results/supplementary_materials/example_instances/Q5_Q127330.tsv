@@ -1,0 +1,230 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q127330-P10018-f074c2-f0e59a2f-0	Q127330	P10018	"106063"	external-id	'Frank Zappa'@en	'George Eastman Museum people ID'@en	
+Q127330-P1005-bc8d9f-92595a92-0	Q127330	P1005	"51060"	external-id	'Frank Zappa'@en	'Portuguese National Library ID'@en	
+Q127330-P1006-d6c013-bb300094-0	Q127330	P1006	"071765409"	external-id	'Frank Zappa'@en	'Nationale Thesaurus voor Auteurs ID'@en	
+Q127330-P10069-3286a9-bde0648d-0	Q127330	P10069	"103895"	external-id	'Frank Zappa'@en	'Tabakalera ID'@en	
+Q127330-P1015-0ea845-5357faf1-0	Q127330	P1015	"90785556"	external-id	'Frank Zappa'@en	'NORAF ID'@en	
+Q127330-P102-Q29552-82f970f9-0	Q127330	P102	Q29552	wikibase-item	'Frank Zappa'@en	'member of political party'@en	'Democratic Party'@en
+Q127330-P10242-a11209-a4b23930-0	Q127330	P10242	"06122/eu_z_0451/z0451"	external-id	'Frank Zappa'@en	'Lur Encyclopedic Dictionary ID'@en	
+Q127330-P103-Q1860-9d05458a-0	Q127330	P103	Q1860	wikibase-item	'Frank Zappa'@en	'native language'@en	'English'@en
+Q127330-P106-Q177220-b095d54e-0	Q127330	P106	Q177220	wikibase-item	'Frank Zappa'@en	'occupation'@en	'singer'@en
+Q127330-P106-Q183945-21def910-0	Q127330	P106	Q183945	wikibase-item	'Frank Zappa'@en	'occupation'@en	'record producer'@en
+Q127330-P106-Q1930187-51e214c3-0	Q127330	P106	Q1930187	wikibase-item	'Frank Zappa'@en	'occupation'@en	'journalist'@en
+Q127330-P106-Q2405480-b06c6586-0	Q127330	P106	Q2405480	wikibase-item	'Frank Zappa'@en	'occupation'@en	'voice actor'@en
+Q127330-P106-Q2526255-6c29ceb8-0	Q127330	P106	Q2526255	wikibase-item	'Frank Zappa'@en	'occupation'@en	'film director'@en
+Q127330-P106-Q28389-faa41352-0	Q127330	P106	Q28389	wikibase-item	'Frank Zappa'@en	'occupation'@en	'screenwriter'@en
+Q127330-P106-Q29017403-856a9860-0	Q127330	P106	Q29017403	wikibase-item	'Frank Zappa'@en	'occupation'@en	'rock musician'@en
+Q127330-P106-Q3282637-0a4d1f7d-0	Q127330	P106	Q3282637	wikibase-item	'Frank Zappa'@en	'occupation'@en	'film producer'@en
+Q127330-P106-Q33999-8102da46-0	Q127330	P106	Q33999	wikibase-item	'Frank Zappa'@en	'occupation'@en	'actor'@en
+Q127330-P106-Q36834-be102344-0	Q127330	P106	Q36834	wikibase-item	'Frank Zappa'@en	'occupation'@en	'composer'@en
+Q127330-P106-Q639669-5326bfc9-0	Q127330	P106	Q639669	wikibase-item	'Frank Zappa'@en	'occupation'@en	'musician'@en
+Q127330-P106-Q67378332-c3947d18-0	Q127330	P106	Q67378332	wikibase-item	'Frank Zappa'@en	'occupation'@en	'rock guitarist'@en
+Q127330-P106-Q753110-1303d259-0	Q127330	P106	Q753110	wikibase-item	'Frank Zappa'@en	'occupation'@en	'songwriter'@en
+Q127330-P106-Q855091-c597db48-0	Q127330	P106	Q855091	wikibase-item	'Frank Zappa'@en	'occupation'@en	'guitarist'@en
+Q127330-P1114-52f4cd-38e76940-0	Q127330	P1114	+624Q7366	quantity	'Frank Zappa'@en	'quantity'@en	
+Q127330-P1114-b20c81-c45e0458-0	Q127330	P1114	+111Q61033232	quantity	'Frank Zappa'@en	'quantity'@en	
+Q127330-P119-Q1358639-b7d4adfe-0	Q127330	P119	Q1358639	wikibase-item	'Frank Zappa'@en	'place of burial'@en	'Westwood Village Memorial Park Cemetery'@en
+Q127330-P1196-Q3739104-6dabddca-0	Q127330	P1196	Q3739104	wikibase-item	'Frank Zappa'@en	'manner of death'@en	'natural causes'@en
+Q127330-P1207-695993-8efd307d-0	Q127330	P1207	"n97011040"	external-id	'Frank Zappa'@en	'NUKAT ID'@en	
+Q127330-P1233-0a24f3-19b4d64e-0	Q127330	P1233	"151065"	external-id	'Frank Zappa'@en	'Internet Speculative Fiction Database author ID'@en	
+Q127330-P1263-d74f5d-97f65a20-0	Q127330	P1263	"737/000024665"	external-id	'Frank Zappa'@en	'NNDB people ID'@en	
+Q127330-P1266-01bb46-bc179054-0	Q127330	P1266	"36094"	external-id	'Frank Zappa'@en	'AlloCiné person ID'@en	
+Q127330-P1280-3de8e3-3ec17937-0	Q127330	P1280	"29422179"	external-id	'Frank Zappa'@en	'CONOR.SI ID'@en	
+Q127330-P1284-59484f-5f6ea49f-0	Q127330	P1284	"00000015911"	external-id	'Frank Zappa'@en	'Munzinger person ID'@en	
+Q127330-P1286-91ce60-0b6ab44d-0	Q127330	P1286	"02000000116"	external-id	'Frank Zappa'@en	'Munzinger Pop ID'@en	
+Q127330-P1296-dae166-e94ec043-0	Q127330	P1296	"0073158"	external-id	'Frank Zappa'@en	'Gran Enciclopèdia Catalana ID'@en	
+Q127330-P1303-Q128309-0d333c97-0	Q127330	P1303	Q128309	wikibase-item	'Frank Zappa'@en	'instrument'@en	'drum kit'@en
+Q127330-P1303-Q17172850-b44b40d2-0	Q127330	P1303	Q17172850	wikibase-item	'Frank Zappa'@en	'instrument'@en	'voice'@en
+Q127330-P1303-Q46185-467c5873-0	Q127330	P1303	Q46185	wikibase-item	'Frank Zappa'@en	'instrument'@en	'bass guitar'@en
+Q127330-P1303-Q52954-0feb1a56-0	Q127330	P1303	Q52954	wikibase-item	'Frank Zappa'@en	'instrument'@en	'keyboard instrument'@en
+Q127330-P1303-Q6607-252cef94-0	Q127330	P1303	Q6607	wikibase-item	'Frank Zappa'@en	'instrument'@en	'guitar'@en
+Q127330-P1343-Q1145552-c851f287-0	Q127330	P1343	Q1145552	wikibase-item	'Frank Zappa'@en	'described by source'@en	'UbuWeb'@en
+Q127330-P1343-Q67311526-e3f5cf4c-0	Q127330	P1343	Q67311526	wikibase-item	'Frank Zappa'@en	'described by source'@en	'Obalky knih.cz'@en
+Q127330-P136-Q105527-36e68f82-0	Q127330	P136	Q105527	wikibase-item	'Frank Zappa'@en	'genre'@en	'jazz fusion'@en
+Q127330-P136-Q11399-80ebb9ee-0	Q127330	P136	Q11399	wikibase-item	'Frank Zappa'@en	'genre'@en	'rock music'@en
+Q127330-P136-Q1640319-3c5d6490-0	Q127330	P136	Q1640319	wikibase-item	'Frank Zappa'@en	'genre'@en	'experimental music'@en
+Q127330-P136-Q2332751-1b5a88fc-0	Q127330	P136	Q2332751	wikibase-item	'Frank Zappa'@en	'genre'@en	'avant-garde music'@en
+Q127330-P136-Q3630966-b1006ac4-0	Q127330	P136	Q3630966	wikibase-item	'Frank Zappa'@en	'genre'@en	'avant-prog'@en
+Q127330-P136-Q8341-c22f4fc9-0	Q127330	P136	Q8341	wikibase-item	'Frank Zappa'@en	'genre'@en	'jazz'@en
+Q127330-P136-Q9162904-100465f2-0	Q127330	P136	Q9162904	wikibase-item	'Frank Zappa'@en	'genre'@en	'avant-pop'@en
+Q127330-P136-Q944465-009e22e8-0	Q127330	P136	Q944465	wikibase-item	'Frank Zappa'@en	'genre'@en	'jazz rock'@en
+Q127330-P136-Q9730-bd49108f-0	Q127330	P136	Q9730	wikibase-item	'Frank Zappa'@en	'genre'@en	'western classical music'@en
+Q127330-P140-Q7066-feb643eb-0	Q127330	P140	Q7066	wikibase-item	'Frank Zappa'@en	'religion or worldview'@en	'atheism'@en
+Q127330-P1412-Q1860-c16bce69-0	Q127330	P1412	Q1860	wikibase-item	'Frank Zappa'@en	'languages spoken, written or signed'@en	'English'@en
+Q127330-P1417-3ae49d-01afbc04-0	Q127330	P1417	"biography/Frank-Zappa"	external-id	'Frank Zappa'@en	'Encyclopædia Britannica Online ID'@en	
+Q127330-P1477-7cca27-4abace38-0	Q127330	P1477	'Frank Vincent Zappa'@en	monolingualtext	'Frank Zappa'@en	'birth name'@en	
+Q127330-P1553-8d9d3c-3177df41-0	Q127330	P1553	"34110"	external-id	'Frank Zappa'@en	'Yandex Music artist ID'@en	
+Q127330-P1559-0aa9b2-46bd7c73-0	Q127330	P1559	'Frank Zappa'@en	monolingualtext	'Frank Zappa'@en	'name in native language'@en	
+Q127330-P166-Q935843-c28d08ae-0	Q127330	P166	Q935843	wikibase-item	'Frank Zappa'@en	'award received'@en	'Grammy Lifetime Achievement Award'@en
+Q127330-P1695-74b3eb-b21c08ec-0	Q127330	P1695	"A1183206X"	external-id	'Frank Zappa'@en	'NLP ID (old)'@en	
+Q127330-P1728-f0fa72-8ccf01d7-0	Q127330	P1728	"mn0000138699"	external-id	'Frank Zappa'@en	'AllMusic artist ID'@en	
+Q127330-P1741-733bf6-f6714ea8-0	Q127330	P1741	"172592"	external-id	'Frank Zappa'@en	'GTAA ID'@en	
+Q127330-P18-70b5fe-9aa8a97a-0	Q127330	P18	"Frankzappa revistapelo 1970.jpg"	commonsMedia	'Frank Zappa'@en	'image'@en	
+Q127330-P1816-3dc5cb-6102c687-0	Q127330	P1816	"mp149729"	external-id	'Frank Zappa'@en	'National Portrait Gallery (London) person ID'@en	
+Q127330-P1819-12d704-f952a0bb-0	Q127330	P1819	"I00482302"	external-id	'Frank Zappa'@en	'genealogics.org person ID'@en	
+Q127330-P1828-1a8fc9-941ef1bb-0	Q127330	P1828	"00070189383"	external-id	'Frank Zappa'@en	'IPI name number'@en	
+Q127330-P1828-3d7c00-e26ab412-0	Q127330	P1828	"00033522513"	external-id	'Frank Zappa'@en	'IPI name number'@en	
+Q127330-P1828-d85197-42a7bf74-0	Q127330	P1828	"00077638143"	external-id	'Frank Zappa'@en	'IPI name number'@en	
+Q127330-P19-Q5092-4d51c84e-0	Q127330	P19	Q5092	wikibase-item	'Frank Zappa'@en	'place of birth'@en	'Baltimore'@en
+Q127330-P1902-0b25cc-ad0d3bb4-0	Q127330	P1902	"6ra4GIOgCZQZMOaUECftGN"	external-id	'Frank Zappa'@en	'Spotify artist ID'@en	
+Q127330-P1953-63a808-6d916706-0	Q127330	P1953	"92623"	external-id	'Frank Zappa'@en	'Discogs artist ID'@en	
+Q127330-P1977-689497-82434708-0	Q127330	P1977	"38196"	external-id	'Frank Zappa'@en	'Les Archives du spectacle person ID'@en	
+Q127330-P20-Q65-eb41e69d-0	Q127330	P20	Q65	wikibase-item	'Frank Zappa'@en	'place of death'@en	'Los Angeles'@en
+Q127330-P2002-0f8e95-79a9a1e4-0	Q127330	P2002	"zappa"	external-id	'Frank Zappa'@en	'Twitter username'@en	
+Q127330-P2013-91fde9-851d8a4d-0	Q127330	P2013	"Zappa"	external-id	'Frank Zappa'@en	'Facebook ID'@en	
+Q127330-P2019-e5372c-f551b519-0	Q127330	P2019	"p117838"	external-id	'Frank Zappa'@en	'AllMovie person ID'@en	
+Q127330-P2031-3b1045-cba7e4ce-0	Q127330	P2031	^1955-01-01T00:00:00Z/9	time	'Frank Zappa'@en	'work period (start)'@en	
+Q127330-P2032-366ecf-56323327-0	Q127330	P2032	^1993-01-01T00:00:00Z/9	time	'Frank Zappa'@en	'work period (end)'@en	
+Q127330-P21-Q6581097-1baf5b2d-0	Q127330	P21	Q6581097	wikibase-item	'Frank Zappa'@en	'sex or gender'@en	'male'@en
+Q127330-P213-5640ca-dc805e1f-0	Q127330	P213	"0000 0001 1079 2302"	external-id	'Frank Zappa'@en	'ISNI'@en	
+Q127330-P214-0364b1-646eca2c-0	Q127330	P214	"100234697"	external-id	'Frank Zappa'@en	'VIAF ID'@en	
+Q127330-P2163-b070ad-f38761d1-0	Q127330	P2163	"71991"	external-id	'Frank Zappa'@en	'FAST ID'@en	
+Q127330-P2168-8ef9f8-31eb4080-0	Q127330	P2168	"83429"	external-id	'Frank Zappa'@en	'Swedish Film Database person ID'@en	
+Q127330-P2190-768e49-d0f1d44e-0	Q127330	P2190	"frankzappa"	external-id	'Frank Zappa'@en	'C-SPAN person ID'@en	
+Q127330-P2190-7d35ef-891b92b6-0	Q127330	P2190	"42212"	external-id	'Frank Zappa'@en	'C-SPAN person ID'@en	
+Q127330-P227-acc9a0-4947516f-0	Q127330	P227	"118636200"	external-id	'Frank Zappa'@en	'GND ID'@en	
+Q127330-P2387-050ebd-41667c3e-0	Q127330	P2387	"200515"	external-id	'Frank Zappa'@en	'Elonet person ID'@en	
+Q127330-P2397-efec0d-3b8e7cd1-0	Q127330	P2397	"UCj5ZiBBqpe0Tg4zfKGHEFuQ"	external-id	'Frank Zappa'@en	'YouTube channel ID'@en	
+Q127330-P2435-fa85af-75b66e9c-0	Q127330	P2435	"262244"	external-id	'Frank Zappa'@en	'PORT person ID'@en	
+Q127330-P244-ddf2d5-5ee9e012-0	Q127330	P244	"n81048026"	external-id	'Frank Zappa'@en	'Library of Congress authority ID'@en	
+Q127330-P245-07c0d3-5ac2d8b6-0	Q127330	P245	"500350999"	external-id	'Frank Zappa'@en	'Union List of Artist Names ID'@en	
+Q127330-P2510-f78f06-3c47453a-0	Q127330	P2510	"1475"	external-id	'Frank Zappa'@en	'National Discography of Italian Song artist/group ID'@en	
+Q127330-P26-Q432732-4538df06-0	Q127330	P26	Q432732	wikibase-item	'Frank Zappa'@en	'spouse'@en	'Gail Zappa'@en
+Q127330-P2600-aa6a40-6931a4f9-0	Q127330	P2600	"6000000010010528760"	external-id	'Frank Zappa'@en	'Geni.com profile ID'@en	
+Q127330-P2604-203cb9-3b892bee-0	Q127330	P2604	"186608"	external-id	'Frank Zappa'@en	'Kinopoisk person ID'@en	
+Q127330-P2605-4df4ab-65921da3-0	Q127330	P2605	"43245"	external-id	'Frank Zappa'@en	'ČSFD person ID'@en	
+Q127330-P2626-d70044-bb95d439-0	Q127330	P2626	"63032"	external-id	'Frank Zappa'@en	'Danish National Filmography person ID'@en	
+Q127330-P2638-5f3de4-3a3414cd-0	Q127330	P2638	"people/frank-zappa"	external-id	'Frank Zappa'@en	'TV.com ID'@en	
+Q127330-P2639-769352-07285fd9-0	Q127330	P2639	"90e4557529f2420bbde2d9d6f7edc71b"	external-id	'Frank Zappa'@en	'Filmportal ID'@en	
+Q127330-P264-Q1228353-82cdbd03-0	Q127330	P264	Q1228353	wikibase-item	'Frank Zappa'@en	'record label'@en	'DiscReet'@en
+Q127330-P264-Q147435-91851ce8-0	Q127330	P264	Q147435	wikibase-item	'Frank Zappa'@en	'record label'@en	'Zappa Records'@en
+Q127330-P264-Q656752-ecc362ad-0	Q127330	P264	Q656752	wikibase-item	'Frank Zappa'@en	'record label'@en	'Rykodisc'@en
+Q127330-P264-Q843402-4a059757-0	Q127330	P264	Q843402	wikibase-item	'Frank Zappa'@en	'record label'@en	'Warner Bros. Records'@en
+Q127330-P268-2442e5-7d008148-0	Q127330	P268	"139013873"	external-id	'Frank Zappa'@en	'Bibliothèque nationale de France ID'@en	
+Q127330-P269-d8a96e-f1970bbb-0	Q127330	P269	"084287292"	external-id	'Frank Zappa'@en	'IdRef ID'@en	
+Q127330-P27-Q30-c174d998-0	Q127330	P27	Q30	wikibase-item	'Frank Zappa'@en	'country of citizenship'@en	'United States of America'@en
+Q127330-P2722-07106b-011df9ea-0	Q127330	P2722	"2167"	external-id	'Frank Zappa'@en	'Deezer artist ID'@en	
+Q127330-P2909-64527b-6f007f02-0	Q127330	P2909	"6561"	external-id	'Frank Zappa'@en	'SecondHandSongs artist ID'@en	
+Q127330-P2924-5119e4-21f1bac7-0	Q127330	P2924	"3902267"	external-id	'Frank Zappa'@en	'Great Russian Encyclopedia Online ID'@en	
+Q127330-P2949-2848c2-2d97157e-0	Q127330	P2949	"Zappa-1"	external-id	'Frank Zappa'@en	'WikiTree person ID'@en	
+Q127330-P3017-41c787-e0dc0b2c-0	Q127330	P3017	"frank-zappa"	external-id	'Frank Zappa'@en	'Rolling Stone artist ID'@en	
+Q127330-P31-Q5-f8d2f2fc-0	Q127330	P31	Q5	wikibase-item	'Frank Zappa'@en	'instance of'@en	'human'@en
+Q127330-P3106-119af9-8b82a4eb-0	Q127330	P3106	"music/frank-zappa"	external-id	'Frank Zappa'@en	'Guardian topic ID'@en	
+Q127330-P3154-897c43-e20d4adb-0	Q127330	P3154	"zappafra"	external-id	'Frank Zappa'@en	'Runeberg author ID'@en	
+Q127330-P3162-41c787-2464bd10-0	Q127330	P3162	"frank-zappa"	external-id	'Frank Zappa'@en	'Rock and Roll Hall of Fame ID'@en	
+Q127330-P3192-6c914d-80c13723-0	Q127330	P3192	"Frank+Zappa"	external-id	'Frank Zappa'@en	'Last.fm ID'@en	
+Q127330-P3219-41c787-028f74fa-0	Q127330	P3219	"frank-zappa"	external-id	'Frank Zappa'@en	'Encyclopædia Universalis ID'@en	
+Q127330-P3221-970663-20b13197-0	Q127330	P3221	"person/frank-zappa"	external-id	'Frank Zappa'@en	'New York Times topic ID'@en	
+Q127330-P3222-41c787-882ff4c9-0	Q127330	P3222	"frank-zappa"	external-id	'Frank Zappa'@en	'NE.se ID'@en	
+Q127330-P3368-24bc2f-8fa4052b-0	Q127330	P3368	"179607"	external-id	'Frank Zappa'@en	'Prabook ID'@en	
+Q127330-P3417-e805ed-b25661cd-0	Q127330	P3417	"Frank-Zappa-1"	external-id	'Frank Zappa'@en	'Quora topic ID'@en	
+Q127330-P3430-a59eea-3823e896-0	Q127330	P3430	"w6dj664m"	external-id	'Frank Zappa'@en	'SNAC ARK ID'@en	
+Q127330-P345-38c69a-799d07ea-0	Q127330	P345	"nm0953261"	external-id	'Frank Zappa'@en	'IMDb ID'@en	
+Q127330-P3478-436187-328373e2-0	Q127330	P3478	"191953"	external-id	'Frank Zappa'@en	'Songkick artist ID'@en	
+Q127330-P349-a0fefd-7e00d161-0	Q127330	P349	"00477681"	external-id	'Frank Zappa'@en	'National Diet Library ID'@en	
+Q127330-P3569-4084ce-fe41751f-0	Q127330	P3569	"populaire-muziek/frank-zappa"	external-id	'Frank Zappa'@en	'Cultureel Woordenboek ID'@en	
+Q127330-P358-Q2338850-e2e00777-0	Q127330	P358	Q2338850	wikibase-item	'Frank Zappa'@en	'discography'@en	'Frank Zappa discography'@en
+Q127330-P3630-df0f77-689ec745-0	Q127330	P3630	"9240"	external-id	'Frank Zappa'@en	'Babelio author ID'@en	
+Q127330-P373-e9be51-dbac3468-0	Q127330	P373	"Frank Zappa"	string	'Frank Zappa'@en	'Commons category'@en	
+Q127330-P3733-f10507-b0ec1835-0	Q127330	P3733	"658"	external-id	'Frank Zappa'@en	'MOOMA artist ID'@en	
+Q127330-P3782-41c787-b8ea34b6-0	Q127330	P3782	"frank-zappa"	external-id	'Frank Zappa'@en	'Artnet artist ID'@en	
+Q127330-P396-4bc92a-d8a87297-0	Q127330	P396	"CFIV039084"	external-id	'Frank Zappa'@en	'SBN author ID'@en	
+Q127330-P3987-5c2f2d-85657606-0	Q127330	P3987	"789492"	external-id	'Frank Zappa'@en	'SHARE Catalogue author ID'@en	
+Q127330-P40-Q127548-9886b356-0	Q127330	P40	Q127548	wikibase-item	'Frank Zappa'@en	'child'@en	'Dweezil Zappa'@en
+Q127330-P40-Q2319135-eb1c3493-0	Q127330	P40	Q2319135	wikibase-item	'Frank Zappa'@en	'child'@en	'Diva Zappa'@en
+Q127330-P40-Q291024-ddcf972c-0	Q127330	P40	Q291024	wikibase-item	'Frank Zappa'@en	'child'@en	'Moon Zappa'@en
+Q127330-P40-Q401963-b177c9a1-0	Q127330	P40	Q401963	wikibase-item	'Frank Zappa'@en	'child'@en	'Ahmet Zappa'@en
+Q127330-P4104-abcc54-e526173b-0	Q127330	P4104	"52619"	external-id	'Frank Zappa'@en	'Carnegie Hall agent ID'@en	
+Q127330-P4208-41c787-94248f02-0	Q127330	P4208	"frank-zappa"	external-id	'Frank Zappa'@en	'Billboard artist ID'@en	
+Q127330-P434-fe8b0e-ad8a37d1-0	Q127330	P434	"e20747e7-55a4-452e-8766-7b985585082d"	external-id	'Frank Zappa'@en	'MusicBrainz artist ID'@en	
+Q127330-P4342-5b5742-55de51c1-0	Q127330	P4342	"Frank_Zappa"	external-id	'Frank Zappa'@en	'Store norske leksikon ID'@en	
+Q127330-P4432-c710a8-658400ae-0	Q127330	P4432	"729a1f87-1432-44f7-b2d6-539acd9f919b"	external-id	'Frank Zappa'@en	'AKL Online artist ID'@en	
+Q127330-P4576-e0e578-67827161-0	Q127330	P4576	"3888317"	external-id	'Frank Zappa'@en	'Tidal artist ID'@en	
+Q127330-P4823-ed48dc-a6948409-0	Q127330	P4823	"1803338"	external-id	'Frank Zappa'@en	'American National Biography ID'@en	
+Q127330-P4985-719132-5eb50fd7-0	Q127330	P4985	"98539"	external-id	'Frank Zappa'@en	'TMDb person ID'@en	
+Q127330-P5007-24a0bb-38241271-0	Q127330	P5007	"Frank-Zappa"	external-id	'Frank Zappa'@en	'Behind The Voice Actors person ID'@en	
+Q127330-P5068-fa666d-783c37c3-0	Q127330	P5068	"1893141"	external-id	'Frank Zappa'@en	'Flanders Arts Institute person ID'@en	
+Q127330-P509-Q181257-0ae9e741-0	Q127330	P509	Q181257	wikibase-item	'Frank Zappa'@en	'cause of death'@en	'prostate cancer'@en
+Q127330-P5121-6ea103-7c70d72c-0	Q127330	P5121	"15347"	external-id	'Frank Zappa'@en	'All About Jazz musician ID'@en	
+Q127330-P5226-41c787-5da45695-0	Q127330	P5226	"frank-zappa"	external-id	'Frank Zappa'@en	'BRAHMS artist ID'@en	
+Q127330-P535-70409b-16ce6f77-0	Q127330	P535	"1141"	external-id	'Frank Zappa'@en	'Find a Grave memorial ID'@en	
+Q127330-P5357-868d62-04f1ef7b-0	Q127330	P5357	"zappa_frank"	external-id	'Frank Zappa'@en	'The Encyclopedia of Science Fiction ID'@en	
+Q127330-P5404-a990ce-b067460c-0	Q127330	P5404	"frank_zappa"	external-id	'Frank Zappa'@en	'Rate Your Music artist ID'@en	
+Q127330-P5421-d96299-f18b1ac2-0	Q127330	P5421	"111842"	external-id	'Frank Zappa'@en	'Trading Card Database person ID'@en	
+Q127330-P5534-ca59aa-783f7b64-0	Q127330	P5534	"86561"	external-id	'Frank Zappa'@en	'Open Media Database person ID'@en	
+Q127330-P5617-afdf1e-7ac94906-0	Q127330	P5617	"frank-zappa-4427"	external-id	'Frank Zappa'@en	'Evene ID'@en	
+Q127330-P5654-41c787-bb005496-0	Q127330	P5654	"frank-zappa"	external-id	'Frank Zappa'@en	'France Musique person ID'@en	
+Q127330-P569-e91dbe-88be1e2b-0	Q127330	P569	^1940-12-21T00:00:00Z/11	time	'Frank Zappa'@en	'date of birth'@en	
+Q127330-P570-4ca5df-f271b63e-0	Q127330	P570	^1993-12-04T00:00:00Z/11	time	'Frank Zappa'@en	'date of death'@en	
+Q127330-P5882-96cc61-d10eea69-0	Q127330	P5882	"M00000239985"	external-id	'Frank Zappa'@en	'Muziekweb performer ID'@en	
+Q127330-P5905-46beb9-72f35cfe-0	Q127330	P5905	"4005-17252"	external-id	'Frank Zappa'@en	'Comic Vine ID'@en	
+Q127330-P6058-893c76-c973e2e0-0	Q127330	P6058	"personnage/wd/155978"	external-id	'Frank Zappa'@en	'Larousse ID'@en	
+Q127330-P6379-Q213322-63e5c274-0	Q127330	P6379	Q213322	wikibase-item	'Frank Zappa'@en	'has works in the collection'@en	'Victoria and Albert Museum'@en
+Q127330-P6412-8f37f9-eb1c19a5-0	Q127330	P6412	"16527"	external-id	'Frank Zappa'@en	'Gran Enciclopèdia de la Música ID'@en	
+Q127330-P646-ddf25b-e50ad538-0	Q127330	P646	"/m/02whj"	external-id	'Frank Zappa'@en	'Freebase ID'@en	
+Q127330-P648-fba80d-2ec3633a-0	Q127330	P648	"OL1002414A"	external-id	'Frank Zappa'@en	'Open Library ID'@en	
+Q127330-P650-0db686-0fc606ab-0	Q127330	P650	"397455"	external-id	'Frank Zappa'@en	'RKDartists ID'@en	
+Q127330-P6683-4a8a49-cfcfd937-0	Q127330	P6683	"156276"	external-id	'Frank Zappa'@en	'Alexander Turnbull Library ID'@en	
+Q127330-P6764-6c4274-c7de2e80-0	Q127330	P6764	"N5185"	external-id	'Frank Zappa'@en	'V&A person ID'@en	
+Q127330-P6839-f95d09-eeb10155-0	Q127330	P6839	"Franchise/FrankZappa"	external-id	'Frank Zappa'@en	'TV Tropes identifier'@en	
+Q127330-P6844-557dab-18c0eadc-0	Q127330	P6844	"79261"	external-id	'Frank Zappa'@en	'abART person ID'@en	
+Q127330-P6870-634d2a-678f3115-0	Q127330	P6870	"7881"	external-id	'Frank Zappa'@en	'Latvian National Encyclopedia Online ID'@en	
+Q127330-P6886-Q1860-9755212c-0	Q127330	P6886	Q1860	wikibase-item	'Frank Zappa'@en	'writing language'@en	'English'@en
+Q127330-P69-Q4771200-c6f27138-0	Q127330	P69	Q4771200	wikibase-item	'Frank Zappa'@en	'educated at'@en	'Antelope Valley High School'@en
+Q127330-P69-Q5610599-291fc37b-0	Q127330	P69	Q5610599	wikibase-item	'Frank Zappa'@en	'educated at'@en	'Grossmont High School'@en
+Q127330-P69-Q6878526-246f8198-0	Q127330	P69	Q6878526	wikibase-item	'Frank Zappa'@en	'educated at'@en	'Mission Bay Senior High School'@en
+Q127330-P691-45781a-37316c66-0	Q127330	P691	"jn20000702002"	external-id	'Frank Zappa'@en	'NKCR AUT ID'@en	
+Q127330-P6925-ce6f9f-1f27c64c-0	Q127330	P6925	"484733"	external-id	'Frank Zappa'@en	'Musicalics composer ID'@en	
+Q127330-P7029-e01b19-830de7d0-0	Q127330	P7029	"7792977"	external-id	'Frank Zappa'@en	'National Library of Russia ID'@en	
+Q127330-P7052-e5e5fd-c95c703f-0	Q127330	P7052	"89c2c569-f91b-44f3-8c99-31086815cd1d"	external-id	'Frank Zappa'@en	'Jaxsta profile ID'@en	
+Q127330-P7084-Q8453955-8f36b250-0	Q127330	P7084	Q8453955	wikibase-item	'Frank Zappa'@en	'related category'@en	'Category:Films directed by Frank Zappa'@en
+Q127330-P7109-a990ce-d5e802cd-0	Q127330	P7109	"frank_zappa"	external-id	'Frank Zappa'@en	'Acharts.co artist ID'@en	
+Q127330-P7194-aa89b0-24fb8ae5-0	Q127330	P7194	"f/frankzappa"	external-id	'Frank Zappa'@en	'AZLyrics.com artist ID'@en	
+Q127330-P7212-7e8516-61777c47-0	Q127330	P7212	"frank-zappa-lyrics.html"	external-id	'Frank Zappa'@en	'LyricsTranslate ID'@en	
+Q127330-P7293-5565d9-90eb3580-0	Q127330	P7293	"9810594167805606"	external-id	'Frank Zappa'@en	'PLWABN ID'@en	
+Q127330-P7303-41c787-10dc38c4-0	Q127330	P7303	"frank-zappa"	external-id	'Frank Zappa'@en	'Grammy Awards artist ID'@en	
+Q127330-P7303-b86478-8d39c203-0	Q127330	P7303	"frank-zappa/14521"	external-id	'Frank Zappa'@en	'Grammy Awards artist ID'@en	
+Q127330-P7305-6d1147-65b363aa-0	Q127330	P7305	"4000365"	external-id	'Frank Zappa'@en	'Online PWN Encyclopedia ID'@en	
+Q127330-P734-Q36921517-7bd2f056-0	Q127330	P734	Q36921517	wikibase-item	'Frank Zappa'@en	'family name'@en	'Zappa'@en
+Q127330-P735-Q220546-38352dec-0	Q127330	P735	Q220546	wikibase-item	'Frank Zappa'@en	'given name'@en	'Frank'@en
+Q127330-P735-Q4928254-cc608a9c-0	Q127330	P735	Q4928254	wikibase-item	'Frank Zappa'@en	'given name'@en	'Vincent'@en
+Q127330-P737-Q154331-647a0684-0	Q127330	P737	Q154331	wikibase-item	'Frank Zappa'@en	'influenced by'@en	'György Ligeti'@en
+Q127330-P737-Q190933-effa2c0b-0	Q127330	P737	Q190933	wikibase-item	'Frank Zappa'@en	'influenced by'@en	'Anton Webern'@en
+Q127330-P737-Q57247-9834a749-0	Q127330	P737	Q57247	wikibase-item	'Frank Zappa'@en	'influenced by'@en	'Edgard Varèse'@en
+Q127330-P737-Q607448-bf351832-0	Q127330	P737	Q607448	wikibase-item	'Frank Zappa'@en	'influenced by'@en	'Guitar Slim'@en
+Q127330-P737-Q708884-810f778a-0	Q127330	P737	Q708884	wikibase-item	'Frank Zappa'@en	'influenced by'@en	'Johnny \"Guitar\" Watson'@en
+Q127330-P7666-41c787-80fac8bc-0	Q127330	P7666	"frank-zappa"	external-id	'Frank Zappa'@en	'Visuotinė lietuvių enciklopedija ID'@en	
+Q127330-P7704-3366bc-e55cdc23-0	Q127330	P7704	"agent/base/59977"	external-id	'Frank Zappa'@en	'Europeana entity'@en	
+Q127330-P7763-Q73555012-68ffb2c5-0	Q127330	P7763	Q73555012	wikibase-item	'Frank Zappa'@en	'copyright status as a creator'@en	'works protected by copyrights'@en
+Q127330-P7775-5b5742-49c88e19-0	Q127330	P7775	"Frank_Zappa"	external-id	'Frank Zappa'@en	'RationalWiki ID'@en	
+Q127330-P7859-d97d9f-787d9f6e-0	Q127330	P7859	"lccn-n81048026"	external-id	'Frank Zappa'@en	'WorldCat Identities ID'@en	
+Q127330-P7865-37710f-76a86798-0	Q127330	P7865	"95a5yja38danygu695b5yc1k74r3gd0"	external-id	'Frank Zappa'@en	'CoBiS author ID'@en	
+Q127330-P7902-acc9a0-53734148-0	Q127330	P7902	"118636200"	external-id	'Frank Zappa'@en	'Deutsche Biographie (GND) ID'@en	
+Q127330-P7929-d015c9-31adc97f-0	Q127330	P7929	"p=frank;n=zappa"	external-id	'Frank Zappa'@en	'Roglo person ID'@en	
+Q127330-P7982-911e50-77504e79-0	Q127330	P7982	"66893"	external-id	'Frank Zappa'@en	'Hrvatska enciklopedija ID'@en	
+Q127330-P8041-6f5f14-fad2c3d5-0	Q127330	P8041	"9886"	external-id	'Frank Zappa'@en	'DR music artist ID'@en	
+Q127330-P8189-506461-f7aabc9b-0	Q127330	P8189	"987007449498605171"	external-id	'Frank Zappa'@en	'National Library of Israel J9U ID'@en	
+Q127330-P8313-5b5742-132e85b3-0	Q127330	P8313	"Frank_Zappa"	external-id	'Frank Zappa'@en	'Den Store Danske ID'@en	
+Q127330-P8385-076f5d-033c6ec3-0	Q127330	P8385	"30953"	external-id	'Frank Zappa'@en	'IDU person ID'@en	
+Q127330-P856-23abe0-5720ac66-0	Q127330	P856	"http://www.zappa.com"	url	'Frank Zappa'@en	'official website'@en	
+Q127330-P8687-127e3b-4140128c-0	Q127330	P8687	+11400[+11400,+11499]	quantity	'Frank Zappa'@en	'social media followers'@en	
+Q127330-P8687-8300ee-cd95ab79-0	Q127330	P8687	+20555	quantity	'Frank Zappa'@en	'social media followers'@en	
+Q127330-P8687-c12928-98488468-0	Q127330	P8687	+34691	quantity	'Frank Zappa'@en	'social media followers'@en	
+Q127330-P8687-cb1a14-2823346e-0	Q127330	P8687	+31677	quantity	'Frank Zappa'@en	'social media followers'@en	
+Q127330-P8688-48ab92-8669d74b-0	Q127330	P8688	"465"	external-id	'Frank Zappa'@en	'CompositionToday composer ID'@en	
+Q127330-P8852-Q7963760-c82194c2-0	Q127330	P8852	Q7963760	wikibase-item	'Frank Zappa'@en	'facial hair'@en	'walrus moustache'@en
+Q127330-P8971-dbabb8-069d7246-0	Q127330	P8971	"34129"	external-id	'Frank Zappa'@en	'Cinémathèque québécoise person ID'@en	
+Q127330-P8974-c2d700-566bfcbb-0	Q127330	P8974	"a/3eb1c714-ce07-4547-b7d0-759b2e9c11fa"	external-id	'Frank Zappa'@en	'SAPA ID'@en	
+Q127330-P8980-052614-f9446048-0	Q127330	P8980	"000184006"	external-id	'Frank Zappa'@en	'KANTO ID'@en	
+Q127330-P9037-5d540c-4739553c-0	Q127330	P9037	"96d38b2d-8ed8-46e8-b9ca-c620f5005b29"	external-id	'Frank Zappa'@en	'BHCL UUID'@en	
+Q127330-P910-Q8261389-e531bf33-0	Q127330	P910	Q8261389	wikibase-item	'Frank Zappa'@en	'topic\'s main category'@en	'Category:Frank Zappa'@en
+Q127330-P9328-71183f-1570073d-0	Q127330	P9328	"30705844516"	external-id	'Frank Zappa'@en	'Universal Music France artist ID'@en	
+Q127330-P935-e9be51-4194f19d-0	Q127330	P935	"Frank Zappa"	string	'Frank Zappa'@en	'Commons gallery'@en	
+Q127330-P9463-719132-b7027f96-0	Q127330	P9463	"98539"	external-id	'Frank Zappa'@en	'MovieMeter person ID'@en	
+Q127330-P950-441835-2b05c221-0	Q127330	P950	"XX1090669"	external-id	'Frank Zappa'@en	'Biblioteca Nacional de España ID'@en	
+Q127330-P9629-fe13b2-9c6ad34f-0	Q127330	P9629	"13853"	external-id	'Frank Zappa'@en	'Armeniapedia ID'@en	
+Q127330-P9686-7e0fd1-2c95537b-0	Q127330	P9686	"6705"	external-id	'Frank Zappa'@en	'Classical Archives composer ID'@en	
+Q127330-P9807-97391b-913f5b99-0	Q127330	P9807	"147089"	external-id	'Frank Zappa'@en	'SNK ID'@en	
+Q127330-P9918-23ba3c-263e6676-0	Q127330	P9918	"PE00314611"	external-id	'Frank Zappa'@en	'Kallías ID'@en	
+Q127330-P9965-41c787-36169b9f-0	Q127330	P9965	"frank-zappa"	external-id	'Frank Zappa'@en	'Musik-Sammler.de artist ID'@en	
+Q127330-P9995-240a6c-c43da1de-0	Q127330	P9995	"12138"	external-id	'Frank Zappa'@en	'MYmovies person ID'@en	
