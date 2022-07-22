@@ -1,0 +1,18 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q118521-P112-Q18370178-06e31bbc-0	Q118521	P112	Q18370178	wikibase-item	'Odin Records'@en	'founded by'@en	'Norsk jazzforum'@en
+Q118521-P136-Q8341-5d43b978-0	Q118521	P136	Q8341	wikibase-item	'Odin Records'@en	'genre'@en	'jazz'@en
+Q118521-P159-Q585-471039cf-0	Q118521	P159	Q585	wikibase-item	'Odin Records'@en	'headquarters location'@en	'Oslo'@en
+Q118521-P17-Q20-91486f1f-0	Q118521	P17	Q20	wikibase-item	'Odin Records'@en	'country'@en	'Norway'@en
+Q118521-P1889-Q240888-3fde9089-0	Q118521	P1889	Q240888	wikibase-item	'Odin Records'@en	'different from'@en	'Odin'@en
+Q118521-P1955-565323-f9f52b29-0	Q118521	P1955	"93158"	external-id	'Odin Records'@en	'Discogs label ID'@en	
+Q118521-P214-e0b91c-bc620121-0	Q118521	P214	"134987273"	external-id	'Odin Records'@en	'VIAF ID'@en	
+Q118521-P2561-245cb4-641bb85b-0	Q118521	P2561	'Odin'@no	monolingualtext	'Odin Records'@en	'name'@en	
+Q118521-P268-1969b6-f813294e-0	Q118521	P268	"13887320r"	external-id	'Odin Records'@en	'Bibliothèque nationale de France ID'@en	
+Q118521-P31-Q18127-2926cd40-0	Q118521	P31	Q18127	wikibase-item	'Odin Records'@en	'instance of'@en	'record label'@en
+Q118521-P5174-f7041f-9390ced0-0	Q118521	P5174	"odin-1561"	external-id	'Odin Records'@en	'Rockipedia label ID'@en	
+Q118521-P571-91b893-338673bd-0	Q118521	P571	^1981-01-01T00:00:00Z/9	time	'Odin Records'@en	'inception'@en	
+Q118521-P646-c0a215-5efaae5d-0	Q118521	P646	"/m/0n49876"	external-id	'Odin Records'@en	'Freebase ID'@en	
+Q118521-P7313-e38dd3-9b82fd85-0	Q118521	P7313	"odin_records"	external-id	'Odin Records'@en	'Rate Your Music label ID'@en	
+Q118521-P7859-ae39d9-6d4d7b77-0	Q118521	P7859	"viaf-134987273"	external-id	'Odin Records'@en	'WorldCat Identities ID'@en	
+Q118521-P856-beaef9-0cfda69f-0	Q118521	P856	"https://www.odinrecords.com"	url	'Odin Records'@en	'official website'@en	
+Q118521-P966-4bfec7-18b59020-0	Q118521	P966	"a4f58dc1-61f0-42aa-90f3-eda1796297dd"	external-id	'Odin Records'@en	'MusicBrainz label ID'@en	
