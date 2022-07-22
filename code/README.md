@@ -17,4 +17,4 @@ You will be asked to give as input:
 - the edgefile containing the P31 triples from the whole Wikidata dump (we also need the types of the objects of the triples in your subgraph)
 - the 3 thresholds to be used for selecting the most common classes, the most common properties per each class, the most common ranges per each property
 
-Refer to the `results/README.md` file to understand which files will be generated as a result.
+Refer to the `results/README.md` file to know which files will be generated as a result.
