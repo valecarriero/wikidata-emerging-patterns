@@ -1,0 +1,13 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q7681106-P136-Q206159-84060a3f-0	Q7681106	P136	Q206159	wikibase-item	'Tame Impala EP'@en	'genre'@en	'psychedelic rock'@en
+Q7681106-P155-Q22265512-c106f963-0	Q7681106	P155	Q22265512	wikibase-item	'Tame Impala EP'@en	'follows'@en	'Tame Impala H.I.T.S. 003'@en
+Q7681106-P156-Q2481515-1dd3c0d9-0	Q7681106	P156	Q2481515	wikibase-item	'Tame Impala EP'@en	'followed by'@en	'Innerspeaker'@en
+Q7681106-P162-Q6397201-75e05c6a-0	Q7681106	P162	Q6397201	wikibase-item	'Tame Impala EP'@en	'producer'@en	'Kevin Parker'@en
+Q7681106-P175-Q9619-deb15c47-0	Q7681106	P175	Q9619	wikibase-item	'Tame Impala EP'@en	'performer'@en	'Tame Impala'@en
+Q7681106-P1954-4aad2e-bdba60a0-0	Q7681106	P1954	"251560"	external-id	'Tame Impala EP'@en	'Discogs master ID'@en	
+Q7681106-P264-Q1306283-be44c9aa-0	Q7681106	P264	Q1306283	wikibase-item	'Tame Impala EP'@en	'record label'@en	'Modular Recordings'@en
+Q7681106-P31-Q169930-8c1b7b55-0	Q7681106	P31	Q169930	wikibase-item	'Tame Impala EP'@en	'instance of'@en	'extended play'@en
+Q7681106-P407-Q1860-361437a1-0	Q7681106	P407	Q1860	wikibase-item	'Tame Impala EP'@en	'language of work or name'@en	'English'@en
+Q7681106-P436-0d98dc-1987c8d9-0	Q7681106	P436	"b4a6e39b-cb2e-3381-ba73-d1b28421e23e"	external-id	'Tame Impala EP'@en	'MusicBrainz release group ID'@en	
+Q7681106-P577-702719-02d164fb-0	Q7681106	P577	^2008-10-11T00:00:00Z/11	time	'Tame Impala EP'@en	'publication date'@en	
+Q7681106-P646-f60d20-ca99adb3-0	Q7681106	P646	"/m/05zhnww"	external-id	'Tame Impala EP'@en	'Freebase ID'@en	

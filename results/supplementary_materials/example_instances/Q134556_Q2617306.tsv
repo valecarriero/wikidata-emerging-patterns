@@ -1,0 +1,17 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q2617306-P136-Q83270-2e69461c-0	Q2617306	P136	Q83270	wikibase-item	'Hey God'@en	'genre'@en	'hard rock'@en
+Q2617306-P155-Q1758508-152dd6c9-0	Q2617306	P155	Q1758508	wikibase-item	'Hey God'@en	'follows'@en	'These Days'@en
+Q2617306-P156-Q2418891-5f62c528-0	Q2617306	P156	Q2418891	wikibase-item	'Hey God'@en	'followed by'@en	'Real Life'@en
+Q2617306-P162-Q1748116-1458124d-0	Q2617306	P162	Q1748116	wikibase-item	'Hey God'@en	'producer'@en	'Peter Collins'@en
+Q2617306-P1651-b5b436-fa27d1e3-0	Q2617306	P1651	"_hlcUMNeBc0"	external-id	'Hey God'@en	'YouTube video ID'@en	
+Q2617306-P175-Q259254-3712eea4-0	Q2617306	P175	Q259254	wikibase-item	'Hey God'@en	'performer'@en	'Bon Jovi'@en
+Q2617306-P1954-b65e10-0d11eca1-0	Q2617306	P1954	"96123"	external-id	'Hey God'@en	'Discogs master ID'@en	
+Q2617306-P2624-40dbf4-68a667db-0	Q2617306	P2624	"hey-god-lyrics-bon-jovi"	external-id	'Hey God'@en	'MetroLyrics ID'@en	
+Q2617306-P264-Q165745-d01755dd-0	Q2617306	P264	Q165745	wikibase-item	'Hey God'@en	'record label'@en	'Mercury Records'@en
+Q2617306-P31-Q134556-bf620bac-0	Q2617306	P31	Q134556	wikibase-item	'Hey God'@en	'instance of'@en	'single'@en
+Q2617306-P361-Q302340-da7d583c-0	Q2617306	P361	Q302340	wikibase-item	'Hey God'@en	'part of'@en	'These Days'@en
+Q2617306-P435-f95041-7d8a7ccb-0	Q2617306	P435	"6b1eba8c-a188-499f-86ca-4b733599974b"	external-id	'Hey God'@en	'MusicBrainz work ID'@en	
+Q2617306-P436-df91bd-43b0761e-0	Q2617306	P436	"322c74a3-cd5c-3cb7-b0a8-d2ec223e03d4"	external-id	'Hey God'@en	'MusicBrainz release group ID'@en	
+Q2617306-P495-Q30-3d2da4a1-0	Q2617306	P495	Q30	wikibase-item	'Hey God'@en	'country of origin'@en	'United States of America'@en
+Q2617306-P577-9c95c3-d168e3bd-0	Q2617306	P577	^1996-06-17T00:00:00Z/11	time	'Hey God'@en	'publication date'@en	
+Q2617306-P646-dca7be-ab5cc9cf-0	Q2617306	P646	"/m/02vvrft"	external-id	'Hey God'@en	'Freebase ID'@en	
