@@ -1,0 +1,18 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q1369965-P136-Q235858-2a2e11e5-0	Q1369965	P136	Q235858	wikibase-item	'World Gone Wrong'@en	'genre'@en	'traditional folk music'@en
+Q1369965-P155-Q2375390-8e3946c2-0	Q1369965	P155	Q2375390	wikibase-item	'World Gone Wrong'@en	'follows'@en	'The 30th Anniversary Concert Celebration'@en
+Q1369965-P156-Q1753267-e12179e1-0	Q1369965	P156	Q1753267	wikibase-item	'World Gone Wrong'@en	'followed by'@en	'Bob Dylan\'s Greatest Hits Volume 3'@en
+Q1369965-P162-Q392-0bce1814-0	Q1369965	P162	Q392	wikibase-item	'World Gone Wrong'@en	'producer'@en	'Bob Dylan'@en
+Q1369965-P1729-318748-d2194e4f-0	Q1369965	P1729	"mw0000103945"	external-id	'World Gone Wrong'@en	'AllMusic album ID'@en	
+Q1369965-P175-Q392-15e5ecc1-0	Q1369965	P175	Q392	wikibase-item	'World Gone Wrong'@en	'performer'@en	'Bob Dylan'@en
+Q1369965-P1954-de3f74-0aed861f-0	Q1369965	P1954	"27941"	external-id	'World Gone Wrong'@en	'Discogs master ID'@en	
+Q1369965-P2047-6d7923-dd5883c7-0	Q1369965	P2047	+2631Q11574	quantity	'World Gone Wrong'@en	'duration'@en	
+Q1369965-P2205-e5d2bb-0d2b7fed-0	Q1369965	P2205	"18In1Kf4950tlxRh2RQM3l"	external-id	'World Gone Wrong'@en	'Spotify album ID'@en	
+Q1369965-P264-Q183387-4c5ff1df-0	Q1369965	P264	Q183387	wikibase-item	'World Gone Wrong'@en	'record label'@en	'Columbia Records'@en
+Q1369965-P31-Q482994-eb215fb5-0	Q1369965	P31	Q482994	wikibase-item	'World Gone Wrong'@en	'instance of'@en	'album'@en
+Q1369965-P407-Q1860-93aeebe4-0	Q1369965	P407	Q1860	wikibase-item	'World Gone Wrong'@en	'language of work or name'@en	'English'@en
+Q1369965-P436-377633-ea4f12a7-0	Q1369965	P436	"fb0d0547-c8ec-3300-8f70-6f45361578f3"	external-id	'World Gone Wrong'@en	'MusicBrainz release group ID'@en	
+Q1369965-P437-Q15982450-7019c044-0	Q1369965	P437	Q15982450	wikibase-item	'World Gone Wrong'@en	'distribution format'@en	'music streaming'@en
+Q1369965-P577-366ecf-50696262-0	Q1369965	P577	^1993-01-01T00:00:00Z/9	time	'World Gone Wrong'@en	'publication date'@en	
+Q1369965-P646-e55f3a-5c2e83af-0	Q1369965	P646	"/m/06q96p"	external-id	'World Gone Wrong'@en	'Freebase ID'@en	
+Q1369965-P7937-Q208569-6729c3b2-0	Q1369965	P7937	Q208569	wikibase-item	'World Gone Wrong'@en	'form of creative work'@en	'studio album'@en
