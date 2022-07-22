@@ -5,3 +5,4 @@
 - `Q18127_Q118521.tsv` record label: Odin Records
 - `Q134556_Q2617306.tsv` single: Hey God
 - `Q169930_Q7681106.tsv` extended play: Tame Impala EP
+- `Q482994_Q1369965.tsv` album: World Gone Wrong
