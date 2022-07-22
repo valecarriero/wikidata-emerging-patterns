@@ -1,0 +1,42 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q784088-P136-Q11366-d9e68814-0	Q784088	P136	Q11366	wikibase-item	'Idlewild'@en	'genre'@en	'alternative rock'@en
+Q784088-P1728-c6e3ea-5feab476-0	Q784088	P1728	"mn0000092101"	external-id	'Idlewild'@en	'AllMusic artist ID'@en	
+Q784088-P18-8d9f55-45dbc463-0	Q784088	P18	"Idlewild at The Outsider 2007.jpg"	commonsMedia	'Idlewild'@en	'image'@en	
+Q784088-P1902-763082-0468924a-0	Q784088	P1902	"1xdB9gS1NrKEYgZUEfoqIw"	external-id	'Idlewild'@en	'Spotify artist ID'@en	
+Q784088-P1953-ea187a-62c6c373-0	Q784088	P1953	"115799"	external-id	'Idlewild'@en	'Discogs artist ID'@en	
+Q784088-P2002-a666fd-b7cd475c-0	Q784088	P2002	"IdlewildtheBand"	external-id	'Idlewild'@en	'Twitter username'@en	
+Q784088-P2013-052717-be38699f-0	Q784088	P2013	"IdlewildTheBand"	external-id	'Idlewild'@en	'Facebook ID'@en	
+Q784088-P2031-2a74fa-94b10c7f-0	Q784088	P2031	^1995-01-01T00:00:00Z/9	time	'Idlewild'@en	'work period (start)'@en	
+Q784088-P213-6078f6-7fac41f5-0	Q784088	P213	"0000 0001 0720 1399"	external-id	'Idlewild'@en	'ISNI'@en	
+Q784088-P214-95fcec-d229ee0a-0	Q784088	P214	"123957464"	external-id	'Idlewild'@en	'VIAF ID'@en	
+Q784088-P227-b9996d-c9980973-0	Q784088	P227	"10321895-6"	external-id	'Idlewild'@en	'GND ID'@en	
+Q784088-P244-0cecfa-1ca12e5e-0	Q784088	P244	"no99089183"	external-id	'Idlewild'@en	'Library of Congress authority ID'@en	
+Q784088-P264-Q208909-103910d1-0	Q784088	P264	Q208909	wikibase-item	'Idlewild'@en	'record label'@en	'Parlophone'@en
+Q784088-P264-Q2996526-31cd18f2-0	Q784088	P264	Q2996526	wikibase-item	'Idlewild'@en	'record label'@en	'Cooking Vinyl'@en
+Q784088-P268-a6a997-3a82c833-0	Q784088	P268	"14030804x"	external-id	'Idlewild'@en	'Bibliothèque nationale de France ID'@en	
+Q784088-P2722-68ccaf-f84f4d74-0	Q784088	P2722	"1255"	external-id	'Idlewild'@en	'Deezer artist ID'@en	
+Q784088-P31-Q215380-5c5e571a-0	Q784088	P31	Q215380	wikibase-item	'Idlewild'@en	'instance of'@en	'musical group'@en
+Q784088-P3192-0cba0c-d124ec33-0	Q784088	P3192	"Idlewild"	external-id	'Idlewild'@en	'Last.fm ID'@en	
+Q784088-P3265-611693-1fd0f5c5-0	Q784088	P3265	"idlewild"	external-id	'Idlewild'@en	'Myspace ID'@en	
+Q784088-P3283-2f3f27-7e5e9314-0	Q784088	P3283	"idlewildband"	external-id	'Idlewild'@en	'Bandcamp ID'@en	
+Q784088-P3478-93458f-2d8ccde3-0	Q784088	P3478	"482874"	external-id	'Idlewild'@en	'Songkick artist ID'@en	
+Q784088-P358-Q16994676-b24aecc8-0	Q784088	P358	Q16994676	wikibase-item	'Idlewild'@en	'discography'@en	'Idlewild discography'@en
+Q784088-P373-0cba0c-84ad9937-0	Q784088	P373	"Idlewild"	string	'Idlewild'@en	'Commons category'@en	
+Q784088-P4208-611693-90f3dd00-0	Q784088	P4208	"idlewild"	external-id	'Idlewild'@en	'Billboard artist ID'@en	
+Q784088-P434-d78d0d-a4f1691e-0	Q784088	P434	"64d62f45-e001-40a1-a055-c3545fcc14de"	external-id	'Idlewild'@en	'MusicBrainz artist ID'@en	
+Q784088-P495-Q145-d54950ee-0	Q784088	P495	Q145	wikibase-item	'Idlewild'@en	'country of origin'@en	'United Kingdom'@en
+Q784088-P527-Q4730987-8a2a09c6-0	Q784088	P527	Q4730987	wikibase-item	'Idlewild'@en	'has part or parts'@en	'Allan Stewart'@en
+Q784088-P5356-0cba0c-9150a909-0	Q784088	P5356	"Idlewild"	external-id	'Idlewild'@en	'Laut.de artist ID'@en	
+Q784088-P5404-611693-28ae7cd8-0	Q784088	P5404	"idlewild"	external-id	'Idlewild'@en	'Rate Your Music artist ID'@en	
+Q784088-P571-2a74fa-67501f8f-0	Q784088	P571	^1995-01-01T00:00:00Z/9	time	'Idlewild'@en	'inception'@en	
+Q784088-P5882-aab42b-894b2c5e-0	Q784088	P5882	"M00000016186"	external-id	'Idlewild'@en	'Muziekweb performer ID'@en	
+Q784088-P646-fb01b3-3bcc48e0-0	Q784088	P646	"/m/05xqhc"	external-id	'Idlewild'@en	'Freebase ID'@en	
+Q784088-P691-1643ec-54c6bd80-0	Q784088	P691	"xx0131003"	external-id	'Idlewild'@en	'NKCR AUT ID'@en	
+Q784088-P7109-611693-7e61396a-0	Q784088	P7109	"idlewild"	external-id	'Idlewild'@en	'Acharts.co artist ID'@en	
+Q784088-P7212-bbc195-6e7f9f02-0	Q784088	P7212	"idlewild-lyrics.html"	external-id	'Idlewild'@en	'LyricsTranslate ID'@en	
+Q784088-P740-Q23436-4bf930de-0	Q784088	P740	Q23436	wikibase-item	'Idlewild'@en	'location of formation'@en	'Edinburgh'@en
+Q784088-P7859-408b43-ebc163d1-0	Q784088	P7859	"lccn-no99089183"	external-id	'Idlewild'@en	'WorldCat Identities ID'@en	
+Q784088-P856-cafb02-a66ecea3-0	Q784088	P856	"http://www.idlewild.co.uk/"	url	'Idlewild'@en	'official website'@en	
+Q784088-P8687-54787a-df831d13-0	Q784088	P8687	+12801	quantity	'Idlewild'@en	'social media followers'@en	
+Q784088-P8687-872319-228a271e-0	Q784088	P8687	+13446	quantity	'Idlewild'@en	'social media followers'@en	
+Q784088-P8687-8fda02-e860fc83-0	Q784088	P8687	+13323	quantity	'Idlewild'@en	'social media followers'@en	
