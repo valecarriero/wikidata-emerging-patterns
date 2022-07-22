@@ -1,0 +1,26 @@
+id	node1	label	node2	node2;wikidatatype	node1;label	label;label	node2;label
+Q1582240-P136-Q37073-17fb4850-0	Q1582240	P136	Q37073	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'genre'@en	'pop music'@en
+Q1582240-P136-Q45981-88906249-0	Q1582240	P136	Q45981	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'genre'@en	'rhythm and blues'@en
+Q1582240-P1476-463bbb-078d739f-0	Q1582240	P1476	'I Knew You Were Waiting (For Me)'@en	monolingualtext	'I Knew You Were Waiting (For Me)'@en	'title'@en	
+Q1582240-P155-Q300390-0957e992-0	Q1582240	P155	Q300390	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'follows'@en	'A Different Corner'@en
+Q1582240-P156-Q963447-0a170481-0	Q1582240	P156	Q963447	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'followed by'@en	'I Want Your Sex'@en
+Q1582240-P162-Q542681-3862d77f-0	Q1582240	P162	Q542681	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'producer'@en	'Narada Michael Walden'@en
+Q1582240-P175-Q125121-7be8055a-0	Q1582240	P175	Q125121	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'performer'@en	'Aretha Franklin'@en
+Q1582240-P175-Q130311-6ed5a586-0	Q1582240	P175	Q130311	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'performer'@en	'George Michael'@en
+Q1582240-P1827-8e9ef0-ed8cb7ae-0	Q1582240	P1827	"T-900.245.174-3"	external-id	'I Knew You Were Waiting (For Me)'@en	'ISWC'@en	
+Q1582240-P1954-12d8b8-789408a6-0	Q1582240	P1954	"94137"	external-id	'I Knew You Were Waiting (For Me)'@en	'Discogs master ID'@en	
+Q1582240-P2624-898dca-b75e2c17-0	Q1582240	P2624	"i-knew-you-were-waiting-for-me-lyrics-aretha-franklin"	external-id	'I Knew You Were Waiting (For Me)'@en	'MetroLyrics ID'@en	
+Q1582240-P264-Q664167-773e6064-0	Q1582240	P264	Q664167	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'record label'@en	'Arista'@en
+Q1582240-P31-Q105543609-045a70d8-0	Q1582240	P31	Q105543609	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'instance of'@en	'musical work/composition'@en
+Q1582240-P361-Q3622215-a1d182a2-0	Q1582240	P361	Q3622215	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'part of'@en	'Aretha'@en
+Q1582240-P407-Q1860-2a6487ee-0	Q1582240	P407	Q1860	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'language of work or name'@en	'English'@en
+Q1582240-P435-67237d-e78dc347-0	Q1582240	P435	"6502bdad-44e6-36c6-9fca-f3d85079b005"	external-id	'I Knew You Were Waiting (For Me)'@en	'MusicBrainz work ID'@en	
+Q1582240-P436-9350d3-b1d3b3fa-0	Q1582240	P436	"38c5e9a7-f6dc-49f6-8e20-aa27ad019cc9"	external-id	'I Knew You Were Waiting (For Me)'@en	'MusicBrainz release group ID'@en	
+Q1582240-P4839-2c6654-959a665a-0	Q1582240	P4839	"Entity[\"MusicWork\", \"IKnewYouWereWaitingForMe::nh5r7\"]"	external-id	'I Knew You Were Waiting (For Me)'@en	'Wolfram Language entity code'@en	
+Q1582240-P495-Q30-856a6735-0	Q1582240	P495	Q30	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'country of origin'@en	'United States of America'@en
+Q1582240-P577-22abcc-508d0d82-0	Q1582240	P577	^1987-01-01T00:00:00Z/10	time	'I Knew You Were Waiting (For Me)'@en	'publication date'@en	
+Q1582240-P646-830b57-4d212f4f-0	Q1582240	P646	"/m/07yxqf"	external-id	'I Knew You Were Waiting (For Me)'@en	'Freebase ID'@en	
+Q1582240-P676-Q934737-32c71b64-0	Q1582240	P676	Q934737	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'lyrics by'@en	'Simon Climie'@en
+Q1582240-P7937-Q7366-88f5464a-0	Q1582240	P7937	Q7366	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'form of creative work'@en	'song'@en
+Q1582240-P86-Q5258760-f22157ab-0	Q1582240	P86	Q5258760	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'composer'@en	'Dennis Morgan'@en
+Q1582240-P86-Q934737-09df36d9-0	Q1582240	P86	Q934737	wikibase-item	'I Knew You Were Waiting (For Me)'@en	'composer'@en	'Simon Climie'@en
