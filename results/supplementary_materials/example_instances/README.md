@@ -1,4 +1,4 @@
-# Examples of instances of the selected classes that comply with the whole pattern we extracted
+# Examples of instances of the selected classes that comply with the whole patterns we extracted
 
 - `Q215380_Q784088.tsv` musical group: Idlewild
 - `Q5_Q127330.tsv` human: Frank Zappa
