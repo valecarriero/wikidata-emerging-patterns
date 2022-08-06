@@ -7,7 +7,7 @@ read -p "Enter the absolute path of the KGTK tsv edgefile containing P279star tr
 read -p "Enter the absolute path of the KGTK tsv edgefile containing all type P31 assertions (including the objects in your domain KG): " ALLEDGES
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common classes. 0 means that only the most common class will be selected, 1 that all classes will be selected: " K
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
-read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K3
+read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common range will be selected, 1 that all ranges will be selected: " K3
 
 mkdir $OUTPUTPATH/output
 export kypher="kgtk --debug query"
@@ -50,10 +50,10 @@ for FILE in *.gz
 		mkdir $TEMP_FOLDER
 
 		### partial file without datatype ranges
-		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
+		$kypher -i $FILE -i $ALLEDGES -i $P279STARFILE -o ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --match '(class)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range), v: (class)-[:P279star]->(domain)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct domain as domain, p.label as property, range as range, count(distinct s) as count' --order-by 'property, count desc'
 		
 		### node file with all ranges (both entities and datatypes)
-		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
+		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-all-ranges.tsv --match '(class)<-[:P31]-(s)-[p]->(o)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
 
 		### node file with only ranges with :P31
 		$kypher -i $FILE -i $ALLEDGES -o ../patterns/$CLASS/$CLASS-typed-ranges.tsv --match '(domain)<-[:P31]-(s)-[p]->(o), z: (o)-[:P31]->(range)' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct o as id'
@@ -71,7 +71,7 @@ for FILE in *.gz
 
 
 		### partial file with only datatype ranges
-		$kypher -i $ONLYDATATYPESUBGRAPH -i $FILE -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match '(s)-[p]->(o {wikidatatype: type}), z: (s)-[:P31]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
+		$kypher -i $ONLYDATATYPESUBGRAPH -i $FILE -i $P279STARFILE -o ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --match '(s)-[p]->(o {wikidatatype: type}), z: (s)-[:P31]->(class), v: (class)-[:P279star]->(domain)' --return 'distinct domain as domain, p.label as property, type as range, count(distinct s) as count' --order-by 'property, count desc'
 
 		python -W ignore $CODE_DIRECTORY/merge_nodatatype_yesdatatype.py --nodp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-nodatatype.tsv --yesdp_tsv ../patterns/$CLASS/$CLASS-dr-pairs-datatype.tsv --output_file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
 		kgtk add-labels --input-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv --label-file $NODEFILE --output-file ../patterns/$CLASS/$CLASS-dr-pairs.tsv
