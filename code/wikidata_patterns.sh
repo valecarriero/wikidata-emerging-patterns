@@ -16,6 +16,14 @@ $kypher -i $EDGEFILE -o $OUTPUTPATH/output/classes.tsv --match  '(instance)-[:P3
 kgtk add-labels --input-file $OUTPUTPATH/output/classes.tsv --label-file $NODEFILE --output-file $OUTPUTPATH/output/classes.tsv
 
 CLASSES_TSV=$(python -W ignore return_filtered_distribution.py --input_file $OUTPUTPATH/output/classes.tsv --k_value $K --output_folder $OUTPUTPATH/output)
+
+COUNTINSTANCES=$($kypher -i $EDGEFILE --match '(instance)-[:P31]->(class)' --return 'count(distinct instance) as count')
+TOTINSTANCES=$(echo $COUNTINSTANCES | cut -d' ' -f 2)
+
+# add percentages to both the file with all classes and the file with filtered classes
+python -W ignore add_percentage_classes.py --input_tsv $OUTPUTPATH/output/classes.tsv --tot $TOTINSTANCES
+python -W ignore add_percentage_classes.py --input_tsv $CLASSES_TSV --tot $TOTINSTANCES
+
 echo "the file with the most populated classes based on the threshold has been created:"
 echo $CLASSES_TSV
 SUBGRAPHS_FOLDER=$OUTPUTPATH/output/all_subgraphs
@@ -36,6 +44,9 @@ for FILE in *.gz
 		mkdir ../patterns/$CLASS
 		$kypher -i $FILE -o ../patterns/$CLASS/$CLASS-properties.tsv --match '(class)<-[:P31]-(instance)-[p]->()' --where 'p.label != "P31" and p.label != "P279"' --return 'distinct p.label as property, count(distinct instance) as count' --order-by 'count desc'
 		kgtk add-labels --input-file ../patterns/$CLASS/$CLASS-properties.tsv --label-file $NODEFILE --output-file ../patterns/$CLASS/$CLASS-properties.tsv
+
+		python -W ignore $CODE_DIRECTORY/add_percentage_properties_dr.py --input_tsv ../patterns/$CLASS/$CLASS-properties.tsv --clas_tsv $CLASSES_TSV --clas $CLASS
+
 done
 
 ### generate a file with domain and ranges pairs
@@ -108,6 +119,7 @@ for FOLDER in $OUTPUTPATH/output/patterns/*
 	    		FILTERED_DR_TSV=$(python -W ignore filter_drpairs_basedon_properties.py --dr_pairs $FOLDER/$CLASS-dr-pairs.tsv --filtered_properties $PROP_TSV --output_folder $FOLDER/$CLASS)
 		    	# i filter the new dr pairs file with the most common ranges
 		    	FILTERED_RANGE_TSV=$(python -W ignore filter_drpairs_basedon_filtered_distribution.py --clas $CLASS --input_file $FILTERED_DR_TSV --k_value $K3 --output_folder $FOLDER)
+		    	python -W ignore add_percentage_properties_dr.py --input_tsv $FILTERED_RANGE_TSV --clas_tsv $CLASSES_TSV --clas $CLASS
 
 	    done
 done
