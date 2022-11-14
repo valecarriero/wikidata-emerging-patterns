@@ -8,7 +8,11 @@ def extract_subgraphs(classes_tsv, output_folder, edgefile, p279starfile):
 	subgraphs_commands = []
 
 	for index, row in classes_df.iterrows():
-		command = "$kypher -i " + edgefile + " -i " + p279starfile + " -o " + output_folder + "/" + row["class"] + ".tsv.gz --match '(n2 {wikidatatype: type})<-[l {label: property}]-(n1)-[:P31]->(class), z: (class)-[:P279star]->(:" + row["class"] + ")' --return 'l as id, n1 as node1, property as label, n2 as node2, type'"
+		#with subclasses
+		#command = "$kypher -i " + edgefile + " -i " + p279starfile + " -o " + output_folder + "/" + row["class"] + ".tsv.gz --match '(n2 {wikidatatype: type})<-[l {label: property}]-(n1)-[:P31]->(class), z: (class)-[:P279star]->(:" + row["class"] + ")' --return 'l as id, n1 as node1, property as label, n2 as node2, type'"
+
+		#without subclasses (only direct instances)
+		command = "$kypher -i " + edgefile + " -o " + output_folder + "/" + row["class"] + ".tsv.gz --match '(n2 {wikidatatype: type})<-[l {label: property}]-(n1)-[:P31]->(:" + row["class"] + ")' --return 'l as id, n1 as node1, property as label, n2 as node2, type'"
 
 		subgraphs_commands.append(command)
 
