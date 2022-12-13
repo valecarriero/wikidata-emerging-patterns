@@ -9,6 +9,9 @@ read -p "Enter a value [0, 1] that will be used for defining a threshold for sel
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common range will be selected, 1 that all ranges will be selected: " K3
 
+THRESHOLDS="$K$K2$K3"
+FINALTHRESHOLDS=${THRESHOLDS//./}
+
 mkdir $OUTPUTPATH/output
 export kypher="kgtk --debug query"
 ### I generate a file that counts all instances of all classes: output tsv file
