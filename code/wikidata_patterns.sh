@@ -8,6 +8,8 @@ read -p "Enter the absolute path of the KGTK tsv edgefile containing all type P3
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common classes. 0 means that only the most common class will be selected, 1 that all classes will be selected: " K
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common properties per class. 0 means that only the most common property will be selected, 1 that all properties will be selected: " K2
 read -p "Enter a value [0, 1] that will be used for defining a threshold for selecting the most common ranges per property per class. 0 means that only the most common range will be selected, 1 that all ranges will be selected: " K3
+read -p "Enter the topic of the KG (e.g. music). If the KG is not about a specific topic, enter all: " TOPIC
+read -p "Enter the date of the KG, without any delimiter (e.g. 20220404): " DATE
 
 THRESHOLDS="$K$K2$K3"
 FINALTHRESHOLDS=${THRESHOLDS//./}
