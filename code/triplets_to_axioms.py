@@ -30,13 +30,14 @@ def triplets_to_axioms(properties_input_tsv, triplets_input_tsv, output_folder, 
 		ttls.write("@prefix wdt: <http://www.wikidata.org/prop/direct/> ." + "\n")
 		ttls.write("@prefix wikibase: <http://wikiba.se/ontology#> ." + "\n")
 		ttls.write("@prefix dcterms: <http://purl.org/dc/terms/> ." + "\n")
+		ttls.write("@prefix prov: <http://www.w3.org/ns/prov#> ." + "\n")
 		ttls.write("@prefix os: <http://w3id.org/owlstar/> ." + "\n")
 		ttls.write("@prefix oplax: <https://w3id.org/OPLaX/> ." + "\n")
 		ttls.write("@prefix weps: <https://w3id.org/wikidata-eps/> ." + "\n")
 		ttls.write("\n")
 		ttls.write(prob_pattern + " rdf:type oplax:ProbabilisticPattern ; \n dcterms:source " + topic_subkg + " ; \n dcterms:references wd:" + domain_class + " . \n")
 		ttls.write("\n")
-		ttls.write(topic_subkg + " rdf:type dcterms:Dataset ; \n dcterms:isPartOf " + wikidata_kg + " ; \n dcterms:subject wd:Q638 . \n")
+		ttls.write(topic_subkg + " rdf:type dcterms:Dataset ; \n prov:wasDerivedFrom " + wikidata_kg + " ; \n dcterms:isPartOf " + wikidata_kg + " ; \n dcterms:subject wd:Q638 . \n")
 		ttls.write("\n")
 		ttls.write(wikidata_kg + " rdf:type dcterms:Dataset ; \n dcterms:hasPart " + topic_subkg + " ; \n dcterms:date \"" + date_wikidata_dump[:4] + "-" + date_wikidata_dump[4:6] + "-" + date_wikidata_dump[6:] + "\"^^xsd:date . \n")
 		ttls.write("\n")
@@ -108,3 +109,4 @@ if __name__ == '__main__':
 	args = parser.parse_args()
     
 	triplets_to_axioms(args.properties_input_tsv, args.triplets_input_tsv, args.output_folder, args.topic, args.date_wikidata_dump, args.thresholds)
+
