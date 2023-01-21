@@ -35,7 +35,7 @@ def triplets_to_axioms(properties_input_tsv, triplets_input_tsv, output_folder, 
 		ttls.write("@prefix oplax: <https://w3id.org/OPLaX/> ." + "\n")
 		ttls.write("@prefix weps: <https://w3id.org/wikidata-eps/> ." + "\n")
 		ttls.write("\n")
-		ttls.write(prob_pattern + " rdf:type oplax:ProbabilisticPattern ; \n dcterms:source " + topic_subkg + " ; \n dcterms:references wd:" + domain_class + " . \n")
+		ttls.write(prob_pattern + " rdf:type oplax:FrequentistProbabilisticPattern ; \n dcterms:source " + topic_subkg + " ; \n dcterms:references wd:" + domain_class + " . \n")
 		ttls.write("\n")
 		ttls.write(topic_subkg + " rdf:type dcterms:Dataset ; \n prov:wasDerivedFrom " + wikidata_kg + " ; \n dcterms:isPartOf " + wikidata_kg + " . \n")
 		ttls.write("\n")
