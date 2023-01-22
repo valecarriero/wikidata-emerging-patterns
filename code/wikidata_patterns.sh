@@ -127,6 +127,8 @@ for FOLDER in $OUTPUTPATH/output/patterns/*
 		    	python -W ignore add_percentage_properties_dr.py --input_tsv $FILTERED_RANGE_TSV --clas_tsv $CLASSES_TSV --clas $CLASS
 		    	# create ttl-star probabilistic axiom
 		    	python -W ignore triplets_to_axioms.py --properties_input_tsv $PROP_TSV --triplets_input_tsv $FILTERED_RANGE_TSV --output_folder $FOLDER --topic $TOPIC --date_wikidata_dump $DATE --thresholds $FINALTHRESHOLDS
+		    	# create shex probabilistic shape
+		    	python -W ignore triplets_to_shapes.py --properties_input_tsv $PROP_TSV --triplets_input_tsv $FILTERED_RANGE_TSV --output_folder $FOLDER --topic $TOPIC --date_wikidata_dump $DATE --thresholds $FINALTHRESHOLDS
 
 	    done
 done
