@@ -1,0 +1,94 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:music_Q18127_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_music_subkg_20220404 ; 
+ dcterms:references wd:Q18127 . 
+
+weps:wikidata_music_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_music_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'record label' 'country' 'entity'
+<< << wd:Q18127 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "85.74%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'headquarters location' 'entity'
+<< << wd:Q18127 wdt:P159 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.53%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'genre' 'entity'
+<< << wd:Q18127 wdt:P136 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.63%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'founded by' 'entity'
+<< << wd:Q18127 wdt:P112 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.34%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'MusicBrainz label ID' external-id
+<< << wd:Q18127 wdt:P966 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "71.17%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'Discogs label ID' external-id
+<< << wd:Q18127 wdt:P1955 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.64%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'country'
+<< << wd:Q18127 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "85.31%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'sovereign state'
+<< << wd:Q18127 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "84.04%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'constitutional republic'
+<< << wd:Q18127 wdt:P17 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "47.75%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'federal republic'
+<< << wd:Q18127 wdt:P17 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "47.64%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'democratic republic'
+<< << wd:Q18127 wdt:P17 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.96%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'historical unrecognized state'
+<< << wd:Q18127 wdt:P17 wd:Q99541706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.63%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'country' 'superpower'
+<< << wd:Q18127 wdt:P17 wd:Q1489259 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.57%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'official website' url
+<< << wd:Q18127 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "49.9%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'inception' time
+<< << wd:Q18127 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "79.95%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'founded by' 'human'
+<< << wd:Q18127 wdt:P112 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.57%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'WorldCat Identities ID' external-id
+<< << wd:Q18127 wdt:P7859 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.11%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'headquarters location' 'big city'
+<< << wd:Q18127 wdt:P159 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.9%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'headquarters location' 'city'
+<< << wd:Q18127 wdt:P159 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "12.99%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'headquarters location' 'city of the United States'
+<< << wd:Q18127 wdt:P159 wd:Q1093829 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "10.31%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'headquarters location' 'million city'
+<< << wd:Q18127 wdt:P159 wd:Q1637706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "9.07%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'genre' 'music genre'
+<< << wd:Q18127 wdt:P136 wd:Q188451 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.52%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'Freebase ID' external-id
+<< << wd:Q18127 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.28%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+
+# 'record label' 'VIAF ID' external-id
+<< << wd:Q18127 wdt:P214 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.1%" ; oplax:isNativeTo weps:music_Q18127_09508505 .
+

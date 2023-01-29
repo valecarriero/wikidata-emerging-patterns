@@ -1,0 +1,196 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q5_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q5 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'human' 'sex or gender' 'entity'
+<< << wd:Q5 wdt:P21 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.9%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'occupation' 'entity'
+<< << wd:Q5 wdt:P106 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.02%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'given name' 'entity'
+<< << wd:Q5 wdt:P735 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.31%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'country of citizenship' 'entity'
+<< << wd:Q5 wdt:P27 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "81.32%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'place of birth' 'entity'
+<< << wd:Q5 wdt:P19 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "62.74%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'family name' 'entity'
+<< << wd:Q5 wdt:P734 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "55.44%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'copyright status as a creator' 'entity'
+<< << wd:Q5 wdt:P7763 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "51.86%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'educated at' 'entity'
+<< << wd:Q5 wdt:P69 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "39.71%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'entity'
+<< << wd:Q5 wdt:P1412 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.67%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'place of death' 'entity'
+<< << wd:Q5 wdt:P20 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "29.68%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'has works in the collection' 'entity'
+<< << wd:Q5 wdt:P6379 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.87%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'award received' 'entity'
+<< << wd:Q5 wdt:P166 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.82%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Invaluable.com person ID' external-id
+<< << wd:Q5 wdt:P4927 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.1%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Union List of Artist Names ID' external-id
+<< << wd:Q5 wdt:P245 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.96%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'RKDartists ID' external-id
+<< << wd:Q5 wdt:P650 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "21.1%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'language'
+<< << wd:Q5 wdt:P1412 wd:Q34770 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.43%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'modern language'
+<< << wd:Q5 wdt:P1412 wd:Q1288568 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.99%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'natural language'
+<< << wd:Q5 wdt:P1412 wd:Q33742 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.26%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'family name' 'family name'
+<< << wd:Q5 wdt:P734 wd:Q101352 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "55.34%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'IdRef ID' external-id
+<< << wd:Q5 wdt:P269 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "24.01%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'educated at' 'university'
+<< << wd:Q5 wdt:P69 wd:Q3918 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "13.13%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'educated at' 'Art school'
+<< << wd:Q5 wdt:P69 wd:Q383092 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "12.16%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'educated at' 'private not-for-profit educational institution'
+<< << wd:Q5 wdt:P69 wd:Q23002054 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "10.8%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'educated at' 'public research university'
+<< << wd:Q5 wdt:P69 wd:Q62078547 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.6%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'occupation' 'occupation'
+<< << wd:Q5 wdt:P106 wd:Q12737077 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "83.31%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'occupation' 'profession'
+<< << wd:Q5 wdt:P106 wd:Q28640 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "65.44%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'occupation' 'artistic profession'
+<< << wd:Q5 wdt:P106 wd:Q88789639 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "45.76%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Nationale Thesaurus voor Auteurs ID' external-id
+<< << wd:Q5 wdt:P1006 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.34%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'SNAC ARK ID' external-id
+<< << wd:Q5 wdt:P3430 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "24.19%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Freebase ID' external-id
+<< << wd:Q5 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.5%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'GND ID' external-id
+<< << wd:Q5 wdt:P227 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "30.83%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'award received' 'award'
+<< << wd:Q5 wdt:P166 wd:Q618779 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "5.43%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'award received' 'grade of an order'
+<< << wd:Q5 wdt:P166 wd:Q60754876 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "3.44%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'award received' 'art prize'
+<< << wd:Q5 wdt:P166 wd:Q1792571 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "2.97%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Artnet artist ID' external-id
+<< << wd:Q5 wdt:P3782 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.46%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'FAST ID' external-id
+<< << wd:Q5 wdt:P2163 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "34.28%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'sex or gender' 'gender identity'
+<< << wd:Q5 wdt:P21 wd:Q48264 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.9%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'sex or gender' 'sex of humans'
+<< << wd:Q5 wdt:P21 wd:Q4369513 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.87%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'has works in the collection' 'art museum'
+<< << wd:Q5 wdt:P6379 wd:Q207694 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "22.42%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Bibliothèque nationale de France ID' external-id
+<< << wd:Q5 wdt:P268 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.84%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'place of birth' 'big city'
+<< << wd:Q5 wdt:P19 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.74%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'place of birth' 'city'
+<< << wd:Q5 wdt:P19 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.44%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'place of death' 'big city'
+<< << wd:Q5 wdt:P20 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "13.43%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'place of death' 'city'
+<< << wd:Q5 wdt:P20 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "10.01%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'VIAF ID' external-id
+<< << wd:Q5 wdt:P214 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "64.18%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'country of citizenship' 'sovereign state'
+<< << wd:Q5 wdt:P27 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "78.23%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'country of citizenship' 'country'
+<< << wd:Q5 wdt:P27 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "76.24%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'WorldCat Identities ID' external-id
+<< << wd:Q5 wdt:P7859 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "60.63%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'date of death' time
+<< << wd:Q5 wdt:P570 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "50.37%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'ISNI' external-id
+<< << wd:Q5 wdt:P213 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "47.35%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'image' commonsMedia
+<< << wd:Q5 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "31.5%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Europeana entity' external-id
+<< << wd:Q5 wdt:P7704 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "55.64%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Prabook ID' external-id
+<< << wd:Q5 wdt:P3368 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.94%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'copyright status as a creator' 'copyright status of works'
+<< << wd:Q5 wdt:P7763 wd:Q73568642 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "51.85%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'date of birth' time
+<< << wd:Q5 wdt:P569 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.97%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Commons category' string
+<< << wd:Q5 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.68%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'given name' 'male given name'
+<< << wd:Q5 wdt:P735 wd:Q12308941 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "63.71%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+
+# 'human' 'Library of Congress authority ID' external-id
+<< << wd:Q5 wdt:P244 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "47.61%" ; oplax:isNativeTo weps:AAA_Q5_09508505 .
+

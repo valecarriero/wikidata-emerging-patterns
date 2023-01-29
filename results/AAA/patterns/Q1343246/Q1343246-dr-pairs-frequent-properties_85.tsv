@@ -1,0 +1,711 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q1343246	P7959	Q1138494	558.0	'English country house'@en	'historic county'@en	'historic county of England'@en
+Q1343246	P7959	Q2991489	155.0	'English country house'@en	'historic county'@en	'county palatine'@en
+Q2087181	P7959	Q1138494	81.0	'historic house museum'@en	'historic county'@en	'historic county of England'@en
+Q879050	P7959	Q1138494	45.0	'manor house'@en	'historic county'@en	'historic county of England'@en
+Q64995589	P7959	Q1138494	27.0	'country house hotel'@en	'historic county'@en	'historic county of England'@en
+Q23413	P7959	Q1138494	14.0	'castle'@en	'historic county'@en	'historic county of England'@en
+Q1343246	P7959	Q67376938	13.0	'English country house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q1343246	P7959	Q7925010	12.0	'English country house'@en	'historic county'@en	'vice-county'@en
+Q2087181	P7959	Q2991489	12.0	'historic house museum'@en	'historic county'@en	'county palatine'@en
+Q879050	P7959	Q2991489	7.0	'manor house'@en	'historic county'@en	'county palatine'@en
+Q107724136	P7959	Q1138494	4.0	'wedding venue'@en	'historic county'@en	'historic county of England'@en
+Q1244442	P7959	Q1138494	4.0	'school building'@en	'historic county'@en	'historic county of England'@en
+Q27686	P7959	Q1138494	4.0	'hotel'@en	'historic county'@en	'historic county of England'@en
+Q811979	P7959	Q1138494	4.0	'architectural structure'@en	'historic county'@en	'historic county of England'@en
+Q22698	P7959	Q1138494	3.0	'park'@en	'historic county'@en	'historic county of England'@en
+Q64995589	P7959	Q2991489	3.0	'country house hotel'@en	'historic county'@en	'county palatine'@en
+Q64995589	P7959	Q7925010	3.0	'country house hotel'@en	'historic county'@en	'vice-county'@en
+Q12292478	P7959	Q1138494	2.0	'estate'@en	'historic county'@en	'historic county of England'@en
+Q1244442	P7959	Q2991489	2.0	'school building'@en	'historic county'@en	'county palatine'@en
+Q1802963	P7959	Q1138494	2.0	'mansion'@en	'historic county'@en	'historic county of England'@en
+Q23413	P7959	Q2991489	2.0	'castle'@en	'historic county'@en	'county palatine'@en
+Q2750108	P7959	Q1138494	2.0	'priory'@en	'historic county'@en	'historic county of England'@en
+Q27686	P7959	Q2991489	2.0	'hotel'@en	'historic county'@en	'county palatine'@en
+Q64995589	P7959	Q67376938	2.0	'country house hotel'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q92107	P7959	Q1138494	2.0	'quadrangular castle'@en	'historic county'@en	'historic county of England'@en
+Q107724136	P7959	Q2991489	1.0	'wedding venue'@en	'historic county'@en	'county palatine'@en
+Q12518	P7959	Q1138494	1.0	'tower'@en	'historic county'@en	'historic county of England'@en
+Q13402009	P7959	Q1138494	1.0	'apartment building'@en	'historic county'@en	'historic county of England'@en
+Q13402009	P7959	Q2991489	1.0	'apartment building'@en	'historic county'@en	'county palatine'@en
+Q1343246	P7959	Q1350181	1.0	'English country house'@en	'historic county'@en	'shire of Scotland'@en
+Q1343246	P7959	Q1857731	1.0	'English country house'@en	'historic county'@en	'historic county of Wales'@en
+Q1343246	P7959	Q683738	1.0	'English country house'@en	'historic county'@en	'Administrative subdivision of Wales'@en
+Q1343246	P7959	Q7309443	1.0	'English country house'@en	'historic county'@en	'registration county'@en
+Q15077303	P7959	Q1138494	1.0	'landscape garden'@en	'historic county'@en	'historic county of England'@en
+Q1589077	P7959	Q1138494	1.0	'youth hostel'@en	'historic county'@en	'historic county of England'@en
+Q160742	P7959	Q1138494	1.0	'abbey'@en	'historic county'@en	'historic county of England'@en
+Q16151173	P7959	Q1138494	1.0	'Grade II* listed buildings in Merseyside'@en	'historic county'@en	'historic county of England'@en
+Q16151173	P7959	Q2991489	1.0	'Grade II* listed buildings in Merseyside'@en	'historic county'@en	'county palatine'@en
+Q18674739	P7959	Q1138494	1.0	'event venue'@en	'historic county'@en	'historic county of England'@en
+Q207694	P7959	Q1138494	1.0	'art museum'@en	'historic county'@en	'historic county of England'@en
+Q2087181	P7959	Q67376938	1.0	'historic house museum'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q212198	P7959	Q1138494	1.0	'pub'@en	'historic county'@en	'historic county of England'@en
+Q212198	P7959	Q2991489	1.0	'pub'@en	'historic county'@en	'county palatine'@en
+Q22698	P7959	Q67376938	1.0	'park'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q23413	P7959	Q7925010	1.0	'castle'@en	'historic county'@en	'vice-county'@en
+Q24354	P7959	Q1138494	1.0	'theatre'@en	'historic county'@en	'historic county of England'@en
+Q264649	P7959	Q1138494	1.0	'Palladian architecture'@en	'historic county'@en	'historic county of England'@en
+Q2772772	P7959	Q1138494	1.0	'military museum'@en	'historic county'@en	'historic county of England'@en
+Q30785519	P7959	Q1138494	1.0	'university campus'@en	'historic county'@en	'historic county of England'@en
+Q30785519	P7959	Q67376938	1.0	'university campus'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q33506	P7959	Q1138494	1.0	'museum'@en	'historic county'@en	'historic county of England'@en
+Q350723	P7959	Q1138494	1.0	'country park'@en	'historic county'@en	'historic county of England'@en
+Q39364723	P7959	Q1138494	1.0	'hospital building'@en	'historic county'@en	'historic county of England'@en
+Q3947	P7959	Q1138494	1.0	'house'@en	'historic county'@en	'historic county of England'@en
+Q41176	P7959	Q1138494	1.0	'building'@en	'historic county'@en	'historic county of England'@en
+Q47530379	P7959	Q1138494	1.0	'agricultural college'@en	'historic county'@en	'historic county of England'@en
+Q489357	P7959	Q1138494	1.0	'farmhouse'@en	'historic county'@en	'historic county of England'@en
+Q5302681	P7959	Q1138494	1.0	'dower house'@en	'historic county'@en	'historic county of England'@en
+Q5783996	P7959	Q1138494	1.0	'cottage'@en	'historic county'@en	'historic county of England'@en
+Q64578911	P7959	Q1138494	1.0	'former hospital'@en	'historic county'@en	'historic county of England'@en
+Q811979	P7959	Q67376938	1.0	'architectural structure'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q839954	P7959	Q1138494	1.0	'archaeological site'@en	'historic county'@en	'historic county of England'@en
+Q839954	P7959	Q2991489	1.0	'archaeological site'@en	'historic county'@en	'county palatine'@en
+Q91312	P7959	Q1138494	1.0	'tower house'@en	'historic county'@en	'historic county of England'@en
+Q1343246	P646	external-id	506.0	'English country house'@en	'Freebase ID'@en	
+Q2087181	P646	external-id	74.0	'historic house museum'@en	'Freebase ID'@en	
+Q879050	P646	external-id	74.0	'manor house'@en	'Freebase ID'@en	
+Q23413	P646	external-id	12.0	'castle'@en	'Freebase ID'@en	
+Q64995589	P646	external-id	6.0	'country house hotel'@en	'Freebase ID'@en	
+Q107724136	P646	external-id	4.0	'wedding venue'@en	'Freebase ID'@en	
+Q1244442	P646	external-id	3.0	'school building'@en	'Freebase ID'@en	
+Q22698	P646	external-id	3.0	'park'@en	'Freebase ID'@en	
+Q811979	P646	external-id	3.0	'architectural structure'@en	'Freebase ID'@en	
+Q12292478	P646	external-id	2.0	'estate'@en	'Freebase ID'@en	
+Q1802963	P646	external-id	2.0	'mansion'@en	'Freebase ID'@en	
+Q2750108	P646	external-id	2.0	'priory'@en	'Freebase ID'@en	
+Q92107	P646	external-id	2.0	'quadrangular castle'@en	'Freebase ID'@en	
+Q12518	P646	external-id	1.0	'tower'@en	'Freebase ID'@en	
+Q13402009	P646	external-id	1.0	'apartment building'@en	'Freebase ID'@en	
+Q15077303	P646	external-id	1.0	'landscape garden'@en	'Freebase ID'@en	
+Q1589077	P646	external-id	1.0	'youth hostel'@en	'Freebase ID'@en	
+Q160742	P646	external-id	1.0	'abbey'@en	'Freebase ID'@en	
+Q16151173	P646	external-id	1.0	'Grade II* listed buildings in Merseyside'@en	'Freebase ID'@en	
+Q18674739	P646	external-id	1.0	'event venue'@en	'Freebase ID'@en	
+Q212198	P646	external-id	1.0	'pub'@en	'Freebase ID'@en	
+Q264649	P646	external-id	1.0	'Palladian architecture'@en	'Freebase ID'@en	
+Q27686	P646	external-id	1.0	'hotel'@en	'Freebase ID'@en	
+Q2772772	P646	external-id	1.0	'military museum'@en	'Freebase ID'@en	
+Q30785519	P646	external-id	1.0	'university campus'@en	'Freebase ID'@en	
+Q33506	P646	external-id	1.0	'museum'@en	'Freebase ID'@en	
+Q350723	P646	external-id	1.0	'country park'@en	'Freebase ID'@en	
+Q39364723	P646	external-id	1.0	'hospital building'@en	'Freebase ID'@en	
+Q41176	P646	external-id	1.0	'building'@en	'Freebase ID'@en	
+Q489357	P646	external-id	1.0	'farmhouse'@en	'Freebase ID'@en	
+Q5302681	P646	external-id	1.0	'dower house'@en	'Freebase ID'@en	
+Q5783996	P646	external-id	1.0	'cottage'@en	'Freebase ID'@en	
+Q91312	P646	external-id	1.0	'tower house'@en	'Freebase ID'@en	
+Q1343246	P625	globe-coordinate	551.0	'English country house'@en	'coordinate location'@en	
+Q2087181	P625	globe-coordinate	81.0	'historic house museum'@en	'coordinate location'@en	
+Q879050	P625	globe-coordinate	36.0	'manor house'@en	'coordinate location'@en	
+Q64995589	P625	globe-coordinate	27.0	'country house hotel'@en	'coordinate location'@en	
+Q23413	P625	globe-coordinate	14.0	'castle'@en	'coordinate location'@en	
+Q107724136	P625	globe-coordinate	4.0	'wedding venue'@en	'coordinate location'@en	
+Q1244442	P625	globe-coordinate	4.0	'school building'@en	'coordinate location'@en	
+Q27686	P625	globe-coordinate	4.0	'hotel'@en	'coordinate location'@en	
+Q811979	P625	globe-coordinate	4.0	'architectural structure'@en	'coordinate location'@en	
+Q22698	P625	globe-coordinate	3.0	'park'@en	'coordinate location'@en	
+Q12292478	P625	globe-coordinate	2.0	'estate'@en	'coordinate location'@en	
+Q1802963	P625	globe-coordinate	2.0	'mansion'@en	'coordinate location'@en	
+Q2750108	P625	globe-coordinate	2.0	'priory'@en	'coordinate location'@en	
+Q92107	P625	globe-coordinate	2.0	'quadrangular castle'@en	'coordinate location'@en	
+Q12518	P625	globe-coordinate	1.0	'tower'@en	'coordinate location'@en	
+Q13402009	P625	globe-coordinate	1.0	'apartment building'@en	'coordinate location'@en	
+Q15077303	P625	globe-coordinate	1.0	'landscape garden'@en	'coordinate location'@en	
+Q1589077	P625	globe-coordinate	1.0	'youth hostel'@en	'coordinate location'@en	
+Q160742	P625	globe-coordinate	1.0	'abbey'@en	'coordinate location'@en	
+Q16151173	P625	globe-coordinate	1.0	'Grade II* listed buildings in Merseyside'@en	'coordinate location'@en	
+Q18674739	P625	globe-coordinate	1.0	'event venue'@en	'coordinate location'@en	
+Q207694	P625	globe-coordinate	1.0	'art museum'@en	'coordinate location'@en	
+Q212198	P625	globe-coordinate	1.0	'pub'@en	'coordinate location'@en	
+Q24354	P625	globe-coordinate	1.0	'theatre'@en	'coordinate location'@en	
+Q264649	P625	globe-coordinate	1.0	'Palladian architecture'@en	'coordinate location'@en	
+Q2772772	P625	globe-coordinate	1.0	'military museum'@en	'coordinate location'@en	
+Q30785519	P625	globe-coordinate	1.0	'university campus'@en	'coordinate location'@en	
+Q33506	P625	globe-coordinate	1.0	'museum'@en	'coordinate location'@en	
+Q350723	P625	globe-coordinate	1.0	'country park'@en	'coordinate location'@en	
+Q39364723	P625	globe-coordinate	1.0	'hospital building'@en	'coordinate location'@en	
+Q3947	P625	globe-coordinate	1.0	'house'@en	'coordinate location'@en	
+Q41176	P625	globe-coordinate	1.0	'building'@en	'coordinate location'@en	
+Q47530379	P625	globe-coordinate	1.0	'agricultural college'@en	'coordinate location'@en	
+Q489357	P625	globe-coordinate	1.0	'farmhouse'@en	'coordinate location'@en	
+Q5302681	P625	globe-coordinate	1.0	'dower house'@en	'coordinate location'@en	
+Q5783996	P625	globe-coordinate	1.0	'cottage'@en	'coordinate location'@en	
+Q64578911	P625	globe-coordinate	1.0	'former hospital'@en	'coordinate location'@en	
+Q839954	P625	globe-coordinate	1.0	'archaeological site'@en	'coordinate location'@en	
+Q91312	P625	globe-coordinate	1.0	'tower house'@en	'coordinate location'@en	
+Q1343246	P613	string	461.0	'English country house'@en	'OS grid reference'@en	
+Q2087181	P613	string	78.0	'historic house museum'@en	'OS grid reference'@en	
+Q879050	P613	string	28.0	'manor house'@en	'OS grid reference'@en	
+Q64995589	P613	string	24.0	'country house hotel'@en	'OS grid reference'@en	
+Q23413	P613	string	10.0	'castle'@en	'OS grid reference'@en	
+Q107724136	P613	string	4.0	'wedding venue'@en	'OS grid reference'@en	
+Q1244442	P613	string	4.0	'school building'@en	'OS grid reference'@en	
+Q27686	P613	string	4.0	'hotel'@en	'OS grid reference'@en	
+Q811979	P613	string	4.0	'architectural structure'@en	'OS grid reference'@en	
+Q1802963	P613	string	2.0	'mansion'@en	'OS grid reference'@en	
+Q2750108	P613	string	2.0	'priory'@en	'OS grid reference'@en	
+Q92107	P613	string	2.0	'quadrangular castle'@en	'OS grid reference'@en	
+Q12292478	P613	string	1.0	'estate'@en	'OS grid reference'@en	
+Q12518	P613	string	1.0	'tower'@en	'OS grid reference'@en	
+Q13402009	P613	string	1.0	'apartment building'@en	'OS grid reference'@en	
+Q1589077	P613	string	1.0	'youth hostel'@en	'OS grid reference'@en	
+Q160742	P613	string	1.0	'abbey'@en	'OS grid reference'@en	
+Q16151173	P613	string	1.0	'Grade II* listed buildings in Merseyside'@en	'OS grid reference'@en	
+Q18674739	P613	string	1.0	'event venue'@en	'OS grid reference'@en	
+Q207694	P613	string	1.0	'art museum'@en	'OS grid reference'@en	
+Q212198	P613	string	1.0	'pub'@en	'OS grid reference'@en	
+Q22698	P613	string	1.0	'park'@en	'OS grid reference'@en	
+Q24354	P613	string	1.0	'theatre'@en	'OS grid reference'@en	
+Q2772772	P613	string	1.0	'military museum'@en	'OS grid reference'@en	
+Q33506	P613	string	1.0	'museum'@en	'OS grid reference'@en	
+Q350723	P613	string	1.0	'country park'@en	'OS grid reference'@en	
+Q39364723	P613	string	1.0	'hospital building'@en	'OS grid reference'@en	
+Q3947	P613	string	1.0	'house'@en	'OS grid reference'@en	
+Q41176	P613	string	1.0	'building'@en	'OS grid reference'@en	
+Q47530379	P613	string	1.0	'agricultural college'@en	'OS grid reference'@en	
+Q489357	P613	string	1.0	'farmhouse'@en	'OS grid reference'@en	
+Q5302681	P613	string	1.0	'dower house'@en	'OS grid reference'@en	
+Q5783996	P613	string	1.0	'cottage'@en	'OS grid reference'@en	
+Q64578911	P613	string	1.0	'former hospital'@en	'OS grid reference'@en	
+Q839954	P613	string	1.0	'archaeological site'@en	'OS grid reference'@en	
+Q91312	P613	string	1.0	'tower house'@en	'OS grid reference'@en	
+Q1343246	P373	string	293.0	'English country house'@en	'Commons category'@en	
+Q2087181	P373	string	77.0	'historic house museum'@en	'Commons category'@en	
+Q64995589	P373	string	18.0	'country house hotel'@en	'Commons category'@en	
+Q23413	P373	string	12.0	'castle'@en	'Commons category'@en	
+Q879050	P373	string	8.0	'manor house'@en	'Commons category'@en	
+Q22698	P373	string	3.0	'park'@en	'Commons category'@en	
+Q27686	P373	string	3.0	'hotel'@en	'Commons category'@en	
+Q12292478	P373	string	2.0	'estate'@en	'Commons category'@en	
+Q1244442	P373	string	2.0	'school building'@en	'Commons category'@en	
+Q1802963	P373	string	2.0	'mansion'@en	'Commons category'@en	
+Q2750108	P373	string	2.0	'priory'@en	'Commons category'@en	
+Q92107	P373	string	2.0	'quadrangular castle'@en	'Commons category'@en	
+Q107724136	P373	string	1.0	'wedding venue'@en	'Commons category'@en	
+Q12518	P373	string	1.0	'tower'@en	'Commons category'@en	
+Q13402009	P373	string	1.0	'apartment building'@en	'Commons category'@en	
+Q160742	P373	string	1.0	'abbey'@en	'Commons category'@en	
+Q16151173	P373	string	1.0	'Grade II* listed buildings in Merseyside'@en	'Commons category'@en	
+Q18674739	P373	string	1.0	'event venue'@en	'Commons category'@en	
+Q207694	P373	string	1.0	'art museum'@en	'Commons category'@en	
+Q264649	P373	string	1.0	'Palladian architecture'@en	'Commons category'@en	
+Q30785519	P373	string	1.0	'university campus'@en	'Commons category'@en	
+Q33506	P373	string	1.0	'museum'@en	'Commons category'@en	
+Q350723	P373	string	1.0	'country park'@en	'Commons category'@en	
+Q3947	P373	string	1.0	'house'@en	'Commons category'@en	
+Q47530379	P373	string	1.0	'agricultural college'@en	'Commons category'@en	
+Q64578911	P373	string	1.0	'former hospital'@en	'Commons category'@en	
+Q811979	P373	string	1.0	'architectural structure'@en	'Commons category'@en	
+Q839954	P373	string	1.0	'archaeological site'@en	'Commons category'@en	
+Q91312	P373	string	1.0	'tower house'@en	'Commons category'@en	
+Q1343246	P3481	external-id	110.0	'English country house'@en	'Parks & Gardens UK record ID'@en	
+Q2087181	P3481	external-id	33.0	'historic house museum'@en	'Parks & Gardens UK record ID'@en	
+Q64995589	P3481	external-id	5.0	'country house hotel'@en	'Parks & Gardens UK record ID'@en	
+Q23413	P3481	external-id	4.0	'castle'@en	'Parks & Gardens UK record ID'@en	
+Q12292478	P3481	external-id	2.0	'estate'@en	'Parks & Gardens UK record ID'@en	
+Q879050	P3481	external-id	2.0	'manor house'@en	'Parks & Gardens UK record ID'@en	
+Q107724136	P3481	external-id	1.0	'wedding venue'@en	'Parks & Gardens UK record ID'@en	
+Q1244442	P3481	external-id	1.0	'school building'@en	'Parks & Gardens UK record ID'@en	
+Q160742	P3481	external-id	1.0	'abbey'@en	'Parks & Gardens UK record ID'@en	
+Q16151173	P3481	external-id	1.0	'Grade II* listed buildings in Merseyside'@en	'Parks & Gardens UK record ID'@en	
+Q1802963	P3481	external-id	1.0	'mansion'@en	'Parks & Gardens UK record ID'@en	
+Q22698	P3481	external-id	1.0	'park'@en	'Parks & Gardens UK record ID'@en	
+Q2750108	P3481	external-id	1.0	'priory'@en	'Parks & Gardens UK record ID'@en	
+Q27686	P3481	external-id	1.0	'hotel'@en	'Parks & Gardens UK record ID'@en	
+Q350723	P3481	external-id	1.0	'country park'@en	'Parks & Gardens UK record ID'@en	
+Q811979	P3481	external-id	1.0	'architectural structure'@en	'Parks & Gardens UK record ID'@en	
+Q839954	P3481	external-id	1.0	'archaeological site'@en	'Parks & Gardens UK record ID'@en	
+Q91312	P3481	external-id	1.0	'tower house'@en	'Parks & Gardens UK record ID'@en	
+Q92107	P3481	external-id	1.0	'quadrangular castle'@en	'Parks & Gardens UK record ID'@en	
+Q1343246	P18	commonsMedia	451.0	'English country house'@en	'image'@en	
+Q2087181	P18	commonsMedia	81.0	'historic house museum'@en	'image'@en	
+Q64995589	P18	commonsMedia	26.0	'country house hotel'@en	'image'@en	
+Q879050	P18	commonsMedia	23.0	'manor house'@en	'image'@en	
+Q23413	P18	commonsMedia	14.0	'castle'@en	'image'@en	
+Q107724136	P18	commonsMedia	4.0	'wedding venue'@en	'image'@en	
+Q27686	P18	commonsMedia	4.0	'hotel'@en	'image'@en	
+Q1244442	P18	commonsMedia	3.0	'school building'@en	'image'@en	
+Q811979	P18	commonsMedia	3.0	'architectural structure'@en	'image'@en	
+Q12292478	P18	commonsMedia	2.0	'estate'@en	'image'@en	
+Q1802963	P18	commonsMedia	2.0	'mansion'@en	'image'@en	
+Q22698	P18	commonsMedia	2.0	'park'@en	'image'@en	
+Q2750108	P18	commonsMedia	2.0	'priory'@en	'image'@en	
+Q92107	P18	commonsMedia	2.0	'quadrangular castle'@en	'image'@en	
+Q12518	P18	commonsMedia	1.0	'tower'@en	'image'@en	
+Q13402009	P18	commonsMedia	1.0	'apartment building'@en	'image'@en	
+Q1589077	P18	commonsMedia	1.0	'youth hostel'@en	'image'@en	
+Q160742	P18	commonsMedia	1.0	'abbey'@en	'image'@en	
+Q16151173	P18	commonsMedia	1.0	'Grade II* listed buildings in Merseyside'@en	'image'@en	
+Q18674739	P18	commonsMedia	1.0	'event venue'@en	'image'@en	
+Q207694	P18	commonsMedia	1.0	'art museum'@en	'image'@en	
+Q212198	P18	commonsMedia	1.0	'pub'@en	'image'@en	
+Q24354	P18	commonsMedia	1.0	'theatre'@en	'image'@en	
+Q264649	P18	commonsMedia	1.0	'Palladian architecture'@en	'image'@en	
+Q2772772	P18	commonsMedia	1.0	'military museum'@en	'image'@en	
+Q33506	P18	commonsMedia	1.0	'museum'@en	'image'@en	
+Q350723	P18	commonsMedia	1.0	'country park'@en	'image'@en	
+Q39364723	P18	commonsMedia	1.0	'hospital building'@en	'image'@en	
+Q3947	P18	commonsMedia	1.0	'house'@en	'image'@en	
+Q47530379	P18	commonsMedia	1.0	'agricultural college'@en	'image'@en	
+Q5302681	P18	commonsMedia	1.0	'dower house'@en	'image'@en	
+Q5783996	P18	commonsMedia	1.0	'cottage'@en	'image'@en	
+Q64578911	P18	commonsMedia	1.0	'former hospital'@en	'image'@en	
+Q839954	P18	commonsMedia	1.0	'archaeological site'@en	'image'@en	
+Q91312	P18	commonsMedia	1.0	'tower house'@en	'image'@en	
+Q1343246	P17	Q112099	596.0	'English country house'@en	'country'@en	'island nation'@en
+Q1343246	P17	Q1250464	596.0	'English country house'@en	'country'@en	'realm'@en
+Q1343246	P17	Q20181813	596.0	'English country house'@en	'country'@en	'colonial power'@en
+Q1343246	P17	Q202686	596.0	'English country house'@en	'country'@en	'Commonwealth realm'@en
+Q1343246	P17	Q3624078	596.0	'English country house'@en	'country'@en	'sovereign state'@en
+Q1343246	P17	Q6256	596.0	'English country house'@en	'country'@en	'country'@en
+Q2087181	P17	Q112099	81.0	'historic house museum'@en	'country'@en	'island nation'@en
+Q2087181	P17	Q1250464	81.0	'historic house museum'@en	'country'@en	'realm'@en
+Q2087181	P17	Q20181813	81.0	'historic house museum'@en	'country'@en	'colonial power'@en
+Q2087181	P17	Q202686	81.0	'historic house museum'@en	'country'@en	'Commonwealth realm'@en
+Q2087181	P17	Q3624078	81.0	'historic house museum'@en	'country'@en	'sovereign state'@en
+Q2087181	P17	Q6256	81.0	'historic house museum'@en	'country'@en	'country'@en
+Q879050	P17	Q112099	79.0	'manor house'@en	'country'@en	'island nation'@en
+Q879050	P17	Q1250464	79.0	'manor house'@en	'country'@en	'realm'@en
+Q879050	P17	Q20181813	79.0	'manor house'@en	'country'@en	'colonial power'@en
+Q879050	P17	Q202686	79.0	'manor house'@en	'country'@en	'Commonwealth realm'@en
+Q879050	P17	Q3624078	79.0	'manor house'@en	'country'@en	'sovereign state'@en
+Q879050	P17	Q6256	79.0	'manor house'@en	'country'@en	'country'@en
+Q64995589	P17	Q112099	27.0	'country house hotel'@en	'country'@en	'island nation'@en
+Q64995589	P17	Q1250464	27.0	'country house hotel'@en	'country'@en	'realm'@en
+Q64995589	P17	Q20181813	27.0	'country house hotel'@en	'country'@en	'colonial power'@en
+Q64995589	P17	Q202686	27.0	'country house hotel'@en	'country'@en	'Commonwealth realm'@en
+Q64995589	P17	Q3624078	27.0	'country house hotel'@en	'country'@en	'sovereign state'@en
+Q64995589	P17	Q6256	27.0	'country house hotel'@en	'country'@en	'country'@en
+Q23413	P17	Q112099	14.0	'castle'@en	'country'@en	'island nation'@en
+Q23413	P17	Q1250464	14.0	'castle'@en	'country'@en	'realm'@en
+Q23413	P17	Q20181813	14.0	'castle'@en	'country'@en	'colonial power'@en
+Q23413	P17	Q202686	14.0	'castle'@en	'country'@en	'Commonwealth realm'@en
+Q23413	P17	Q3624078	14.0	'castle'@en	'country'@en	'sovereign state'@en
+Q23413	P17	Q6256	14.0	'castle'@en	'country'@en	'country'@en
+Q107724136	P17	Q112099	4.0	'wedding venue'@en	'country'@en	'island nation'@en
+Q107724136	P17	Q1250464	4.0	'wedding venue'@en	'country'@en	'realm'@en
+Q107724136	P17	Q20181813	4.0	'wedding venue'@en	'country'@en	'colonial power'@en
+Q107724136	P17	Q202686	4.0	'wedding venue'@en	'country'@en	'Commonwealth realm'@en
+Q107724136	P17	Q3624078	4.0	'wedding venue'@en	'country'@en	'sovereign state'@en
+Q107724136	P17	Q6256	4.0	'wedding venue'@en	'country'@en	'country'@en
+Q1244442	P17	Q112099	4.0	'school building'@en	'country'@en	'island nation'@en
+Q1244442	P17	Q1250464	4.0	'school building'@en	'country'@en	'realm'@en
+Q1244442	P17	Q20181813	4.0	'school building'@en	'country'@en	'colonial power'@en
+Q1244442	P17	Q202686	4.0	'school building'@en	'country'@en	'Commonwealth realm'@en
+Q1244442	P17	Q3624078	4.0	'school building'@en	'country'@en	'sovereign state'@en
+Q1244442	P17	Q6256	4.0	'school building'@en	'country'@en	'country'@en
+Q27686	P17	Q112099	4.0	'hotel'@en	'country'@en	'island nation'@en
+Q27686	P17	Q1250464	4.0	'hotel'@en	'country'@en	'realm'@en
+Q27686	P17	Q20181813	4.0	'hotel'@en	'country'@en	'colonial power'@en
+Q27686	P17	Q202686	4.0	'hotel'@en	'country'@en	'Commonwealth realm'@en
+Q27686	P17	Q3624078	4.0	'hotel'@en	'country'@en	'sovereign state'@en
+Q27686	P17	Q6256	4.0	'hotel'@en	'country'@en	'country'@en
+Q811979	P17	Q112099	4.0	'architectural structure'@en	'country'@en	'island nation'@en
+Q811979	P17	Q1250464	4.0	'architectural structure'@en	'country'@en	'realm'@en
+Q811979	P17	Q20181813	4.0	'architectural structure'@en	'country'@en	'colonial power'@en
+Q811979	P17	Q202686	4.0	'architectural structure'@en	'country'@en	'Commonwealth realm'@en
+Q811979	P17	Q3624078	4.0	'architectural structure'@en	'country'@en	'sovereign state'@en
+Q811979	P17	Q6256	4.0	'architectural structure'@en	'country'@en	'country'@en
+Q22698	P17	Q112099	3.0	'park'@en	'country'@en	'island nation'@en
+Q22698	P17	Q1250464	3.0	'park'@en	'country'@en	'realm'@en
+Q22698	P17	Q20181813	3.0	'park'@en	'country'@en	'colonial power'@en
+Q22698	P17	Q202686	3.0	'park'@en	'country'@en	'Commonwealth realm'@en
+Q22698	P17	Q3624078	3.0	'park'@en	'country'@en	'sovereign state'@en
+Q22698	P17	Q6256	3.0	'park'@en	'country'@en	'country'@en
+Q12292478	P17	Q112099	2.0	'estate'@en	'country'@en	'island nation'@en
+Q12292478	P17	Q1250464	2.0	'estate'@en	'country'@en	'realm'@en
+Q12292478	P17	Q20181813	2.0	'estate'@en	'country'@en	'colonial power'@en
+Q12292478	P17	Q202686	2.0	'estate'@en	'country'@en	'Commonwealth realm'@en
+Q12292478	P17	Q3624078	2.0	'estate'@en	'country'@en	'sovereign state'@en
+Q12292478	P17	Q6256	2.0	'estate'@en	'country'@en	'country'@en
+Q1802963	P17	Q112099	2.0	'mansion'@en	'country'@en	'island nation'@en
+Q1802963	P17	Q1250464	2.0	'mansion'@en	'country'@en	'realm'@en
+Q1802963	P17	Q20181813	2.0	'mansion'@en	'country'@en	'colonial power'@en
+Q1802963	P17	Q202686	2.0	'mansion'@en	'country'@en	'Commonwealth realm'@en
+Q1802963	P17	Q3624078	2.0	'mansion'@en	'country'@en	'sovereign state'@en
+Q1802963	P17	Q6256	2.0	'mansion'@en	'country'@en	'country'@en
+Q2750108	P17	Q112099	2.0	'priory'@en	'country'@en	'island nation'@en
+Q2750108	P17	Q1250464	2.0	'priory'@en	'country'@en	'realm'@en
+Q2750108	P17	Q20181813	2.0	'priory'@en	'country'@en	'colonial power'@en
+Q2750108	P17	Q202686	2.0	'priory'@en	'country'@en	'Commonwealth realm'@en
+Q2750108	P17	Q3624078	2.0	'priory'@en	'country'@en	'sovereign state'@en
+Q2750108	P17	Q6256	2.0	'priory'@en	'country'@en	'country'@en
+Q92107	P17	Q112099	2.0	'quadrangular castle'@en	'country'@en	'island nation'@en
+Q92107	P17	Q1250464	2.0	'quadrangular castle'@en	'country'@en	'realm'@en
+Q92107	P17	Q20181813	2.0	'quadrangular castle'@en	'country'@en	'colonial power'@en
+Q92107	P17	Q202686	2.0	'quadrangular castle'@en	'country'@en	'Commonwealth realm'@en
+Q92107	P17	Q3624078	2.0	'quadrangular castle'@en	'country'@en	'sovereign state'@en
+Q92107	P17	Q6256	2.0	'quadrangular castle'@en	'country'@en	'country'@en
+Q12518	P17	Q112099	1.0	'tower'@en	'country'@en	'island nation'@en
+Q12518	P17	Q1250464	1.0	'tower'@en	'country'@en	'realm'@en
+Q12518	P17	Q20181813	1.0	'tower'@en	'country'@en	'colonial power'@en
+Q12518	P17	Q202686	1.0	'tower'@en	'country'@en	'Commonwealth realm'@en
+Q12518	P17	Q3624078	1.0	'tower'@en	'country'@en	'sovereign state'@en
+Q12518	P17	Q6256	1.0	'tower'@en	'country'@en	'country'@en
+Q13402009	P17	Q112099	1.0	'apartment building'@en	'country'@en	'island nation'@en
+Q13402009	P17	Q1250464	1.0	'apartment building'@en	'country'@en	'realm'@en
+Q13402009	P17	Q20181813	1.0	'apartment building'@en	'country'@en	'colonial power'@en
+Q13402009	P17	Q202686	1.0	'apartment building'@en	'country'@en	'Commonwealth realm'@en
+Q13402009	P17	Q3624078	1.0	'apartment building'@en	'country'@en	'sovereign state'@en
+Q13402009	P17	Q6256	1.0	'apartment building'@en	'country'@en	'country'@en
+Q15077303	P17	Q112099	1.0	'landscape garden'@en	'country'@en	'island nation'@en
+Q15077303	P17	Q1250464	1.0	'landscape garden'@en	'country'@en	'realm'@en
+Q15077303	P17	Q20181813	1.0	'landscape garden'@en	'country'@en	'colonial power'@en
+Q15077303	P17	Q202686	1.0	'landscape garden'@en	'country'@en	'Commonwealth realm'@en
+Q15077303	P17	Q3624078	1.0	'landscape garden'@en	'country'@en	'sovereign state'@en
+Q15077303	P17	Q6256	1.0	'landscape garden'@en	'country'@en	'country'@en
+Q1589077	P17	Q112099	1.0	'youth hostel'@en	'country'@en	'island nation'@en
+Q1589077	P17	Q1250464	1.0	'youth hostel'@en	'country'@en	'realm'@en
+Q1589077	P17	Q20181813	1.0	'youth hostel'@en	'country'@en	'colonial power'@en
+Q1589077	P17	Q202686	1.0	'youth hostel'@en	'country'@en	'Commonwealth realm'@en
+Q1589077	P17	Q3624078	1.0	'youth hostel'@en	'country'@en	'sovereign state'@en
+Q1589077	P17	Q6256	1.0	'youth hostel'@en	'country'@en	'country'@en
+Q160742	P17	Q112099	1.0	'abbey'@en	'country'@en	'island nation'@en
+Q160742	P17	Q1250464	1.0	'abbey'@en	'country'@en	'realm'@en
+Q160742	P17	Q20181813	1.0	'abbey'@en	'country'@en	'colonial power'@en
+Q160742	P17	Q202686	1.0	'abbey'@en	'country'@en	'Commonwealth realm'@en
+Q160742	P17	Q3624078	1.0	'abbey'@en	'country'@en	'sovereign state'@en
+Q160742	P17	Q6256	1.0	'abbey'@en	'country'@en	'country'@en
+Q16151173	P17	Q112099	1.0	'Grade II* listed buildings in Merseyside'@en	'country'@en	'island nation'@en
+Q16151173	P17	Q1250464	1.0	'Grade II* listed buildings in Merseyside'@en	'country'@en	'realm'@en
+Q16151173	P17	Q20181813	1.0	'Grade II* listed buildings in Merseyside'@en	'country'@en	'colonial power'@en
+Q16151173	P17	Q202686	1.0	'Grade II* listed buildings in Merseyside'@en	'country'@en	'Commonwealth realm'@en
+Q16151173	P17	Q3624078	1.0	'Grade II* listed buildings in Merseyside'@en	'country'@en	'sovereign state'@en
+Q16151173	P17	Q6256	1.0	'Grade II* listed buildings in Merseyside'@en	'country'@en	'country'@en
+Q18674739	P17	Q112099	1.0	'event venue'@en	'country'@en	'island nation'@en
+Q18674739	P17	Q1250464	1.0	'event venue'@en	'country'@en	'realm'@en
+Q18674739	P17	Q20181813	1.0	'event venue'@en	'country'@en	'colonial power'@en
+Q18674739	P17	Q202686	1.0	'event venue'@en	'country'@en	'Commonwealth realm'@en
+Q18674739	P17	Q3624078	1.0	'event venue'@en	'country'@en	'sovereign state'@en
+Q18674739	P17	Q6256	1.0	'event venue'@en	'country'@en	'country'@en
+Q207694	P17	Q112099	1.0	'art museum'@en	'country'@en	'island nation'@en
+Q207694	P17	Q1250464	1.0	'art museum'@en	'country'@en	'realm'@en
+Q207694	P17	Q20181813	1.0	'art museum'@en	'country'@en	'colonial power'@en
+Q207694	P17	Q202686	1.0	'art museum'@en	'country'@en	'Commonwealth realm'@en
+Q207694	P17	Q3624078	1.0	'art museum'@en	'country'@en	'sovereign state'@en
+Q207694	P17	Q6256	1.0	'art museum'@en	'country'@en	'country'@en
+Q212198	P17	Q112099	1.0	'pub'@en	'country'@en	'island nation'@en
+Q212198	P17	Q1250464	1.0	'pub'@en	'country'@en	'realm'@en
+Q212198	P17	Q20181813	1.0	'pub'@en	'country'@en	'colonial power'@en
+Q212198	P17	Q202686	1.0	'pub'@en	'country'@en	'Commonwealth realm'@en
+Q212198	P17	Q3624078	1.0	'pub'@en	'country'@en	'sovereign state'@en
+Q212198	P17	Q6256	1.0	'pub'@en	'country'@en	'country'@en
+Q24354	P17	Q112099	1.0	'theatre'@en	'country'@en	'island nation'@en
+Q24354	P17	Q1250464	1.0	'theatre'@en	'country'@en	'realm'@en
+Q24354	P17	Q20181813	1.0	'theatre'@en	'country'@en	'colonial power'@en
+Q24354	P17	Q202686	1.0	'theatre'@en	'country'@en	'Commonwealth realm'@en
+Q24354	P17	Q3624078	1.0	'theatre'@en	'country'@en	'sovereign state'@en
+Q24354	P17	Q6256	1.0	'theatre'@en	'country'@en	'country'@en
+Q264649	P17	Q112099	1.0	'Palladian architecture'@en	'country'@en	'island nation'@en
+Q264649	P17	Q1250464	1.0	'Palladian architecture'@en	'country'@en	'realm'@en
+Q264649	P17	Q20181813	1.0	'Palladian architecture'@en	'country'@en	'colonial power'@en
+Q264649	P17	Q202686	1.0	'Palladian architecture'@en	'country'@en	'Commonwealth realm'@en
+Q264649	P17	Q3624078	1.0	'Palladian architecture'@en	'country'@en	'sovereign state'@en
+Q264649	P17	Q6256	1.0	'Palladian architecture'@en	'country'@en	'country'@en
+Q2772772	P17	Q112099	1.0	'military museum'@en	'country'@en	'island nation'@en
+Q2772772	P17	Q1250464	1.0	'military museum'@en	'country'@en	'realm'@en
+Q2772772	P17	Q20181813	1.0	'military museum'@en	'country'@en	'colonial power'@en
+Q2772772	P17	Q202686	1.0	'military museum'@en	'country'@en	'Commonwealth realm'@en
+Q2772772	P17	Q3624078	1.0	'military museum'@en	'country'@en	'sovereign state'@en
+Q2772772	P17	Q6256	1.0	'military museum'@en	'country'@en	'country'@en
+Q30785519	P17	Q112099	1.0	'university campus'@en	'country'@en	'island nation'@en
+Q30785519	P17	Q1250464	1.0	'university campus'@en	'country'@en	'realm'@en
+Q30785519	P17	Q20181813	1.0	'university campus'@en	'country'@en	'colonial power'@en
+Q30785519	P17	Q202686	1.0	'university campus'@en	'country'@en	'Commonwealth realm'@en
+Q30785519	P17	Q3624078	1.0	'university campus'@en	'country'@en	'sovereign state'@en
+Q30785519	P17	Q6256	1.0	'university campus'@en	'country'@en	'country'@en
+Q33506	P17	Q112099	1.0	'museum'@en	'country'@en	'island nation'@en
+Q33506	P17	Q1250464	1.0	'museum'@en	'country'@en	'realm'@en
+Q33506	P17	Q20181813	1.0	'museum'@en	'country'@en	'colonial power'@en
+Q33506	P17	Q202686	1.0	'museum'@en	'country'@en	'Commonwealth realm'@en
+Q33506	P17	Q3624078	1.0	'museum'@en	'country'@en	'sovereign state'@en
+Q33506	P17	Q6256	1.0	'museum'@en	'country'@en	'country'@en
+Q350723	P17	Q112099	1.0	'country park'@en	'country'@en	'island nation'@en
+Q350723	P17	Q1250464	1.0	'country park'@en	'country'@en	'realm'@en
+Q350723	P17	Q20181813	1.0	'country park'@en	'country'@en	'colonial power'@en
+Q350723	P17	Q202686	1.0	'country park'@en	'country'@en	'Commonwealth realm'@en
+Q350723	P17	Q3624078	1.0	'country park'@en	'country'@en	'sovereign state'@en
+Q350723	P17	Q6256	1.0	'country park'@en	'country'@en	'country'@en
+Q39364723	P17	Q112099	1.0	'hospital building'@en	'country'@en	'island nation'@en
+Q39364723	P17	Q1250464	1.0	'hospital building'@en	'country'@en	'realm'@en
+Q39364723	P17	Q20181813	1.0	'hospital building'@en	'country'@en	'colonial power'@en
+Q39364723	P17	Q202686	1.0	'hospital building'@en	'country'@en	'Commonwealth realm'@en
+Q39364723	P17	Q3624078	1.0	'hospital building'@en	'country'@en	'sovereign state'@en
+Q39364723	P17	Q6256	1.0	'hospital building'@en	'country'@en	'country'@en
+Q3947	P17	Q112099	1.0	'house'@en	'country'@en	'island nation'@en
+Q3947	P17	Q1250464	1.0	'house'@en	'country'@en	'realm'@en
+Q3947	P17	Q20181813	1.0	'house'@en	'country'@en	'colonial power'@en
+Q3947	P17	Q202686	1.0	'house'@en	'country'@en	'Commonwealth realm'@en
+Q3947	P17	Q3624078	1.0	'house'@en	'country'@en	'sovereign state'@en
+Q3947	P17	Q6256	1.0	'house'@en	'country'@en	'country'@en
+Q41176	P17	Q112099	1.0	'building'@en	'country'@en	'island nation'@en
+Q41176	P17	Q1250464	1.0	'building'@en	'country'@en	'realm'@en
+Q41176	P17	Q20181813	1.0	'building'@en	'country'@en	'colonial power'@en
+Q41176	P17	Q202686	1.0	'building'@en	'country'@en	'Commonwealth realm'@en
+Q41176	P17	Q3624078	1.0	'building'@en	'country'@en	'sovereign state'@en
+Q41176	P17	Q6256	1.0	'building'@en	'country'@en	'country'@en
+Q47530379	P17	Q112099	1.0	'agricultural college'@en	'country'@en	'island nation'@en
+Q47530379	P17	Q1250464	1.0	'agricultural college'@en	'country'@en	'realm'@en
+Q47530379	P17	Q20181813	1.0	'agricultural college'@en	'country'@en	'colonial power'@en
+Q47530379	P17	Q202686	1.0	'agricultural college'@en	'country'@en	'Commonwealth realm'@en
+Q47530379	P17	Q3624078	1.0	'agricultural college'@en	'country'@en	'sovereign state'@en
+Q47530379	P17	Q6256	1.0	'agricultural college'@en	'country'@en	'country'@en
+Q489357	P17	Q112099	1.0	'farmhouse'@en	'country'@en	'island nation'@en
+Q489357	P17	Q1250464	1.0	'farmhouse'@en	'country'@en	'realm'@en
+Q489357	P17	Q20181813	1.0	'farmhouse'@en	'country'@en	'colonial power'@en
+Q489357	P17	Q202686	1.0	'farmhouse'@en	'country'@en	'Commonwealth realm'@en
+Q489357	P17	Q3624078	1.0	'farmhouse'@en	'country'@en	'sovereign state'@en
+Q489357	P17	Q6256	1.0	'farmhouse'@en	'country'@en	'country'@en
+Q5302681	P17	Q112099	1.0	'dower house'@en	'country'@en	'island nation'@en
+Q5302681	P17	Q1250464	1.0	'dower house'@en	'country'@en	'realm'@en
+Q5302681	P17	Q20181813	1.0	'dower house'@en	'country'@en	'colonial power'@en
+Q5302681	P17	Q202686	1.0	'dower house'@en	'country'@en	'Commonwealth realm'@en
+Q5302681	P17	Q3624078	1.0	'dower house'@en	'country'@en	'sovereign state'@en
+Q5302681	P17	Q6256	1.0	'dower house'@en	'country'@en	'country'@en
+Q5783996	P17	Q112099	1.0	'cottage'@en	'country'@en	'island nation'@en
+Q5783996	P17	Q1250464	1.0	'cottage'@en	'country'@en	'realm'@en
+Q5783996	P17	Q20181813	1.0	'cottage'@en	'country'@en	'colonial power'@en
+Q5783996	P17	Q202686	1.0	'cottage'@en	'country'@en	'Commonwealth realm'@en
+Q5783996	P17	Q3624078	1.0	'cottage'@en	'country'@en	'sovereign state'@en
+Q5783996	P17	Q6256	1.0	'cottage'@en	'country'@en	'country'@en
+Q64578911	P17	Q112099	1.0	'former hospital'@en	'country'@en	'island nation'@en
+Q64578911	P17	Q1250464	1.0	'former hospital'@en	'country'@en	'realm'@en
+Q64578911	P17	Q20181813	1.0	'former hospital'@en	'country'@en	'colonial power'@en
+Q64578911	P17	Q202686	1.0	'former hospital'@en	'country'@en	'Commonwealth realm'@en
+Q64578911	P17	Q3624078	1.0	'former hospital'@en	'country'@en	'sovereign state'@en
+Q64578911	P17	Q6256	1.0	'former hospital'@en	'country'@en	'country'@en
+Q839954	P17	Q112099	1.0	'archaeological site'@en	'country'@en	'island nation'@en
+Q839954	P17	Q1250464	1.0	'archaeological site'@en	'country'@en	'realm'@en
+Q839954	P17	Q20181813	1.0	'archaeological site'@en	'country'@en	'colonial power'@en
+Q839954	P17	Q202686	1.0	'archaeological site'@en	'country'@en	'Commonwealth realm'@en
+Q839954	P17	Q3624078	1.0	'archaeological site'@en	'country'@en	'sovereign state'@en
+Q839954	P17	Q6256	1.0	'archaeological site'@en	'country'@en	'country'@en
+Q91312	P17	Q112099	1.0	'tower house'@en	'country'@en	'island nation'@en
+Q91312	P17	Q1250464	1.0	'tower house'@en	'country'@en	'realm'@en
+Q91312	P17	Q20181813	1.0	'tower house'@en	'country'@en	'colonial power'@en
+Q91312	P17	Q202686	1.0	'tower house'@en	'country'@en	'Commonwealth realm'@en
+Q91312	P17	Q3624078	1.0	'tower house'@en	'country'@en	'sovereign state'@en
+Q91312	P17	Q6256	1.0	'tower house'@en	'country'@en	'country'@en
+Q1343246	P1435	Q30634609	463.0	'English country house'@en	'heritage designation'@en	'heritage designation'@en
+Q2087181	P1435	Q30634609	78.0	'historic house museum'@en	'heritage designation'@en	'heritage designation'@en
+Q879050	P1435	Q30634609	28.0	'manor house'@en	'heritage designation'@en	'heritage designation'@en
+Q64995589	P1435	Q30634609	24.0	'country house hotel'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q30634609	10.0	'castle'@en	'heritage designation'@en	'heritage designation'@en
+Q107724136	P1435	Q30634609	4.0	'wedding venue'@en	'heritage designation'@en	'heritage designation'@en
+Q1244442	P1435	Q30634609	4.0	'school building'@en	'heritage designation'@en	'heritage designation'@en
+Q27686	P1435	Q30634609	4.0	'hotel'@en	'heritage designation'@en	'heritage designation'@en
+Q811979	P1435	Q30634609	4.0	'architectural structure'@en	'heritage designation'@en	'heritage designation'@en
+Q1802963	P1435	Q30634609	2.0	'mansion'@en	'heritage designation'@en	'heritage designation'@en
+Q2750108	P1435	Q30634609	2.0	'priory'@en	'heritage designation'@en	'heritage designation'@en
+Q92107	P1435	Q30634609	2.0	'quadrangular castle'@en	'heritage designation'@en	'heritage designation'@en
+Q12292478	P1435	Q30634609	1.0	'estate'@en	'heritage designation'@en	'heritage designation'@en
+Q12518	P1435	Q30634609	1.0	'tower'@en	'heritage designation'@en	'heritage designation'@en
+Q13402009	P1435	Q30634609	1.0	'apartment building'@en	'heritage designation'@en	'heritage designation'@en
+Q1343246	P1435	Q108028209	1.0	'English country house'@en	'heritage designation'@en	'designation type'@en
+Q1343246	P1435	Q5162954	1.0	'English country house'@en	'heritage designation'@en	'conservation designation'@en
+Q1589077	P1435	Q30634609	1.0	'youth hostel'@en	'heritage designation'@en	'heritage designation'@en
+Q160742	P1435	Q30634609	1.0	'abbey'@en	'heritage designation'@en	'heritage designation'@en
+Q16151173	P1435	Q30634609	1.0	'Grade II* listed buildings in Merseyside'@en	'heritage designation'@en	'heritage designation'@en
+Q18674739	P1435	Q30634609	1.0	'event venue'@en	'heritage designation'@en	'heritage designation'@en
+Q207694	P1435	Q30634609	1.0	'art museum'@en	'heritage designation'@en	'heritage designation'@en
+Q212198	P1435	Q30634609	1.0	'pub'@en	'heritage designation'@en	'heritage designation'@en
+Q22698	P1435	Q30634609	1.0	'park'@en	'heritage designation'@en	'heritage designation'@en
+Q24354	P1435	Q30634609	1.0	'theatre'@en	'heritage designation'@en	'heritage designation'@en
+Q264649	P1435	Q30634609	1.0	'Palladian architecture'@en	'heritage designation'@en	'heritage designation'@en
+Q2772772	P1435	Q30634609	1.0	'military museum'@en	'heritage designation'@en	'heritage designation'@en
+Q33506	P1435	Q30634609	1.0	'museum'@en	'heritage designation'@en	'heritage designation'@en
+Q350723	P1435	Q30634609	1.0	'country park'@en	'heritage designation'@en	'heritage designation'@en
+Q39364723	P1435	Q30634609	1.0	'hospital building'@en	'heritage designation'@en	'heritage designation'@en
+Q3947	P1435	Q30634609	1.0	'house'@en	'heritage designation'@en	'heritage designation'@en
+Q41176	P1435	Q30634609	1.0	'building'@en	'heritage designation'@en	'heritage designation'@en
+Q47530379	P1435	Q30634609	1.0	'agricultural college'@en	'heritage designation'@en	'heritage designation'@en
+Q489357	P1435	Q30634609	1.0	'farmhouse'@en	'heritage designation'@en	'heritage designation'@en
+Q5302681	P1435	Q30634609	1.0	'dower house'@en	'heritage designation'@en	'heritage designation'@en
+Q5783996	P1435	Q30634609	1.0	'cottage'@en	'heritage designation'@en	'heritage designation'@en
+Q64578911	P1435	Q30634609	1.0	'former hospital'@en	'heritage designation'@en	'heritage designation'@en
+Q839954	P1435	Q30634609	1.0	'archaeological site'@en	'heritage designation'@en	'heritage designation'@en
+Q879050	P1435	Q108028209	1.0	'manor house'@en	'heritage designation'@en	'designation type'@en
+Q879050	P1435	Q5162954	1.0	'manor house'@en	'heritage designation'@en	'conservation designation'@en
+Q91312	P1435	Q30634609	1.0	'tower house'@en	'heritage designation'@en	'heritage designation'@en
+Q1343246	P131	Q1115575	476.0	'English country house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q532	315.0	'English country house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q2087181	P131	Q1115575	76.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q3957	57.0	'English country house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q2087181	P131	Q532	49.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'village'@en
+Q879050	P131	Q1115575	38.0	'manor house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q64995589	P131	Q1115575	24.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q1187580	23.0	'English country house'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q1343246	P131	Q1006876	22.0	'English country house'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q879050	P131	Q532	21.0	'manor house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1343246	P131	Q1136601	20.0	'English country house'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q64995589	P131	Q532	17.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1343246	P131	Q7897276	16.0	'English country house'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q879050	P131	Q3957	13.0	'manor house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q1343246	P131	Q1002812	12.0	'English country house'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q23413	P131	Q1115575	12.0	'castle'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q21503295	11.0	'English country house'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q2087181	P131	Q3957	10.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q1343246	P131	Q5084	8.0	'English country house'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q23413	P131	Q532	8.0	'castle'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1343246	P131	Q180673	6.0	'English country house'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q1343246	P131	Q18511725	6.0	'English country house'@en	'located in the administrative territorial entity'@en	'market town'@en
+Q2087181	P131	Q1187580	6.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q879050	P131	Q1136601	6.0	'manor house'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q1343246	P131	Q23442	5.0	'English country house'@en	'located in the administrative territorial entity'@en	'island'@en
+Q107724136	P131	Q1115575	4.0	'wedding venue'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1244442	P131	Q1115575	4.0	'school building'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q1549591	4.0	'English country house'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1343246	P131	Q515	4.0	'English country house'@en	'located in the administrative territorial entity'@en	'city'@en
+Q27686	P131	Q1115575	4.0	'hotel'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q811979	P131	Q1115575	4.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q811979	P131	Q532	4.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'village'@en
+Q879050	P131	Q180673	4.0	'manor house'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q879050	P131	Q23442	4.0	'manor house'@en	'located in the administrative territorial entity'@en	'island'@en
+Q107724136	P131	Q532	3.0	'wedding venue'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1244442	P131	Q532	3.0	'school building'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1343246	P131	Q1021711	3.0	'English country house'@en	'located in the administrative territorial entity'@en	'seaside resort'@en
+Q1343246	P131	Q188509	3.0	'English country house'@en	'located in the administrative territorial entity'@en	'suburb'@en
+Q64995589	P131	Q3957	3.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'town'@en
+Q879050	P131	Q1006876	3.0	'manor house'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q879050	P131	Q7897276	3.0	'manor house'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q12292478	P131	Q1115575	2.0	'estate'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q12292478	P131	Q532	2.0	'estate'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1343246	P131	Q1357964	2.0	'English country house'@en	'located in the administrative territorial entity'@en	'county town'@en
+Q1343246	P131	Q21272231	2.0	'English country house'@en	'located in the administrative territorial entity'@en	'county council area'@en
+Q1343246	P131	Q486972	2.0	'English country house'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q1802963	P131	Q1115575	2.0	'mansion'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q2087181	P131	Q18511725	2.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'market town'@en
+Q2087181	P131	Q7897276	2.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q22698	P131	Q1115575	2.0	'park'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q23413	P131	Q3957	2.0	'castle'@en	'located in the administrative territorial entity'@en	'town'@en
+Q2750108	P131	Q1115575	2.0	'priory'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q2750108	P131	Q532	2.0	'priory'@en	'located in the administrative territorial entity'@en	'village'@en
+Q27686	P131	Q532	2.0	'hotel'@en	'located in the administrative territorial entity'@en	'village'@en
+Q64995589	P131	Q1187580	2.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q92107	P131	Q1115575	2.0	'quadrangular castle'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q92107	P131	Q532	2.0	'quadrangular castle'@en	'located in the administrative territorial entity'@en	'village'@en
+Q12518	P131	Q1006876	1.0	'tower'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q12518	P131	Q1136601	1.0	'tower'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q12518	P131	Q21503295	1.0	'tower'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q12518	P131	Q7897276	1.0	'tower'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q13402009	P131	Q1115575	1.0	'apartment building'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q13402009	P131	Q532	1.0	'apartment building'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1343246	P131	Q1137272	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'county borough'@en
+Q1343246	P131	Q1138494	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'historic county of England'@en
+Q1343246	P131	Q12292478	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'estate'@en
+Q1343246	P131	Q149621	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'district'@en
+Q1343246	P131	Q15060255	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q1343246	P131	Q202435	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q1343246	P131	Q21457810	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q1343246	P131	Q245260	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'conurbation'@en
+Q1343246	P131	Q2630741	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'community'@en
+Q1343246	P131	Q374614	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'urban district of Great Britain and Ireland'@en
+Q1343246	P131	Q5124673	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q1343246	P131	Q562061	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q1343246	P131	Q7632657	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'successor parish'@en
+Q15077303	P131	Q1115575	1.0	'landscape garden'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1589077	P131	Q1115575	1.0	'youth hostel'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q160742	P131	Q1115575	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q160742	P131	Q532	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'village'@en
+Q16151173	P131	Q1115575	1.0	'Grade II* listed buildings in Merseyside'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1802963	P131	Q5084	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q1802963	P131	Q532	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'village'@en
+Q18674739	P131	Q1115575	1.0	'event venue'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q18674739	P131	Q532	1.0	'event venue'@en	'located in the administrative territorial entity'@en	'village'@en
+Q207694	P131	Q1115575	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q207694	P131	Q532	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'village'@en
+Q2087181	P131	Q1002812	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q2087181	P131	Q1006876	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q2087181	P131	Q1136601	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q2087181	P131	Q12292478	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'estate'@en
+Q2087181	P131	Q1357964	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'county town'@en
+Q2087181	P131	Q21503295	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q2087181	P131	Q562061	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q212198	P131	Q1115575	1.0	'pub'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q212198	P131	Q532	1.0	'pub'@en	'located in the administrative territorial entity'@en	'village'@en
+Q22698	P131	Q1006876	1.0	'park'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q22698	P131	Q1136601	1.0	'park'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q22698	P131	Q149621	1.0	'park'@en	'located in the administrative territorial entity'@en	'district'@en
+Q22698	P131	Q532	1.0	'park'@en	'located in the administrative territorial entity'@en	'village'@en
+Q23413	P131	Q1006876	1.0	'castle'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q23413	P131	Q1136601	1.0	'castle'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q23413	P131	Q1187580	1.0	'castle'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q23413	P131	Q180673	1.0	'castle'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q23413	P131	Q23442	1.0	'castle'@en	'located in the administrative territorial entity'@en	'island'@en
+Q24354	P131	Q1115575	1.0	'theatre'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q24354	P131	Q532	1.0	'theatre'@en	'located in the administrative territorial entity'@en	'village'@en
+Q264649	P131	Q1115575	1.0	'Palladian architecture'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q264649	P131	Q532	1.0	'Palladian architecture'@en	'located in the administrative territorial entity'@en	'village'@en
+Q2772772	P131	Q1115575	1.0	'military museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q30785519	P131	Q1006876	1.0	'university campus'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q30785519	P131	Q1136601	1.0	'university campus'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q30785519	P131	Q149621	1.0	'university campus'@en	'located in the administrative territorial entity'@en	'district'@en
+Q33506	P131	Q1115575	1.0	'museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q33506	P131	Q3957	1.0	'museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q350723	P131	Q1115575	1.0	'country park'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q39364723	P131	Q1115575	1.0	'hospital building'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q39364723	P131	Q532	1.0	'hospital building'@en	'located in the administrative territorial entity'@en	'village'@en
+Q3947	P131	Q1115575	1.0	'house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q41176	P131	Q1115575	1.0	'building'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q41176	P131	Q532	1.0	'building'@en	'located in the administrative territorial entity'@en	'village'@en
+Q47530379	P131	Q1115575	1.0	'agricultural college'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q47530379	P131	Q532	1.0	'agricultural college'@en	'located in the administrative territorial entity'@en	'village'@en
+Q489357	P131	Q1115575	1.0	'farmhouse'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q489357	P131	Q532	1.0	'farmhouse'@en	'located in the administrative territorial entity'@en	'village'@en
+Q5302681	P131	Q1115575	1.0	'dower house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q5302681	P131	Q532	1.0	'dower house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q5783996	P131	Q1115575	1.0	'cottage'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q5783996	P131	Q3957	1.0	'cottage'@en	'located in the administrative territorial entity'@en	'town'@en
+Q64578911	P131	Q1115575	1.0	'former hospital'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q64995589	P131	Q1006876	1.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q64995589	P131	Q18511725	1.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'market town'@en
+Q64995589	P131	Q7897276	1.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q811979	P131	Q3957	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'town'@en
+Q839954	P131	Q1115575	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q839954	P131	Q532	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'village'@en
+Q879050	P131	Q1021711	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'seaside resort'@en
+Q879050	P131	Q1187580	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q879050	P131	Q21503295	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q879050	P131	Q5084	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q91312	P131	Q1115575	1.0	'tower house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q91312	P131	Q532	1.0	'tower house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q92107	P131	Q5084	1.0	'quadrangular castle'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q1343246	P1216	external-id	468.0	'English country house'@en	'National Heritage List for England number'@en	
+Q2087181	P1216	external-id	80.0	'historic house museum'@en	'National Heritage List for England number'@en	
+Q879050	P1216	external-id	28.0	'manor house'@en	'National Heritage List for England number'@en	
+Q64995589	P1216	external-id	24.0	'country house hotel'@en	'National Heritage List for England number'@en	
+Q23413	P1216	external-id	12.0	'castle'@en	'National Heritage List for England number'@en	
+Q107724136	P1216	external-id	4.0	'wedding venue'@en	'National Heritage List for England number'@en	
+Q1244442	P1216	external-id	4.0	'school building'@en	'National Heritage List for England number'@en	
+Q27686	P1216	external-id	4.0	'hotel'@en	'National Heritage List for England number'@en	
+Q811979	P1216	external-id	4.0	'architectural structure'@en	'National Heritage List for England number'@en	
+Q12292478	P1216	external-id	2.0	'estate'@en	'National Heritage List for England number'@en	
+Q1802963	P1216	external-id	2.0	'mansion'@en	'National Heritage List for England number'@en	
+Q22698	P1216	external-id	2.0	'park'@en	'National Heritage List for England number'@en	
+Q2750108	P1216	external-id	2.0	'priory'@en	'National Heritage List for England number'@en	
+Q92107	P1216	external-id	2.0	'quadrangular castle'@en	'National Heritage List for England number'@en	
+Q12518	P1216	external-id	1.0	'tower'@en	'National Heritage List for England number'@en	
+Q13402009	P1216	external-id	1.0	'apartment building'@en	'National Heritage List for England number'@en	
+Q1589077	P1216	external-id	1.0	'youth hostel'@en	'National Heritage List for England number'@en	
+Q160742	P1216	external-id	1.0	'abbey'@en	'National Heritage List for England number'@en	
+Q16151173	P1216	external-id	1.0	'Grade II* listed buildings in Merseyside'@en	'National Heritage List for England number'@en	
+Q18674739	P1216	external-id	1.0	'event venue'@en	'National Heritage List for England number'@en	
+Q207694	P1216	external-id	1.0	'art museum'@en	'National Heritage List for England number'@en	
+Q212198	P1216	external-id	1.0	'pub'@en	'National Heritage List for England number'@en	
+Q24354	P1216	external-id	1.0	'theatre'@en	'National Heritage List for England number'@en	
+Q264649	P1216	external-id	1.0	'Palladian architecture'@en	'National Heritage List for England number'@en	
+Q2772772	P1216	external-id	1.0	'military museum'@en	'National Heritage List for England number'@en	
+Q33506	P1216	external-id	1.0	'museum'@en	'National Heritage List for England number'@en	
+Q350723	P1216	external-id	1.0	'country park'@en	'National Heritage List for England number'@en	
+Q39364723	P1216	external-id	1.0	'hospital building'@en	'National Heritage List for England number'@en	
+Q3947	P1216	external-id	1.0	'house'@en	'National Heritage List for England number'@en	
+Q41176	P1216	external-id	1.0	'building'@en	'National Heritage List for England number'@en	
+Q47530379	P1216	external-id	1.0	'agricultural college'@en	'National Heritage List for England number'@en	
+Q489357	P1216	external-id	1.0	'farmhouse'@en	'National Heritage List for England number'@en	
+Q5302681	P1216	external-id	1.0	'dower house'@en	'National Heritage List for England number'@en	
+Q5783996	P1216	external-id	1.0	'cottage'@en	'National Heritage List for England number'@en	
+Q64578911	P1216	external-id	1.0	'former hospital'@en	'National Heritage List for England number'@en	
+Q839954	P1216	external-id	1.0	'archaeological site'@en	'National Heritage List for England number'@en	
+Q91312	P1216	external-id	1.0	'tower house'@en	'National Heritage List for England number'@en	

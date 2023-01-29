@@ -1,0 +1,15 @@
+property	count	property;label	percentage
+P175	61744	'performer'@en	97.72%
+P577	60723	'publication date'@en	96.1%
+P646	59757	'Freebase ID'@en	94.57%
+P136	54596	'genre'@en	86.41%
+P264	49033	'record label'@en	77.6%
+P436	49031	'MusicBrainz release group ID'@en	77.6%
+P156	44269	'followed by'@en	70.06%
+P155	43302	'follows'@en	68.53%
+P1954	38301	'Discogs master ID'@en	60.62%
+P7937	19770	'form of creative work'@en	31.29%
+P162	18357	'producer'@en	29.05%
+P407	17560	'language of work or name'@en	27.79%
+P1729	13607	'AllMusic album ID'@en	21.54%
+P437	11734	'distribution format'@en	18.57%

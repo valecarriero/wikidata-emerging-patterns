@@ -1,0 +1,18 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q1307276	P18	commonsMedia	422.0	'single-family detached home'@en	'image'@en		91.94%
+Q1307276	P1435	Q30634609	442.0	'single-family detached home'@en	'heritage designation'@en	'heritage designation'@en	96.3%
+Q1307276	P625	globe-coordinate	456.0	'single-family detached home'@en	'coordinate location'@en		99.35%
+Q1307276	P373	string	108.0	'single-family detached home'@en	'Commons category'@en		23.53%
+Q1307276	P84	Q5	169.0	'single-family detached home'@en	'architect'@en	'human'@en	36.82%
+Q1307276	P5383	external-id	458.0	'single-family detached home'@en	'archINFORM project ID'@en		99.78%
+Q1307276	P131	Q35657	296.0	'single-family detached home'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	64.49%
+Q1307276	P646	external-id	452.0	'single-family detached home'@en	'Freebase ID'@en		98.47%
+Q1307276	P17	Q3624078	459.0	'single-family detached home'@en	'country'@en	'sovereign state'@en	100.0%
+Q1307276	P17	Q6256	459.0	'single-family detached home'@en	'country'@en	'country'@en	100.0%
+Q1307276	P17	Q1489259	455.0	'single-family detached home'@en	'country'@en	'superpower'@en	99.13%
+Q1307276	P17	Q1520223	455.0	'single-family detached home'@en	'country'@en	'constitutional republic'@en	99.13%
+Q1307276	P17	Q512187	455.0	'single-family detached home'@en	'country'@en	'federal republic'@en	99.13%
+Q1307276	P17	Q5255892	455.0	'single-family detached home'@en	'country'@en	'democratic republic'@en	99.13%
+Q1307276	P17	Q99541706	455.0	'single-family detached home'@en	'country'@en	'historical unrecognized state'@en	99.13%
+Q1307276	P649	external-id	442.0	'single-family detached home'@en	'NRHP reference number'@en		96.3%
+Q1307276	P149	Q32880	173.0	'single-family detached home'@en	'architectural style'@en	'architectural style'@en	37.69%

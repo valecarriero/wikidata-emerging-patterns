@@ -1,0 +1,2067 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q207694	P856	url	329.0	'art museum'@en	'official website'@en	
+Q1007870	P856	url	20.0	'art gallery'@en	'official website'@en	
+Q33506	P856	url	16.0	'museum'@en	'official website'@en	
+Q1759852	P856	url	6.0	'sculpture garden'@en	'official website'@en	
+Q1497649	P856	url	5.0	'memory institution'@en	'official website'@en	
+Q163740	P856	url	5.0	'nonprofit organization'@en	'official website'@en	
+Q24699794	P856	url	4.0	'museum building'@en	'official website'@en	
+Q10624527	P856	url	3.0	'biographical museum'@en	'official website'@en	
+Q1329623	P856	url	2.0	'cultural center'@en	'official website'@en	
+Q1595639	P856	url	2.0	'local museum'@en	'official website'@en	
+Q16735822	P856	url	2.0	'history museum'@en	'official website'@en	
+Q17431399	P856	url	2.0	'national museum'@en	'official website'@en	
+Q1802963	P856	url	2.0	'mansion'@en	'official website'@en	
+Q2087181	P856	url	2.0	'historic house museum'@en	'official website'@en	
+Q2190251	P856	url	2.0	'arts centre'@en	'official website'@en	
+Q26944969	P856	url	2.0	'photography museum'@en	'official website'@en	
+Q4989906	P856	url	2.0	'monument'@en	'official website'@en	
+Q54934129	P856	url	2.0	'African-American museum'@en	'official website'@en	
+Q570116	P856	url	2.0	'tourist attraction'@en	'official website'@en	
+Q708676	P856	url	2.0	'charitable organization'@en	'official website'@en	
+Q1043939	P856	url	1.0	'Carnegie library'@en	'official website'@en	
+Q108325	P856	url	1.0	'chapel'@en	'official website'@en	
+Q108860593	P856	url	1.0	'museum of modern art'@en	'official website'@en	
+Q11341528	P856	url	1.0	'comics museum'@en	'official website'@en	
+Q1202402	P856	url	1.0	'townhouse'@en	'official website'@en	
+Q1343246	P856	url	1.0	'English country house'@en	'official website'@en	
+Q1497375	P856	url	1.0	'architectural ensemble'@en	'official website'@en	
+Q1541532	P856	url	1.0	'Hall of Fame (Graffiti)'@en	'official website'@en	
+Q16020664	P856	url	1.0	'canadian artist-run centre'@en	'official website'@en	
+Q160742	P856	url	1.0	'abbey'@en	'official website'@en	
+Q162875	P856	url	1.0	'mausoleum'@en	'official website'@en	
+Q16970	P856	url	1.0	'church building'@en	'official website'@en	
+Q1797122	P856	url	1.0	'artist\'s house'@en	'official website'@en	
+Q18325436	P856	url	1.0	'501(c)(3) organization'@en	'official website'@en	
+Q1865249	P856	url	1.0	'literary museum'@en	'official website'@en	
+Q2085381	P856	url	1.0	'publisher'@en	'official website'@en	
+Q22698	P856	url	1.0	'park'@en	'official website'@en	
+Q2310465	P856	url	1.0	'toy museum'@en	'official website'@en	
+Q23413	P856	url	1.0	'castle'@en	'official website'@en	
+Q24354	P856	url	1.0	'theatre'@en	'official website'@en	
+Q2668072	P856	url	1.0	'collection'@en	'official website'@en	
+Q26944892	P856	url	1.0	'ethnological museum'@en	'official website'@en	
+Q26945165	P856	url	1.0	'architectural museum'@en	'official website'@en	
+Q27030941	P856	url	1.0	'special archive'@en	'official website'@en	
+Q35989030	P856	url	1.0	'Passport to Your National Parks cancellation location'@en	'official website'@en	
+Q383092	P856	url	1.0	'Art school'@en	'official website'@en	
+Q3947	P856	url	1.0	'house'@en	'official website'@en	
+Q41176	P856	url	1.0	'building'@en	'official website'@en	
+Q41253	P856	url	1.0	'movie theater'@en	'official website'@en	
+Q4409567	P856	url	1.0	'prefectural museum'@en	'official website'@en	
+Q44613	P856	url	1.0	'monastery'@en	'official website'@en	
+Q5739135	P856	url	1.0	'heritage centre'@en	'official website'@en	
+Q61781831	P856	url	1.0	'curatorial department'@en	'official website'@en	
+Q618123	P856	url	1.0	'geographical feature'@en	'official website'@en	
+Q684740	P856	url	1.0	'real property'@en	'official website'@en	
+Q7328910	P856	url	1.0	'art collection'@en	'official website'@en	
+Q751876	P856	url	1.0	'château'@en	'official website'@en	
+Q811979	P856	url	1.0	'architectural structure'@en	'official website'@en	
+Q856234	P856	url	1.0	'academic library'@en	'official website'@en	
+Q866133	P856	url	1.0	'university museum'@en	'official website'@en	
+Q936821	P856	url	1.0	'travelling exhibition'@en	'official website'@en	
+Q207694	P7859	external-id	296.0	'art museum'@en	'WorldCat Identities ID'@en	
+Q33506	P7859	external-id	16.0	'museum'@en	'WorldCat Identities ID'@en	
+Q1007870	P7859	external-id	13.0	'art gallery'@en	'WorldCat Identities ID'@en	
+Q17431399	P7859	external-id	5.0	'national museum'@en	'WorldCat Identities ID'@en	
+Q24699794	P7859	external-id	5.0	'museum building'@en	'WorldCat Identities ID'@en	
+Q1497649	P7859	external-id	4.0	'memory institution'@en	'WorldCat Identities ID'@en	
+Q163740	P7859	external-id	4.0	'nonprofit organization'@en	'WorldCat Identities ID'@en	
+Q10624527	P7859	external-id	3.0	'biographical museum'@en	'WorldCat Identities ID'@en	
+Q160742	P7859	external-id	3.0	'abbey'@en	'WorldCat Identities ID'@en	
+Q1759852	P7859	external-id	3.0	'sculpture garden'@en	'WorldCat Identities ID'@en	
+Q26944969	P7859	external-id	2.0	'photography museum'@en	'WorldCat Identities ID'@en	
+Q4989906	P7859	external-id	2.0	'monument'@en	'WorldCat Identities ID'@en	
+Q708676	P7859	external-id	2.0	'charitable organization'@en	'WorldCat Identities ID'@en	
+Q1043939	P7859	external-id	1.0	'Carnegie library'@en	'WorldCat Identities ID'@en	
+Q108325	P7859	external-id	1.0	'chapel'@en	'WorldCat Identities ID'@en	
+Q108860593	P7859	external-id	1.0	'museum of modern art'@en	'WorldCat Identities ID'@en	
+Q11341528	P7859	external-id	1.0	'comics museum'@en	'WorldCat Identities ID'@en	
+Q1202402	P7859	external-id	1.0	'townhouse'@en	'WorldCat Identities ID'@en	
+Q1329623	P7859	external-id	1.0	'cultural center'@en	'WorldCat Identities ID'@en	
+Q1497375	P7859	external-id	1.0	'architectural ensemble'@en	'WorldCat Identities ID'@en	
+Q1541532	P7859	external-id	1.0	'Hall of Fame (Graffiti)'@en	'WorldCat Identities ID'@en	
+Q1595639	P7859	external-id	1.0	'local museum'@en	'WorldCat Identities ID'@en	
+Q162875	P7859	external-id	1.0	'mausoleum'@en	'WorldCat Identities ID'@en	
+Q16735822	P7859	external-id	1.0	'history museum'@en	'WorldCat Identities ID'@en	
+Q16970	P7859	external-id	1.0	'church building'@en	'WorldCat Identities ID'@en	
+Q1797122	P7859	external-id	1.0	'artist\'s house'@en	'WorldCat Identities ID'@en	
+Q1802963	P7859	external-id	1.0	'mansion'@en	'WorldCat Identities ID'@en	
+Q18325436	P7859	external-id	1.0	'501(c)(3) organization'@en	'WorldCat Identities ID'@en	
+Q2065736	P7859	external-id	1.0	'cultural property'@en	'WorldCat Identities ID'@en	
+Q2085381	P7859	external-id	1.0	'publisher'@en	'WorldCat Identities ID'@en	
+Q2087181	P7859	external-id	1.0	'historic house museum'@en	'WorldCat Identities ID'@en	
+Q22698	P7859	external-id	1.0	'park'@en	'WorldCat Identities ID'@en	
+Q23413	P7859	external-id	1.0	'castle'@en	'WorldCat Identities ID'@en	
+Q2668072	P7859	external-id	1.0	'collection'@en	'WorldCat Identities ID'@en	
+Q26944892	P7859	external-id	1.0	'ethnological museum'@en	'WorldCat Identities ID'@en	
+Q26945165	P7859	external-id	1.0	'architectural museum'@en	'WorldCat Identities ID'@en	
+Q27030941	P7859	external-id	1.0	'special archive'@en	'WorldCat Identities ID'@en	
+Q3329412	P7859	external-id	1.0	'archaeological museum'@en	'WorldCat Identities ID'@en	
+Q383092	P7859	external-id	1.0	'Art school'@en	'WorldCat Identities ID'@en	
+Q3947	P7859	external-id	1.0	'house'@en	'WorldCat Identities ID'@en	
+Q4409567	P7859	external-id	1.0	'prefectural museum'@en	'WorldCat Identities ID'@en	
+Q445396	P7859	external-id	1.0	'print room'@en	'WorldCat Identities ID'@en	
+Q44613	P7859	external-id	1.0	'monastery'@en	'WorldCat Identities ID'@en	
+Q570116	P7859	external-id	1.0	'tourist attraction'@en	'WorldCat Identities ID'@en	
+Q61781831	P7859	external-id	1.0	'curatorial department'@en	'WorldCat Identities ID'@en	
+Q618123	P7859	external-id	1.0	'geographical feature'@en	'WorldCat Identities ID'@en	
+Q684740	P7859	external-id	1.0	'real property'@en	'WorldCat Identities ID'@en	
+Q7328910	P7859	external-id	1.0	'art collection'@en	'WorldCat Identities ID'@en	
+Q751876	P7859	external-id	1.0	'château'@en	'WorldCat Identities ID'@en	
+Q856234	P7859	external-id	1.0	'academic library'@en	'WorldCat Identities ID'@en	
+Q866133	P7859	external-id	1.0	'university museum'@en	'WorldCat Identities ID'@en	
+Q207694	P646	external-id	378.0	'art museum'@en	'Freebase ID'@en	
+Q1007870	P646	external-id	20.0	'art gallery'@en	'Freebase ID'@en	
+Q33506	P646	external-id	18.0	'museum'@en	'Freebase ID'@en	
+Q1759852	P646	external-id	8.0	'sculpture garden'@en	'Freebase ID'@en	
+Q17431399	P646	external-id	6.0	'national museum'@en	'Freebase ID'@en	
+Q1497649	P646	external-id	5.0	'memory institution'@en	'Freebase ID'@en	
+Q24699794	P646	external-id	5.0	'museum building'@en	'Freebase ID'@en	
+Q163740	P646	external-id	4.0	'nonprofit organization'@en	'Freebase ID'@en	
+Q10624527	P646	external-id	3.0	'biographical museum'@en	'Freebase ID'@en	
+Q160742	P646	external-id	3.0	'abbey'@en	'Freebase ID'@en	
+Q2087181	P646	external-id	3.0	'historic house museum'@en	'Freebase ID'@en	
+Q1043939	P646	external-id	2.0	'Carnegie library'@en	'Freebase ID'@en	
+Q1329623	P646	external-id	2.0	'cultural center'@en	'Freebase ID'@en	
+Q16735822	P646	external-id	2.0	'history museum'@en	'Freebase ID'@en	
+Q1802963	P646	external-id	2.0	'mansion'@en	'Freebase ID'@en	
+Q2190251	P646	external-id	2.0	'arts centre'@en	'Freebase ID'@en	
+Q26944969	P646	external-id	2.0	'photography museum'@en	'Freebase ID'@en	
+Q3947	P646	external-id	2.0	'house'@en	'Freebase ID'@en	
+Q41176	P646	external-id	2.0	'building'@en	'Freebase ID'@en	
+Q4989906	P646	external-id	2.0	'monument'@en	'Freebase ID'@en	
+Q54934129	P646	external-id	2.0	'African-American museum'@en	'Freebase ID'@en	
+Q570116	P646	external-id	2.0	'tourist attraction'@en	'Freebase ID'@en	
+Q708676	P646	external-id	2.0	'charitable organization'@en	'Freebase ID'@en	
+Q108325	P646	external-id	1.0	'chapel'@en	'Freebase ID'@en	
+Q108860593	P646	external-id	1.0	'museum of modern art'@en	'Freebase ID'@en	
+Q10942443	P646	external-id	1.0	'suite'@en	'Freebase ID'@en	
+Q11341528	P646	external-id	1.0	'comics museum'@en	'Freebase ID'@en	
+Q1179791	P646	external-id	1.0	'glassworks'@en	'Freebase ID'@en	
+Q1202402	P646	external-id	1.0	'townhouse'@en	'Freebase ID'@en	
+Q1497375	P646	external-id	1.0	'architectural ensemble'@en	'Freebase ID'@en	
+Q1541532	P646	external-id	1.0	'Hall of Fame (Graffiti)'@en	'Freebase ID'@en	
+Q1574516	P646	external-id	1.0	'photo library'@en	'Freebase ID'@en	
+Q1595639	P646	external-id	1.0	'local museum'@en	'Freebase ID'@en	
+Q16020664	P646	external-id	1.0	'canadian artist-run centre'@en	'Freebase ID'@en	
+Q162875	P646	external-id	1.0	'mausoleum'@en	'Freebase ID'@en	
+Q16970	P646	external-id	1.0	'church building'@en	'Freebase ID'@en	
+Q1797122	P646	external-id	1.0	'artist\'s house'@en	'Freebase ID'@en	
+Q18325436	P646	external-id	1.0	'501(c)(3) organization'@en	'Freebase ID'@en	
+Q1865249	P646	external-id	1.0	'literary museum'@en	'Freebase ID'@en	
+Q2065736	P646	external-id	1.0	'cultural property'@en	'Freebase ID'@en	
+Q2085381	P646	external-id	1.0	'publisher'@en	'Freebase ID'@en	
+Q2122214	P646	external-id	1.0	'national archives'@en	'Freebase ID'@en	
+Q2191999	P646	external-id	1.0	'Pogost'@en	'Freebase ID'@en	
+Q22698	P646	external-id	1.0	'park'@en	'Freebase ID'@en	
+Q2310465	P646	external-id	1.0	'toy museum'@en	'Freebase ID'@en	
+Q2319498	P646	external-id	1.0	'landmark'@en	'Freebase ID'@en	
+Q23413	P646	external-id	1.0	'castle'@en	'Freebase ID'@en	
+Q24354	P646	external-id	1.0	'theatre'@en	'Freebase ID'@en	
+Q2668072	P646	external-id	1.0	'collection'@en	'Freebase ID'@en	
+Q26944892	P646	external-id	1.0	'ethnological museum'@en	'Freebase ID'@en	
+Q26945165	P646	external-id	1.0	'architectural museum'@en	'Freebase ID'@en	
+Q27030941	P646	external-id	1.0	'special archive'@en	'Freebase ID'@en	
+Q3329412	P646	external-id	1.0	'archaeological museum'@en	'Freebase ID'@en	
+Q35989030	P646	external-id	1.0	'Passport to Your National Parks cancellation location'@en	'Freebase ID'@en	
+Q383092	P646	external-id	1.0	'Art school'@en	'Freebase ID'@en	
+Q41253	P646	external-id	1.0	'movie theater'@en	'Freebase ID'@en	
+Q4409567	P646	external-id	1.0	'prefectural museum'@en	'Freebase ID'@en	
+Q445396	P646	external-id	1.0	'print room'@en	'Freebase ID'@en	
+Q44613	P646	external-id	1.0	'monastery'@en	'Freebase ID'@en	
+Q5739135	P646	external-id	1.0	'heritage centre'@en	'Freebase ID'@en	
+Q61781831	P646	external-id	1.0	'curatorial department'@en	'Freebase ID'@en	
+Q618123	P646	external-id	1.0	'geographical feature'@en	'Freebase ID'@en	
+Q684740	P646	external-id	1.0	'real property'@en	'Freebase ID'@en	
+Q7328910	P646	external-id	1.0	'art collection'@en	'Freebase ID'@en	
+Q751876	P646	external-id	1.0	'château'@en	'Freebase ID'@en	
+Q811979	P646	external-id	1.0	'architectural structure'@en	'Freebase ID'@en	
+Q856234	P646	external-id	1.0	'academic library'@en	'Freebase ID'@en	
+Q866133	P646	external-id	1.0	'university museum'@en	'Freebase ID'@en	
+Q207694	P6375	monolingualtext	78.0	'art museum'@en	'street address'@en	
+Q33506	P6375	monolingualtext	11.0	'museum'@en	'street address'@en	
+Q1497649	P6375	monolingualtext	5.0	'memory institution'@en	'street address'@en	
+Q1007870	P6375	monolingualtext	2.0	'art gallery'@en	'street address'@en	
+Q160742	P6375	monolingualtext	2.0	'abbey'@en	'street address'@en	
+Q16735822	P6375	monolingualtext	2.0	'history museum'@en	'street address'@en	
+Q17431399	P6375	monolingualtext	2.0	'national museum'@en	'street address'@en	
+Q1043939	P6375	monolingualtext	1.0	'Carnegie library'@en	'street address'@en	
+Q108325	P6375	monolingualtext	1.0	'chapel'@en	'street address'@en	
+Q1202402	P6375	monolingualtext	1.0	'townhouse'@en	'street address'@en	
+Q1329623	P6375	monolingualtext	1.0	'cultural center'@en	'street address'@en	
+Q1541532	P6375	monolingualtext	1.0	'Hall of Fame (Graffiti)'@en	'street address'@en	
+Q16970	P6375	monolingualtext	1.0	'church building'@en	'street address'@en	
+Q1759852	P6375	monolingualtext	1.0	'sculpture garden'@en	'street address'@en	
+Q1797122	P6375	monolingualtext	1.0	'artist\'s house'@en	'street address'@en	
+Q1802963	P6375	monolingualtext	1.0	'mansion'@en	'street address'@en	
+Q2065736	P6375	monolingualtext	1.0	'cultural property'@en	'street address'@en	
+Q2085381	P6375	monolingualtext	1.0	'publisher'@en	'street address'@en	
+Q2087181	P6375	monolingualtext	1.0	'historic house museum'@en	'street address'@en	
+Q2190251	P6375	monolingualtext	1.0	'arts centre'@en	'street address'@en	
+Q2310465	P6375	monolingualtext	1.0	'toy museum'@en	'street address'@en	
+Q24699794	P6375	monolingualtext	1.0	'museum building'@en	'street address'@en	
+Q2668072	P6375	monolingualtext	1.0	'collection'@en	'street address'@en	
+Q26944892	P6375	monolingualtext	1.0	'ethnological museum'@en	'street address'@en	
+Q26944969	P6375	monolingualtext	1.0	'photography museum'@en	'street address'@en	
+Q26945165	P6375	monolingualtext	1.0	'architectural museum'@en	'street address'@en	
+Q27030941	P6375	monolingualtext	1.0	'special archive'@en	'street address'@en	
+Q41253	P6375	monolingualtext	1.0	'movie theater'@en	'street address'@en	
+Q44613	P6375	monolingualtext	1.0	'monastery'@en	'street address'@en	
+Q54934129	P6375	monolingualtext	1.0	'African-American museum'@en	'street address'@en	
+Q570116	P6375	monolingualtext	1.0	'tourist attraction'@en	'street address'@en	
+Q684740	P6375	monolingualtext	1.0	'real property'@en	'street address'@en	
+Q751876	P6375	monolingualtext	1.0	'château'@en	'street address'@en	
+Q811979	P6375	monolingualtext	1.0	'architectural structure'@en	'street address'@en	
+Q866133	P6375	monolingualtext	1.0	'university museum'@en	'street address'@en	
+Q207694	P625	globe-coordinate	391.0	'art museum'@en	'coordinate location'@en	
+Q1007870	P625	globe-coordinate	22.0	'art gallery'@en	'coordinate location'@en	
+Q33506	P625	globe-coordinate	18.0	'museum'@en	'coordinate location'@en	
+Q1759852	P625	globe-coordinate	9.0	'sculpture garden'@en	'coordinate location'@en	
+Q17431399	P625	globe-coordinate	6.0	'national museum'@en	'coordinate location'@en	
+Q1497649	P625	globe-coordinate	5.0	'memory institution'@en	'coordinate location'@en	
+Q163740	P625	globe-coordinate	5.0	'nonprofit organization'@en	'coordinate location'@en	
+Q24699794	P625	globe-coordinate	5.0	'museum building'@en	'coordinate location'@en	
+Q10624527	P625	globe-coordinate	3.0	'biographical museum'@en	'coordinate location'@en	
+Q160742	P625	globe-coordinate	3.0	'abbey'@en	'coordinate location'@en	
+Q2087181	P625	globe-coordinate	3.0	'historic house museum'@en	'coordinate location'@en	
+Q1043939	P625	globe-coordinate	2.0	'Carnegie library'@en	'coordinate location'@en	
+Q1329623	P625	globe-coordinate	2.0	'cultural center'@en	'coordinate location'@en	
+Q1595639	P625	globe-coordinate	2.0	'local museum'@en	'coordinate location'@en	
+Q16735822	P625	globe-coordinate	2.0	'history museum'@en	'coordinate location'@en	
+Q1802963	P625	globe-coordinate	2.0	'mansion'@en	'coordinate location'@en	
+Q2190251	P625	globe-coordinate	2.0	'arts centre'@en	'coordinate location'@en	
+Q26944969	P625	globe-coordinate	2.0	'photography museum'@en	'coordinate location'@en	
+Q3947	P625	globe-coordinate	2.0	'house'@en	'coordinate location'@en	
+Q4989906	P625	globe-coordinate	2.0	'monument'@en	'coordinate location'@en	
+Q54934129	P625	globe-coordinate	2.0	'African-American museum'@en	'coordinate location'@en	
+Q570116	P625	globe-coordinate	2.0	'tourist attraction'@en	'coordinate location'@en	
+Q708676	P625	globe-coordinate	2.0	'charitable organization'@en	'coordinate location'@en	
+Q108325	P625	globe-coordinate	1.0	'chapel'@en	'coordinate location'@en	
+Q108860593	P625	globe-coordinate	1.0	'museum of modern art'@en	'coordinate location'@en	
+Q10942443	P625	globe-coordinate	1.0	'suite'@en	'coordinate location'@en	
+Q11341528	P625	globe-coordinate	1.0	'comics museum'@en	'coordinate location'@en	
+Q1179791	P625	globe-coordinate	1.0	'glassworks'@en	'coordinate location'@en	
+Q1202402	P625	globe-coordinate	1.0	'townhouse'@en	'coordinate location'@en	
+Q1343246	P625	globe-coordinate	1.0	'English country house'@en	'coordinate location'@en	
+Q1497375	P625	globe-coordinate	1.0	'architectural ensemble'@en	'coordinate location'@en	
+Q1541532	P625	globe-coordinate	1.0	'Hall of Fame (Graffiti)'@en	'coordinate location'@en	
+Q1574516	P625	globe-coordinate	1.0	'photo library'@en	'coordinate location'@en	
+Q16020664	P625	globe-coordinate	1.0	'canadian artist-run centre'@en	'coordinate location'@en	
+Q162875	P625	globe-coordinate	1.0	'mausoleum'@en	'coordinate location'@en	
+Q16970	P625	globe-coordinate	1.0	'church building'@en	'coordinate location'@en	
+Q1797122	P625	globe-coordinate	1.0	'artist\'s house'@en	'coordinate location'@en	
+Q18325436	P625	globe-coordinate	1.0	'501(c)(3) organization'@en	'coordinate location'@en	
+Q1865249	P625	globe-coordinate	1.0	'literary museum'@en	'coordinate location'@en	
+Q2065736	P625	globe-coordinate	1.0	'cultural property'@en	'coordinate location'@en	
+Q2085381	P625	globe-coordinate	1.0	'publisher'@en	'coordinate location'@en	
+Q2122214	P625	globe-coordinate	1.0	'national archives'@en	'coordinate location'@en	
+Q2191999	P625	globe-coordinate	1.0	'Pogost'@en	'coordinate location'@en	
+Q22698	P625	globe-coordinate	1.0	'park'@en	'coordinate location'@en	
+Q2310465	P625	globe-coordinate	1.0	'toy museum'@en	'coordinate location'@en	
+Q2319498	P625	globe-coordinate	1.0	'landmark'@en	'coordinate location'@en	
+Q23413	P625	globe-coordinate	1.0	'castle'@en	'coordinate location'@en	
+Q24354	P625	globe-coordinate	1.0	'theatre'@en	'coordinate location'@en	
+Q2668072	P625	globe-coordinate	1.0	'collection'@en	'coordinate location'@en	
+Q26944892	P625	globe-coordinate	1.0	'ethnological museum'@en	'coordinate location'@en	
+Q26945165	P625	globe-coordinate	1.0	'architectural museum'@en	'coordinate location'@en	
+Q27030941	P625	globe-coordinate	1.0	'special archive'@en	'coordinate location'@en	
+Q3329412	P625	globe-coordinate	1.0	'archaeological museum'@en	'coordinate location'@en	
+Q35989030	P625	globe-coordinate	1.0	'Passport to Your National Parks cancellation location'@en	'coordinate location'@en	
+Q383092	P625	globe-coordinate	1.0	'Art school'@en	'coordinate location'@en	
+Q41176	P625	globe-coordinate	1.0	'building'@en	'coordinate location'@en	
+Q41253	P625	globe-coordinate	1.0	'movie theater'@en	'coordinate location'@en	
+Q4409567	P625	globe-coordinate	1.0	'prefectural museum'@en	'coordinate location'@en	
+Q445396	P625	globe-coordinate	1.0	'print room'@en	'coordinate location'@en	
+Q44613	P625	globe-coordinate	1.0	'monastery'@en	'coordinate location'@en	
+Q5739135	P625	globe-coordinate	1.0	'heritage centre'@en	'coordinate location'@en	
+Q61781831	P625	globe-coordinate	1.0	'curatorial department'@en	'coordinate location'@en	
+Q618123	P625	globe-coordinate	1.0	'geographical feature'@en	'coordinate location'@en	
+Q684740	P625	globe-coordinate	1.0	'real property'@en	'coordinate location'@en	
+Q7328910	P625	globe-coordinate	1.0	'art collection'@en	'coordinate location'@en	
+Q751876	P625	globe-coordinate	1.0	'château'@en	'coordinate location'@en	
+Q811979	P625	globe-coordinate	1.0	'architectural structure'@en	'coordinate location'@en	
+Q856234	P625	globe-coordinate	1.0	'academic library'@en	'coordinate location'@en	
+Q866133	P625	globe-coordinate	1.0	'university museum'@en	'coordinate location'@en	
+Q207694	P571	time	377.0	'art museum'@en	'inception'@en	
+Q1007870	P571	time	22.0	'art gallery'@en	'inception'@en	
+Q33506	P571	time	19.0	'museum'@en	'inception'@en	
+Q1759852	P571	time	9.0	'sculpture garden'@en	'inception'@en	
+Q17431399	P571	time	6.0	'national museum'@en	'inception'@en	
+Q1497649	P571	time	5.0	'memory institution'@en	'inception'@en	
+Q163740	P571	time	5.0	'nonprofit organization'@en	'inception'@en	
+Q24699794	P571	time	5.0	'museum building'@en	'inception'@en	
+Q10624527	P571	time	3.0	'biographical museum'@en	'inception'@en	
+Q1043939	P571	time	2.0	'Carnegie library'@en	'inception'@en	
+Q1329623	P571	time	2.0	'cultural center'@en	'inception'@en	
+Q1595639	P571	time	2.0	'local museum'@en	'inception'@en	
+Q160742	P571	time	2.0	'abbey'@en	'inception'@en	
+Q16735822	P571	time	2.0	'history museum'@en	'inception'@en	
+Q2087181	P571	time	2.0	'historic house museum'@en	'inception'@en	
+Q2190251	P571	time	2.0	'arts centre'@en	'inception'@en	
+Q26944969	P571	time	2.0	'photography museum'@en	'inception'@en	
+Q3947	P571	time	2.0	'house'@en	'inception'@en	
+Q41176	P571	time	2.0	'building'@en	'inception'@en	
+Q4989906	P571	time	2.0	'monument'@en	'inception'@en	
+Q54934129	P571	time	2.0	'African-American museum'@en	'inception'@en	
+Q570116	P571	time	2.0	'tourist attraction'@en	'inception'@en	
+Q708676	P571	time	2.0	'charitable organization'@en	'inception'@en	
+Q108325	P571	time	1.0	'chapel'@en	'inception'@en	
+Q108860593	P571	time	1.0	'museum of modern art'@en	'inception'@en	
+Q10942443	P571	time	1.0	'suite'@en	'inception'@en	
+Q11341528	P571	time	1.0	'comics museum'@en	'inception'@en	
+Q1179791	P571	time	1.0	'glassworks'@en	'inception'@en	
+Q1343246	P571	time	1.0	'English country house'@en	'inception'@en	
+Q1497375	P571	time	1.0	'architectural ensemble'@en	'inception'@en	
+Q1541532	P571	time	1.0	'Hall of Fame (Graffiti)'@en	'inception'@en	
+Q1574516	P571	time	1.0	'photo library'@en	'inception'@en	
+Q16020664	P571	time	1.0	'canadian artist-run centre'@en	'inception'@en	
+Q162875	P571	time	1.0	'mausoleum'@en	'inception'@en	
+Q16970	P571	time	1.0	'church building'@en	'inception'@en	
+Q1797122	P571	time	1.0	'artist\'s house'@en	'inception'@en	
+Q1802963	P571	time	1.0	'mansion'@en	'inception'@en	
+Q18325436	P571	time	1.0	'501(c)(3) organization'@en	'inception'@en	
+Q1865249	P571	time	1.0	'literary museum'@en	'inception'@en	
+Q2085381	P571	time	1.0	'publisher'@en	'inception'@en	
+Q2122214	P571	time	1.0	'national archives'@en	'inception'@en	
+Q2191999	P571	time	1.0	'Pogost'@en	'inception'@en	
+Q22698	P571	time	1.0	'park'@en	'inception'@en	
+Q2310465	P571	time	1.0	'toy museum'@en	'inception'@en	
+Q2319498	P571	time	1.0	'landmark'@en	'inception'@en	
+Q23413	P571	time	1.0	'castle'@en	'inception'@en	
+Q24354	P571	time	1.0	'theatre'@en	'inception'@en	
+Q2668072	P571	time	1.0	'collection'@en	'inception'@en	
+Q26944892	P571	time	1.0	'ethnological museum'@en	'inception'@en	
+Q26945165	P571	time	1.0	'architectural museum'@en	'inception'@en	
+Q27030941	P571	time	1.0	'special archive'@en	'inception'@en	
+Q3329412	P571	time	1.0	'archaeological museum'@en	'inception'@en	
+Q35989030	P571	time	1.0	'Passport to Your National Parks cancellation location'@en	'inception'@en	
+Q383092	P571	time	1.0	'Art school'@en	'inception'@en	
+Q41253	P571	time	1.0	'movie theater'@en	'inception'@en	
+Q4409567	P571	time	1.0	'prefectural museum'@en	'inception'@en	
+Q445396	P571	time	1.0	'print room'@en	'inception'@en	
+Q44613	P571	time	1.0	'monastery'@en	'inception'@en	
+Q5739135	P571	time	1.0	'heritage centre'@en	'inception'@en	
+Q61781831	P571	time	1.0	'curatorial department'@en	'inception'@en	
+Q618123	P571	time	1.0	'geographical feature'@en	'inception'@en	
+Q684740	P571	time	1.0	'real property'@en	'inception'@en	
+Q7328910	P571	time	1.0	'art collection'@en	'inception'@en	
+Q751876	P571	time	1.0	'château'@en	'inception'@en	
+Q811979	P571	time	1.0	'architectural structure'@en	'inception'@en	
+Q856234	P571	time	1.0	'academic library'@en	'inception'@en	
+Q866133	P571	time	1.0	'university museum'@en	'inception'@en	
+Q936821	P571	time	1.0	'travelling exhibition'@en	'inception'@en	
+Q207694	P4146	external-id	79.0	'art museum'@en	'Athenaeum museum ID'@en	
+Q1007870	P4146	external-id	2.0	'art gallery'@en	'Athenaeum museum ID'@en	
+Q17431399	P4146	external-id	2.0	'national museum'@en	'Athenaeum museum ID'@en	
+Q2087181	P4146	external-id	2.0	'historic house museum'@en	'Athenaeum museum ID'@en	
+Q24699794	P4146	external-id	2.0	'museum building'@en	'Athenaeum museum ID'@en	
+Q33506	P4146	external-id	2.0	'museum'@en	'Athenaeum museum ID'@en	
+Q1202402	P4146	external-id	1.0	'townhouse'@en	'Athenaeum museum ID'@en	
+Q1595639	P4146	external-id	1.0	'local museum'@en	'Athenaeum museum ID'@en	
+Q162875	P4146	external-id	1.0	'mausoleum'@en	'Athenaeum museum ID'@en	
+Q163740	P4146	external-id	1.0	'nonprofit organization'@en	'Athenaeum museum ID'@en	
+Q1797122	P4146	external-id	1.0	'artist\'s house'@en	'Athenaeum museum ID'@en	
+Q1802963	P4146	external-id	1.0	'mansion'@en	'Athenaeum museum ID'@en	
+Q18325436	P4146	external-id	1.0	'501(c)(3) organization'@en	'Athenaeum museum ID'@en	
+Q2085381	P4146	external-id	1.0	'publisher'@en	'Athenaeum museum ID'@en	
+Q22698	P4146	external-id	1.0	'park'@en	'Athenaeum museum ID'@en	
+Q3947	P4146	external-id	1.0	'house'@en	'Athenaeum museum ID'@en	
+Q4989906	P4146	external-id	1.0	'monument'@en	'Athenaeum museum ID'@en	
+Q618123	P4146	external-id	1.0	'geographical feature'@en	'Athenaeum museum ID'@en	
+Q7328910	P4146	external-id	1.0	'art collection'@en	'Athenaeum museum ID'@en	
+Q856234	P4146	external-id	1.0	'academic library'@en	'Athenaeum museum ID'@en	
+Q207694	P373	string	230.0	'art museum'@en	'Commons category'@en	
+Q33506	P373	string	16.0	'museum'@en	'Commons category'@en	
+Q1007870	P373	string	8.0	'art gallery'@en	'Commons category'@en	
+Q1759852	P373	string	6.0	'sculpture garden'@en	'Commons category'@en	
+Q1497649	P373	string	5.0	'memory institution'@en	'Commons category'@en	
+Q163740	P373	string	4.0	'nonprofit organization'@en	'Commons category'@en	
+Q17431399	P373	string	4.0	'national museum'@en	'Commons category'@en	
+Q24699794	P373	string	4.0	'museum building'@en	'Commons category'@en	
+Q10624527	P373	string	3.0	'biographical museum'@en	'Commons category'@en	
+Q160742	P373	string	3.0	'abbey'@en	'Commons category'@en	
+Q2087181	P373	string	3.0	'historic house museum'@en	'Commons category'@en	
+Q1043939	P373	string	2.0	'Carnegie library'@en	'Commons category'@en	
+Q1329623	P373	string	2.0	'cultural center'@en	'Commons category'@en	
+Q1802963	P373	string	2.0	'mansion'@en	'Commons category'@en	
+Q2190251	P373	string	2.0	'arts centre'@en	'Commons category'@en	
+Q26944969	P373	string	2.0	'photography museum'@en	'Commons category'@en	
+Q3947	P373	string	2.0	'house'@en	'Commons category'@en	
+Q4989906	P373	string	2.0	'monument'@en	'Commons category'@en	
+Q570116	P373	string	2.0	'tourist attraction'@en	'Commons category'@en	
+Q108325	P373	string	1.0	'chapel'@en	'Commons category'@en	
+Q108860593	P373	string	1.0	'museum of modern art'@en	'Commons category'@en	
+Q11341528	P373	string	1.0	'comics museum'@en	'Commons category'@en	
+Q1202402	P373	string	1.0	'townhouse'@en	'Commons category'@en	
+Q1343246	P373	string	1.0	'English country house'@en	'Commons category'@en	
+Q1497375	P373	string	1.0	'architectural ensemble'@en	'Commons category'@en	
+Q1541532	P373	string	1.0	'Hall of Fame (Graffiti)'@en	'Commons category'@en	
+Q162875	P373	string	1.0	'mausoleum'@en	'Commons category'@en	
+Q16970	P373	string	1.0	'church building'@en	'Commons category'@en	
+Q1797122	P373	string	1.0	'artist\'s house'@en	'Commons category'@en	
+Q1865249	P373	string	1.0	'literary museum'@en	'Commons category'@en	
+Q2065736	P373	string	1.0	'cultural property'@en	'Commons category'@en	
+Q2085381	P373	string	1.0	'publisher'@en	'Commons category'@en	
+Q2191999	P373	string	1.0	'Pogost'@en	'Commons category'@en	
+Q22698	P373	string	1.0	'park'@en	'Commons category'@en	
+Q2319498	P373	string	1.0	'landmark'@en	'Commons category'@en	
+Q23413	P373	string	1.0	'castle'@en	'Commons category'@en	
+Q24354	P373	string	1.0	'theatre'@en	'Commons category'@en	
+Q2668072	P373	string	1.0	'collection'@en	'Commons category'@en	
+Q26944892	P373	string	1.0	'ethnological museum'@en	'Commons category'@en	
+Q26945165	P373	string	1.0	'architectural museum'@en	'Commons category'@en	
+Q3329412	P373	string	1.0	'archaeological museum'@en	'Commons category'@en	
+Q35989030	P373	string	1.0	'Passport to Your National Parks cancellation location'@en	'Commons category'@en	
+Q41176	P373	string	1.0	'building'@en	'Commons category'@en	
+Q41253	P373	string	1.0	'movie theater'@en	'Commons category'@en	
+Q4409567	P373	string	1.0	'prefectural museum'@en	'Commons category'@en	
+Q445396	P373	string	1.0	'print room'@en	'Commons category'@en	
+Q44613	P373	string	1.0	'monastery'@en	'Commons category'@en	
+Q61781831	P373	string	1.0	'curatorial department'@en	'Commons category'@en	
+Q618123	P373	string	1.0	'geographical feature'@en	'Commons category'@en	
+Q684740	P373	string	1.0	'real property'@en	'Commons category'@en	
+Q708676	P373	string	1.0	'charitable organization'@en	'Commons category'@en	
+Q7328910	P373	string	1.0	'art collection'@en	'Commons category'@en	
+Q751876	P373	string	1.0	'château'@en	'Commons category'@en	
+Q811979	P373	string	1.0	'architectural structure'@en	'Commons category'@en	
+Q856234	P373	string	1.0	'academic library'@en	'Commons category'@en	
+Q866133	P373	string	1.0	'university museum'@en	'Commons category'@en	
+Q207694	P281	string	66.0	'art museum'@en	'postal code'@en	
+Q33506	P281	string	7.0	'museum'@en	'postal code'@en	
+Q1497649	P281	string	5.0	'memory institution'@en	'postal code'@en	
+Q1007870	P281	string	3.0	'art gallery'@en	'postal code'@en	
+Q10624527	P281	string	3.0	'biographical museum'@en	'postal code'@en	
+Q24699794	P281	string	3.0	'museum building'@en	'postal code'@en	
+Q17431399	P281	string	2.0	'national museum'@en	'postal code'@en	
+Q108860593	P281	string	1.0	'museum of modern art'@en	'postal code'@en	
+Q11341528	P281	string	1.0	'comics museum'@en	'postal code'@en	
+Q1202402	P281	string	1.0	'townhouse'@en	'postal code'@en	
+Q1329623	P281	string	1.0	'cultural center'@en	'postal code'@en	
+Q16735822	P281	string	1.0	'history museum'@en	'postal code'@en	
+Q1802963	P281	string	1.0	'mansion'@en	'postal code'@en	
+Q2085381	P281	string	1.0	'publisher'@en	'postal code'@en	
+Q2087181	P281	string	1.0	'historic house museum'@en	'postal code'@en	
+Q2668072	P281	string	1.0	'collection'@en	'postal code'@en	
+Q26944892	P281	string	1.0	'ethnological museum'@en	'postal code'@en	
+Q26944969	P281	string	1.0	'photography museum'@en	'postal code'@en	
+Q4409567	P281	string	1.0	'prefectural museum'@en	'postal code'@en	
+Q570116	P281	string	1.0	'tourist attraction'@en	'postal code'@en	
+Q684740	P281	string	1.0	'real property'@en	'postal code'@en	
+Q811979	P281	string	1.0	'architectural structure'@en	'postal code'@en	
+Q207694	P276	Q1549591	27.0	'art museum'@en	'location'@en	'big city'@en
+Q207694	P276	Q515	22.0	'art museum'@en	'location'@en	'city'@en
+Q207694	P276	Q1093829	18.0	'art museum'@en	'location'@en	'city of the United States'@en
+Q207694	P276	Q62049	11.0	'art museum'@en	'location'@en	'county seat'@en
+Q207694	P276	Q5119	8.0	'art museum'@en	'location'@en	'capital'@en
+Q207694	P276	Q1637706	7.0	'art museum'@en	'location'@en	'million city'@en
+Q207694	P276	Q123705	6.0	'art museum'@en	'location'@en	'neighborhood'@en
+Q207694	P276	Q22746	5.0	'art museum'@en	'location'@en	'urban park'@en
+Q207694	P276	Q3957	5.0	'art museum'@en	'location'@en	'town'@en
+Q207694	P276	Q7897276	5.0	'art museum'@en	'location'@en	'unparished area'@en
+Q207694	P276	Q1115575	4.0	'art museum'@en	'location'@en	'civil parish'@en
+Q207694	P276	Q486972	4.0	'art museum'@en	'location'@en	'human settlement'@en
+Q207694	P276	Q50330360	4.0	'art museum'@en	'location'@en	'second largest city'@en
+Q207694	P276	Q1187811	3.0	'art museum'@en	'location'@en	'college town'@en
+Q207694	P276	Q13539802	3.0	'art museum'@en	'location'@en	'place with town rights and privileges'@en
+Q207694	P276	Q14762300	3.0	'art museum'@en	'location'@en	'single-tier municipality'@en
+Q207694	P276	Q21507383	3.0	'art museum'@en	'location'@en	'provincial or territorial capital city in Canada'@en
+Q207694	P276	Q2154459	3.0	'art museum'@en	'location'@en	'New England town'@en
+Q207694	P276	Q41176	3.0	'art museum'@en	'location'@en	'building'@en
+Q207694	P276	Q42744322	3.0	'art museum'@en	'location'@en	'urban municipality of Germany'@en
+Q1007870	P276	Q1637706	2.0	'art gallery'@en	'location'@en	'million city'@en
+Q207694	P276	Q13218391	2.0	'art museum'@en	'location'@en	'charter city'@en
+Q207694	P276	Q133442	2.0	'art museum'@en	'location'@en	'city-state'@en
+Q207694	P276	Q15243209	2.0	'art museum'@en	'location'@en	'historic district'@en
+Q207694	P276	Q15830667	2.0	'art museum'@en	'location'@en	'quarter of Hamburg'@en
+Q207694	P276	Q1852859	2.0	'art museum'@en	'location'@en	'populated place in the Netherlands'@en
+Q207694	P276	Q200250	2.0	'art museum'@en	'location'@en	'metropolis'@en
+Q207694	P276	Q253019	2.0	'art museum'@en	'location'@en	'Ortsteil'@en
+Q207694	P276	Q257391	2.0	'art museum'@en	'location'@en	'federal capital'@en
+Q207694	P276	Q3947	2.0	'art museum'@en	'location'@en	'house'@en
+Q207694	P276	Q570116	2.0	'art museum'@en	'location'@en	'tourist attraction'@en
+Q207694	P276	Q667509	2.0	'art museum'@en	'location'@en	'municipality of Austria'@en
+Q207694	P276	Q676050	2.0	'art museum'@en	'location'@en	'old town'@en
+Q207694	P276	Q705296	2.0	'art museum'@en	'location'@en	'district of Taiwan'@en
+Q207694	P276	Q751876	2.0	'art museum'@en	'location'@en	'château'@en
+Q207694	P276	Q7543008	2.0	'art museum'@en	'location'@en	'small burgh'@en
+Q33506	P276	Q3957	2.0	'museum'@en	'location'@en	'town'@en
+Q33506	P276	Q7543008	2.0	'museum'@en	'location'@en	'small burgh'@en
+Q1007870	P276	Q1187811	1.0	'art gallery'@en	'location'@en	'college town'@en
+Q1007870	P276	Q133442	1.0	'art gallery'@en	'location'@en	'city-state'@en
+Q1007870	P276	Q1549591	1.0	'art gallery'@en	'location'@en	'big city'@en
+Q1007870	P276	Q171441	1.0	'art gallery'@en	'location'@en	'enclave'@en
+Q1007870	P276	Q1907114	1.0	'art gallery'@en	'location'@en	'metropolitan area'@en
+Q1007870	P276	Q200250	1.0	'art gallery'@en	'location'@en	'metropolis'@en
+Q1007870	P276	Q2154459	1.0	'art gallery'@en	'location'@en	'New England town'@en
+Q1007870	P276	Q257391	1.0	'art gallery'@en	'location'@en	'federal capital'@en
+Q1007870	P276	Q261543	1.0	'art gallery'@en	'location'@en	'state of Austria'@en
+Q1007870	P276	Q262882	1.0	'art gallery'@en	'location'@en	'statutory city of Austria'@en
+Q1007870	P276	Q50330360	1.0	'art gallery'@en	'location'@en	'second largest city'@en
+Q1007870	P276	Q515	1.0	'art gallery'@en	'location'@en	'city'@en
+Q1007870	P276	Q667509	1.0	'art gallery'@en	'location'@en	'municipality of Austria'@en
+Q1007870	P276	Q7309306	1.0	'art gallery'@en	'location'@en	'region of Victoria'@en
+Q1007870	P276	Q777120	1.0	'art gallery'@en	'location'@en	'borough of Pennsylvania'@en
+Q10624527	P276	Q22698	1.0	'biographical museum'@en	'location'@en	'park'@en
+Q108860593	P276	Q61297932	1.0	'museum of modern art'@en	'location'@en	'neighborhood in Manhattan'@en
+Q1202402	P276	Q34442	1.0	'townhouse'@en	'location'@en	'road'@en
+Q1329623	P276	Q15830667	1.0	'cultural center'@en	'location'@en	'quarter of Hamburg'@en
+Q1329623	P276	Q676050	1.0	'cultural center'@en	'location'@en	'old town'@en
+Q1497375	P276	Q15830667	1.0	'architectural ensemble'@en	'location'@en	'quarter of Hamburg'@en
+Q1497375	P276	Q676050	1.0	'architectural ensemble'@en	'location'@en	'old town'@en
+Q1541532	P276	Q35034452	1.0	'Hall of Fame (Graffiti)'@en	'location'@en	'locality of Berlin'@en
+Q1541532	P276	Q821435	1.0	'Hall of Fame (Graffiti)'@en	'location'@en	'borough of Berlin'@en
+Q1595639	P276	Q811979	1.0	'local museum'@en	'location'@en	'architectural structure'@en
+Q16020664	P276	Q14762300	1.0	'canadian artist-run centre'@en	'location'@en	'single-tier municipality'@en
+Q16020664	P276	Q1549591	1.0	'canadian artist-run centre'@en	'location'@en	'big city'@en
+Q16020664	P276	Q21507383	1.0	'canadian artist-run centre'@en	'location'@en	'provincial or territorial capital city in Canada'@en
+Q16020664	P276	Q515	1.0	'canadian artist-run centre'@en	'location'@en	'city'@en
+Q163740	P276	Q7830213	1.0	'nonprofit organization'@en	'location'@en	'township of New Jersey'@en
+Q16735822	P276	Q1093829	1.0	'history museum'@en	'location'@en	'city of the United States'@en
+Q16735822	P276	Q123705	1.0	'history museum'@en	'location'@en	'neighborhood'@en
+Q16735822	P276	Q13218391	1.0	'history museum'@en	'location'@en	'charter city'@en
+Q16735822	P276	Q1549591	1.0	'history museum'@en	'location'@en	'big city'@en
+Q16735822	P276	Q79007	1.0	'history museum'@en	'location'@en	'street'@en
+Q17431399	P276	Q13539802	1.0	'national museum'@en	'location'@en	'place with town rights and privileges'@en
+Q17431399	P276	Q1549591	1.0	'national museum'@en	'location'@en	'big city'@en
+Q17431399	P276	Q1637706	1.0	'national museum'@en	'location'@en	'million city'@en
+Q17431399	P276	Q1852859	1.0	'national museum'@en	'location'@en	'populated place in the Netherlands'@en
+Q17431399	P276	Q2716259	1.0	'national museum'@en	'location'@en	'metropolitan municipality in Turkey'@en
+Q17431399	P276	Q41176	1.0	'national museum'@en	'location'@en	'building'@en
+Q17431399	P276	Q50330360	1.0	'national museum'@en	'location'@en	'second largest city'@en
+Q17431399	P276	Q5119	1.0	'national museum'@en	'location'@en	'capital'@en
+Q1759852	P276	Q7830213	1.0	'sculpture garden'@en	'location'@en	'township of New Jersey'@en
+Q1797122	P276	Q123705	1.0	'artist\'s house'@en	'location'@en	'neighborhood'@en
+Q1797122	P276	Q253019	1.0	'artist\'s house'@en	'location'@en	'Ortsteil'@en
+Q1802963	P276	Q34442	1.0	'mansion'@en	'location'@en	'road'@en
+Q1802963	P276	Q3957	1.0	'mansion'@en	'location'@en	'town'@en
+Q1802963	P276	Q7543008	1.0	'mansion'@en	'location'@en	'small burgh'@en
+Q1865249	P276	Q174782	1.0	'literary museum'@en	'location'@en	'square'@en
+Q207694	P276	Q1007870	1.0	'art museum'@en	'location'@en	'art gallery'@en
+Q207694	P276	Q104630835	1.0	'art museum'@en	'location'@en	'Scottish county of city'@en
+Q207694	P276	Q1066538	1.0	'art museum'@en	'location'@en	'National Central City'@en
+Q207694	P276	Q1066984	1.0	'art museum'@en	'location'@en	'financial centre'@en
+Q207694	P276	Q108402759	1.0	'art museum'@en	'location'@en	'university in British Columbia'@en
+Q207694	P276	Q10864048	1.0	'art museum'@en	'location'@en	'first-level administrative country subdivision'@en
+Q207694	P276	Q1137833	1.0	'art museum'@en	'location'@en	'core city of Japan'@en
+Q207694	P276	Q1208802	1.0	'art museum'@en	'location'@en	'direct-controlled municipality'@en
+Q207694	P276	Q1221156	1.0	'art museum'@en	'location'@en	'federal state of Germany'@en
+Q207694	P276	Q12336407	1.0	'art museum'@en	'location'@en	'holiday home area'@en
+Q207694	P276	Q12813115	1.0	'art museum'@en	'location'@en	'urban area in Sweden'@en
+Q207694	P276	Q1306755	1.0	'art museum'@en	'location'@en	'administrative centre'@en
+Q207694	P276	Q1307276	1.0	'art museum'@en	'location'@en	'single-family detached home'@en
+Q207694	P276	Q13218276	1.0	'art museum'@en	'location'@en	'Freie Stadt'@en
+Q207694	P276	Q1343246	1.0	'art museum'@en	'location'@en	'English country house'@en
+Q207694	P276	Q1357964	1.0	'art museum'@en	'location'@en	'county town'@en
+Q207694	P276	Q1375749	1.0	'art museum'@en	'location'@en	'European City'@en
+Q207694	P276	Q1489259	1.0	'art museum'@en	'location'@en	'superpower'@en
+Q207694	P276	Q149621	1.0	'art museum'@en	'location'@en	'district'@en
+Q207694	P276	Q1497364	1.0	'art museum'@en	'location'@en	'building complex'@en
+Q207694	P276	Q15063611	1.0	'art museum'@en	'location'@en	'city in the state of New York'@en
+Q207694	P276	Q1520223	1.0	'art museum'@en	'location'@en	'constitutional republic'@en
+Q207694	P276	Q15221370	1.0	'art museum'@en	'location'@en	'third-class city'@en
+Q207694	P276	Q15936437	1.0	'art museum'@en	'location'@en	'research university'@en
+Q207694	P276	Q15974307	1.0	'art museum'@en	'location'@en	'Einheitsgemeinde of Germany'@en
+Q207694	P276	Q16560	1.0	'art museum'@en	'location'@en	'palace'@en
+Q207694	P276	Q16970	1.0	'art museum'@en	'location'@en	'church building'@en
+Q207694	P276	Q171441	1.0	'art museum'@en	'location'@en	'enclave'@en
+Q207694	P276	Q174782	1.0	'art museum'@en	'location'@en	'square'@en
+Q207694	P276	Q18551781	1.0	'art museum'@en	'location'@en	'subdistrict'@en
+Q207694	P276	Q1901835	1.0	'art museum'@en	'location'@en	'seat of government'@en
+Q207694	P276	Q1907114	1.0	'art museum'@en	'location'@en	'metropolitan area'@en
+Q207694	P276	Q202435	1.0	'art museum'@en	'location'@en	'lieutenancy area of Scotland'@en
+Q207694	P276	Q2087181	1.0	'art museum'@en	'location'@en	'historic house museum'@en
+Q207694	P276	Q21010817	1.0	'art museum'@en	'location'@en	'city of Pennsylvania'@en
+Q207694	P276	Q2264924	1.0	'art museum'@en	'location'@en	'port settlement'@en
+Q207694	P276	Q22698	1.0	'art museum'@en	'location'@en	'park'@en
+Q207694	P276	Q22865	1.0	'art museum'@en	'location'@en	'independent city of Germany'@en
+Q207694	P276	Q23002054	1.0	'art museum'@en	'location'@en	'private not-for-profit educational institution'@en
+Q207694	P276	Q2555896	1.0	'art museum'@en	'location'@en	'municipality of Colombia'@en
+Q207694	P276	Q261543	1.0	'art museum'@en	'location'@en	'state of Austria'@en
+Q207694	P276	Q262882	1.0	'art museum'@en	'location'@en	'statutory city of Austria'@en
+Q207694	P276	Q2651004	1.0	'art museum'@en	'location'@en	'palazzo'@en
+Q207694	P276	Q2668072	1.0	'art museum'@en	'location'@en	'collection'@en
+Q207694	P276	Q2716259	1.0	'art museum'@en	'location'@en	'metropolitan municipality in Turkey'@en
+Q207694	P276	Q2734310	1.0	'art museum'@en	'location'@en	'alcaldía of Mexico City'@en
+Q207694	P276	Q2755753	1.0	'art museum'@en	'location'@en	'area of London'@en
+Q207694	P276	Q2974552	1.0	'art museum'@en	'location'@en	'city in New Jersey'@en
+Q207694	P276	Q33506	1.0	'art museum'@en	'location'@en	'museum'@en
+Q207694	P276	Q34442	1.0	'art museum'@en	'location'@en	'road'@en
+Q207694	P276	Q35034452	1.0	'art museum'@en	'location'@en	'locality of Berlin'@en
+Q207694	P276	Q3505887	1.0	'art museum'@en	'location'@en	'city council'@en
+Q207694	P276	Q3624078	1.0	'art museum'@en	'location'@en	'sovereign state'@en
+Q207694	P276	Q3918	1.0	'art museum'@en	'location'@en	'university'@en
+Q207694	P276	Q448801	1.0	'art museum'@en	'location'@en	'big district town'@en
+Q207694	P276	Q45400320	1.0	'art museum'@en	'location'@en	'open-access publisher'@en
+Q207694	P276	Q475050	1.0	'art museum'@en	'location'@en	'federal district'@en
+Q207694	P276	Q512187	1.0	'art museum'@en	'location'@en	'federal republic'@en
+Q207694	P276	Q5255892	1.0	'art museum'@en	'location'@en	'democratic republic'@en
+Q207694	P276	Q532	1.0	'art museum'@en	'location'@en	'village'@en
+Q207694	P276	Q53536964	1.0	'art museum'@en	'location'@en	'royal palace'@en
+Q207694	P276	Q57318	1.0	'art museum'@en	'location'@en	'free imperial city'@en
+Q207694	P276	Q57778855	1.0	'art museum'@en	'location'@en	'brewery building'@en
+Q207694	P276	Q57821	1.0	'art museum'@en	'location'@en	'fortification'@en
+Q207694	P276	Q5888666	1.0	'art museum'@en	'location'@en	'home rule municipality of Pennsylvania'@en
+Q207694	P276	Q61297932	1.0	'art museum'@en	'location'@en	'neighborhood in Manhattan'@en
+Q207694	P276	Q61980648	1.0	'art museum'@en	'location'@en	'urban district of Hesse'@en
+Q207694	P276	Q6256	1.0	'art museum'@en	'location'@en	'country'@en
+Q207694	P276	Q65241205	1.0	'art museum'@en	'location'@en	'new town'@en
+Q207694	P276	Q67123843	1.0	'art museum'@en	'location'@en	'town divided by border'@en
+Q207694	P276	Q702492	1.0	'art museum'@en	'location'@en	'urban area'@en
+Q207694	P276	Q707813	1.0	'art museum'@en	'location'@en	'Hanseatic city'@en
+Q207694	P276	Q7309306	1.0	'art museum'@en	'location'@en	'region of Victoria'@en
+Q207694	P276	Q748198	1.0	'art museum'@en	'location'@en	'gay village'@en
+Q207694	P276	Q76514543	1.0	'art museum'@en	'location'@en	'municipality of Georgia'@en
+Q207694	P276	Q777120	1.0	'art museum'@en	'location'@en	'borough of Pennsylvania'@en
+Q207694	P276	Q7830213	1.0	'art museum'@en	'location'@en	'township of New Jersey'@en
+Q207694	P276	Q79007	1.0	'art museum'@en	'location'@en	'street'@en
+Q207694	P276	Q811979	1.0	'art museum'@en	'location'@en	'architectural structure'@en
+Q207694	P276	Q821435	1.0	'art museum'@en	'location'@en	'borough of Berlin'@en
+Q207694	P276	Q856584	1.0	'art museum'@en	'location'@en	'library building'@en
+Q207694	P276	Q902104	1.0	'art museum'@en	'location'@en	'private university'@en
+Q207694	P276	Q920600	1.0	'art museum'@en	'location'@en	'urban renewal'@en
+Q207694	P276	Q99541706	1.0	'art museum'@en	'location'@en	'historical unrecognized state'@en
+Q2085381	P276	Q123705	1.0	'publisher'@en	'location'@en	'neighborhood'@en
+Q2087181	P276	Q34442	1.0	'historic house museum'@en	'location'@en	'road'@en
+Q2190251	P276	Q1115575	1.0	'arts centre'@en	'location'@en	'civil parish'@en
+Q2190251	P276	Q3957	1.0	'arts centre'@en	'location'@en	'town'@en
+Q2190251	P276	Q7897276	1.0	'arts centre'@en	'location'@en	'unparished area'@en
+Q2310465	P276	Q123705	1.0	'toy museum'@en	'location'@en	'neighborhood'@en
+Q2310465	P276	Q79007	1.0	'toy museum'@en	'location'@en	'street'@en
+Q24699794	P276	Q123705	1.0	'museum building'@en	'location'@en	'neighborhood'@en
+Q24699794	P276	Q1306755	1.0	'museum building'@en	'location'@en	'administrative centre'@en
+Q24699794	P276	Q1549591	1.0	'museum building'@en	'location'@en	'big city'@en
+Q24699794	P276	Q5119	1.0	'museum building'@en	'location'@en	'capital'@en
+Q24699794	P276	Q515	1.0	'museum building'@en	'location'@en	'city'@en
+Q26944969	P276	Q15830667	1.0	'photography museum'@en	'location'@en	'quarter of Hamburg'@en
+Q26944969	P276	Q676050	1.0	'photography museum'@en	'location'@en	'old town'@en
+Q3329412	P276	Q515	1.0	'archaeological museum'@en	'location'@en	'city'@en
+Q33506	P276	Q41176	1.0	'museum'@en	'location'@en	'building'@en
+Q33506	P276	Q515	1.0	'museum'@en	'location'@en	'city'@en
+Q33506	P276	Q705296	1.0	'museum'@en	'location'@en	'district of Taiwan'@en
+Q3947	P276	Q253019	1.0	'house'@en	'location'@en	'Ortsteil'@en
+Q41253	P276	Q1115575	1.0	'movie theater'@en	'location'@en	'civil parish'@en
+Q41253	P276	Q3957	1.0	'movie theater'@en	'location'@en	'town'@en
+Q41253	P276	Q7897276	1.0	'movie theater'@en	'location'@en	'unparished area'@en
+Q4409567	P276	Q920600	1.0	'prefectural museum'@en	'location'@en	'urban renewal'@en
+Q54934129	P276	Q123705	1.0	'African-American museum'@en	'location'@en	'neighborhood'@en
+Q54934129	P276	Q79007	1.0	'African-American museum'@en	'location'@en	'street'@en
+Q570116	P276	Q57821	1.0	'tourist attraction'@en	'location'@en	'fortification'@en
+Q5739135	P276	Q811979	1.0	'heritage centre'@en	'location'@en	'architectural structure'@en
+Q7328910	P276	Q33506	1.0	'art collection'@en	'location'@en	'museum'@en
+Q7328910	P276	Q751876	1.0	'art collection'@en	'location'@en	'château'@en
+Q811979	P276	Q57821	1.0	'architectural structure'@en	'location'@en	'fortification'@en
+Q936821	P276	Q1093829	1.0	'travelling exhibition'@en	'location'@en	'city of the United States'@en
+Q936821	P276	Q1549591	1.0	'travelling exhibition'@en	'location'@en	'big city'@en
+Q936821	P276	Q62049	1.0	'travelling exhibition'@en	'location'@en	'county seat'@en
+Q936821	P276	Q76514543	1.0	'travelling exhibition'@en	'location'@en	'municipality of Georgia'@en
+Q207694	P269	external-id	67.0	'art museum'@en	'IdRef ID'@en	
+Q1007870	P269	external-id	4.0	'art gallery'@en	'IdRef ID'@en	
+Q33506	P269	external-id	4.0	'museum'@en	'IdRef ID'@en	
+Q1497649	P269	external-id	3.0	'memory institution'@en	'IdRef ID'@en	
+Q24699794	P269	external-id	3.0	'museum building'@en	'IdRef ID'@en	
+Q17431399	P269	external-id	2.0	'national museum'@en	'IdRef ID'@en	
+Q1759852	P269	external-id	2.0	'sculpture garden'@en	'IdRef ID'@en	
+Q26944969	P269	external-id	2.0	'photography museum'@en	'IdRef ID'@en	
+Q10624527	P269	external-id	1.0	'biographical museum'@en	'IdRef ID'@en	
+Q108860593	P269	external-id	1.0	'museum of modern art'@en	'IdRef ID'@en	
+Q1329623	P269	external-id	1.0	'cultural center'@en	'IdRef ID'@en	
+Q1497375	P269	external-id	1.0	'architectural ensemble'@en	'IdRef ID'@en	
+Q160742	P269	external-id	1.0	'abbey'@en	'IdRef ID'@en	
+Q162875	P269	external-id	1.0	'mausoleum'@en	'IdRef ID'@en	
+Q163740	P269	external-id	1.0	'nonprofit organization'@en	'IdRef ID'@en	
+Q1797122	P269	external-id	1.0	'artist\'s house'@en	'IdRef ID'@en	
+Q2085381	P269	external-id	1.0	'publisher'@en	'IdRef ID'@en	
+Q22698	P269	external-id	1.0	'park'@en	'IdRef ID'@en	
+Q26944892	P269	external-id	1.0	'ethnological museum'@en	'IdRef ID'@en	
+Q3947	P269	external-id	1.0	'house'@en	'IdRef ID'@en	
+Q570116	P269	external-id	1.0	'tourist attraction'@en	'IdRef ID'@en	
+Q61781831	P269	external-id	1.0	'curatorial department'@en	'IdRef ID'@en	
+Q618123	P269	external-id	1.0	'geographical feature'@en	'IdRef ID'@en	
+Q856234	P269	external-id	1.0	'academic library'@en	'IdRef ID'@en	
+Q207694	P244	external-id	272.0	'art museum'@en	'Library of Congress authority ID'@en	
+Q33506	P244	external-id	14.0	'museum'@en	'Library of Congress authority ID'@en	
+Q1007870	P244	external-id	10.0	'art gallery'@en	'Library of Congress authority ID'@en	
+Q24699794	P244	external-id	5.0	'museum building'@en	'Library of Congress authority ID'@en	
+Q1497649	P244	external-id	4.0	'memory institution'@en	'Library of Congress authority ID'@en	
+Q163740	P244	external-id	4.0	'nonprofit organization'@en	'Library of Congress authority ID'@en	
+Q17431399	P244	external-id	4.0	'national museum'@en	'Library of Congress authority ID'@en	
+Q160742	P244	external-id	3.0	'abbey'@en	'Library of Congress authority ID'@en	
+Q1759852	P244	external-id	3.0	'sculpture garden'@en	'Library of Congress authority ID'@en	
+Q10624527	P244	external-id	2.0	'biographical museum'@en	'Library of Congress authority ID'@en	
+Q26944969	P244	external-id	2.0	'photography museum'@en	'Library of Congress authority ID'@en	
+Q4989906	P244	external-id	2.0	'monument'@en	'Library of Congress authority ID'@en	
+Q708676	P244	external-id	2.0	'charitable organization'@en	'Library of Congress authority ID'@en	
+Q1043939	P244	external-id	1.0	'Carnegie library'@en	'Library of Congress authority ID'@en	
+Q108325	P244	external-id	1.0	'chapel'@en	'Library of Congress authority ID'@en	
+Q108860593	P244	external-id	1.0	'museum of modern art'@en	'Library of Congress authority ID'@en	
+Q1329623	P244	external-id	1.0	'cultural center'@en	'Library of Congress authority ID'@en	
+Q1497375	P244	external-id	1.0	'architectural ensemble'@en	'Library of Congress authority ID'@en	
+Q1541532	P244	external-id	1.0	'Hall of Fame (Graffiti)'@en	'Library of Congress authority ID'@en	
+Q1595639	P244	external-id	1.0	'local museum'@en	'Library of Congress authority ID'@en	
+Q162875	P244	external-id	1.0	'mausoleum'@en	'Library of Congress authority ID'@en	
+Q16970	P244	external-id	1.0	'church building'@en	'Library of Congress authority ID'@en	
+Q1797122	P244	external-id	1.0	'artist\'s house'@en	'Library of Congress authority ID'@en	
+Q18325436	P244	external-id	1.0	'501(c)(3) organization'@en	'Library of Congress authority ID'@en	
+Q2085381	P244	external-id	1.0	'publisher'@en	'Library of Congress authority ID'@en	
+Q22698	P244	external-id	1.0	'park'@en	'Library of Congress authority ID'@en	
+Q2668072	P244	external-id	1.0	'collection'@en	'Library of Congress authority ID'@en	
+Q26944892	P244	external-id	1.0	'ethnological museum'@en	'Library of Congress authority ID'@en	
+Q26945165	P244	external-id	1.0	'architectural museum'@en	'Library of Congress authority ID'@en	
+Q27030941	P244	external-id	1.0	'special archive'@en	'Library of Congress authority ID'@en	
+Q3329412	P244	external-id	1.0	'archaeological museum'@en	'Library of Congress authority ID'@en	
+Q3947	P244	external-id	1.0	'house'@en	'Library of Congress authority ID'@en	
+Q4409567	P244	external-id	1.0	'prefectural museum'@en	'Library of Congress authority ID'@en	
+Q445396	P244	external-id	1.0	'print room'@en	'Library of Congress authority ID'@en	
+Q44613	P244	external-id	1.0	'monastery'@en	'Library of Congress authority ID'@en	
+Q570116	P244	external-id	1.0	'tourist attraction'@en	'Library of Congress authority ID'@en	
+Q61781831	P244	external-id	1.0	'curatorial department'@en	'Library of Congress authority ID'@en	
+Q618123	P244	external-id	1.0	'geographical feature'@en	'Library of Congress authority ID'@en	
+Q684740	P244	external-id	1.0	'real property'@en	'Library of Congress authority ID'@en	
+Q7328910	P244	external-id	1.0	'art collection'@en	'Library of Congress authority ID'@en	
+Q856234	P244	external-id	1.0	'academic library'@en	'Library of Congress authority ID'@en	
+Q866133	P244	external-id	1.0	'university museum'@en	'Library of Congress authority ID'@en	
+Q207694	P227	external-id	81.0	'art museum'@en	'GND ID'@en	
+Q1007870	P227	external-id	3.0	'art gallery'@en	'GND ID'@en	
+Q1497649	P227	external-id	3.0	'memory institution'@en	'GND ID'@en	
+Q160742	P227	external-id	3.0	'abbey'@en	'GND ID'@en	
+Q24699794	P227	external-id	3.0	'museum building'@en	'GND ID'@en	
+Q1759852	P227	external-id	2.0	'sculpture garden'@en	'GND ID'@en	
+Q26944969	P227	external-id	2.0	'photography museum'@en	'GND ID'@en	
+Q33506	P227	external-id	2.0	'museum'@en	'GND ID'@en	
+Q4989906	P227	external-id	2.0	'monument'@en	'GND ID'@en	
+Q10624527	P227	external-id	1.0	'biographical museum'@en	'GND ID'@en	
+Q108325	P227	external-id	1.0	'chapel'@en	'GND ID'@en	
+Q108860593	P227	external-id	1.0	'museum of modern art'@en	'GND ID'@en	
+Q1329623	P227	external-id	1.0	'cultural center'@en	'GND ID'@en	
+Q1497375	P227	external-id	1.0	'architectural ensemble'@en	'GND ID'@en	
+Q1541532	P227	external-id	1.0	'Hall of Fame (Graffiti)'@en	'GND ID'@en	
+Q162875	P227	external-id	1.0	'mausoleum'@en	'GND ID'@en	
+Q16970	P227	external-id	1.0	'church building'@en	'GND ID'@en	
+Q17431399	P227	external-id	1.0	'national museum'@en	'GND ID'@en	
+Q1797122	P227	external-id	1.0	'artist\'s house'@en	'GND ID'@en	
+Q2085381	P227	external-id	1.0	'publisher'@en	'GND ID'@en	
+Q22698	P227	external-id	1.0	'park'@en	'GND ID'@en	
+Q23413	P227	external-id	1.0	'castle'@en	'GND ID'@en	
+Q26944892	P227	external-id	1.0	'ethnological museum'@en	'GND ID'@en	
+Q3947	P227	external-id	1.0	'house'@en	'GND ID'@en	
+Q44613	P227	external-id	1.0	'monastery'@en	'GND ID'@en	
+Q570116	P227	external-id	1.0	'tourist attraction'@en	'GND ID'@en	
+Q61781831	P227	external-id	1.0	'curatorial department'@en	'GND ID'@en	
+Q7328910	P227	external-id	1.0	'art collection'@en	'GND ID'@en	
+Q751876	P227	external-id	1.0	'château'@en	'GND ID'@en	
+Q856234	P227	external-id	1.0	'academic library'@en	'GND ID'@en	
+Q207694	P214	external-id	303.0	'art museum'@en	'VIAF ID'@en	
+Q33506	P214	external-id	16.0	'museum'@en	'VIAF ID'@en	
+Q1007870	P214	external-id	13.0	'art gallery'@en	'VIAF ID'@en	
+Q17431399	P214	external-id	5.0	'national museum'@en	'VIAF ID'@en	
+Q24699794	P214	external-id	5.0	'museum building'@en	'VIAF ID'@en	
+Q1497649	P214	external-id	4.0	'memory institution'@en	'VIAF ID'@en	
+Q163740	P214	external-id	4.0	'nonprofit organization'@en	'VIAF ID'@en	
+Q10624527	P214	external-id	3.0	'biographical museum'@en	'VIAF ID'@en	
+Q160742	P214	external-id	3.0	'abbey'@en	'VIAF ID'@en	
+Q1759852	P214	external-id	3.0	'sculpture garden'@en	'VIAF ID'@en	
+Q26944969	P214	external-id	2.0	'photography museum'@en	'VIAF ID'@en	
+Q4989906	P214	external-id	2.0	'monument'@en	'VIAF ID'@en	
+Q708676	P214	external-id	2.0	'charitable organization'@en	'VIAF ID'@en	
+Q1043939	P214	external-id	1.0	'Carnegie library'@en	'VIAF ID'@en	
+Q108325	P214	external-id	1.0	'chapel'@en	'VIAF ID'@en	
+Q108860593	P214	external-id	1.0	'museum of modern art'@en	'VIAF ID'@en	
+Q11341528	P214	external-id	1.0	'comics museum'@en	'VIAF ID'@en	
+Q1202402	P214	external-id	1.0	'townhouse'@en	'VIAF ID'@en	
+Q1329623	P214	external-id	1.0	'cultural center'@en	'VIAF ID'@en	
+Q1497375	P214	external-id	1.0	'architectural ensemble'@en	'VIAF ID'@en	
+Q1541532	P214	external-id	1.0	'Hall of Fame (Graffiti)'@en	'VIAF ID'@en	
+Q1595639	P214	external-id	1.0	'local museum'@en	'VIAF ID'@en	
+Q162875	P214	external-id	1.0	'mausoleum'@en	'VIAF ID'@en	
+Q16735822	P214	external-id	1.0	'history museum'@en	'VIAF ID'@en	
+Q16970	P214	external-id	1.0	'church building'@en	'VIAF ID'@en	
+Q1797122	P214	external-id	1.0	'artist\'s house'@en	'VIAF ID'@en	
+Q1802963	P214	external-id	1.0	'mansion'@en	'VIAF ID'@en	
+Q18325436	P214	external-id	1.0	'501(c)(3) organization'@en	'VIAF ID'@en	
+Q1865249	P214	external-id	1.0	'literary museum'@en	'VIAF ID'@en	
+Q2065736	P214	external-id	1.0	'cultural property'@en	'VIAF ID'@en	
+Q2085381	P214	external-id	1.0	'publisher'@en	'VIAF ID'@en	
+Q2087181	P214	external-id	1.0	'historic house museum'@en	'VIAF ID'@en	
+Q2191999	P214	external-id	1.0	'Pogost'@en	'VIAF ID'@en	
+Q22698	P214	external-id	1.0	'park'@en	'VIAF ID'@en	
+Q2319498	P214	external-id	1.0	'landmark'@en	'VIAF ID'@en	
+Q23413	P214	external-id	1.0	'castle'@en	'VIAF ID'@en	
+Q2668072	P214	external-id	1.0	'collection'@en	'VIAF ID'@en	
+Q26944892	P214	external-id	1.0	'ethnological museum'@en	'VIAF ID'@en	
+Q26945165	P214	external-id	1.0	'architectural museum'@en	'VIAF ID'@en	
+Q27030941	P214	external-id	1.0	'special archive'@en	'VIAF ID'@en	
+Q3329412	P214	external-id	1.0	'archaeological museum'@en	'VIAF ID'@en	
+Q383092	P214	external-id	1.0	'Art school'@en	'VIAF ID'@en	
+Q3947	P214	external-id	1.0	'house'@en	'VIAF ID'@en	
+Q4409567	P214	external-id	1.0	'prefectural museum'@en	'VIAF ID'@en	
+Q445396	P214	external-id	1.0	'print room'@en	'VIAF ID'@en	
+Q44613	P214	external-id	1.0	'monastery'@en	'VIAF ID'@en	
+Q570116	P214	external-id	1.0	'tourist attraction'@en	'VIAF ID'@en	
+Q61781831	P214	external-id	1.0	'curatorial department'@en	'VIAF ID'@en	
+Q618123	P214	external-id	1.0	'geographical feature'@en	'VIAF ID'@en	
+Q684740	P214	external-id	1.0	'real property'@en	'VIAF ID'@en	
+Q7328910	P214	external-id	1.0	'art collection'@en	'VIAF ID'@en	
+Q751876	P214	external-id	1.0	'château'@en	'VIAF ID'@en	
+Q856234	P214	external-id	1.0	'academic library'@en	'VIAF ID'@en	
+Q866133	P214	external-id	1.0	'university museum'@en	'VIAF ID'@en	
+Q207694	P213	external-id	159.0	'art museum'@en	'ISNI'@en	
+Q1007870	P213	external-id	8.0	'art gallery'@en	'ISNI'@en	
+Q33506	P213	external-id	6.0	'museum'@en	'ISNI'@en	
+Q1497649	P213	external-id	3.0	'memory institution'@en	'ISNI'@en	
+Q163740	P213	external-id	3.0	'nonprofit organization'@en	'ISNI'@en	
+Q17431399	P213	external-id	3.0	'national museum'@en	'ISNI'@en	
+Q1759852	P213	external-id	3.0	'sculpture garden'@en	'ISNI'@en	
+Q24699794	P213	external-id	3.0	'museum building'@en	'ISNI'@en	
+Q26944969	P213	external-id	2.0	'photography museum'@en	'ISNI'@en	
+Q108325	P213	external-id	1.0	'chapel'@en	'ISNI'@en	
+Q108860593	P213	external-id	1.0	'museum of modern art'@en	'ISNI'@en	
+Q1329623	P213	external-id	1.0	'cultural center'@en	'ISNI'@en	
+Q1497375	P213	external-id	1.0	'architectural ensemble'@en	'ISNI'@en	
+Q160742	P213	external-id	1.0	'abbey'@en	'ISNI'@en	
+Q1797122	P213	external-id	1.0	'artist\'s house'@en	'ISNI'@en	
+Q18325436	P213	external-id	1.0	'501(c)(3) organization'@en	'ISNI'@en	
+Q2085381	P213	external-id	1.0	'publisher'@en	'ISNI'@en	
+Q22698	P213	external-id	1.0	'park'@en	'ISNI'@en	
+Q2668072	P213	external-id	1.0	'collection'@en	'ISNI'@en	
+Q26944892	P213	external-id	1.0	'ethnological museum'@en	'ISNI'@en	
+Q26945165	P213	external-id	1.0	'architectural museum'@en	'ISNI'@en	
+Q383092	P213	external-id	1.0	'Art school'@en	'ISNI'@en	
+Q3947	P213	external-id	1.0	'house'@en	'ISNI'@en	
+Q445396	P213	external-id	1.0	'print room'@en	'ISNI'@en	
+Q4989906	P213	external-id	1.0	'monument'@en	'ISNI'@en	
+Q570116	P213	external-id	1.0	'tourist attraction'@en	'ISNI'@en	
+Q61781831	P213	external-id	1.0	'curatorial department'@en	'ISNI'@en	
+Q618123	P213	external-id	1.0	'geographical feature'@en	'ISNI'@en	
+Q684740	P213	external-id	1.0	'real property'@en	'ISNI'@en	
+Q708676	P213	external-id	1.0	'charitable organization'@en	'ISNI'@en	
+Q866133	P213	external-id	1.0	'university museum'@en	'ISNI'@en	
+Q207694	P2002	external-id	76.0	'art museum'@en	'Twitter username'@en	
+Q1007870	P2002	external-id	3.0	'art gallery'@en	'Twitter username'@en	
+Q10624527	P2002	external-id	3.0	'biographical museum'@en	'Twitter username'@en	
+Q33506	P2002	external-id	3.0	'museum'@en	'Twitter username'@en	
+Q1329623	P2002	external-id	2.0	'cultural center'@en	'Twitter username'@en	
+Q1497649	P2002	external-id	2.0	'memory institution'@en	'Twitter username'@en	
+Q163740	P2002	external-id	2.0	'nonprofit organization'@en	'Twitter username'@en	
+Q17431399	P2002	external-id	2.0	'national museum'@en	'Twitter username'@en	
+Q1759852	P2002	external-id	2.0	'sculpture garden'@en	'Twitter username'@en	
+Q24699794	P2002	external-id	2.0	'museum building'@en	'Twitter username'@en	
+Q26944969	P2002	external-id	2.0	'photography museum'@en	'Twitter username'@en	
+Q108325	P2002	external-id	1.0	'chapel'@en	'Twitter username'@en	
+Q108860593	P2002	external-id	1.0	'museum of modern art'@en	'Twitter username'@en	
+Q11341528	P2002	external-id	1.0	'comics museum'@en	'Twitter username'@en	
+Q1497375	P2002	external-id	1.0	'architectural ensemble'@en	'Twitter username'@en	
+Q1595639	P2002	external-id	1.0	'local museum'@en	'Twitter username'@en	
+Q1797122	P2002	external-id	1.0	'artist\'s house'@en	'Twitter username'@en	
+Q2085381	P2002	external-id	1.0	'publisher'@en	'Twitter username'@en	
+Q22698	P2002	external-id	1.0	'park'@en	'Twitter username'@en	
+Q4409567	P2002	external-id	1.0	'prefectural museum'@en	'Twitter username'@en	
+Q570116	P2002	external-id	1.0	'tourist attraction'@en	'Twitter username'@en	
+Q618123	P2002	external-id	1.0	'geographical feature'@en	'Twitter username'@en	
+Q811979	P2002	external-id	1.0	'architectural structure'@en	'Twitter username'@en	
+Q207694	P18	commonsMedia	306.0	'art museum'@en	'image'@en	
+Q33506	P18	commonsMedia	18.0	'museum'@en	'image'@en	
+Q1007870	P18	commonsMedia	14.0	'art gallery'@en	'image'@en	
+Q1759852	P18	commonsMedia	7.0	'sculpture garden'@en	'image'@en	
+Q17431399	P18	commonsMedia	6.0	'national museum'@en	'image'@en	
+Q1497649	P18	commonsMedia	5.0	'memory institution'@en	'image'@en	
+Q24699794	P18	commonsMedia	5.0	'museum building'@en	'image'@en	
+Q163740	P18	commonsMedia	4.0	'nonprofit organization'@en	'image'@en	
+Q10624527	P18	commonsMedia	3.0	'biographical museum'@en	'image'@en	
+Q160742	P18	commonsMedia	3.0	'abbey'@en	'image'@en	
+Q2087181	P18	commonsMedia	3.0	'historic house museum'@en	'image'@en	
+Q1043939	P18	commonsMedia	2.0	'Carnegie library'@en	'image'@en	
+Q1329623	P18	commonsMedia	2.0	'cultural center'@en	'image'@en	
+Q1595639	P18	commonsMedia	2.0	'local museum'@en	'image'@en	
+Q1802963	P18	commonsMedia	2.0	'mansion'@en	'image'@en	
+Q2190251	P18	commonsMedia	2.0	'arts centre'@en	'image'@en	
+Q26944969	P18	commonsMedia	2.0	'photography museum'@en	'image'@en	
+Q3947	P18	commonsMedia	2.0	'house'@en	'image'@en	
+Q41176	P18	commonsMedia	2.0	'building'@en	'image'@en	
+Q4989906	P18	commonsMedia	2.0	'monument'@en	'image'@en	
+Q570116	P18	commonsMedia	2.0	'tourist attraction'@en	'image'@en	
+Q108325	P18	commonsMedia	1.0	'chapel'@en	'image'@en	
+Q108860593	P18	commonsMedia	1.0	'museum of modern art'@en	'image'@en	
+Q11341528	P18	commonsMedia	1.0	'comics museum'@en	'image'@en	
+Q1179791	P18	commonsMedia	1.0	'glassworks'@en	'image'@en	
+Q1202402	P18	commonsMedia	1.0	'townhouse'@en	'image'@en	
+Q1343246	P18	commonsMedia	1.0	'English country house'@en	'image'@en	
+Q1497375	P18	commonsMedia	1.0	'architectural ensemble'@en	'image'@en	
+Q1541532	P18	commonsMedia	1.0	'Hall of Fame (Graffiti)'@en	'image'@en	
+Q1574516	P18	commonsMedia	1.0	'photo library'@en	'image'@en	
+Q162875	P18	commonsMedia	1.0	'mausoleum'@en	'image'@en	
+Q16735822	P18	commonsMedia	1.0	'history museum'@en	'image'@en	
+Q16970	P18	commonsMedia	1.0	'church building'@en	'image'@en	
+Q1797122	P18	commonsMedia	1.0	'artist\'s house'@en	'image'@en	
+Q18325436	P18	commonsMedia	1.0	'501(c)(3) organization'@en	'image'@en	
+Q1865249	P18	commonsMedia	1.0	'literary museum'@en	'image'@en	
+Q2065736	P18	commonsMedia	1.0	'cultural property'@en	'image'@en	
+Q2085381	P18	commonsMedia	1.0	'publisher'@en	'image'@en	
+Q2122214	P18	commonsMedia	1.0	'national archives'@en	'image'@en	
+Q2191999	P18	commonsMedia	1.0	'Pogost'@en	'image'@en	
+Q22698	P18	commonsMedia	1.0	'park'@en	'image'@en	
+Q2319498	P18	commonsMedia	1.0	'landmark'@en	'image'@en	
+Q23413	P18	commonsMedia	1.0	'castle'@en	'image'@en	
+Q24354	P18	commonsMedia	1.0	'theatre'@en	'image'@en	
+Q2668072	P18	commonsMedia	1.0	'collection'@en	'image'@en	
+Q26944892	P18	commonsMedia	1.0	'ethnological museum'@en	'image'@en	
+Q26945165	P18	commonsMedia	1.0	'architectural museum'@en	'image'@en	
+Q3329412	P18	commonsMedia	1.0	'archaeological museum'@en	'image'@en	
+Q35989030	P18	commonsMedia	1.0	'Passport to Your National Parks cancellation location'@en	'image'@en	
+Q383092	P18	commonsMedia	1.0	'Art school'@en	'image'@en	
+Q41253	P18	commonsMedia	1.0	'movie theater'@en	'image'@en	
+Q4409567	P18	commonsMedia	1.0	'prefectural museum'@en	'image'@en	
+Q445396	P18	commonsMedia	1.0	'print room'@en	'image'@en	
+Q44613	P18	commonsMedia	1.0	'monastery'@en	'image'@en	
+Q54934129	P18	commonsMedia	1.0	'African-American museum'@en	'image'@en	
+Q5739135	P18	commonsMedia	1.0	'heritage centre'@en	'image'@en	
+Q61781831	P18	commonsMedia	1.0	'curatorial department'@en	'image'@en	
+Q618123	P18	commonsMedia	1.0	'geographical feature'@en	'image'@en	
+Q684740	P18	commonsMedia	1.0	'real property'@en	'image'@en	
+Q708676	P18	commonsMedia	1.0	'charitable organization'@en	'image'@en	
+Q7328910	P18	commonsMedia	1.0	'art collection'@en	'image'@en	
+Q751876	P18	commonsMedia	1.0	'château'@en	'image'@en	
+Q811979	P18	commonsMedia	1.0	'architectural structure'@en	'image'@en	
+Q856234	P18	commonsMedia	1.0	'academic library'@en	'image'@en	
+Q207694	P17	Q6256	412.0	'art museum'@en	'country'@en	'country'@en
+Q207694	P17	Q3624078	405.0	'art museum'@en	'country'@en	'sovereign state'@en
+Q207694	P17	Q1520223	173.0	'art museum'@en	'country'@en	'constitutional republic'@en
+Q207694	P17	Q512187	172.0	'art museum'@en	'country'@en	'federal republic'@en
+Q207694	P17	Q5255892	163.0	'art museum'@en	'country'@en	'democratic republic'@en
+Q207694	P17	Q99541706	156.0	'art museum'@en	'country'@en	'historical unrecognized state'@en
+Q207694	P17	Q1489259	153.0	'art museum'@en	'country'@en	'superpower'@en
+Q207694	P17	Q112099	78.0	'art museum'@en	'country'@en	'island nation'@en
+Q207694	P17	Q7270	65.0	'art museum'@en	'country'@en	'republic'@en
+Q207694	P17	Q43702	60.0	'art museum'@en	'country'@en	'federation'@en
+Q207694	P17	Q202686	58.0	'art museum'@en	'country'@en	'Commonwealth realm'@en
+Q207694	P17	Q20181813	51.0	'art museum'@en	'country'@en	'colonial power'@en
+Q207694	P17	Q4209223	51.0	'art museum'@en	'country'@en	'Rechtsstaat'@en
+Q207694	P17	Q619610	50.0	'art museum'@en	'country'@en	'social state'@en
+Q207694	P17	Q1250464	39.0	'art museum'@en	'country'@en	'realm'@en
+Q207694	P17	Q51576574	39.0	'art museum'@en	'country'@en	'Mediterranean country'@en
+Q207694	P17	Q63791824	39.0	'art museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q207694	P17	Q179164	34.0	'art museum'@en	'country'@en	'unitary state'@en
+Q207694	P17	Q223832	28.0	'art museum'@en	'country'@en	'dominion of the British Empire'@en
+Q1007870	P17	Q3624078	23.0	'art gallery'@en	'country'@en	'sovereign state'@en
+Q1007870	P17	Q6256	23.0	'art gallery'@en	'country'@en	'country'@en
+Q207694	P17	Q123480	23.0	'art museum'@en	'country'@en	'landlocked country'@en
+Q33506	P17	Q3624078	19.0	'museum'@en	'country'@en	'sovereign state'@en
+Q33506	P17	Q6256	19.0	'museum'@en	'country'@en	'country'@en
+Q1007870	P17	Q1520223	17.0	'art gallery'@en	'country'@en	'constitutional republic'@en
+Q1007870	P17	Q512187	16.0	'art gallery'@en	'country'@en	'federal republic'@en
+Q1007870	P17	Q5255892	16.0	'art gallery'@en	'country'@en	'democratic republic'@en
+Q207694	P17	Q7275	15.0	'art museum'@en	'country'@en	'state'@en
+Q1007870	P17	Q1489259	14.0	'art gallery'@en	'country'@en	'superpower'@en
+Q1007870	P17	Q99541706	14.0	'art gallery'@en	'country'@en	'historical unrecognized state'@en
+Q207694	P17	Q6266	13.0	'art museum'@en	'country'@en	'nation'@en
+Q207694	P17	Q185145	12.0	'art museum'@en	'country'@en	'great power'@en
+Q207694	P17	Q859563	11.0	'art museum'@en	'country'@en	'secular state'@en
+Q1759852	P17	Q3624078	9.0	'sculpture garden'@en	'country'@en	'sovereign state'@en
+Q1759852	P17	Q6256	9.0	'sculpture garden'@en	'country'@en	'country'@en
+Q207694	P17	Q41614	7.0	'art museum'@en	'country'@en	'constitutional monarchy'@en
+Q207694	P17	Q48349	7.0	'art museum'@en	'country'@en	'empire'@en
+Q207694	P17	Q849866	7.0	'art museum'@en	'country'@en	'communist state'@en
+Q33506	P17	Q512187	7.0	'museum'@en	'country'@en	'federal republic'@en
+Q17431399	P17	Q6256	6.0	'national museum'@en	'country'@en	'country'@en
+Q1759852	P17	Q1489259	6.0	'sculpture garden'@en	'country'@en	'superpower'@en
+Q1759852	P17	Q1520223	6.0	'sculpture garden'@en	'country'@en	'constitutional republic'@en
+Q1759852	P17	Q512187	6.0	'sculpture garden'@en	'country'@en	'federal republic'@en
+Q1759852	P17	Q5255892	6.0	'sculpture garden'@en	'country'@en	'democratic republic'@en
+Q1759852	P17	Q99541706	6.0	'sculpture garden'@en	'country'@en	'historical unrecognized state'@en
+Q207694	P17	Q170156	6.0	'art museum'@en	'country'@en	'confederation'@en
+Q207694	P17	Q842112	6.0	'art museum'@en	'country'@en	'socialist state'@en
+Q1497649	P17	Q123480	5.0	'memory institution'@en	'country'@en	'landlocked country'@en
+Q1497649	P17	Q170156	5.0	'memory institution'@en	'country'@en	'confederation'@en
+Q1497649	P17	Q3624078	5.0	'memory institution'@en	'country'@en	'sovereign state'@en
+Q1497649	P17	Q43702	5.0	'memory institution'@en	'country'@en	'federation'@en
+Q1497649	P17	Q6256	5.0	'memory institution'@en	'country'@en	'country'@en
+Q163740	P17	Q6256	5.0	'nonprofit organization'@en	'country'@en	'country'@en
+Q17431399	P17	Q3624078	5.0	'national museum'@en	'country'@en	'sovereign state'@en
+Q207694	P17	Q13107770	5.0	'art museum'@en	'country'@en	'archipelagic state'@en
+Q207694	P17	Q1323642	5.0	'art museum'@en	'country'@en	'transcontinental country'@en
+Q207694	P17	Q15634554	5.0	'art museum'@en	'country'@en	'state with limited recognition'@en
+Q207694	P17	Q611214	5.0	'art museum'@en	'country'@en	'Next Eleven'@en
+Q207694	P17	Q66724388	5.0	'art museum'@en	'country'@en	'autonomous country within the Kingdom of Denmark'@en
+Q24699794	P17	Q3624078	5.0	'museum building'@en	'country'@en	'sovereign state'@en
+Q24699794	P17	Q6256	5.0	'museum building'@en	'country'@en	'country'@en
+Q33506	P17	Q4209223	5.0	'museum'@en	'country'@en	'Rechtsstaat'@en
+Q163740	P17	Q1489259	4.0	'nonprofit organization'@en	'country'@en	'superpower'@en
+Q163740	P17	Q1520223	4.0	'nonprofit organization'@en	'country'@en	'constitutional republic'@en
+Q163740	P17	Q3624078	4.0	'nonprofit organization'@en	'country'@en	'sovereign state'@en
+Q163740	P17	Q512187	4.0	'nonprofit organization'@en	'country'@en	'federal republic'@en
+Q163740	P17	Q5255892	4.0	'nonprofit organization'@en	'country'@en	'democratic republic'@en
+Q163740	P17	Q99541706	4.0	'nonprofit organization'@en	'country'@en	'historical unrecognized state'@en
+Q207694	P17	Q185441	4.0	'art museum'@en	'country'@en	'member state of the european union'@en
+Q207694	P17	Q3024240	4.0	'art museum'@en	'country'@en	'historical country'@en
+Q207694	P17	Q465613	4.0	'art museum'@en	'country'@en	'people\'s republic'@en
+Q33506	P17	Q112099	4.0	'museum'@en	'country'@en	'island nation'@en
+Q33506	P17	Q179164	4.0	'museum'@en	'country'@en	'unitary state'@en
+Q33506	P17	Q6266	4.0	'museum'@en	'country'@en	'nation'@en
+Q1007870	P17	Q112099	3.0	'art gallery'@en	'country'@en	'island nation'@en
+Q10624527	P17	Q112099	3.0	'biographical museum'@en	'country'@en	'island nation'@en
+Q10624527	P17	Q3624078	3.0	'biographical museum'@en	'country'@en	'sovereign state'@en
+Q10624527	P17	Q6256	3.0	'biographical museum'@en	'country'@en	'country'@en
+Q160742	P17	Q3624078	3.0	'abbey'@en	'country'@en	'sovereign state'@en
+Q160742	P17	Q6256	3.0	'abbey'@en	'country'@en	'country'@en
+Q160742	P17	Q7270	3.0	'abbey'@en	'country'@en	'republic'@en
+Q207694	P17	Q118365	3.0	'art museum'@en	'country'@en	'dictatorship of the proletariat'@en
+Q207694	P17	Q1335818	3.0	'art museum'@en	'country'@en	'supranational union'@en
+Q207694	P17	Q15304003	3.0	'art museum'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q207694	P17	Q49892	3.0	'art museum'@en	'country'@en	'presidential system'@en
+Q2087181	P17	Q112099	3.0	'historic house museum'@en	'country'@en	'island nation'@en
+Q2087181	P17	Q3624078	3.0	'historic house museum'@en	'country'@en	'sovereign state'@en
+Q2087181	P17	Q6256	3.0	'historic house museum'@en	'country'@en	'country'@en
+Q33506	P17	Q1250464	3.0	'museum'@en	'country'@en	'realm'@en
+Q33506	P17	Q20181813	3.0	'museum'@en	'country'@en	'colonial power'@en
+Q1007870	P17	Q123480	2.0	'art gallery'@en	'country'@en	'landlocked country'@en
+Q1007870	P17	Q43702	2.0	'art gallery'@en	'country'@en	'federation'@en
+Q1007870	P17	Q48349	2.0	'art gallery'@en	'country'@en	'empire'@en
+Q1007870	P17	Q611214	2.0	'art gallery'@en	'country'@en	'Next Eleven'@en
+Q1007870	P17	Q6266	2.0	'art gallery'@en	'country'@en	'nation'@en
+Q1043939	P17	Q1489259	2.0	'Carnegie library'@en	'country'@en	'superpower'@en
+Q1043939	P17	Q1520223	2.0	'Carnegie library'@en	'country'@en	'constitutional republic'@en
+Q1043939	P17	Q3624078	2.0	'Carnegie library'@en	'country'@en	'sovereign state'@en
+Q1043939	P17	Q512187	2.0	'Carnegie library'@en	'country'@en	'federal republic'@en
+Q1043939	P17	Q5255892	2.0	'Carnegie library'@en	'country'@en	'democratic republic'@en
+Q1043939	P17	Q6256	2.0	'Carnegie library'@en	'country'@en	'country'@en
+Q1043939	P17	Q99541706	2.0	'Carnegie library'@en	'country'@en	'historical unrecognized state'@en
+Q1329623	P17	Q3624078	2.0	'cultural center'@en	'country'@en	'sovereign state'@en
+Q1329623	P17	Q4209223	2.0	'cultural center'@en	'country'@en	'Rechtsstaat'@en
+Q1329623	P17	Q6256	2.0	'cultural center'@en	'country'@en	'country'@en
+Q1329623	P17	Q7270	2.0	'cultural center'@en	'country'@en	'republic'@en
+Q1595639	P17	Q112099	2.0	'local museum'@en	'country'@en	'island nation'@en
+Q1595639	P17	Q1250464	2.0	'local museum'@en	'country'@en	'realm'@en
+Q1595639	P17	Q20181813	2.0	'local museum'@en	'country'@en	'colonial power'@en
+Q1595639	P17	Q202686	2.0	'local museum'@en	'country'@en	'Commonwealth realm'@en
+Q1595639	P17	Q3624078	2.0	'local museum'@en	'country'@en	'sovereign state'@en
+Q1595639	P17	Q6256	2.0	'local museum'@en	'country'@en	'country'@en
+Q160742	P17	Q123480	2.0	'abbey'@en	'country'@en	'landlocked country'@en
+Q160742	P17	Q4209223	2.0	'abbey'@en	'country'@en	'Rechtsstaat'@en
+Q160742	P17	Q7275	2.0	'abbey'@en	'country'@en	'state'@en
+Q16735822	P17	Q1489259	2.0	'history museum'@en	'country'@en	'superpower'@en
+Q16735822	P17	Q1520223	2.0	'history museum'@en	'country'@en	'constitutional republic'@en
+Q16735822	P17	Q3624078	2.0	'history museum'@en	'country'@en	'sovereign state'@en
+Q16735822	P17	Q512187	2.0	'history museum'@en	'country'@en	'federal republic'@en
+Q16735822	P17	Q5255892	2.0	'history museum'@en	'country'@en	'democratic republic'@en
+Q16735822	P17	Q6256	2.0	'history museum'@en	'country'@en	'country'@en
+Q16735822	P17	Q99541706	2.0	'history museum'@en	'country'@en	'historical unrecognized state'@en
+Q17431399	P17	Q512187	2.0	'national museum'@en	'country'@en	'federal republic'@en
+Q1759852	P17	Q43702	2.0	'sculpture garden'@en	'country'@en	'federation'@en
+Q1802963	P17	Q112099	2.0	'mansion'@en	'country'@en	'island nation'@en
+Q1802963	P17	Q1250464	2.0	'mansion'@en	'country'@en	'realm'@en
+Q1802963	P17	Q20181813	2.0	'mansion'@en	'country'@en	'colonial power'@en
+Q1802963	P17	Q202686	2.0	'mansion'@en	'country'@en	'Commonwealth realm'@en
+Q1802963	P17	Q3624078	2.0	'mansion'@en	'country'@en	'sovereign state'@en
+Q1802963	P17	Q6256	2.0	'mansion'@en	'country'@en	'country'@en
+Q2087181	P17	Q1250464	2.0	'historic house museum'@en	'country'@en	'realm'@en
+Q2087181	P17	Q20181813	2.0	'historic house museum'@en	'country'@en	'colonial power'@en
+Q2087181	P17	Q202686	2.0	'historic house museum'@en	'country'@en	'Commonwealth realm'@en
+Q2190251	P17	Q202686	2.0	'arts centre'@en	'country'@en	'Commonwealth realm'@en
+Q2190251	P17	Q3624078	2.0	'arts centre'@en	'country'@en	'sovereign state'@en
+Q2190251	P17	Q6256	2.0	'arts centre'@en	'country'@en	'country'@en
+Q24699794	P17	Q1489259	2.0	'museum building'@en	'country'@en	'superpower'@en
+Q24699794	P17	Q1520223	2.0	'museum building'@en	'country'@en	'constitutional republic'@en
+Q24699794	P17	Q512187	2.0	'museum building'@en	'country'@en	'federal republic'@en
+Q24699794	P17	Q5255892	2.0	'museum building'@en	'country'@en	'democratic republic'@en
+Q24699794	P17	Q99541706	2.0	'museum building'@en	'country'@en	'historical unrecognized state'@en
+Q26944969	P17	Q3624078	2.0	'photography museum'@en	'country'@en	'sovereign state'@en
+Q26944969	P17	Q43702	2.0	'photography museum'@en	'country'@en	'federation'@en
+Q26944969	P17	Q6256	2.0	'photography museum'@en	'country'@en	'country'@en
+Q33506	P17	Q1520223	2.0	'museum'@en	'country'@en	'constitutional republic'@en
+Q33506	P17	Q202686	2.0	'museum'@en	'country'@en	'Commonwealth realm'@en
+Q33506	P17	Q5255892	2.0	'museum'@en	'country'@en	'democratic republic'@en
+Q33506	P17	Q619610	2.0	'museum'@en	'country'@en	'social state'@en
+Q33506	P17	Q63791824	2.0	'museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q33506	P17	Q7270	2.0	'museum'@en	'country'@en	'republic'@en
+Q33506	P17	Q859563	2.0	'museum'@en	'country'@en	'secular state'@en
+Q33506	P17	Q99541706	2.0	'museum'@en	'country'@en	'historical unrecognized state'@en
+Q3947	P17	Q3624078	2.0	'house'@en	'country'@en	'sovereign state'@en
+Q3947	P17	Q43702	2.0	'house'@en	'country'@en	'federation'@en
+Q3947	P17	Q6256	2.0	'house'@en	'country'@en	'country'@en
+Q41176	P17	Q3624078	2.0	'building'@en	'country'@en	'sovereign state'@en
+Q41176	P17	Q6256	2.0	'building'@en	'country'@en	'country'@en
+Q4989906	P17	Q1250464	2.0	'monument'@en	'country'@en	'realm'@en
+Q4989906	P17	Q3624078	2.0	'monument'@en	'country'@en	'sovereign state'@en
+Q4989906	P17	Q51576574	2.0	'monument'@en	'country'@en	'Mediterranean country'@en
+Q4989906	P17	Q6256	2.0	'monument'@en	'country'@en	'country'@en
+Q54934129	P17	Q1489259	2.0	'African-American museum'@en	'country'@en	'superpower'@en
+Q54934129	P17	Q1520223	2.0	'African-American museum'@en	'country'@en	'constitutional republic'@en
+Q54934129	P17	Q3624078	2.0	'African-American museum'@en	'country'@en	'sovereign state'@en
+Q54934129	P17	Q512187	2.0	'African-American museum'@en	'country'@en	'federal republic'@en
+Q54934129	P17	Q5255892	2.0	'African-American museum'@en	'country'@en	'democratic republic'@en
+Q54934129	P17	Q6256	2.0	'African-American museum'@en	'country'@en	'country'@en
+Q54934129	P17	Q99541706	2.0	'African-American museum'@en	'country'@en	'historical unrecognized state'@en
+Q570116	P17	Q3624078	2.0	'tourist attraction'@en	'country'@en	'sovereign state'@en
+Q570116	P17	Q6256	2.0	'tourist attraction'@en	'country'@en	'country'@en
+Q708676	P17	Q112099	2.0	'charitable organization'@en	'country'@en	'island nation'@en
+Q708676	P17	Q1250464	2.0	'charitable organization'@en	'country'@en	'realm'@en
+Q708676	P17	Q20181813	2.0	'charitable organization'@en	'country'@en	'colonial power'@en
+Q708676	P17	Q202686	2.0	'charitable organization'@en	'country'@en	'Commonwealth realm'@en
+Q708676	P17	Q3624078	2.0	'charitable organization'@en	'country'@en	'sovereign state'@en
+Q708676	P17	Q6256	2.0	'charitable organization'@en	'country'@en	'country'@en
+Q1007870	P17	Q118365	1.0	'art gallery'@en	'country'@en	'dictatorship of the proletariat'@en
+Q1007870	P17	Q15634554	1.0	'art gallery'@en	'country'@en	'state with limited recognition'@en
+Q1007870	P17	Q170156	1.0	'art gallery'@en	'country'@en	'confederation'@en
+Q1007870	P17	Q202686	1.0	'art gallery'@en	'country'@en	'Commonwealth realm'@en
+Q1007870	P17	Q223832	1.0	'art gallery'@en	'country'@en	'dominion of the British Empire'@en
+Q1007870	P17	Q4209223	1.0	'art gallery'@en	'country'@en	'Rechtsstaat'@en
+Q1007870	P17	Q465613	1.0	'art gallery'@en	'country'@en	'people\'s republic'@en
+Q1007870	P17	Q7270	1.0	'art gallery'@en	'country'@en	'republic'@en
+Q1007870	P17	Q7275	1.0	'art gallery'@en	'country'@en	'state'@en
+Q1007870	P17	Q842112	1.0	'art gallery'@en	'country'@en	'socialist state'@en
+Q1007870	P17	Q849866	1.0	'art gallery'@en	'country'@en	'communist state'@en
+Q1007870	P17	Q859563	1.0	'art gallery'@en	'country'@en	'secular state'@en
+Q108325	P17	Q1489259	1.0	'chapel'@en	'country'@en	'superpower'@en
+Q108325	P17	Q1520223	1.0	'chapel'@en	'country'@en	'constitutional republic'@en
+Q108325	P17	Q3624078	1.0	'chapel'@en	'country'@en	'sovereign state'@en
+Q108325	P17	Q512187	1.0	'chapel'@en	'country'@en	'federal republic'@en
+Q108325	P17	Q5255892	1.0	'chapel'@en	'country'@en	'democratic republic'@en
+Q108325	P17	Q6256	1.0	'chapel'@en	'country'@en	'country'@en
+Q108325	P17	Q99541706	1.0	'chapel'@en	'country'@en	'historical unrecognized state'@en
+Q108860593	P17	Q1489259	1.0	'museum of modern art'@en	'country'@en	'superpower'@en
+Q108860593	P17	Q1520223	1.0	'museum of modern art'@en	'country'@en	'constitutional republic'@en
+Q108860593	P17	Q3624078	1.0	'museum of modern art'@en	'country'@en	'sovereign state'@en
+Q108860593	P17	Q512187	1.0	'museum of modern art'@en	'country'@en	'federal republic'@en
+Q108860593	P17	Q5255892	1.0	'museum of modern art'@en	'country'@en	'democratic republic'@en
+Q108860593	P17	Q6256	1.0	'museum of modern art'@en	'country'@en	'country'@en
+Q108860593	P17	Q99541706	1.0	'museum of modern art'@en	'country'@en	'historical unrecognized state'@en
+Q10942443	P17	Q112099	1.0	'suite'@en	'country'@en	'island nation'@en
+Q10942443	P17	Q1250464	1.0	'suite'@en	'country'@en	'realm'@en
+Q10942443	P17	Q20181813	1.0	'suite'@en	'country'@en	'colonial power'@en
+Q10942443	P17	Q202686	1.0	'suite'@en	'country'@en	'Commonwealth realm'@en
+Q10942443	P17	Q3624078	1.0	'suite'@en	'country'@en	'sovereign state'@en
+Q10942443	P17	Q6256	1.0	'suite'@en	'country'@en	'country'@en
+Q11341528	P17	Q112099	1.0	'comics museum'@en	'country'@en	'island nation'@en
+Q11341528	P17	Q3624078	1.0	'comics museum'@en	'country'@en	'sovereign state'@en
+Q11341528	P17	Q6256	1.0	'comics museum'@en	'country'@en	'country'@en
+Q1179791	P17	Q202686	1.0	'glassworks'@en	'country'@en	'Commonwealth realm'@en
+Q1179791	P17	Q223832	1.0	'glassworks'@en	'country'@en	'dominion of the British Empire'@en
+Q1179791	P17	Q3624078	1.0	'glassworks'@en	'country'@en	'sovereign state'@en
+Q1179791	P17	Q43702	1.0	'glassworks'@en	'country'@en	'federation'@en
+Q1179791	P17	Q6256	1.0	'glassworks'@en	'country'@en	'country'@en
+Q1202402	P17	Q112099	1.0	'townhouse'@en	'country'@en	'island nation'@en
+Q1202402	P17	Q1250464	1.0	'townhouse'@en	'country'@en	'realm'@en
+Q1202402	P17	Q20181813	1.0	'townhouse'@en	'country'@en	'colonial power'@en
+Q1202402	P17	Q202686	1.0	'townhouse'@en	'country'@en	'Commonwealth realm'@en
+Q1202402	P17	Q3624078	1.0	'townhouse'@en	'country'@en	'sovereign state'@en
+Q1202402	P17	Q6256	1.0	'townhouse'@en	'country'@en	'country'@en
+Q1329623	P17	Q123480	1.0	'cultural center'@en	'country'@en	'landlocked country'@en
+Q1329623	P17	Q43702	1.0	'cultural center'@en	'country'@en	'federation'@en
+Q1329623	P17	Q619610	1.0	'cultural center'@en	'country'@en	'social state'@en
+Q1329623	P17	Q63791824	1.0	'cultural center'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1329623	P17	Q7275	1.0	'cultural center'@en	'country'@en	'state'@en
+Q1343246	P17	Q112099	1.0	'English country house'@en	'country'@en	'island nation'@en
+Q1343246	P17	Q1250464	1.0	'English country house'@en	'country'@en	'realm'@en
+Q1343246	P17	Q20181813	1.0	'English country house'@en	'country'@en	'colonial power'@en
+Q1343246	P17	Q202686	1.0	'English country house'@en	'country'@en	'Commonwealth realm'@en
+Q1343246	P17	Q3624078	1.0	'English country house'@en	'country'@en	'sovereign state'@en
+Q1343246	P17	Q6256	1.0	'English country house'@en	'country'@en	'country'@en
+Q1497375	P17	Q3624078	1.0	'architectural ensemble'@en	'country'@en	'sovereign state'@en
+Q1497375	P17	Q4209223	1.0	'architectural ensemble'@en	'country'@en	'Rechtsstaat'@en
+Q1497375	P17	Q43702	1.0	'architectural ensemble'@en	'country'@en	'federation'@en
+Q1497375	P17	Q619610	1.0	'architectural ensemble'@en	'country'@en	'social state'@en
+Q1497375	P17	Q6256	1.0	'architectural ensemble'@en	'country'@en	'country'@en
+Q1497375	P17	Q63791824	1.0	'architectural ensemble'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1497375	P17	Q7270	1.0	'architectural ensemble'@en	'country'@en	'republic'@en
+Q1541532	P17	Q3624078	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'sovereign state'@en
+Q1541532	P17	Q4209223	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'Rechtsstaat'@en
+Q1541532	P17	Q43702	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'federation'@en
+Q1541532	P17	Q619610	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'social state'@en
+Q1541532	P17	Q6256	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'country'@en
+Q1541532	P17	Q63791824	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1541532	P17	Q7270	1.0	'Hall of Fame (Graffiti)'@en	'country'@en	'republic'@en
+Q1574516	P17	Q112099	1.0	'photo library'@en	'country'@en	'island nation'@en
+Q1574516	P17	Q3624078	1.0	'photo library'@en	'country'@en	'sovereign state'@en
+Q1574516	P17	Q6256	1.0	'photo library'@en	'country'@en	'country'@en
+Q16020664	P17	Q202686	1.0	'canadian artist-run centre'@en	'country'@en	'Commonwealth realm'@en
+Q16020664	P17	Q223832	1.0	'canadian artist-run centre'@en	'country'@en	'dominion of the British Empire'@en
+Q16020664	P17	Q3624078	1.0	'canadian artist-run centre'@en	'country'@en	'sovereign state'@en
+Q16020664	P17	Q43702	1.0	'canadian artist-run centre'@en	'country'@en	'federation'@en
+Q16020664	P17	Q6256	1.0	'canadian artist-run centre'@en	'country'@en	'country'@en
+Q160742	P17	Q20181813	1.0	'abbey'@en	'country'@en	'colonial power'@en
+Q160742	P17	Q51576574	1.0	'abbey'@en	'country'@en	'Mediterranean country'@en
+Q162875	P17	Q1489259	1.0	'mausoleum'@en	'country'@en	'superpower'@en
+Q162875	P17	Q1520223	1.0	'mausoleum'@en	'country'@en	'constitutional republic'@en
+Q162875	P17	Q3624078	1.0	'mausoleum'@en	'country'@en	'sovereign state'@en
+Q162875	P17	Q512187	1.0	'mausoleum'@en	'country'@en	'federal republic'@en
+Q162875	P17	Q5255892	1.0	'mausoleum'@en	'country'@en	'democratic republic'@en
+Q162875	P17	Q6256	1.0	'mausoleum'@en	'country'@en	'country'@en
+Q162875	P17	Q99541706	1.0	'mausoleum'@en	'country'@en	'historical unrecognized state'@en
+Q163740	P17	Q20181813	1.0	'nonprofit organization'@en	'country'@en	'colonial power'@en
+Q163740	P17	Q63791824	1.0	'nonprofit organization'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q163740	P17	Q66724388	1.0	'nonprofit organization'@en	'country'@en	'autonomous country within the Kingdom of Denmark'@en
+Q163740	P17	Q7275	1.0	'nonprofit organization'@en	'country'@en	'state'@en
+Q16970	P17	Q123480	1.0	'church building'@en	'country'@en	'landlocked country'@en
+Q16970	P17	Q3624078	1.0	'church building'@en	'country'@en	'sovereign state'@en
+Q16970	P17	Q4209223	1.0	'church building'@en	'country'@en	'Rechtsstaat'@en
+Q16970	P17	Q6256	1.0	'church building'@en	'country'@en	'country'@en
+Q16970	P17	Q7270	1.0	'church building'@en	'country'@en	'republic'@en
+Q16970	P17	Q7275	1.0	'church building'@en	'country'@en	'state'@en
+Q17431399	P17	Q112099	1.0	'national museum'@en	'country'@en	'island nation'@en
+Q17431399	P17	Q13107770	1.0	'national museum'@en	'country'@en	'archipelagic state'@en
+Q17431399	P17	Q1323642	1.0	'national museum'@en	'country'@en	'transcontinental country'@en
+Q17431399	P17	Q1520223	1.0	'national museum'@en	'country'@en	'constitutional republic'@en
+Q17431399	P17	Q15304003	1.0	'national museum'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q17431399	P17	Q202686	1.0	'national museum'@en	'country'@en	'Commonwealth realm'@en
+Q17431399	P17	Q223832	1.0	'national museum'@en	'country'@en	'dominion of the British Empire'@en
+Q17431399	P17	Q339834	1.0	'national museum'@en	'country'@en	'regional power'@en
+Q17431399	P17	Q51576574	1.0	'national museum'@en	'country'@en	'Mediterranean country'@en
+Q17431399	P17	Q5255892	1.0	'national museum'@en	'country'@en	'democratic republic'@en
+Q17431399	P17	Q56061	1.0	'national museum'@en	'country'@en	'administrative territorial entity'@en
+Q17431399	P17	Q619610	1.0	'national museum'@en	'country'@en	'social state'@en
+Q17431399	P17	Q6266	1.0	'national museum'@en	'country'@en	'nation'@en
+Q17431399	P17	Q7270	1.0	'national museum'@en	'country'@en	'republic'@en
+Q17431399	P17	Q859563	1.0	'national museum'@en	'country'@en	'secular state'@en
+Q1759852	P17	Q112099	1.0	'sculpture garden'@en	'country'@en	'island nation'@en
+Q1759852	P17	Q202686	1.0	'sculpture garden'@en	'country'@en	'Commonwealth realm'@en
+Q1759852	P17	Q223832	1.0	'sculpture garden'@en	'country'@en	'dominion of the British Empire'@en
+Q1759852	P17	Q4209223	1.0	'sculpture garden'@en	'country'@en	'Rechtsstaat'@en
+Q1759852	P17	Q619610	1.0	'sculpture garden'@en	'country'@en	'social state'@en
+Q1759852	P17	Q63791824	1.0	'sculpture garden'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1759852	P17	Q7270	1.0	'sculpture garden'@en	'country'@en	'republic'@en
+Q1797122	P17	Q3624078	1.0	'artist\'s house'@en	'country'@en	'sovereign state'@en
+Q1797122	P17	Q4209223	1.0	'artist\'s house'@en	'country'@en	'Rechtsstaat'@en
+Q1797122	P17	Q43702	1.0	'artist\'s house'@en	'country'@en	'federation'@en
+Q1797122	P17	Q619610	1.0	'artist\'s house'@en	'country'@en	'social state'@en
+Q1797122	P17	Q6256	1.0	'artist\'s house'@en	'country'@en	'country'@en
+Q1797122	P17	Q63791824	1.0	'artist\'s house'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1797122	P17	Q7270	1.0	'artist\'s house'@en	'country'@en	'republic'@en
+Q18325436	P17	Q1489259	1.0	'501(c)(3) organization'@en	'country'@en	'superpower'@en
+Q18325436	P17	Q1520223	1.0	'501(c)(3) organization'@en	'country'@en	'constitutional republic'@en
+Q18325436	P17	Q3624078	1.0	'501(c)(3) organization'@en	'country'@en	'sovereign state'@en
+Q18325436	P17	Q512187	1.0	'501(c)(3) organization'@en	'country'@en	'federal republic'@en
+Q18325436	P17	Q5255892	1.0	'501(c)(3) organization'@en	'country'@en	'democratic republic'@en
+Q18325436	P17	Q6256	1.0	'501(c)(3) organization'@en	'country'@en	'country'@en
+Q18325436	P17	Q99541706	1.0	'501(c)(3) organization'@en	'country'@en	'historical unrecognized state'@en
+Q1865249	P17	Q112099	1.0	'literary museum'@en	'country'@en	'island nation'@en
+Q1865249	P17	Q3624078	1.0	'literary museum'@en	'country'@en	'sovereign state'@en
+Q1865249	P17	Q6256	1.0	'literary museum'@en	'country'@en	'country'@en
+Q2065736	P17	Q123480	1.0	'cultural property'@en	'country'@en	'landlocked country'@en
+Q2065736	P17	Q3624078	1.0	'cultural property'@en	'country'@en	'sovereign state'@en
+Q2065736	P17	Q4209223	1.0	'cultural property'@en	'country'@en	'Rechtsstaat'@en
+Q2065736	P17	Q6256	1.0	'cultural property'@en	'country'@en	'country'@en
+Q2065736	P17	Q7270	1.0	'cultural property'@en	'country'@en	'republic'@en
+Q2065736	P17	Q7275	1.0	'cultural property'@en	'country'@en	'state'@en
+Q207694	P17	Q11514315	1.0	'art museum'@en	'country'@en	'historical period'@en
+Q207694	P17	Q133442	1.0	'art museum'@en	'country'@en	'city-state'@en
+Q207694	P17	Q1351282	1.0	'art museum'@en	'country'@en	'crown colony'@en
+Q207694	P17	Q1549591	1.0	'art museum'@en	'country'@en	'big city'@en
+Q207694	P17	Q1637706	1.0	'art museum'@en	'country'@en	'million city'@en
+Q207694	P17	Q165116	1.0	'art museum'@en	'country'@en	'grand duchy'@en
+Q207694	P17	Q187587	1.0	'art museum'@en	'country'@en	'empire'@en
+Q207694	P17	Q2264924	1.0	'art museum'@en	'country'@en	'port settlement'@en
+Q207694	P17	Q339834	1.0	'art museum'@en	'country'@en	'regional power'@en
+Q207694	P17	Q417175	1.0	'art museum'@en	'country'@en	'kingdom'@en
+Q207694	P17	Q5119	1.0	'art museum'@en	'country'@en	'capital'@en
+Q207694	P17	Q515	1.0	'art museum'@en	'country'@en	'city'@en
+Q207694	P17	Q56061	1.0	'art museum'@en	'country'@en	'administrative territorial entity'@en
+Q207694	P17	Q63438000	1.0	'art museum'@en	'country'@en	'climate emergency declaration'@en
+Q207694	P17	Q82794	1.0	'art museum'@en	'country'@en	'geographic region'@en
+Q207694	P17	Q902814	1.0	'art museum'@en	'country'@en	'border town'@en
+Q2085381	P17	Q1489259	1.0	'publisher'@en	'country'@en	'superpower'@en
+Q2085381	P17	Q1520223	1.0	'publisher'@en	'country'@en	'constitutional republic'@en
+Q2085381	P17	Q3624078	1.0	'publisher'@en	'country'@en	'sovereign state'@en
+Q2085381	P17	Q512187	1.0	'publisher'@en	'country'@en	'federal republic'@en
+Q2085381	P17	Q5255892	1.0	'publisher'@en	'country'@en	'democratic republic'@en
+Q2085381	P17	Q6256	1.0	'publisher'@en	'country'@en	'country'@en
+Q2085381	P17	Q99541706	1.0	'publisher'@en	'country'@en	'historical unrecognized state'@en
+Q2122214	P17	Q112099	1.0	'national archives'@en	'country'@en	'island nation'@en
+Q2122214	P17	Q3624078	1.0	'national archives'@en	'country'@en	'sovereign state'@en
+Q2122214	P17	Q6256	1.0	'national archives'@en	'country'@en	'country'@en
+Q2190251	P17	Q112099	1.0	'arts centre'@en	'country'@en	'island nation'@en
+Q2190251	P17	Q1250464	1.0	'arts centre'@en	'country'@en	'realm'@en
+Q2190251	P17	Q20181813	1.0	'arts centre'@en	'country'@en	'colonial power'@en
+Q2190251	P17	Q223832	1.0	'arts centre'@en	'country'@en	'dominion of the British Empire'@en
+Q2190251	P17	Q43702	1.0	'arts centre'@en	'country'@en	'federation'@en
+Q2191999	P17	Q1323642	1.0	'Pogost'@en	'country'@en	'transcontinental country'@en
+Q2191999	P17	Q1335818	1.0	'Pogost'@en	'country'@en	'supranational union'@en
+Q2191999	P17	Q185145	1.0	'Pogost'@en	'country'@en	'great power'@en
+Q2191999	P17	Q3024240	1.0	'Pogost'@en	'country'@en	'historical country'@en
+Q2191999	P17	Q3624078	1.0	'Pogost'@en	'country'@en	'sovereign state'@en
+Q2191999	P17	Q4209223	1.0	'Pogost'@en	'country'@en	'Rechtsstaat'@en
+Q2191999	P17	Q43702	1.0	'Pogost'@en	'country'@en	'federation'@en
+Q2191999	P17	Q48349	1.0	'Pogost'@en	'country'@en	'empire'@en
+Q2191999	P17	Q512187	1.0	'Pogost'@en	'country'@en	'federal republic'@en
+Q2191999	P17	Q619610	1.0	'Pogost'@en	'country'@en	'social state'@en
+Q2191999	P17	Q6256	1.0	'Pogost'@en	'country'@en	'country'@en
+Q2191999	P17	Q63791824	1.0	'Pogost'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q2191999	P17	Q842112	1.0	'Pogost'@en	'country'@en	'socialist state'@en
+Q2191999	P17	Q849866	1.0	'Pogost'@en	'country'@en	'communist state'@en
+Q2191999	P17	Q859563	1.0	'Pogost'@en	'country'@en	'secular state'@en
+Q22698	P17	Q3624078	1.0	'park'@en	'country'@en	'sovereign state'@en
+Q22698	P17	Q4209223	1.0	'park'@en	'country'@en	'Rechtsstaat'@en
+Q22698	P17	Q43702	1.0	'park'@en	'country'@en	'federation'@en
+Q22698	P17	Q619610	1.0	'park'@en	'country'@en	'social state'@en
+Q22698	P17	Q6256	1.0	'park'@en	'country'@en	'country'@en
+Q22698	P17	Q63791824	1.0	'park'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q22698	P17	Q7270	1.0	'park'@en	'country'@en	'republic'@en
+Q2310465	P17	Q1489259	1.0	'toy museum'@en	'country'@en	'superpower'@en
+Q2310465	P17	Q1520223	1.0	'toy museum'@en	'country'@en	'constitutional republic'@en
+Q2310465	P17	Q3624078	1.0	'toy museum'@en	'country'@en	'sovereign state'@en
+Q2310465	P17	Q512187	1.0	'toy museum'@en	'country'@en	'federal republic'@en
+Q2310465	P17	Q5255892	1.0	'toy museum'@en	'country'@en	'democratic republic'@en
+Q2310465	P17	Q6256	1.0	'toy museum'@en	'country'@en	'country'@en
+Q2310465	P17	Q99541706	1.0	'toy museum'@en	'country'@en	'historical unrecognized state'@en
+Q2319498	P17	Q1323642	1.0	'landmark'@en	'country'@en	'transcontinental country'@en
+Q2319498	P17	Q1335818	1.0	'landmark'@en	'country'@en	'supranational union'@en
+Q2319498	P17	Q185145	1.0	'landmark'@en	'country'@en	'great power'@en
+Q2319498	P17	Q3024240	1.0	'landmark'@en	'country'@en	'historical country'@en
+Q2319498	P17	Q3624078	1.0	'landmark'@en	'country'@en	'sovereign state'@en
+Q2319498	P17	Q4209223	1.0	'landmark'@en	'country'@en	'Rechtsstaat'@en
+Q2319498	P17	Q43702	1.0	'landmark'@en	'country'@en	'federation'@en
+Q2319498	P17	Q48349	1.0	'landmark'@en	'country'@en	'empire'@en
+Q2319498	P17	Q512187	1.0	'landmark'@en	'country'@en	'federal republic'@en
+Q2319498	P17	Q619610	1.0	'landmark'@en	'country'@en	'social state'@en
+Q2319498	P17	Q6256	1.0	'landmark'@en	'country'@en	'country'@en
+Q2319498	P17	Q63791824	1.0	'landmark'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q2319498	P17	Q842112	1.0	'landmark'@en	'country'@en	'socialist state'@en
+Q2319498	P17	Q849866	1.0	'landmark'@en	'country'@en	'communist state'@en
+Q2319498	P17	Q859563	1.0	'landmark'@en	'country'@en	'secular state'@en
+Q23413	P17	Q112099	1.0	'castle'@en	'country'@en	'island nation'@en
+Q23413	P17	Q3624078	1.0	'castle'@en	'country'@en	'sovereign state'@en
+Q23413	P17	Q6256	1.0	'castle'@en	'country'@en	'country'@en
+Q24354	P17	Q202686	1.0	'theatre'@en	'country'@en	'Commonwealth realm'@en
+Q24354	P17	Q223832	1.0	'theatre'@en	'country'@en	'dominion of the British Empire'@en
+Q24354	P17	Q3624078	1.0	'theatre'@en	'country'@en	'sovereign state'@en
+Q24354	P17	Q43702	1.0	'theatre'@en	'country'@en	'federation'@en
+Q24354	P17	Q6256	1.0	'theatre'@en	'country'@en	'country'@en
+Q24699794	P17	Q112099	1.0	'museum building'@en	'country'@en	'island nation'@en
+Q24699794	P17	Q11514315	1.0	'museum building'@en	'country'@en	'historical period'@en
+Q24699794	P17	Q170156	1.0	'museum building'@en	'country'@en	'confederation'@en
+Q24699794	P17	Q187587	1.0	'museum building'@en	'country'@en	'empire'@en
+Q24699794	P17	Q20181813	1.0	'museum building'@en	'country'@en	'colonial power'@en
+Q24699794	P17	Q3024240	1.0	'museum building'@en	'country'@en	'historical country'@en
+Q24699794	P17	Q41614	1.0	'museum building'@en	'country'@en	'constitutional monarchy'@en
+Q24699794	P17	Q4209223	1.0	'museum building'@en	'country'@en	'Rechtsstaat'@en
+Q24699794	P17	Q43702	1.0	'museum building'@en	'country'@en	'federation'@en
+Q24699794	P17	Q48349	1.0	'museum building'@en	'country'@en	'empire'@en
+Q24699794	P17	Q619610	1.0	'museum building'@en	'country'@en	'social state'@en
+Q24699794	P17	Q63791824	1.0	'museum building'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q24699794	P17	Q7270	1.0	'museum building'@en	'country'@en	'republic'@en
+Q2668072	P17	Q123480	1.0	'collection'@en	'country'@en	'landlocked country'@en
+Q2668072	P17	Q170156	1.0	'collection'@en	'country'@en	'confederation'@en
+Q2668072	P17	Q3624078	1.0	'collection'@en	'country'@en	'sovereign state'@en
+Q2668072	P17	Q43702	1.0	'collection'@en	'country'@en	'federation'@en
+Q2668072	P17	Q6256	1.0	'collection'@en	'country'@en	'country'@en
+Q26944892	P17	Q123480	1.0	'ethnological museum'@en	'country'@en	'landlocked country'@en
+Q26944892	P17	Q170156	1.0	'ethnological museum'@en	'country'@en	'confederation'@en
+Q26944892	P17	Q3624078	1.0	'ethnological museum'@en	'country'@en	'sovereign state'@en
+Q26944892	P17	Q43702	1.0	'ethnological museum'@en	'country'@en	'federation'@en
+Q26944892	P17	Q6256	1.0	'ethnological museum'@en	'country'@en	'country'@en
+Q26944969	P17	Q123480	1.0	'photography museum'@en	'country'@en	'landlocked country'@en
+Q26944969	P17	Q170156	1.0	'photography museum'@en	'country'@en	'confederation'@en
+Q26944969	P17	Q4209223	1.0	'photography museum'@en	'country'@en	'Rechtsstaat'@en
+Q26944969	P17	Q619610	1.0	'photography museum'@en	'country'@en	'social state'@en
+Q26944969	P17	Q63791824	1.0	'photography museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q26944969	P17	Q7270	1.0	'photography museum'@en	'country'@en	'republic'@en
+Q26945165	P17	Q20181813	1.0	'architectural museum'@en	'country'@en	'colonial power'@en
+Q26945165	P17	Q3624078	1.0	'architectural museum'@en	'country'@en	'sovereign state'@en
+Q26945165	P17	Q51576574	1.0	'architectural museum'@en	'country'@en	'Mediterranean country'@en
+Q26945165	P17	Q6256	1.0	'architectural museum'@en	'country'@en	'country'@en
+Q26945165	P17	Q7270	1.0	'architectural museum'@en	'country'@en	'republic'@en
+Q27030941	P17	Q112099	1.0	'special archive'@en	'country'@en	'island nation'@en
+Q27030941	P17	Q1250464	1.0	'special archive'@en	'country'@en	'realm'@en
+Q27030941	P17	Q20181813	1.0	'special archive'@en	'country'@en	'colonial power'@en
+Q27030941	P17	Q202686	1.0	'special archive'@en	'country'@en	'Commonwealth realm'@en
+Q27030941	P17	Q3624078	1.0	'special archive'@en	'country'@en	'sovereign state'@en
+Q27030941	P17	Q6256	1.0	'special archive'@en	'country'@en	'country'@en
+Q3329412	P17	Q3624078	1.0	'archaeological museum'@en	'country'@en	'sovereign state'@en
+Q3329412	P17	Q6256	1.0	'archaeological museum'@en	'country'@en	'country'@en
+Q33506	P17	Q123480	1.0	'museum'@en	'country'@en	'landlocked country'@en
+Q33506	P17	Q13107770	1.0	'museum'@en	'country'@en	'archipelagic state'@en
+Q33506	P17	Q1489259	1.0	'museum'@en	'country'@en	'superpower'@en
+Q33506	P17	Q15634554	1.0	'museum'@en	'country'@en	'state with limited recognition'@en
+Q33506	P17	Q185441	1.0	'museum'@en	'country'@en	'member state of the european union'@en
+Q33506	P17	Q43702	1.0	'museum'@en	'country'@en	'federation'@en
+Q33506	P17	Q49892	1.0	'museum'@en	'country'@en	'presidential system'@en
+Q33506	P17	Q51576574	1.0	'museum'@en	'country'@en	'Mediterranean country'@en
+Q33506	P17	Q7275	1.0	'museum'@en	'country'@en	'state'@en
+Q35989030	P17	Q1489259	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'superpower'@en
+Q35989030	P17	Q1520223	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'constitutional republic'@en
+Q35989030	P17	Q3624078	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'sovereign state'@en
+Q35989030	P17	Q512187	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'federal republic'@en
+Q35989030	P17	Q5255892	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'democratic republic'@en
+Q35989030	P17	Q6256	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'country'@en
+Q35989030	P17	Q99541706	1.0	'Passport to Your National Parks cancellation location'@en	'country'@en	'historical unrecognized state'@en
+Q383092	P17	Q112099	1.0	'Art school'@en	'country'@en	'island nation'@en
+Q383092	P17	Q3624078	1.0	'Art school'@en	'country'@en	'sovereign state'@en
+Q383092	P17	Q6256	1.0	'Art school'@en	'country'@en	'country'@en
+Q3947	P17	Q202686	1.0	'house'@en	'country'@en	'Commonwealth realm'@en
+Q3947	P17	Q223832	1.0	'house'@en	'country'@en	'dominion of the British Empire'@en
+Q3947	P17	Q4209223	1.0	'house'@en	'country'@en	'Rechtsstaat'@en
+Q3947	P17	Q619610	1.0	'house'@en	'country'@en	'social state'@en
+Q3947	P17	Q63791824	1.0	'house'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q3947	P17	Q7270	1.0	'house'@en	'country'@en	'republic'@en
+Q41176	P17	Q112099	1.0	'building'@en	'country'@en	'island nation'@en
+Q41176	P17	Q13107770	1.0	'building'@en	'country'@en	'archipelagic state'@en
+Q41176	P17	Q1520223	1.0	'building'@en	'country'@en	'constitutional republic'@en
+Q41176	P17	Q20181813	1.0	'building'@en	'country'@en	'colonial power'@en
+Q41176	P17	Q49892	1.0	'building'@en	'country'@en	'presidential system'@en
+Q41176	P17	Q99541706	1.0	'building'@en	'country'@en	'historical unrecognized state'@en
+Q41253	P17	Q112099	1.0	'movie theater'@en	'country'@en	'island nation'@en
+Q41253	P17	Q1250464	1.0	'movie theater'@en	'country'@en	'realm'@en
+Q41253	P17	Q20181813	1.0	'movie theater'@en	'country'@en	'colonial power'@en
+Q41253	P17	Q202686	1.0	'movie theater'@en	'country'@en	'Commonwealth realm'@en
+Q41253	P17	Q3624078	1.0	'movie theater'@en	'country'@en	'sovereign state'@en
+Q41253	P17	Q6256	1.0	'movie theater'@en	'country'@en	'country'@en
+Q4409567	P17	Q112099	1.0	'prefectural museum'@en	'country'@en	'island nation'@en
+Q4409567	P17	Q3624078	1.0	'prefectural museum'@en	'country'@en	'sovereign state'@en
+Q4409567	P17	Q6256	1.0	'prefectural museum'@en	'country'@en	'country'@en
+Q445396	P17	Q1520223	1.0	'print room'@en	'country'@en	'constitutional republic'@en
+Q445396	P17	Q3624078	1.0	'print room'@en	'country'@en	'sovereign state'@en
+Q445396	P17	Q48349	1.0	'print room'@en	'country'@en	'empire'@en
+Q445396	P17	Q512187	1.0	'print room'@en	'country'@en	'federal republic'@en
+Q445396	P17	Q5255892	1.0	'print room'@en	'country'@en	'democratic republic'@en
+Q445396	P17	Q611214	1.0	'print room'@en	'country'@en	'Next Eleven'@en
+Q445396	P17	Q6256	1.0	'print room'@en	'country'@en	'country'@en
+Q445396	P17	Q6266	1.0	'print room'@en	'country'@en	'nation'@en
+Q44613	P17	Q123480	1.0	'monastery'@en	'country'@en	'landlocked country'@en
+Q44613	P17	Q3624078	1.0	'monastery'@en	'country'@en	'sovereign state'@en
+Q44613	P17	Q4209223	1.0	'monastery'@en	'country'@en	'Rechtsstaat'@en
+Q44613	P17	Q6256	1.0	'monastery'@en	'country'@en	'country'@en
+Q44613	P17	Q7270	1.0	'monastery'@en	'country'@en	'republic'@en
+Q44613	P17	Q7275	1.0	'monastery'@en	'country'@en	'state'@en
+Q570116	P17	Q1489259	1.0	'tourist attraction'@en	'country'@en	'superpower'@en
+Q570116	P17	Q1520223	1.0	'tourist attraction'@en	'country'@en	'constitutional republic'@en
+Q570116	P17	Q41614	1.0	'tourist attraction'@en	'country'@en	'constitutional monarchy'@en
+Q570116	P17	Q512187	1.0	'tourist attraction'@en	'country'@en	'federal republic'@en
+Q570116	P17	Q5255892	1.0	'tourist attraction'@en	'country'@en	'democratic republic'@en
+Q570116	P17	Q99541706	1.0	'tourist attraction'@en	'country'@en	'historical unrecognized state'@en
+Q5739135	P17	Q112099	1.0	'heritage centre'@en	'country'@en	'island nation'@en
+Q5739135	P17	Q1250464	1.0	'heritage centre'@en	'country'@en	'realm'@en
+Q5739135	P17	Q20181813	1.0	'heritage centre'@en	'country'@en	'colonial power'@en
+Q5739135	P17	Q202686	1.0	'heritage centre'@en	'country'@en	'Commonwealth realm'@en
+Q5739135	P17	Q3624078	1.0	'heritage centre'@en	'country'@en	'sovereign state'@en
+Q5739135	P17	Q6256	1.0	'heritage centre'@en	'country'@en	'country'@en
+Q61781831	P17	Q1489259	1.0	'curatorial department'@en	'country'@en	'superpower'@en
+Q61781831	P17	Q1520223	1.0	'curatorial department'@en	'country'@en	'constitutional republic'@en
+Q61781831	P17	Q3624078	1.0	'curatorial department'@en	'country'@en	'sovereign state'@en
+Q61781831	P17	Q512187	1.0	'curatorial department'@en	'country'@en	'federal republic'@en
+Q61781831	P17	Q5255892	1.0	'curatorial department'@en	'country'@en	'democratic republic'@en
+Q61781831	P17	Q6256	1.0	'curatorial department'@en	'country'@en	'country'@en
+Q61781831	P17	Q99541706	1.0	'curatorial department'@en	'country'@en	'historical unrecognized state'@en
+Q618123	P17	Q1489259	1.0	'geographical feature'@en	'country'@en	'superpower'@en
+Q618123	P17	Q1520223	1.0	'geographical feature'@en	'country'@en	'constitutional republic'@en
+Q618123	P17	Q3624078	1.0	'geographical feature'@en	'country'@en	'sovereign state'@en
+Q618123	P17	Q512187	1.0	'geographical feature'@en	'country'@en	'federal republic'@en
+Q618123	P17	Q5255892	1.0	'geographical feature'@en	'country'@en	'democratic republic'@en
+Q618123	P17	Q6256	1.0	'geographical feature'@en	'country'@en	'country'@en
+Q618123	P17	Q99541706	1.0	'geographical feature'@en	'country'@en	'historical unrecognized state'@en
+Q684740	P17	Q179164	1.0	'real property'@en	'country'@en	'unitary state'@en
+Q684740	P17	Q185145	1.0	'real property'@en	'country'@en	'great power'@en
+Q684740	P17	Q3624078	1.0	'real property'@en	'country'@en	'sovereign state'@en
+Q684740	P17	Q51576574	1.0	'real property'@en	'country'@en	'Mediterranean country'@en
+Q684740	P17	Q619610	1.0	'real property'@en	'country'@en	'social state'@en
+Q684740	P17	Q6256	1.0	'real property'@en	'country'@en	'country'@en
+Q684740	P17	Q7270	1.0	'real property'@en	'country'@en	'republic'@en
+Q7328910	P17	Q3624078	1.0	'art collection'@en	'country'@en	'sovereign state'@en
+Q7328910	P17	Q4209223	1.0	'art collection'@en	'country'@en	'Rechtsstaat'@en
+Q7328910	P17	Q43702	1.0	'art collection'@en	'country'@en	'federation'@en
+Q7328910	P17	Q619610	1.0	'art collection'@en	'country'@en	'social state'@en
+Q7328910	P17	Q6256	1.0	'art collection'@en	'country'@en	'country'@en
+Q7328910	P17	Q63791824	1.0	'art collection'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q7328910	P17	Q7270	1.0	'art collection'@en	'country'@en	'republic'@en
+Q751876	P17	Q123480	1.0	'château'@en	'country'@en	'landlocked country'@en
+Q751876	P17	Q3624078	1.0	'château'@en	'country'@en	'sovereign state'@en
+Q751876	P17	Q4209223	1.0	'château'@en	'country'@en	'Rechtsstaat'@en
+Q751876	P17	Q6256	1.0	'château'@en	'country'@en	'country'@en
+Q751876	P17	Q7270	1.0	'château'@en	'country'@en	'republic'@en
+Q751876	P17	Q7275	1.0	'château'@en	'country'@en	'state'@en
+Q811979	P17	Q3624078	1.0	'architectural structure'@en	'country'@en	'sovereign state'@en
+Q811979	P17	Q41614	1.0	'architectural structure'@en	'country'@en	'constitutional monarchy'@en
+Q811979	P17	Q6256	1.0	'architectural structure'@en	'country'@en	'country'@en
+Q856234	P17	Q1489259	1.0	'academic library'@en	'country'@en	'superpower'@en
+Q856234	P17	Q1520223	1.0	'academic library'@en	'country'@en	'constitutional republic'@en
+Q856234	P17	Q3624078	1.0	'academic library'@en	'country'@en	'sovereign state'@en
+Q856234	P17	Q512187	1.0	'academic library'@en	'country'@en	'federal republic'@en
+Q856234	P17	Q5255892	1.0	'academic library'@en	'country'@en	'democratic republic'@en
+Q856234	P17	Q6256	1.0	'academic library'@en	'country'@en	'country'@en
+Q856234	P17	Q99541706	1.0	'academic library'@en	'country'@en	'historical unrecognized state'@en
+Q866133	P17	Q1489259	1.0	'university museum'@en	'country'@en	'superpower'@en
+Q866133	P17	Q1520223	1.0	'university museum'@en	'country'@en	'constitutional republic'@en
+Q866133	P17	Q3624078	1.0	'university museum'@en	'country'@en	'sovereign state'@en
+Q866133	P17	Q512187	1.0	'university museum'@en	'country'@en	'federal republic'@en
+Q866133	P17	Q5255892	1.0	'university museum'@en	'country'@en	'democratic republic'@en
+Q866133	P17	Q6256	1.0	'university museum'@en	'country'@en	'country'@en
+Q866133	P17	Q99541706	1.0	'university museum'@en	'country'@en	'historical unrecognized state'@en
+Q936821	P17	Q1489259	1.0	'travelling exhibition'@en	'country'@en	'superpower'@en
+Q936821	P17	Q1520223	1.0	'travelling exhibition'@en	'country'@en	'constitutional republic'@en
+Q936821	P17	Q3624078	1.0	'travelling exhibition'@en	'country'@en	'sovereign state'@en
+Q936821	P17	Q512187	1.0	'travelling exhibition'@en	'country'@en	'federal republic'@en
+Q936821	P17	Q5255892	1.0	'travelling exhibition'@en	'country'@en	'democratic republic'@en
+Q936821	P17	Q6256	1.0	'travelling exhibition'@en	'country'@en	'country'@en
+Q936821	P17	Q99541706	1.0	'travelling exhibition'@en	'country'@en	'historical unrecognized state'@en
+Q207694	P1619	time	95.0	'art museum'@en	'date of official opening'@en	
+Q1007870	P1619	time	7.0	'art gallery'@en	'date of official opening'@en	
+Q33506	P1619	time	5.0	'museum'@en	'date of official opening'@en	
+Q24699794	P1619	time	4.0	'museum building'@en	'date of official opening'@en	
+Q1497649	P1619	time	3.0	'memory institution'@en	'date of official opening'@en	
+Q10624527	P1619	time	2.0	'biographical museum'@en	'date of official opening'@en	
+Q4989906	P1619	time	2.0	'monument'@en	'date of official opening'@en	
+Q570116	P1619	time	2.0	'tourist attraction'@en	'date of official opening'@en	
+Q108860593	P1619	time	1.0	'museum of modern art'@en	'date of official opening'@en	
+Q11341528	P1619	time	1.0	'comics museum'@en	'date of official opening'@en	
+Q1541532	P1619	time	1.0	'Hall of Fame (Graffiti)'@en	'date of official opening'@en	
+Q17431399	P1619	time	1.0	'national museum'@en	'date of official opening'@en	
+Q1759852	P1619	time	1.0	'sculpture garden'@en	'date of official opening'@en	
+Q2085381	P1619	time	1.0	'publisher'@en	'date of official opening'@en	
+Q22698	P1619	time	1.0	'park'@en	'date of official opening'@en	
+Q2668072	P1619	time	1.0	'collection'@en	'date of official opening'@en	
+Q26944892	P1619	time	1.0	'ethnological museum'@en	'date of official opening'@en	
+Q26945165	P1619	time	1.0	'architectural museum'@en	'date of official opening'@en	
+Q35989030	P1619	time	1.0	'Passport to Your National Parks cancellation location'@en	'date of official opening'@en	
+Q4409567	P1619	time	1.0	'prefectural museum'@en	'date of official opening'@en	
+Q445396	P1619	time	1.0	'print room'@en	'date of official opening'@en	
+Q61781831	P1619	time	1.0	'curatorial department'@en	'date of official opening'@en	
+Q708676	P1619	time	1.0	'charitable organization'@en	'date of official opening'@en	
+Q811979	P1619	time	1.0	'architectural structure'@en	'date of official opening'@en	
+Q207694	P1612	string	65.0	'art museum'@en	'Commons Institution page'@en	
+Q33506	P1612	string	6.0	'museum'@en	'Commons Institution page'@en	
+Q17431399	P1612	string	3.0	'national museum'@en	'Commons Institution page'@en	
+Q24699794	P1612	string	2.0	'museum building'@en	'Commons Institution page'@en	
+Q4989906	P1612	string	2.0	'monument'@en	'Commons Institution page'@en	
+Q1007870	P1612	string	1.0	'art gallery'@en	'Commons Institution page'@en	
+Q108860593	P1612	string	1.0	'museum of modern art'@en	'Commons Institution page'@en	
+Q1202402	P1612	string	1.0	'townhouse'@en	'Commons Institution page'@en	
+Q1497649	P1612	string	1.0	'memory institution'@en	'Commons Institution page'@en	
+Q1797122	P1612	string	1.0	'artist\'s house'@en	'Commons Institution page'@en	
+Q1802963	P1612	string	1.0	'mansion'@en	'Commons Institution page'@en	
+Q2085381	P1612	string	1.0	'publisher'@en	'Commons Institution page'@en	
+Q2087181	P1612	string	1.0	'historic house museum'@en	'Commons Institution page'@en	
+Q26944892	P1612	string	1.0	'ethnological museum'@en	'Commons Institution page'@en	
+Q445396	P1612	string	1.0	'print room'@en	'Commons Institution page'@en	
+Q570116	P1612	string	1.0	'tourist attraction'@en	'Commons Institution page'@en	
+Q61781831	P1612	string	1.0	'curatorial department'@en	'Commons Institution page'@en	
+Q618123	P1612	string	1.0	'geographical feature'@en	'Commons Institution page'@en	
+Q684740	P1612	string	1.0	'real property'@en	'Commons Institution page'@en	
+Q7328910	P1612	string	1.0	'art collection'@en	'Commons Institution page'@en	
+Q866133	P1612	string	1.0	'university museum'@en	'Commons Institution page'@en	
+Q207694	P131	Q1549591	98.0	'art museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q207694	P131	Q35657	86.0	'art museum'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q207694	P131	Q515	60.0	'art museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q207694	P131	Q1093829	40.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q207694	P131	Q5119	30.0	'art museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q207694	P131	Q62049	28.0	'art museum'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q207694	P131	Q1637706	27.0	'art museum'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q207694	P131	Q7897276	13.0	'art museum'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q207694	P131	Q408804	9.0	'art museum'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q207694	P131	Q42744322	9.0	'art museum'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q207694	P131	Q5327369	9.0	'art museum'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q207694	P131	Q56061	9.0	'art museum'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q1007870	P131	Q35657	8.0	'art gallery'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q207694	P131	Q11828004	8.0	'art museum'@en	'located in the administrative territorial entity'@en	'province of Canada'@en
+Q207694	P131	Q50330360	8.0	'art museum'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q207694	P131	Q5852411	8.0	'art museum'@en	'located in the administrative territorial entity'@en	'state of Australia'@en
+Q33506	P131	Q515	8.0	'museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q207694	P131	Q10864048	7.0	'art museum'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q207694	P131	Q1115575	7.0	'art museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q207694	P131	Q13218391	7.0	'art museum'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q207694	P131	Q137773	7.0	'art museum'@en	'located in the administrative territorial entity'@en	'ward of Japan'@en
+Q207694	P131	Q475050	7.0	'art museum'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q207694	P131	Q667509	7.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q207694	P131	Q1187811	6.0	'art museum'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q207694	P131	Q21503295	6.0	'art museum'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q207694	P131	Q3957	6.0	'art museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q207694	P131	Q494721	6.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of Japan'@en
+Q207694	P131	Q747074	6.0	'art museum'@en	'located in the administrative territorial entity'@en	'commune of Italy'@en
+Q207694	P131	Q76514543	6.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q33506	P131	Q1549591	6.0	'museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1497649	P131	Q23058	5.0	'memory institution'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q1497649	P131	Q54935504	5.0	'memory institution'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q1497649	P131	Q70208	5.0	'memory institution'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q1759852	P131	Q35657	5.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q207694	P131	Q200250	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q207694	P131	Q211690	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q207694	P131	Q2177636	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Denmark'@en
+Q207694	P131	Q23058	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q207694	P131	Q261023	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q207694	P131	Q3301053	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q207694	P131	Q484170	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q207694	P131	Q54935504	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q207694	P131	Q65589340	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'capital of a prefecture of Japan'@en
+Q207694	P131	Q70208	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q207694	P131	Q755707	5.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q33506	P131	Q1637706	5.0	'museum'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q207694	P131	Q1137833	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'core city of Japan'@en
+Q207694	P131	Q1349648	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Greece'@en
+Q207694	P131	Q171441	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'enclave'@en
+Q207694	P131	Q192299	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'county of Norway'@en
+Q207694	P131	Q253030	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'major regional center'@en
+Q207694	P131	Q262882	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'statutory city of Austria'@en
+Q207694	P131	Q486972	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q207694	P131	Q493522	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q207694	P131	Q532	4.0	'art museum'@en	'located in the administrative territorial entity'@en	'village'@en
+Q33506	P131	Q5119	4.0	'museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q17431399	P131	Q1549591	3.0	'national museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q17431399	P131	Q5119	3.0	'national museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q207694	P131	Q1094397	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'autonomous city'@en
+Q207694	P131	Q1180262	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'residenz'@en
+Q207694	P131	Q133442	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'city-state'@en
+Q207694	P131	Q1422929	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'primate city'@en
+Q207694	P131	Q15060255	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q207694	P131	Q15127012	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'town of the United States'@en
+Q207694	P131	Q15273785	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q207694	P131	Q15284	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality'@en
+Q207694	P131	Q192611	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'electoral district'@en
+Q207694	P131	Q2039348	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q207694	P131	Q21010817	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q207694	P131	Q21507383	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q207694	P131	Q21518270	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q207694	P131	Q257391	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'federal capital'@en
+Q207694	P131	Q261543	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'state of Austria'@en
+Q207694	P131	Q2740635	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'Stadtbezirk'@en
+Q207694	P131	Q3505887	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'city council'@en
+Q207694	P131	Q5888666	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q207694	P131	Q707813	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'Hanseatic city'@en
+Q207694	P131	Q7930989	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'city/town'@en
+Q207694	P131	Q821435	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'borough of Berlin'@en
+Q207694	P131	Q85635630	3.0	'art museum'@en	'located in the administrative territorial entity'@en	'urban district of North Rhine-Westphalia'@en
+Q24699794	P131	Q1549591	3.0	'museum building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1007870	P131	Q1093829	2.0	'art gallery'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1007870	P131	Q1549591	2.0	'art gallery'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1007870	P131	Q1637706	2.0	'art gallery'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q1007870	P131	Q408804	2.0	'art gallery'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q1007870	P131	Q62049	2.0	'art gallery'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q10624527	P131	Q137773	2.0	'biographical museum'@en	'located in the administrative territorial entity'@en	'ward of Japan'@en
+Q1497649	P131	Q14770218	2.0	'memory institution'@en	'located in the administrative territorial entity'@en	'cantonal capital of Switzerland'@en
+Q1497649	P131	Q1549591	2.0	'memory institution'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q163740	P131	Q1093829	2.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q163740	P131	Q35657	2.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q17431399	P131	Q515	2.0	'national museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q207694	P131	Q1002812	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q207694	P131	Q1059478	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'town of Japan'@en
+Q207694	P131	Q1066538	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'National Central City'@en
+Q207694	P131	Q1066984	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q207694	P131	Q109329953	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'state city of Latvia'@en
+Q207694	P131	Q1208802	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'direct-controlled municipality'@en
+Q207694	P131	Q123705	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q207694	P131	Q127448	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q207694	P131	Q13212489	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'county of California'@en
+Q207694	P131	Q133156	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'colony'@en
+Q207694	P131	Q13455645	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'administrative city in the Republic of Ireland'@en
+Q207694	P131	Q134626	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q207694	P131	Q14770218	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'cantonal capital of Switzerland'@en
+Q207694	P131	Q149621	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'district'@en
+Q207694	P131	Q15127838	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'city under state jurisdiction in Latvia'@en
+Q207694	P131	Q1802801	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q207694	P131	Q192287	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'subdivisions of Russia'@en
+Q207694	P131	Q19833031	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'emirate of the United Arab Emirates'@en
+Q207694	P131	Q20528428	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'federative entity of Mexico'@en
+Q207694	P131	Q21457810	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q207694	P131	Q2264924	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q207694	P131	Q278976	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'borough of Hamburg'@en
+Q207694	P131	Q3184121	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Brazil'@en
+Q207694	P131	Q33146843	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q207694	P131	Q3559093	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'sanctuary city'@en
+Q207694	P131	Q3700011	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'kecamatan'@en
+Q207694	P131	Q424857	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'ōaza'@en
+Q207694	P131	Q490329	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'dong of South Korea'@en
+Q207694	P131	Q5084	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q207694	P131	Q5123999	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of regional significance of Ukraine'@en
+Q207694	P131	Q5124673	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q207694	P131	Q51929311	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q207694	P131	Q581830	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q207694	P131	Q676050	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'old town'@en
+Q207694	P131	Q702492	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'urban area'@en
+Q207694	P131	Q705296	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'district of Taiwan'@en
+Q207694	P131	Q79323854	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of oblast subordinance'@en
+Q207694	P131	Q856076	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q207694	P131	Q85631896	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'urban district of Bavaria'@en
+Q207694	P131	Q902814	2.0	'art museum'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q24699794	P131	Q1093829	2.0	'museum building'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q33506	P131	Q10864048	2.0	'museum'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q33506	P131	Q1094397	2.0	'museum'@en	'located in the administrative territorial entity'@en	'autonomous city'@en
+Q33506	P131	Q1422929	2.0	'museum'@en	'located in the administrative territorial entity'@en	'primate city'@en
+Q33506	P131	Q15060255	2.0	'museum'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q33506	P131	Q15284	2.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality'@en
+Q33506	P131	Q192611	2.0	'museum'@en	'located in the administrative territorial entity'@en	'electoral district'@en
+Q33506	P131	Q19833031	2.0	'museum'@en	'located in the administrative territorial entity'@en	'emirate of the United Arab Emirates'@en
+Q33506	P131	Q3184121	2.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Brazil'@en
+Q33506	P131	Q475050	2.0	'museum'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q33506	P131	Q56061	2.0	'museum'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q33506	P131	Q856076	2.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q4989906	P131	Q33146843	2.0	'monument'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q1007870	P131	Q1059478	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'town of Japan'@en
+Q1007870	P131	Q1615742	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'province of the People\'s Republic of China'@en
+Q1007870	P131	Q1749269	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'city designated by government ordinance'@en
+Q1007870	P131	Q179872	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q1007870	P131	Q20528428	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'federative entity of Mexico'@en
+Q1007870	P131	Q23058	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q1007870	P131	Q261023	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q1007870	P131	Q2734310	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'alcaldía of Mexico City'@en
+Q1007870	P131	Q3032119	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'district of the canton of Basel-Land'@en
+Q1007870	P131	Q486972	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q1007870	P131	Q5119	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q1007870	P131	Q515	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1007870	P131	Q54935504	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q1007870	P131	Q5852411	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'state of Australia'@en
+Q1007870	P131	Q65589340	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'capital of a prefecture of Japan'@en
+Q1007870	P131	Q662914	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'district in Switzerland'@en
+Q1007870	P131	Q70208	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q1007870	P131	Q76514543	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q1043939	P131	Q1093829	1.0	'Carnegie library'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1043939	P131	Q35657	1.0	'Carnegie library'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q1043939	P131	Q62049	1.0	'Carnegie library'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q10624527	P131	Q494721	1.0	'biographical museum'@en	'located in the administrative territorial entity'@en	'city of Japan'@en
+Q10624527	P131	Q5327369	1.0	'biographical museum'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q108325	P131	Q1093829	1.0	'chapel'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q108325	P131	Q1549591	1.0	'chapel'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q108325	P131	Q1637706	1.0	'chapel'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q108325	P131	Q62049	1.0	'chapel'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q108860593	P131	Q408804	1.0	'museum of modern art'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q10942443	P131	Q211690	1.0	'suite'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q10942443	P131	Q21503295	1.0	'suite'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q10942443	P131	Q515	1.0	'suite'@en	'located in the administrative territorial entity'@en	'city'@en
+Q10942443	P131	Q7897276	1.0	'suite'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q11341528	P131	Q5327369	1.0	'comics museum'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q1179791	P131	Q104880945	1.0	'glassworks'@en	'located in the administrative territorial entity'@en	'climate emergency declarations in Australia'@en
+Q1179791	P131	Q14192199	1.0	'glassworks'@en	'located in the administrative territorial entity'@en	'territory of Australia'@en
+Q1179791	P131	Q14192234	1.0	'glassworks'@en	'located in the administrative territorial entity'@en	'mainland territory of Australia'@en
+Q1179791	P131	Q171441	1.0	'glassworks'@en	'located in the administrative territorial entity'@en	'enclave'@en
+Q1202402	P131	Q211690	1.0	'townhouse'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q1202402	P131	Q21503295	1.0	'townhouse'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q1202402	P131	Q515	1.0	'townhouse'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1202402	P131	Q7897276	1.0	'townhouse'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q1329623	P131	Q261023	1.0	'cultural center'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q1329623	P131	Q278976	1.0	'cultural center'@en	'located in the administrative territorial entity'@en	'borough of Hamburg'@en
+Q1343246	P131	Q1115575	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q532	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1497375	P131	Q278976	1.0	'architectural ensemble'@en	'located in the administrative territorial entity'@en	'borough of Hamburg'@en
+Q1497649	P131	Q1187811	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q1497649	P131	Q3032119	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'district of the canton of Basel-Land'@en
+Q1497649	P131	Q50330360	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q1497649	P131	Q56061	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q1497649	P131	Q64340309	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'City district of Winterthur'@en
+Q1497649	P131	Q662914	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'district in Switzerland'@en
+Q1541532	P131	Q821435	1.0	'Hall of Fame (Graffiti)'@en	'located in the administrative territorial entity'@en	'borough of Berlin'@en
+Q1595639	P131	Q1002812	1.0	'local museum'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q1595639	P131	Q3957	1.0	'local museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q16020664	P131	Q14762300	1.0	'canadian artist-run centre'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q16020664	P131	Q1549591	1.0	'canadian artist-run centre'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q16020664	P131	Q21507383	1.0	'canadian artist-run centre'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q16020664	P131	Q515	1.0	'canadian artist-run centre'@en	'located in the administrative territorial entity'@en	'city'@en
+Q160742	P131	Q1802801	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q160742	P131	Q261023	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q160742	P131	Q484170	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q160742	P131	Q581830	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q160742	P131	Q667509	1.0	'abbey'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q162875	P131	Q35657	1.0	'mausoleum'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q163740	P131	Q1549591	1.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q163740	P131	Q21518270	1.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q163740	P131	Q2177636	1.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'municipality of Denmark'@en
+Q163740	P131	Q3301053	1.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q163740	P131	Q98449544	1.0	'nonprofit organization'@en	'located in the administrative territorial entity'@en	'suburban community in the United States'@en
+Q16735822	P131	Q1093829	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q16735822	P131	Q13212489	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'county of California'@en
+Q16735822	P131	Q13218391	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q16735822	P131	Q1549591	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q16735822	P131	Q1637706	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q16735822	P131	Q21010817	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q16735822	P131	Q5888666	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q16735822	P131	Q62049	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q16970	P131	Q261023	1.0	'church building'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q16970	P131	Q581830	1.0	'church building'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q17431399	P131	Q10864048	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q17431399	P131	Q1094397	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'autonomous city'@en
+Q17431399	P131	Q1147395	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'district of Turkey'@en
+Q17431399	P131	Q1422929	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'primate city'@en
+Q17431399	P131	Q1637706	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q17431399	P131	Q192611	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'electoral district'@en
+Q17431399	P131	Q2039348	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q17431399	P131	Q3957	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q17431399	P131	Q475050	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q17431399	P131	Q48336	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'province of Turkey'@en
+Q17431399	P131	Q56061	1.0	'national museum'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q1759852	P131	Q1093829	1.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1759852	P131	Q11828004	1.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'province of Canada'@en
+Q1759852	P131	Q1549591	1.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1759852	P131	Q42744322	1.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q1759852	P131	Q85635630	1.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'urban district of North Rhine-Westphalia'@en
+Q1759852	P131	Q98449544	1.0	'sculpture garden'@en	'located in the administrative territorial entity'@en	'suburban community in the United States'@en
+Q1797122	P131	Q1066984	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q1797122	P131	Q1180262	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'residenz'@en
+Q1797122	P131	Q1187811	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q1797122	P131	Q123705	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q1797122	P131	Q134626	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q1797122	P131	Q1549591	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1797122	P131	Q1637706	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q1797122	P131	Q200250	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q1797122	P131	Q253019	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'Ortsteil'@en
+Q1797122	P131	Q42744322	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q1797122	P131	Q515	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1797122	P131	Q85631896	1.0	'artist\'s house'@en	'located in the administrative territorial entity'@en	'urban district of Bavaria'@en
+Q1802963	P131	Q15060255	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q1802963	P131	Q211690	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q1802963	P131	Q21503295	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q1802963	P131	Q5124673	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q1802963	P131	Q515	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1802963	P131	Q7897276	1.0	'mansion'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q18325436	P131	Q15127012	1.0	'501(c)(3) organization'@en	'located in the administrative territorial entity'@en	'town of the United States'@en
+Q1865249	P131	Q13455645	1.0	'literary museum'@en	'located in the administrative territorial entity'@en	'administrative city in the Republic of Ireland'@en
+Q1865249	P131	Q1549591	1.0	'literary museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1865249	P131	Q5119	1.0	'literary museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q2065736	P131	Q1549591	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q2065736	P131	Q262882	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'statutory city of Austria'@en
+Q2065736	P131	Q667509	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q207694	P131	Q1006876	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q207694	P131	Q102104752	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of Bosnia and Herzegovina'@en
+Q207694	P131	Q104841013	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'hromada'@en
+Q207694	P131	Q104880945	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'climate emergency declarations in Australia'@en
+Q207694	P131	Q1048835	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'political territorial entity'@en
+Q207694	P131	Q1054813	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Japan'@en
+Q207694	P131	Q1062710	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Bolivia'@en
+Q207694	P131	Q1136601	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q207694	P131	Q1138494	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'historic county of England'@en
+Q207694	P131	Q11394721	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Inland city'@en
+Q207694	P131	Q1145012	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'special city of Japan'@en
+Q207694	P131	Q1147395	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'district of Turkey'@en
+Q207694	P131	Q1229454	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'rione of Rome'@en
+Q207694	P131	Q1266029	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'edge city'@en
+Q207694	P131	Q1266818	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'independent city'@en
+Q207694	P131	Q12813115	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'urban area in Sweden'@en
+Q207694	P131	Q1306755	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'administrative centre'@en
+Q207694	P131	Q13217644	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Portugal'@en
+Q207694	P131	Q13220204	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'second-level administrative country subdivision'@en
+Q207694	P131	Q13410428	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'county of Georgia'@en
+Q207694	P131	Q1343246	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'English country house'@en
+Q207694	P131	Q1351282	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'crown colony'@en
+Q207694	P131	Q1352230	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'territory of the United States'@en
+Q207694	P131	Q13539802	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q207694	P131	Q1357964	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'county town'@en
+Q207694	P131	Q14192199	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'territory of Australia'@en
+Q207694	P131	Q14192234	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'mainland territory of Australia'@en
+Q207694	P131	Q14762300	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q207694	P131	Q14784328	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'state capital in Germany'@en
+Q207694	P131	Q148837	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'polis'@en
+Q207694	P131	Q15105893	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'town in Croatia'@en
+Q207694	P131	Q15303838	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality seat'@en
+Q207694	P131	Q15344922	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'oblast seat'@en
+Q207694	P131	Q1547289	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Luther city'@en
+Q207694	P131	Q15647906	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of Portugal'@en
+Q207694	P131	Q15661340	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'ancient city'@en
+Q207694	P131	Q15936437	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'research university'@en
+Q207694	P131	Q1615742	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'province of the People\'s Republic of China'@en
+Q207694	P131	Q163301	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Ortsbezirk of Germany'@en
+Q207694	P131	Q17278559	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'quarter of Bremen'@en
+Q207694	P131	Q17343829	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'unincorporated community in the United States'@en
+Q207694	P131	Q174844	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'megacity'@en
+Q207694	P131	Q1749269	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city designated by government ordinance'@en
+Q207694	P131	Q17601336	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q207694	P131	Q1768043	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Metropolitan Statistical Area'@en
+Q207694	P131	Q179164	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'unitary state'@en
+Q207694	P131	Q179872	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q207694	P131	Q180673	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q207694	P131	Q183342	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'federal city of Russia'@en
+Q207694	P131	Q1840161	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'commune of Chile'@en
+Q207694	P131	Q188509	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'suburb'@en
+Q207694	P131	Q1901835	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'seat of government'@en
+Q207694	P131	Q19953632	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'former administrative territorial entity'@en
+Q207694	P131	Q20202352	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'locality of Mexico'@en
+Q207694	P131	Q202435	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q207694	P131	Q2074737	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q207694	P131	Q21583365	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q207694	P131	Q2202509	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Roman city'@en
+Q207694	P131	Q2327515	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city district of Baden-Württemberg'@en
+Q207694	P131	Q23442	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'island'@en
+Q207694	P131	Q252916	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'administrative quarter of Paris'@en
+Q207694	P131	Q253019	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Ortsteil'@en
+Q207694	P131	Q253270	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'borough of Munich'@en
+Q207694	P131	Q25412763	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city in Chile'@en
+Q207694	P131	Q2555896	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Colombia'@en
+Q207694	P131	Q263639	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Puerto Rico'@en
+Q207694	P131	Q2734310	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'alcaldía of Mexico City'@en
+Q207694	P131	Q2881272	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'district of New Zealand'@en
+Q207694	P131	Q2974552	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city in New Jersey'@en
+Q207694	P131	Q3032119	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'district of the canton of Basel-Land'@en
+Q207694	P131	Q3257686	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'locality'@en
+Q207694	P131	Q3502482	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'cultural region'@en
+Q207694	P131	Q3624078	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'sovereign state'@en
+Q207694	P131	Q3685476	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'abolished municipality in Italy'@en
+Q207694	P131	Q3788231	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipal government in Canada'@en
+Q207694	P131	Q43263	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'federal subject of Russia'@en
+Q207694	P131	Q4442912	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'capital of Russia'@en
+Q207694	P131	Q448801	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'big district town'@en
+Q207694	P131	Q45242174	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'gazetted locality of Victoria'@en
+Q207694	P131	Q456876	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Khwaeng'@en
+Q207694	P131	Q462778	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'insular area'@en
+Q207694	P131	Q48336	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'province of Turkey'@en
+Q207694	P131	Q4943467	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Boomburb'@en
+Q207694	P131	Q498162	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'census-designated place'@en
+Q207694	P131	Q5055981	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'council of Asturies'@en
+Q207694	P131	Q5098	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'province of Indonesia'@en
+Q207694	P131	Q51576574	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Mediterranean country'@en
+Q207694	P131	Q52132873	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q207694	P131	Q5327704	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'special ward of Japan'@en
+Q207694	P131	Q537250	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'federal city'@en
+Q207694	P131	Q55430416	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'town in Alberta'@en
+Q207694	P131	Q57318	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'free imperial city'@en
+Q207694	P131	Q61708099	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'urban district in Saxony'@en
+Q207694	P131	Q61793478	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'district independent city of Brandenburg'@en
+Q207694	P131	Q618123	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'geographical feature'@en
+Q207694	P131	Q6256	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'country'@en
+Q207694	P131	Q64340309	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'City district of Winterthur'@en
+Q207694	P131	Q662914	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'district in Switzerland'@en
+Q207694	P131	Q6784672	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Slovakia'@en
+Q207694	P131	Q691960	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'satellite city'@en
+Q207694	P131	Q692581	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'holy city'@en
+Q207694	P131	Q702842	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipal arrondissement'@en
+Q207694	P131	Q7252696	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Provincial deputation in Spanish America'@en
+Q207694	P131	Q7309443	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q207694	P131	Q738570	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q207694	P131	Q7574799	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'special city of South Korea'@en
+Q207694	P131	Q783733	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'unincorporated territory'@en
+Q207694	P131	Q839954	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'archaeological site'@en
+Q207694	P131	Q84598477	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'commune of French Polynesia'@en
+Q207694	P131	Q866196	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'episcopal see'@en
+Q207694	P131	Q89487741	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'city of Bulgaria'@en
+Q207694	P131	Q902104	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'private university'@en
+Q207694	P131	Q955655	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'municipality of Iceland'@en
+Q207694	P131	Q956214	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'chef-lieu'@en
+Q207694	P131	Q95977092	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'Tokyo metropolitan park'@en
+Q207694	P131	Q98449544	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'suburban community in the United States'@en
+Q2085381	P131	Q1093829	1.0	'publisher'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q2085381	P131	Q1266818	1.0	'publisher'@en	'located in the administrative territorial entity'@en	'independent city'@en
+Q2085381	P131	Q1549591	1.0	'publisher'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q2087181	P131	Q1115575	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q2087181	P131	Q211690	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q2087181	P131	Q21503295	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q2087181	P131	Q515	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q2087181	P131	Q532	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'village'@en
+Q2087181	P131	Q5327369	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q2087181	P131	Q7897276	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q2190251	P131	Q1115575	1.0	'arts centre'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q2190251	P131	Q3957	1.0	'arts centre'@en	'located in the administrative territorial entity'@en	'town'@en
+Q2190251	P131	Q45242174	1.0	'arts centre'@en	'located in the administrative territorial entity'@en	'gazetted locality of Victoria'@en
+Q2190251	P131	Q515	1.0	'arts centre'@en	'located in the administrative territorial entity'@en	'city'@en
+Q2190251	P131	Q7897276	1.0	'arts centre'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q2191999	P131	Q192287	1.0	'Pogost'@en	'located in the administrative territorial entity'@en	'subdivisions of Russia'@en
+Q2191999	P131	Q5084	1.0	'Pogost'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q22698	P131	Q2740635	1.0	'park'@en	'located in the administrative territorial entity'@en	'Stadtbezirk'@en
+Q2310465	P131	Q1637706	1.0	'toy museum'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q2310465	P131	Q21010817	1.0	'toy museum'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q2310465	P131	Q5888666	1.0	'toy museum'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q2310465	P131	Q62049	1.0	'toy museum'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q2319498	P131	Q192287	1.0	'landmark'@en	'located in the administrative territorial entity'@en	'subdivisions of Russia'@en
+Q2319498	P131	Q5084	1.0	'landmark'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q23413	P131	Q179872	1.0	'castle'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q24354	P131	Q45242174	1.0	'theatre'@en	'located in the administrative territorial entity'@en	'gazetted locality of Victoria'@en
+Q24354	P131	Q515	1.0	'theatre'@en	'located in the administrative territorial entity'@en	'city'@en
+Q24699794	P131	Q1180262	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'residenz'@en
+Q24699794	P131	Q1187811	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q24699794	P131	Q1266029	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'edge city'@en
+Q24699794	P131	Q1266818	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'independent city'@en
+Q24699794	P131	Q192299	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'county of Norway'@en
+Q24699794	P131	Q2327515	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'city district of Baden-Württemberg'@en
+Q24699794	P131	Q253030	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'major regional center'@en
+Q24699794	P131	Q42744322	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q24699794	P131	Q4943467	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'Boomburb'@en
+Q24699794	P131	Q494721	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'city of Japan'@en
+Q24699794	P131	Q691960	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'satellite city'@en
+Q24699794	P131	Q755707	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q2668072	P131	Q23058	1.0	'collection'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q2668072	P131	Q3032119	1.0	'collection'@en	'located in the administrative territorial entity'@en	'district of the canton of Basel-Land'@en
+Q2668072	P131	Q54935504	1.0	'collection'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q2668072	P131	Q662914	1.0	'collection'@en	'located in the administrative territorial entity'@en	'district in Switzerland'@en
+Q2668072	P131	Q70208	1.0	'collection'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q26944892	P131	Q1187811	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q26944892	P131	Q14770218	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'cantonal capital of Switzerland'@en
+Q26944892	P131	Q1549591	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q26944892	P131	Q23058	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q26944892	P131	Q50330360	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q26944892	P131	Q54935504	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q26944892	P131	Q70208	1.0	'ethnological museum'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q26944969	P131	Q1549591	1.0	'photography museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q26944969	P131	Q23058	1.0	'photography museum'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q26944969	P131	Q278976	1.0	'photography museum'@en	'located in the administrative territorial entity'@en	'borough of Hamburg'@en
+Q26944969	P131	Q54935504	1.0	'photography museum'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q26944969	P131	Q64340309	1.0	'photography museum'@en	'located in the administrative territorial entity'@en	'City district of Winterthur'@en
+Q26944969	P131	Q70208	1.0	'photography museum'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q26945165	P131	Q252916	1.0	'architectural museum'@en	'located in the administrative territorial entity'@en	'administrative quarter of Paris'@en
+Q3329412	P131	Q839954	1.0	'archaeological museum'@en	'located in the administrative territorial entity'@en	'archaeological site'@en
+Q33506	P131	Q104841013	1.0	'museum'@en	'located in the administrative territorial entity'@en	'hromada'@en
+Q33506	P131	Q13410428	1.0	'museum'@en	'located in the administrative territorial entity'@en	'county of Georgia'@en
+Q33506	P131	Q15273785	1.0	'museum'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q33506	P131	Q200250	1.0	'museum'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q33506	P131	Q202435	1.0	'museum'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q33506	P131	Q21457810	1.0	'museum'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q33506	P131	Q261023	1.0	'museum'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q33506	P131	Q3301053	1.0	'museum'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q33506	P131	Q3700011	1.0	'museum'@en	'located in the administrative territorial entity'@en	'kecamatan'@en
+Q33506	P131	Q493522	1.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q33506	P131	Q50330360	1.0	'museum'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q33506	P131	Q5124673	1.0	'museum'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q33506	P131	Q51929311	1.0	'museum'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q33506	P131	Q705296	1.0	'museum'@en	'located in the administrative territorial entity'@en	'district of Taiwan'@en
+Q33506	P131	Q7309443	1.0	'museum'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q33506	P131	Q76514543	1.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q35989030	P131	Q35657	1.0	'Passport to Your National Parks cancellation location'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q383092	P131	Q13455645	1.0	'Art school'@en	'located in the administrative territorial entity'@en	'administrative city in the Republic of Ireland'@en
+Q383092	P131	Q1549591	1.0	'Art school'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q383092	P131	Q5119	1.0	'Art school'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q3947	P131	Q2740635	1.0	'house'@en	'located in the administrative territorial entity'@en	'Stadtbezirk'@en
+Q3947	P131	Q52132873	1.0	'house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q41176	P131	Q13217644	1.0	'building'@en	'located in the administrative territorial entity'@en	'municipality of Portugal'@en
+Q41176	P131	Q1549591	1.0	'building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q41176	P131	Q15647906	1.0	'building'@en	'located in the administrative territorial entity'@en	'city of Portugal'@en
+Q41176	P131	Q5098	1.0	'building'@en	'located in the administrative territorial entity'@en	'province of Indonesia'@en
+Q41176	P131	Q5119	1.0	'building'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q41253	P131	Q1115575	1.0	'movie theater'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q41253	P131	Q3957	1.0	'movie theater'@en	'located in the administrative territorial entity'@en	'town'@en
+Q41253	P131	Q7897276	1.0	'movie theater'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q4409567	P131	Q1137833	1.0	'prefectural museum'@en	'located in the administrative territorial entity'@en	'core city of Japan'@en
+Q4409567	P131	Q1549591	1.0	'prefectural museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q4409567	P131	Q2264924	1.0	'prefectural museum'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q4409567	P131	Q494721	1.0	'prefectural museum'@en	'located in the administrative territorial entity'@en	'city of Japan'@en
+Q4409567	P131	Q515	1.0	'prefectural museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q4409567	P131	Q65589340	1.0	'prefectural museum'@en	'located in the administrative territorial entity'@en	'capital of a prefecture of Japan'@en
+Q445396	P131	Q1549591	1.0	'print room'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q445396	P131	Q1637706	1.0	'print room'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q445396	P131	Q20528428	1.0	'print room'@en	'located in the administrative territorial entity'@en	'federative entity of Mexico'@en
+Q445396	P131	Q5119	1.0	'print room'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q445396	P131	Q515	1.0	'print room'@en	'located in the administrative territorial entity'@en	'city'@en
+Q44613	P131	Q261023	1.0	'monastery'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q44613	P131	Q581830	1.0	'monastery'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q54934129	P131	Q1637706	1.0	'African-American museum'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q54934129	P131	Q21010817	1.0	'African-American museum'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q54934129	P131	Q35657	1.0	'African-American museum'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q54934129	P131	Q5888666	1.0	'African-American museum'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q54934129	P131	Q62049	1.0	'African-American museum'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q570116	P131	Q1306755	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'administrative centre'@en
+Q570116	P131	Q1549591	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q570116	P131	Q192299	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'county of Norway'@en
+Q570116	P131	Q408804	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q570116	P131	Q5119	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q570116	P131	Q515	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'city'@en
+Q570116	P131	Q755707	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q5739135	P131	Q1002812	1.0	'heritage centre'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q61781831	P131	Q408804	1.0	'curatorial department'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q618123	P131	Q1093829	1.0	'geographical feature'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q618123	P131	Q13212489	1.0	'geographical feature'@en	'located in the administrative territorial entity'@en	'county of California'@en
+Q618123	P131	Q13218391	1.0	'geographical feature'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q618123	P131	Q1768043	1.0	'geographical feature'@en	'located in the administrative territorial entity'@en	'Metropolitan Statistical Area'@en
+Q618123	P131	Q62049	1.0	'geographical feature'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q684740	P131	Q1549591	1.0	'real property'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q684740	P131	Q2264924	1.0	'real property'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q684740	P131	Q515	1.0	'real property'@en	'located in the administrative territorial entity'@en	'city'@en
+Q684740	P131	Q747074	1.0	'real property'@en	'located in the administrative territorial entity'@en	'commune of Italy'@en
+Q708676	P131	Q515	1.0	'charitable organization'@en	'located in the administrative territorial entity'@en	'city'@en
+Q708676	P131	Q702492	1.0	'charitable organization'@en	'located in the administrative territorial entity'@en	'urban area'@en
+Q708676	P131	Q7897276	1.0	'charitable organization'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q751876	P131	Q1802801	1.0	'château'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q751876	P131	Q667509	1.0	'château'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q811979	P131	Q1306755	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'administrative centre'@en
+Q811979	P131	Q1549591	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q811979	P131	Q192299	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'county of Norway'@en
+Q811979	P131	Q5119	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q811979	P131	Q515	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'city'@en
+Q811979	P131	Q755707	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q856234	P131	Q35657	1.0	'academic library'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q866133	P131	Q1093829	1.0	'university museum'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q866133	P131	Q1549591	1.0	'university museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q866133	P131	Q3301053	1.0	'university museum'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q866133	P131	Q62049	1.0	'university museum'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q866133	P131	Q76514543	1.0	'university museum'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q936821	P131	Q1093829	1.0	'travelling exhibition'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q936821	P131	Q1549591	1.0	'travelling exhibition'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q936821	P131	Q62049	1.0	'travelling exhibition'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q936821	P131	Q76514543	1.0	'travelling exhibition'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en

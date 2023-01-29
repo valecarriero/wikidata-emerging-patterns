@@ -1,0 +1,118 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_music_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<musical work/composition> 
+
+<musical work/composition> { wdt:P31 [wd:Q105543609] ; 
+
+# 'musical work/composition' 'form of creative work' 'entity'
+wdt:P7937 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 93.02% 
+
+# 'musical work/composition' 'performer' 'entity'
+wdt:P175 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 67.34% 
+
+# 'musical work/composition' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 55.88% 
+
+# 'musical work/composition' 'composer' 'entity'
+wdt:P86 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 49.69% 
+
+# 'musical work/composition' 'part of' 'entity'
+wdt:P361 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 38.17% 
+
+# 'musical work/composition' 'language of work or name' 'entity'
+wdt:P407 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 35.7% 
+
+# 'musical work/composition' 'record label' 'entity'
+wdt:P264 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 29.56% 
+
+# 'musical work/composition' 'lyrics by' 'entity'
+wdt:P676 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 29.39% 
+
+# 'musical work/composition' 'follows' 'entity'
+wdt:P155 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 14.72% 
+
+# 'musical work/composition' 'followed by' 'entity'
+wdt:P156 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 14.41% 
+
+# 'musical work/composition' 'producer' 'entity'
+wdt:P162 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 14.34% 
+
+# 'musical work/composition' 'followed by' 'single'
+wdt:P156 { wdt:P31 [wd:Q134556] } ;   # probability of constraint: 7.72% 
+
+# 'musical work/composition' 'followed by' 'musical work/composition'
+wdt:P156 { wdt:P31 [wd:Q105543609] } ;   # probability of constraint: 6.03% 
+
+# 'musical work/composition' 'performer' 'human'
+wdt:P175 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 42.91% 
+
+# 'musical work/composition' 'MusicBrainz work ID' external-id
+wdt:P435 xsd:string ;   # probability of constraint: 58.43% 
+
+# 'musical work/composition' 'publication date' time
+wdt:P577 xsd:dateTime ;   # probability of constraint: 71.69% 
+
+# 'musical work/composition' 'genre' 'music genre'
+wdt:P136 { wdt:P31 [wd:Q188451] } ;   # probability of constraint: 54.88% 
+
+# 'musical work/composition' 'form of creative work' 'type of musical work/composition'
+wdt:P7937 { wdt:P31 [wd:Q107487333] } ;   # probability of constraint: 92.09% 
+
+# 'musical work/composition' 'form of creative work' 'musical style'
+wdt:P7937 { wdt:P31 [wd:Q11921029] } ;   # probability of constraint: 80.86% 
+
+# 'musical work/composition' 'form of creative work' 'literary form'
+wdt:P7937 { wdt:P31 [wd:Q4263830] } ;   # probability of constraint: 80.48% 
+
+# 'musical work/composition' 'SecondHandSongs work ID' external-id
+wdt:P2908 xsd:string ;   # probability of constraint: 15.38% 
+
+# 'musical work/composition' 'producer' 'human'
+wdt:P162 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 13.64% 
+
+# 'musical work/composition' 'ISWC' external-id
+wdt:P1827 xsd:string ;   # probability of constraint: 20.04% 
+
+# 'musical work/composition' 'language of work or name' 'language'
+wdt:P407 { wdt:P31 [wd:Q34770] } ;   # probability of constraint: 33.46% 
+
+# 'musical work/composition' 'language of work or name' 'modern language'
+wdt:P407 { wdt:P31 [wd:Q1288568] } ;   # probability of constraint: 33.28% 
+
+# 'musical work/composition' 'language of work or name' 'natural language'
+wdt:P407 { wdt:P31 [wd:Q33742] } ;   # probability of constraint: 28.21% 
+
+# 'musical work/composition' 'record label' 'record label'
+wdt:P264 { wdt:P31 [wd:Q18127] } ;   # probability of constraint: 28.42% 
+
+# 'musical work/composition' 'lyrics by' 'human'
+wdt:P676 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 29.09% 
+
+# 'musical work/composition' 'composer' 'human'
+wdt:P86 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 49.13% 
+
+# 'musical work/composition' 'follows' 'single'
+wdt:P155 { wdt:P31 [wd:Q134556] } ;   # probability of constraint: 8.1% 
+
+# 'musical work/composition' 'follows' 'musical work/composition'
+wdt:P155 { wdt:P31 [wd:Q105543609] } ;   # probability of constraint: 6.16% 
+
+# 'musical work/composition' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 94.73% 
+
+# 'musical work/composition' 'part of' 'album'
+wdt:P361 { wdt:P31 [wd:Q482994] } ;   # probability of constraint: 33.47% 
+
+# 'musical work/composition' 'title' monolingualtext
+wdt:P1476 rdf:langString ;   # probability of constraint: 30.76% 
+
+
+ }

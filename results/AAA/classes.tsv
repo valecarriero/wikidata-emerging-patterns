@@ -1,0 +1,2185 @@
+class	count	class;label	percentage
+Q5	7622	'human'@en	28.89%
+Q3947	2333	'house'@en	8.84%
+Q41176	1617	'building'@en	6.13%
+Q23413	1043	'castle'@en	3.95%
+Q33506	636	'museum'@en	2.41%
+Q11303	601	'skyscraper'@en	2.28%
+Q1343246	596	'English country house'@en	2.26%
+Q3305213	564	'painting'@en	2.14%
+Q1307276	459	'single-family detached home'@en	1.74%
+Q27686	427	'hotel'@en	1.62%
+Q207694	413	'art museum'@en	1.57%
+Q860861	374	'sculpture'@en	1.42%
+Q811979	363	'architectural structure'@en	1.38%
+Q16970	313	'church building'@en	1.19%
+Q839954	274	'archaeological site'@en	1.04%
+Q15243209	235	'historic district'@en	0.89%
+Q2087181	220	'historic house museum'@en	0.83%
+Q879050	215	'manor house'@en	0.82%
+Q655686	212	'commercial building'@en	0.8%
+Q174782	212	'square'@en	0.8%
+Q543654	199	'rathaus'@en	0.75%
+Q486972	198	'human settlement'@en	0.75%
+Q751876	185	'château'@en	0.7%
+Q5773747	157	'historic house'@en	0.6%
+Q18142	152	'high-rise building'@en	0.58%
+Q1007870	145	'art gallery'@en	0.55%
+Q2750108	136	'priory'@en	0.52%
+Q2065736	127	'cultural property'@en	0.48%
+Q13406463	124	'Wikimedia list article'@en	0.47%
+Q842402	116	'Hindu temple'@en	0.44%
+Q532	116	'village'@en	0.44%
+Q1244442	113	'school building'@en	0.43%
+Q17715832	112	'castle ruin'@en	0.42%
+Q381885	107	'tomb'@en	0.41%
+Q1021645	106	'office building'@en	0.4%
+Q484170	96	'commune of France'@en	0.36%
+Q811430	88	'human-made geographic feature'@en	0.33%
+Q16560	86	'palace'@en	0.33%
+Q4830453	83	'business'@en	0.31%
+Q262166	81	'municipality of Germany'@en	0.31%
+Q4387609	80	'architectural firm'@en	0.3%
+Q91312	77	'tower house'@en	0.29%
+Q92026	74	'Japanese castle'@en	0.28%
+Q16521	72	'taxon'@en	0.27%
+Q5393308	69	'Buddhist temple'@en	0.26%
+Q1595639	66	'local museum'@en	0.25%
+Q968159	65	'art movement'@en	0.25%
+Q79007	64	'street'@en	0.24%
+Q179700	64	'statue'@en	0.24%
+Q12518	64	'tower'@en	0.24%
+Q4989906	61	'monument'@en	0.23%
+Q109607	61	'ruins'@en	0.23%
+Q3950	58	'villa'@en	0.22%
+Q1497375	58	'architectural ensemble'@en	0.22%
+Q1802963	56	'mansion'@en	0.21%
+Q108325	56	'chapel'@en	0.21%
+Q7725634	54	'literary work'@en	0.2%
+Q2772772	54	'military museum'@en	0.2%
+Q3914	52	'school'@en	0.2%
+Q7075	49	'library'@en	0.19%
+Q42744322	49	'urban municipality of Germany'@en	0.19%
+Q32880	48	'architectural style'@en	0.18%
+Q101352	48	'family name'@en	0.18%
+Q16884952	47	'country house'@en	0.18%
+Q163740	47	'nonprofit organization'@en	0.18%
+Q667509	46	'municipality of Austria'@en	0.17%
+Q1406161	46	'artistic theme'@en	0.17%
+Q1568283	45	'milecastle'@en	0.17%
+Q43229	44	'organization'@en	0.17%
+Q38720	43	'windmill'@en	0.16%
+Q18340514	43	'events in a specific year or time period'@en	0.16%
+Q44539	42	'temple'@en	0.16%
+Q3957	42	'town'@en	0.16%
+Q11424	42	'film'@en	0.16%
+Q180174	41	'folly'@en	0.16%
+Q13402009	41	'apartment building'@en	0.16%
+Q483453	39	'fountain'@en	0.15%
+Q220659	39	'archaeological artifact'@en	0.15%
+Q14752696	39	'ancient Roman structure'@en	0.15%
+Q570116	38	'tourist attraction'@en	0.14%
+Q44613	38	'monastery'@en	0.14%
+Q1131296	38	'freguesia of Portugal'@en	0.14%
+Q1440300	36	'observation tower'@en	0.14%
+Q64037785	35	'county courthouse'@en	0.13%
+Q55488	35	'railway station'@en	0.13%
+Q83405	34	'factory'@en	0.13%
+Q82117	34	'city gate'@en	0.13%
+Q64995589	34	'country house hotel'@en	0.13%
+Q1785071	34	'fort'@en	0.13%
+Q747074	32	'commune of Italy'@en	0.12%
+Q19860854	31	'destroyed building or structure'@en	0.12%
+Q188913	31	'plantation'@en	0.12%
+Q1549591	31	'big city'@en	0.12%
+Q1400264	31	'artist collective'@en	0.12%
+Q11166728	31	'TV tower'@en	0.12%
+Q515	30	'city'@en	0.11%
+Q22698	30	'park'@en	0.11%
+Q210272	30	'cultural heritage'@en	0.11%
+Q17431399	30	'national museum'@en	0.11%
+Q2074737	29	'municipality of Spain'@en	0.11%
+Q15727816	29	'painting series'@en	0.11%
+Q618123	28	'geographical feature'@en	0.11%
+Q123705	28	'neighborhood'@en	0.11%
+Q9826	26	'high school'@en	0.1%
+Q856663	26	'Bible story'@en	0.1%
+Q5398426	26	'television series'@en	0.1%
+Q5153359	26	'municipality of the Czech Republic'@en	0.1%
+Q427287	26	'wat'@en	0.1%
+Q918230	25	'Roman villa'@en	0.09%
+Q18761864	25	'bank building'@en	0.09%
+Q838948	24	'work of art'@en	0.09%
+Q667276	24	'art exhibition'@en	0.09%
+Q39715	24	'lighthouse'@en	0.09%
+Q28564	24	'public library'@en	0.09%
+Q13539802	24	'place with town rights and privileges'@en	0.09%
+Q1081138	24	'historic site'@en	0.09%
+Q8502	23	'mountain'@en	0.09%
+Q4828724	23	'aviation museum'@en	0.09%
+Q20643955	23	'human biblical figure'@en	0.09%
+Q1497364	23	'building complex'@en	0.09%
+Q92062	22	'motte-and-bailey castle'@en	0.08%
+Q708676	22	'charitable organization'@en	0.08%
+Q623605	22	'gristmill'@en	0.08%
+Q618779	22	'award'@en	0.08%
+Q57831	22	'fortress'@en	0.08%
+Q25550691	22	'town hall'@en	0.08%
+Q2276925	22	'municipality of Galicia'@en	0.08%
+Q19844914	22	'university building'@en	0.08%
+Q16831714	22	'government building'@en	0.08%
+Q16735822	22	'history museum'@en	0.08%
+Q160742	22	'abbey'@en	0.08%
+Q1566035	22	'Korean Buddhist temples'@en	0.08%
+Q1454583	22	'masonic temple'@en	0.08%
+Q5228121	21	'dava'@en	0.08%
+Q48498	21	'illuminated manuscript'@en	0.08%
+Q2651004	21	'palazzo'@en	0.08%
+Q24354	21	'theatre'@en	0.08%
+Q1195942	21	'fire station'@en	0.08%
+Q3329412	20	'archaeological museum'@en	0.08%
+Q188509	20	'suburb'@en	0.08%
+Q1792379	20	'art genre'@en	0.08%
+Q1115575	20	'civil parish'@en	0.08%
+Q383092	19	'Art school'@en	0.07%
+Q28640	19	'profession'@en	0.07%
+Q162875	19	'mausoleum'@en	0.07%
+Q11707	19	'restaurant'@en	0.07%
+Q5003624	18	'memorial'@en	0.07%
+Q34627	18	'synagogue'@en	0.07%
+Q253019	18	'Ortsteil'@en	0.07%
+Q23442	18	'island'@en	0.07%
+Q1759852	18	'sculpture garden'@en	0.07%
+Q159334	18	'secondary school'@en	0.07%
+Q7889	17	'video game'@en	0.06%
+Q575759	17	'war memorial'@en	0.06%
+Q47461344	17	'written work'@en	0.06%
+Q41298	17	'magazine'@en	0.06%
+Q20437094	17	'installation artwork'@en	0.06%
+Q19479037	17	'sculpture series'@en	0.06%
+Q188055	17	'siege'@en	0.06%
+Q1852859	17	'populated place in the Netherlands'@en	0.06%
+Q11315	17	'shopping center'@en	0.06%
+Q756102	16	'open-air museum'@en	0.06%
+Q684740	16	'real property'@en	0.06%
+Q64578911	16	'former hospital'@en	0.06%
+Q57821	16	'fortification'@en	0.06%
+Q54074585	16	'Tibetan Buddhist monastery'@en	0.06%
+Q4022	16	'river'@en	0.06%
+Q34442	16	'road'@en	0.06%
+Q1498804	16	'multiple dwellings'@en	0.06%
+Q143912	16	'triumphal arch'@en	0.06%
+Q12292478	16	'estate'@en	0.06%
+Q1137809	16	'courthouse'@en	0.06%
+Q93184	15	'drawing'@en	0.06%
+Q56242063	15	'protestant church building'@en	0.06%
+Q562061	15	'market municipality'@en	0.06%
+Q3558970	15	'village of Poland'@en	0.06%
+Q32815	15	'mosque'@en	0.06%
+Q3257686	15	'locality'@en	0.06%
+Q2319498	15	'landmark'@en	0.06%
+Q17524420	15	'aspect of history'@en	0.06%
+Q928830	14	'metro station'@en	0.05%
+Q574990	14	'hofje'@en	0.05%
+Q482994	14	'album'@en	0.05%
+Q4502119	14	'art group'@en	0.05%
+Q40357	14	'prison'@en	0.05%
+Q358	14	'heritage site'@en	0.05%
+Q1792644	14	'art style'@en	0.05%
+Q16917	14	'hospital'@en	0.05%
+Q1570262	14	'unfinished building'@en	0.05%
+Q11755880	14	'residential building'@en	0.05%
+Q856584	13	'library building'@en	0.05%
+Q51049922	13	'village in Estonia'@en	0.05%
+Q5084	13	'hamlet'@en	0.05%
+Q39614	13	'cemetery'@en	0.05%
+Q2983893	13	'quarter'@en	0.05%
+Q274153	13	'water tower'@en	0.05%
+Q178561	13	'battle'@en	0.05%
+Q15710038	13	'hill castle'@en	0.05%
+Q1412205	13	'armory'@en	0.05%
+Q1195705	13	'rocca'@en	0.05%
+Q1093829	13	'city of the United States'@en	0.05%
+Q1043939	13	'Carnegie library'@en	0.05%
+Q92107	12	'quadrangular castle'@en	0.05%
+Q842478	12	'children\'s museum'@en	0.05%
+Q77115	12	'community center'@en	0.05%
+Q647704	12	'tower mill'@en	0.05%
+Q63099748	12	'hotel building'@en	0.05%
+Q2039348	12	'municipality of the Netherlands'@en	0.05%
+Q1502700	12	'Genoese towers in Corsica'@en	0.05%
+Q746310	11	'stave church'@en	0.04%
+Q7328910	11	'art collection'@en	0.04%
+Q56436498	11	'village in India'@en	0.04%
+Q489357	11	'farmhouse'@en	0.04%
+Q473972	11	'protected area'@en	0.04%
+Q3851468	11	'stellingmill'@en	0.04%
+Q2785216	11	'municipality section'@en	0.04%
+Q24699794	11	'museum building'@en	0.04%
+Q22808403	11	'station located underground'@en	0.04%
+Q215380	11	'musical group'@en	0.04%
+Q1797187	11	'artist society'@en	0.04%
+Q16334295	11	'group of humans'@en	0.04%
+Q15632617	11	'fictional human'@en	0.04%
+Q1497649	11	'memory institution'@en	0.04%
+Q120560	11	'minor basilica'@en	0.04%
+Q101659	11	'dolmen'@en	0.04%
+Q853854	10	'clock tower'@en	0.04%
+Q787934	10	'automobile museum'@en	0.04%
+Q727715	10	'book of hours'@en	0.04%
+Q7062022	10	'not-for-profit arts organization'@en	0.04%
+Q631305	10	'rock formation'@en	0.04%
+Q5642659	10	'hall and parlor house'@en	0.04%
+Q537127	10	'road bridge'@en	0.04%
+Q391414	10	'architectural element'@en	0.04%
+Q3558938	10	'villa veneta'@en	0.04%
+Q22988604	10	'mythological Greek character'@en	0.04%
+Q22669139	10	'fresco'@en	0.04%
+Q2198855	10	'cultural movement'@en	0.04%
+Q219423	10	'mural'@en	0.04%
+Q216107	10	'department store'@en	0.04%
+Q2151232	10	'townland'@en	0.04%
+Q2085381	10	'publisher'@en	0.04%
+Q1930418	10	'leading lights'@en	0.04%
+Q190157	10	'transmitter'@en	0.04%
+Q16748868	10	'city walls'@en	0.04%
+Q167346	10	'botanical garden'@en	0.04%
+Q15848826	10	'city palace'@en	0.04%
+Q12280	10	'bridge'@en	0.04%
+Q11862829	10	'academic discipline'@en	0.04%
+Q11446	10	'ship'@en	0.04%
+Q1134686	10	'frazione'@en	0.04%
+Q105543609	10	'musical work/composition'@en	0.04%
+Q811683	9	'proposed building or structure'@en	0.03%
+Q79218	9	'triptych'@en	0.03%
+Q55983715	9	'organisms known by a particular common name'@en	0.03%
+Q54934129	9	'African-American museum'@en	0.03%
+Q48204	9	'voluntary association'@en	0.03%
+Q3744870	9	'township'@en	0.03%
+Q35112127	9	'historic building'@en	0.03%
+Q2755753	9	'area of London'@en	0.03%
+Q2385804	9	'educational institution'@en	0.03%
+Q22687	9	'bank'@en	0.03%
+Q18247357	9	'group of structures or buildings'@en	0.03%
+Q1631129	9	'hotel chain'@en	0.03%
+Q15978299	9	'municipality with town privileges in the Czech Republic'@en	0.03%
+Q1577547	9	'revenue house'@en	0.03%
+Q1378975	9	'convention center'@en	0.03%
+Q12144897	9	'industrial building'@en	0.03%
+Q1088552	9	'Catholic church building'@en	0.03%
+Q1068623	9	'transmitter mast'@en	0.03%
+Q891723	8	'public company'@en	0.03%
+Q7841907	8	'municipality with authorized municipal office'@en	0.03%
+Q695207	8	'joined-log structure'@en	0.03%
+Q6881511	8	'enterprise'@en	0.03%
+Q588140	8	'science museum'@en	0.03%
+Q464980	8	'exhibition'@en	0.03%
+Q4363262	8	'smooth-sided pyramid'@en	0.03%
+Q3918	8	'university'@en	0.03%
+Q32164125	8	'fortified manor house'@en	0.03%
+Q2977	8	'cathedral'@en	0.03%
+Q26989049	8	'National Historic Site Administered by Parks Canada'@en	0.03%
+Q22746	8	'urban park'@en	0.03%
+Q2190251	8	'arts centre'@en	0.03%
+Q1970365	8	'natural history museum'@en	0.03%
+Q18674739	8	'event venue'@en	0.03%
+Q1802801	8	'rural municipality of Austria'@en	0.03%
+Q1329623	8	'cultural center'@en	0.03%
+Q132241	8	'festival'@en	0.03%
+Q11177771	8	'artistic technique'@en	0.03%
+Q1107656	8	'garden'@en	0.03%
+Q1103285	8	'clubhouse'@en	0.03%
+Q1047113	8	'specialty'@en	0.03%
+Q902814	7	'border town'@en	0.03%
+Q866133	7	'university museum'@en	0.03%
+Q81917	7	'fortified tower'@en	0.03%
+Q744099	7	'hillfort'@en	0.03%
+Q6256	7	'country'@en	0.03%
+Q62049	7	'county seat'@en	0.03%
+Q54050	7	'hill'@en	0.03%
+Q5267014	7	'Device Fort'@en	0.03%
+Q499247	7	'Scottish clan'@en	0.03%
+Q4164871	7	'position'@en	0.03%
+Q41253	7	'movie theater'@en	0.03%
+Q3898745	7	'peel tower'@en	0.03%
+Q3624078	7	'sovereign state'@en	0.03%
+Q3469910	7	'performing arts center'@en	0.03%
+Q2668072	7	'collection'@en	0.03%
+Q2630741	7	'community'@en	0.03%
+Q2516357	7	'transport museum'@en	0.03%
+Q2418495	7	'independent school'@en	0.03%
+Q192601	7	'oppidum'@en	0.03%
+Q18761202	7	'watercolor painting'@en	0.03%
+Q18704634	7	'railway museum'@en	0.03%
+Q1747829	7	'notname'@en	0.03%
+Q1637706	7	'million city'@en	0.03%
+Q157031	7	'foundation'@en	0.03%
+Q15238777	7	'legislative term'@en	0.03%
+Q11060274	7	'print'@en	0.03%
+Q1060829	7	'concert hall'@en	0.03%
+Q877358	6	'United Nations Security Council resolution'@en	0.02%
+Q844619	6	'vihara'@en	0.02%
+Q7897276	6	'unparished area'@en	0.02%
+Q6784672	6	'municipality of Slovakia'@en	0.02%
+Q5119	6	'capital'@en	0.02%
+Q481289	6	'official residence'@en	0.02%
+Q39594	6	'bay'@en	0.02%
+Q3764344	6	'district of the Isle of Man'@en	0.02%
+Q355567	6	'noble title'@en	0.02%
+Q34023	6	'tumulus'@en	0.02%
+Q33146843	6	'municipality of Catalonia'@en	0.02%
+Q31855	6	'research institute'@en	0.02%
+Q317557	6	'parish church'@en	0.02%
+Q26271642	6	'library system'@en	0.02%
+Q2590631	6	'municipality of Hungary'@en	0.02%
+Q2264924	6	'port settlement'@en	0.02%
+Q20897549	6	'art institution'@en	0.02%
+Q199451	6	'pagoda'@en	0.02%
+Q166118	6	'archive'@en	0.02%
+Q164099	6	'hoard'@en	0.02%
+Q15902866	6	'folly tower'@en	0.02%
+Q158438	6	'arch bridge'@en	0.02%
+Q15773317	6	'television character'@en	0.02%
+Q15661340	6	'ancient city'@en	0.02%
+Q1559394	6	'gompa'@en	0.02%
+Q153562	6	'opera house'@en	0.02%
+Q15334	6	'municipality of Poland'@en	0.02%
+Q15275719	6	'recurring event'@en	0.02%
+Q1404207	6	'rock castle'@en	0.02%
+Q134626	6	'district capital'@en	0.02%
+Q133215	6	'casino'@en	0.02%
+Q1292119	6	'style'@en	0.02%
+Q1278452	6	'polyptych'@en	0.02%
+Q12780138	6	'parish of the Isle of Man'@en	0.02%
+Q1231896	6	'painting technique'@en	0.02%
+Q12308941	6	'male given name'@en	0.02%
+Q11879590	6	'female given name'@en	0.02%
+Q10648343	6	'duo'@en	0.02%
+Q10624527	6	'biographical museum'@en	0.02%
+Q92275707	5	'crusader castle'@en	0.02%
+Q91285	5	'Martello tower'@en	0.02%
+Q847950	5	'dormitory'@en	0.02%
+Q8436	5	'family'@en	0.02%
+Q82137	5	'broch'@en	0.02%
+Q811906	5	'construction technique'@en	0.02%
+Q811165	5	'architectural heritage monument'@en	0.02%
+Q797765	5	'inclined tower'@en	0.02%
+Q7654661	5	'temple'@en	0.02%
+Q748998	5	'fire lookout tower'@en	0.02%
+Q74817647	5	'aspect in a geographic region'@en	0.02%
+Q63982911	5	'type of museum'@en	0.02%
+Q5774403	5	'historical society'@en	0.02%
+Q56055944	5	'arts form'@en	0.02%
+Q53060	5	'gate'@en	0.02%
+Q5124673	5	'Scottish civil parish'@en	0.02%
+Q46831	5	'mountain range'@en	0.02%
+Q44494	5	'mill'@en	0.02%
+Q4409567	5	'prefectural museum'@en	0.02%
+Q4034417	5	'artist-run space'@en	0.02%
+Q3867745	5	'corporate museum'@en	0.02%
+Q36728566	5	'ranger station'@en	0.02%
+Q35509	5	'cave'@en	0.02%
+Q350723	5	'country park'@en	0.02%
+Q35054	5	'post office'@en	0.02%
+Q3326867	5	'painting movement'@en	0.02%
+Q327333	5	'government agency'@en	0.02%
+Q3024240	5	'historical country'@en	0.02%
+Q277760	5	'gatehouse'@en	0.02%
+Q276173	5	'pavilion'@en	0.02%
+Q263274	5	'kremlin'@en	0.02%
+Q2304397	5	'residential tower'@en	0.02%
+Q22989102	5	'Greek deity'@en	0.02%
+Q213441	5	'shop'@en	0.02%
+Q2080521	5	'market hall'@en	0.02%
+Q2066754	5	'manor'@en	0.02%
+Q19833170	5	'town of Portugal'@en	0.02%
+Q193475	5	'menhir'@en	0.02%
+Q1863818	5	'maritime museum'@en	0.02%
+Q185187	5	'watermill'@en	0.02%
+Q180516	5	'room'@en	0.02%
+Q1798641	5	'communication tower'@en	0.02%
+Q178743	5	'stele'@en	0.02%
+Q1779653	5	'colossal statue'@en	0.02%
+Q173387	5	'grave'@en	0.02%
+Q16743958	5	'genre of painting'@en	0.02%
+Q1500615	5	'community center'@en	0.02%
+Q133067	5	'mosaic'@en	0.02%
+Q13217644	5	'municipality of Portugal'@en	0.02%
+Q131681	5	'reservoir'@en	0.02%
+Q131596	5	'farm'@en	0.02%
+Q131263	5	'barracks'@en	0.02%
+Q1307560	5	'Jewish museum'@en	0.02%
+Q12813115	5	'urban area in Sweden'@en	0.02%
+Q12737077	5	'occupation'@en	0.02%
+Q1225034	5	'virtual museum'@en	0.02%
+Q11732217	5	'Flecken'@en	0.02%
+Q11691318	5	'cultural heritage monument in Germany'@en	0.02%
+Q11514315	5	'historical period'@en	0.02%
+Q11269813	5	'cave with prehistoric art'@en	0.02%
+Q1076486	5	'sports venue'@en	0.02%
+Q10416961	5	'working life museum'@en	0.02%
+Q100341898	5	'market municipality of Germany'@en	0.02%
+Q9842	4	'primary school'@en	0.02%
+Q88205	4	'castrum'@en	0.02%
+Q879146	4	'Christian denomination'@en	0.02%
+Q8719053	4	'music venue'@en	0.02%
+Q83620	4	'thoroughfare'@en	0.02%
+Q819774	4	'smock mill on a small hill'@en	0.02%
+Q817056	4	'benedictine abbey'@en	0.02%
+Q81669	4	'arsenal'@en	0.02%
+Q7944	4	'earthquake'@en	0.02%
+Q7543008	4	'small burgh'@en	0.02%
+Q722604	4	'reliquary'@en	0.02%
+Q685204	4	'gate tower'@en	0.02%
+Q665247	4	'hypogeum'@en	0.02%
+Q60985295	4	'umijiro'@en	0.02%
+Q5916199	4	'housing development'@en	0.02%
+Q5739135	4	'heritage centre'@en	0.02%
+Q56242215	4	'Catholic cathedral'@en	0.02%
+Q48634	4	'sarcophagus'@en	0.02%
+Q483394	4	'genre'@en	0.02%
+Q4671329	4	'academy school'@en	0.02%
+Q46686	4	'reredos'@en	0.02%
+Q39364723	4	'hospital building'@en	0.02%
+Q3661265	4	'hall of residence'@en	0.02%
+Q2919801	4	'municipality of Luxembourg'@en	0.02%
+Q29168169	4	'colossal statue of Jesus'@en	0.02%
+Q269770	4	'boarding school'@en	0.02%
+Q26904132	4	'visual arts technique'@en	0.02%
+Q2519340	4	'administrative building'@en	0.02%
+Q23847174	4	'religious concept'@en	0.02%
+Q22808404	4	'station located on surface'@en	0.02%
+Q21752084	4	'Roman archaeological site'@en	0.02%
+Q212198	4	'pub'@en	0.02%
+Q209465	4	'campus'@en	0.02%
+Q200334	4	'bell tower'@en	0.02%
+Q19823984	4	'art biennial'@en	0.02%
+Q19603939	4	'building component'@en	0.02%
+Q189004	4	'college'@en	0.02%
+Q18814858	4	'terrace of houses'@en	0.02%
+Q1865249	4	'literary museum'@en	0.02%
+Q1829324	4	'architecture award'@en	0.02%
+Q18219090	4	'woodcut print'@en	0.02%
+Q180684	4	'conflict'@en	0.02%
+Q1792571	4	'art prize'@en	0.02%
+Q17343829	4	'unincorporated community in the United States'@en	0.02%
+Q172754	4	'World\'s Fair'@en	0.02%
+Q16887380	4	'group'@en	0.02%
+Q1666255	4	'Pictish stone'@en	0.02%
+Q1662089	4	'industry museum'@en	0.02%
+Q1630622	4	'drinking fountain'@en	0.02%
+Q1620908	4	'historical region'@en	0.02%
+Q156362	4	'winery'@en	0.02%
+Q1558054	4	'art colony'@en	0.02%
+Q151885	4	'concept'@en	0.02%
+Q149621	4	'district'@en	0.02%
+Q1457501	4	'cemetery chapel'@en	0.02%
+Q14073567	4	'sibling duo'@en	0.02%
+Q134556	4	'single'@en	0.02%
+Q12827256	4	'myth'@en	0.02%
+Q125191	4	'photograph'@en	0.02%
+Q12516	4	'pyramid'@en	0.02%
+Q1202402	4	'townhouse'@en	0.02%
+Q11755959	4	'multi-storey urban building'@en	0.02%
+Q11482498	4	'hirayamajiro'@en	0.02%
+Q1141225	4	'kofun'@en	0.02%
+Q1128397	4	'convent'@en	0.02%
+Q11042	4	'culture'@en	0.02%
+Q10855061	4	'archaeological find'@en	0.02%
+Q107724136	4	'wedding venue'@en	0.02%
+Q105774620	4	'Public General Act of the Parliament of the United Kingdom'@en	0.02%
+Q10480682	4	'agricultural structure'@en	0.02%
+Q102496	4	'parish'@en	0.02%
+Q1002697	4	'periodical'@en	0.02%
+Q974968	3	'miniature park'@en	0.01%
+Q956165	3	'psalter'@en	0.01%
+Q94993988	3	'commercial traffic aerodrome'@en	0.01%
+Q947103	3	'watchtower'@en	0.01%
+Q91165	3	'keep'@en	0.01%
+Q907116	3	'National monument of Spain'@en	0.01%
+Q88291	3	'citadel'@en	0.01%
+Q875157	3	'resort'@en	0.01%
+Q87167	3	'manuscript'@en	0.01%
+Q867143	3	'Roman temple'@en	0.01%
+Q847017	3	'sports club'@en	0.01%
+Q82799	3	'name'@en	0.01%
+Q82794	3	'geographic region'@en	0.01%
+Q80071	3	'symbol'@en	0.01%
+Q7963019	3	'Walled villages of Hong Kong'@en	0.01%
+Q7819319	3	'Czech municipality with expanded powers'@en	0.01%
+Q7625093	3	'structure fire'@en	0.01%
+Q740445	3	'ridge'@en	0.01%
+Q738570	3	'central business district'@en	0.01%
+Q7335033	3	'ringwork castle'@en	0.01%
+Q7138926	3	'parliament building'@en	0.01%
+Q707813	3	'Hanseatic city'@en	0.01%
+Q70208	3	'municipality of Switzerland'@en	0.01%
+Q697295	3	'shrine'@en	0.01%
+Q659396	3	'equestrian statue'@en	0.01%
+Q6558431	3	'coal-fired power station'@en	0.01%
+Q615810	3	'water castle'@en	0.01%
+Q595968	3	'hilltop castle'@en	0.01%
+Q58621988	3	'temple complex'@en	0.01%
+Q58483083	3	'dramatico-musical work'@en	0.01%
+Q5783996	3	'cottage'@en	0.01%
+Q57346	3	'defensive wall'@en	0.01%
+Q571	3	'book'@en	0.01%
+Q54114	3	'boulevard'@en	0.01%
+Q5185279	3	'poem'@en	0.01%
+Q483110	3	'stadium'@en	0.01%
+Q47012103	3	'mixed-use building'@en	0.01%
+Q4686479	3	'tabletop role-playing game adventure'@en	0.01%
+Q4671286	3	'academic major'@en	0.01%
+Q44377	3	'tunnel'@en	0.01%
+Q44342	3	'legend'@en	0.01%
+Q43483	3	'well'@en	0.01%
+Q431289	3	'brand'@en	0.01%
+Q429795	3	'mineral variety'@en	0.01%
+Q39947311	3	'warehouse district'@en	0.01%
+Q398141	3	'school district'@en	0.01%
+Q3973051	3	'spinning mill'@en	0.01%
+Q36794	3	'door'@en	0.01%
+Q3658341	3	'literary character'@en	0.01%
+Q35127	3	'website'@en	0.01%
+Q321053	3	'cenotaph'@en	0.01%
+Q309	3	'history'@en	0.01%
+Q30504600	3	'Maya site in Guatemala‎'@en	0.01%
+Q29592411	3	'flowing well fountain'@en	0.01%
+Q29553	3	'sanctuary'@en	0.01%
+Q2900244	3	'covered passages of Paris'@en	0.01%
+Q28045079	3	'contour fort'@en	0.01%
+Q2741017	3	'fortress church'@en	0.01%
+Q2736554	3	'Candi of Indonesia'@en	0.01%
+Q273320	3	'sibyl'@en	0.01%
+Q26944969	3	'photography museum'@en	0.01%
+Q26701162	3	'ancient Greek vase-form'@en	0.01%
+Q248726	3	'Venus figurine'@en	0.01%
+Q2485480	3	'Greek sanctuary'@en	0.01%
+Q240854	3	'hall'@en	0.01%
+Q24017852	3	'pottery style'@en	0.01%
+Q2398990	3	'technology museum'@en	0.01%
+Q23397	3	'lake'@en	0.01%
+Q2310465	3	'toy museum'@en	0.01%
+Q22713629	3	'girls\' school'@en	0.01%
+Q2232001	3	'show cave'@en	0.01%
+Q21869758	3	'delegated commune'@en	0.01%
+Q21199	3	'natural number'@en	0.01%
+Q21191270	3	'television series episode'@en	0.01%
+Q2117448	3	'penannular brooch'@en	0.01%
+Q211503	3	'clan'@en	0.01%
+Q21070568	3	'human who may be fictional'@en	0.01%
+Q205495	3	'petrol station'@en	0.01%
+Q2026833	3	'garden square'@en	0.01%
+Q19979289	3	'birth house'@en	0.01%
+Q1967454	3	'National Memorial of the United States'@en	0.01%
+Q1923257	3	'hall house'@en	0.01%
+Q1914636	3	'activity'@en	0.01%
+Q188451	3	'music genre'@en	0.01%
+Q18783400	3	'genre of sculpture'@en	0.01%
+Q18564289	3	'cultural heritage site in Slovenia'@en	0.01%
+Q1799072	3	'method'@en	0.01%
+Q1792535	3	'art fair'@en	0.01%
+Q17376095	3	'cadastral municipality of Austria'@en	0.01%
+Q17350442	3	'venue'@en	0.01%
+Q17000320	3	'theatre museum'@en	0.01%
+Q1640824	3	'inscription'@en	0.01%
+Q163687	3	'basilica'@en	0.01%
+Q15911314	3	'association'@en	0.01%
+Q15709879	3	'artwork series'@en	0.01%
+Q15623926	3	'Wikimedia set index article'@en	0.01%
+Q1497384	3	'part of building'@en	0.01%
+Q148837	3	'polis'@en	0.01%
+Q1484611	3	'buurtschap'@en	0.01%
+Q1473346	3	'stained glass'@en	0.01%
+Q1456099	3	'step pyramid'@en	0.01%
+Q1445650	3	'holiday'@en	0.01%
+Q1426772	3	'passage grave'@en	0.01%
+Q1408475	3	'fortified house'@en	0.01%
+Q13691604	3	'squatter\'s house'@en	0.01%
+Q13417114	3	'noble family'@en	0.01%
+Q13366104	3	'even number'@en	0.01%
+Q131734	3	'brewery'@en	0.01%
+Q1309431	3	'structural failure'@en	0.01%
+Q1303167	3	'barn'@en	0.01%
+Q12812139	3	'technical term'@en	0.01%
+Q12404340	3	'biblical place'@en	0.01%
+Q12317349	3	'main library'@en	0.01%
+Q1211146	3	'rock art'@en	0.01%
+Q12104174	3	'ethnographic museum'@en	0.01%
+Q1207505	3	'quality'@en	0.01%
+Q1200957	3	'tourist destination'@en	0.01%
+Q1200701	3	'design museum'@en	0.01%
+Q11786880	3	'firefighting museum'@en	0.01%
+Q1156686	3	'roof shape'@en	0.01%
+Q1151014	3	'mithraeum'@en	0.01%
+Q11331347	3	'calvary hill'@en	0.01%
+Q1129142	3	'NRHP contributing property'@en	0.01%
+Q108860593	3	'museum of modern art'@en	0.01%
+Q107425	3	'landscape'@en	0.01%
+Q107357104	3	'type of dance'@en	0.01%
+Q10565932	3	'reijō'@en	0.01%
+Q1044204	3	'gusuku'@en	0.01%
+Q1035294	3	'henge'@en	0.01%
+Q101401	3	'bell'@en	0.01%
+Q98374854	2	'tourism in a region'@en	0.01%
+Q967098	2	'grammar school'@en	0.01%
+Q959782	2	'archaeological excavation'@en	0.01%
+Q939644	2	'high cross'@en	0.01%
+Q9332842	2	'hall'@en	0.01%
+Q92086	2	'promontory fort'@en	0.01%
+Q906881	2	'Durbar Square'@en	0.01%
+Q89794	2	'curtain wall'@en	0.01%
+Q875016	2	'terrace house'@en	0.01%
+Q865588	2	'committee'@en	0.01%
+Q861951	2	'police station'@en	0.01%
+Q861911	2	'speech'@en	0.01%
+Q856234	2	'academic library'@en	0.01%
+Q855747	2	'Egyptian temple'@en	0.01%
+Q851387	2	'Buddhist pilgrimage'@en	0.01%
+Q848507	2	'commercial bank'@en	0.01%
+Q8452914	2	'district town'@en	0.01%
+Q841985	2	'han system'@en	0.01%
+Q820477	2	'mine'@en	0.01%
+Q8148	2	'industry'@en	0.01%
+Q80446812	2	'motte'@en	0.01%
+Q7930989	2	'city/town'@en	0.01%
+Q787113	2	'promenade'@en	0.01%
+Q783794	2	'company'@en	0.01%
+Q7814110	2	'tolbooth'@en	0.01%
+Q778000	2	'Ausbildungsberuf'@en	0.01%
+Q76321820	2	'contributing property'@en	0.01%
+Q746628	2	'studio'@en	0.01%
+Q746369	2	'recording studio'@en	0.01%
+Q7397	2	'software'@en	0.01%
+Q7379880	2	'runic inscription'@en	0.01%
+Q7362268	2	'Roman amphitheatre'@en	0.01%
+Q7245816	2	'temples of Mazu'@en	0.01%
+Q7157526	2	'peace museum'@en	0.01%
+Q702492	2	'urban area'@en	0.01%
+Q6949155	2	'mythical continent'@en	0.01%
+Q6807904	2	'meeting house'@en	0.01%
+Q67639546	2	'historical society museum'@en	0.01%
+Q66361052	2	'castle ruin in Japan'@en	0.01%
+Q657100	2	'colonnade'@en	0.01%
+Q65096167	2	'Commonwealth War Graves Commission maintained memorial'@en	0.01%
+Q650241	2	'financial institution'@en	0.01%
+Q644371	2	'international airport'@en	0.01%
+Q641226	2	'arena'@en	0.01%
+Q63791824	2	'country bordering the Baltic Sea'@en	0.01%
+Q62832	2	'observatory'@en	0.01%
+Q627436	2	'field of work'@en	0.01%
+Q6266	2	'nation'@en	0.01%
+Q6243	2	'variable star'@en	0.01%
+Q62078547	2	'public research university'@en	0.01%
+Q617839	2	'apartment hotel'@en	0.01%
+Q613142	2	'law firm'@en	0.01%
+Q56439882	2	'lodge'@en	0.01%
+Q56219051	2	'family name prefixed with Mac or Mc'@en	0.01%
+Q562166	2	'housing cooperative'@en	0.01%
+Q56061	2	'administrative territorial entity'@en	0.01%
+Q55387456	2	'aesthetic concept'@en	0.01%
+Q5530594	2	'Gemeenlandshuis'@en	0.01%
+Q5436782	2	'fashion museum'@en	0.01%
+Q53536964	2	'royal palace'@en	0.01%
+Q5281800	2	'discovered text'@en	0.01%
+Q523	2	'star'@en	0.01%
+Q5155053	2	'community school'@en	0.01%
+Q5138347	2	'coastal defence and fortification'@en	0.01%
+Q5116872	2	'Church of England parish church'@en	0.01%
+Q506240	2	'television film'@en	0.01%
+Q50330360	2	'second largest city'@en	0.01%
+Q499916	2	'brooch'@en	0.01%
+Q498162	2	'census-designated place'@en	0.01%
+Q494829	2	'bus station'@en	0.01%
+Q484652	2	'international organization'@en	0.01%
+Q48356	2	'minaret'@en	0.01%
+Q476968	2	'krater'@en	0.01%
+Q47577	2	'Fibonacci number'@en	0.01%
+Q4663385	2	'former railway station'@en	0.01%
+Q465299	2	'archaeological culture'@en	0.01%
+Q45971958	2	'performing arts genre'@en	0.01%
+Q4588528	2	'holy place'@en	0.01%
+Q455403	2	'palace hotel'@en	0.01%
+Q45400320	2	'open-access publisher'@en	0.01%
+Q4504495	2	'award ceremony'@en	0.01%
+Q446013	2	'pumping station'@en	0.01%
+Q4460	2	'Persian gardens'@en	0.01%
+Q4421	2	'forest'@en	0.01%
+Q42948	2	'wall'@en	0.01%
+Q42661374	2	'horse hill figure'@en	0.01%
+Q42245028	2	'sports hall of fame'@en	0.01%
+Q40050	2	'drink'@en	0.01%
+Q39816	2	'valley'@en	0.01%
+Q39463	2	'trading post'@en	0.01%
+Q3927261	2	'quarter of Naples'@en	0.01%
+Q392371	2	'Christian cross'@en	0.01%
+Q3910694	2	'civil parishes of Ireland'@en	0.01%
+Q374614	2	'urban district of Great Britain and Ireland'@en	0.01%
+Q36649	2	'visual arts'@en	0.01%
+Q3662396	2	'Z-plan castle'@en	0.01%
+Q35989030	2	'Passport to Your National Parks cancellation location'@en	0.01%
+Q35657	2	'U.S. state'@en	0.01%
+Q35535	2	'police'@en	0.01%
+Q3476533	2	'monumental sculpture'@en	0.01%
+Q34651	2	'Christian Church'@en	0.01%
+Q3408055	2	'ancient trackway'@en	0.01%
+Q3399487	2	'great house'@en	0.01%
+Q3397526	2	'stone bridge'@en	0.01%
+Q3395377	2	'ancient monument'@en	0.01%
+Q33513999	2	'mythological island'@en	0.01%
+Q3331189	2	'version, edition, or translation'@en	0.01%
+Q3326717	2	'literary movement'@en	0.01%
+Q3320743	2	'title of honor'@en	0.01%
+Q3300034	2	'painting material'@en	0.01%
+Q3249551	2	'process'@en	0.01%
+Q3215290	2	'artificial lake'@en	0.01%
+Q3152824	2	'cultural institution'@en	0.01%
+Q301449	2	'grondzeiler'@en	0.01%
+Q30022	2	'coffeehouse'@en	0.01%
+Q2996394	2	'biological process'@en	0.01%
+Q29960985	2	'bishop castle'@en	0.01%
+Q294414	2	'public office'@en	0.01%
+Q28747937	2	'history of a city'@en	0.01%
+Q283202	2	'harbor'@en	0.01%
+Q281644	2	'arts association'@en	0.01%
+Q2695280	2	'technique'@en	0.01%
+Q26945165	2	'architectural museum'@en	0.01%
+Q26944892	2	'ethnological museum'@en	0.01%
+Q26883973	2	'lost sculpture'@en	0.01%
+Q2680845	2	'Chinese temple'@en	0.01%
+Q267596	2	'ancient Greek temple'@en	0.01%
+Q2647254	2	'study'@en	0.01%
+Q2613100	2	'Jain temple'@en	0.01%
+Q256020	2	'inn'@en	0.01%
+Q249556	2	'railway company'@en	0.01%
+Q245102	2	'triangular number'@en	0.01%
+Q245016	2	'military base'@en	0.01%
+Q24398318	2	'religious building'@en	0.01%
+Q242606	2	'green building'@en	0.01%
+Q24034552	2	'mathematical concept'@en	0.01%
+Q240313	2	'battery'@en	0.01%
+Q2393196	2	'personality trait'@en	0.01%
+Q2351962	2	'raster graphics editor'@en	0.01%
+Q2334719	2	'legal case'@en	0.01%
+Q2313686	2	'automorphic number'@en	0.01%
+Q2312233	2	'spur castle'@en	0.01%
+Q23038290	2	'fossil taxon'@en	0.01%
+Q23002052	2	'private for-profit educational institution'@en	0.01%
+Q23002039	2	'public educational institution of the United States'@en	0.01%
+Q229390	2	'3D film'@en	0.01%
+Q2293362	2	'sculptural group'@en	0.01%
+Q2292849	2	'canal house'@en	0.01%
+Q2270185	2	'Mesoamerican pyramids'@en	0.01%
+Q22672348	2	'performance artwork'@en	0.01%
+Q225672	2	'breviary'@en	0.01%
+Q2207288	2	'craft'@en	0.01%
+Q219538	2	'scheduled monument'@en	0.01%
+Q21751582	2	'deserted medieval village'@en	0.01%
+Q216353	2	'title'@en	0.01%
+Q21518270	2	'state or insular area capital of the United States'@en	0.01%
+Q21484471	2	'Wikipedia article covering multiple topics'@en	0.01%
+Q214609	2	'material'@en	0.01%
+Q2116450	2	'manor estate'@en	0.01%
+Q2111434	2	'pendant'@en	0.01%
+Q210999	2	'psychiatric hospital'@en	0.01%
+Q21076217	2	'art project'@en	0.01%
+Q20968646	2	'neighborhood of historical district of Moscow'@en	0.01%
+Q20937557	2	'series'@en	0.01%
+Q20857085	2	'state agency of the United States'@en	0.01%
+Q207961	2	'shape'@en	0.01%
+Q20751022	2	'fictional house'@en	0.01%
+Q203443	2	'tombstone'@en	0.01%
+Q202444	2	'given name'@en	0.01%
+Q20202352	2	'locality of Mexico'@en	0.01%
+Q19960510	2	'series of prints'@en	0.01%
+Q19899465	2	'former church'@en	0.01%
+Q1969448	2	'term'@en	0.01%
+Q1959314	2	'Protected area of Russia'@en	0.01%
+Q194029	2	'Roman road'@en	0.01%
+Q19334558	2	'inshore minesweeper'@en	0.01%
+Q190928	2	'shipyard'@en	0.01%
+Q1901835	2	'seat of government'@en	0.01%
+Q1898047	2	'Marian devotions'@en	0.01%
+Q1885014	2	'cautionary monument'@en	0.01%
+Q187931	2	'phrase'@en	0.01%
+Q18760388	2	'retail building'@en	0.01%
+Q18759100	2	'baronetcy'@en	0.01%
+Q18691599	2	'military facility'@en	0.01%
+Q18663579	2	'former municipality of Norway'@en	0.01%
+Q186117	2	'timeline'@en	0.01%
+Q18573970	2	'group of paintings'@en	0.01%
+Q18325436	2	'501(c)(3) organization'@en	0.01%
+Q183061	2	'facade'@en	0.01%
+Q181623	2	'warehouse'@en	0.01%
+Q180997	2	'post mill'@en	0.01%
+Q180987	2	'stupa'@en	0.01%
+Q1797194	2	'arts district'@en	0.01%
+Q1791429	2	'sunroom'@en	0.01%
+Q179049	2	'nature reserve'@en	0.01%
+Q1763828	2	'multi-purpose hall'@en	0.01%
+Q174814	2	'electrical substation'@en	0.01%
+Q17455058	2	'music museum'@en	0.01%
+Q17399019	2	'style of painting'@en	0.01%
+Q17334112	2	'historical park of Thailand'@en	0.01%
+Q172896	2	'catacombs'@en	0.01%
+Q1713379	2	'boys\' school'@en	0.01%
+Q170980	2	'obelisk'@en	0.01%
+Q170584	2	'project'@en	0.01%
+Q17000324	2	'sports museum'@en	0.01%
+Q16979650	2	'sibling group'@en	0.01%
+Q16823155	2	'Schloss'@en	0.01%
+Q1664720	2	'institute'@en	0.01%
+Q1652352	2	'long barrow'@en	0.01%
+Q1649443	2	'national Church'@en	0.01%
+Q16444336	2	'enclosure castle'@en	0.01%
+Q164419	2	'long gallery'@en	0.01%
+Q1643843	2	'cave castle'@en	0.01%
+Q164240	2	'megalith'@en	0.01%
+Q163301	2	'Ortsbezirk of Germany'@en	0.01%
+Q16147981	2	'royal chapel'@en	0.01%
+Q16020664	2	'canadian artist-run centre'@en	0.01%
+Q159719	2	'power station'@en	0.01%
+Q1589077	2	'youth hostel'@en	0.01%
+Q15823107	2	'Carmelite monastery'@en	0.01%
+Q1569167	2	'video game character'@en	0.01%
+Q15630849	2	'village of Bulgaria'@en	0.01%
+Q1555508	2	'radio program'@en	0.01%
+Q15548045	2	'almshouse'@en	0.01%
+Q15401633	2	'archaeological period'@en	0.01%
+Q1516079	2	'cultural heritage ensemble'@en	0.01%
+Q1509934	2	'children\'s game'@en	0.01%
+Q1509831	2	'title of Virgin Mary'@en	0.01%
+Q15092344	2	'urban area in Norway'@en	0.01%
+Q15078955	2	'urban-type settlement in Russia'@en	0.01%
+Q1499928	2	'Gemarkung'@en	0.01%
+Q1486643	2	'pronic number'@en	0.01%
+Q148319	2	'planetarium'@en	0.01%
+Q1470705	2	'fertility deity'@en	0.01%
+Q14092	2	'gymnasium'@en	0.01%
+Q13955118	2	'earthwork'@en	0.01%
+Q1387659	2	'school of thought'@en	0.01%
+Q13634881	2	'walkway'@en	0.01%
+Q13586493	2	'outdoor swimming pool'@en	0.01%
+Q1357964	2	'county town'@en	0.01%
+Q1348006	2	'city block'@en	0.01%
+Q133056	2	'mountain pass'@en	0.01%
+Q13218805	2	'multistorey car park'@en	0.01%
+Q13218391	2	'charter city'@en	0.01%
+Q131559	2	'shield'@en	0.01%
+Q131186	2	'choir'@en	0.01%
+Q1308121	2	'one-room school'@en	0.01%
+Q1306755	2	'administrative centre'@en	0.01%
+Q1298668	2	'research project'@en	0.01%
+Q1279564	2	'short story collection'@en	0.01%
+Q1261499	2	'naval battle'@en	0.01%
+Q1260524	2	'time of the day'@en	0.01%
+Q1254933	2	'astronomical observatory'@en	0.01%
+Q1250464	2	'realm'@en	0.01%
+Q1248784	2	'airport'@en	0.01%
+Q124714	2	'spring'@en	0.01%
+Q1244860	2	'general store'@en	0.01%
+Q12433046	2	'Roman fortification'@en	0.01%
+Q1236680	2	'gentlemen\'s club'@en	0.01%
+Q1210334	2	'railway bridge'@en	0.01%
+Q12063697	2	'neighborhood of Washington, D.C.'@en	0.01%
+Q11900212	2	'photography centre'@en	0.01%
+Q11688446	2	'Roman deity'@en	0.01%
+Q11670533	2	'elevated station'@en	0.01%
+Q1154710	2	'association football venue'@en	0.01%
+Q1151612	2	'Taoist temple'@en	0.01%
+Q11486287	2	'former Buddhist temple'@en	0.01%
+Q1145397	2	'ship burial'@en	0.01%
+Q1139659	2	'crescent'@en	0.01%
+Q1128340	2	'index term'@en	0.01%
+Q11183017	2	'open-air theatre'@en	0.01%
+Q1114461	2	'comics character'@en	0.01%
+Q1110684	2	'regulatory college'@en	0.01%
+Q11032	2	'newspaper'@en	0.01%
+Q1093436	2	'computer museum'@en	0.01%
+Q108171565	2	'navigational star'@en	0.01%
+Q1080794	2	'state school'@en	0.01%
+Q107096063	2	'Landmark tower'@en	0.01%
+Q1068842	2	'footbridge'@en	0.01%
+Q1066288	2	'figurine'@en	0.01%
+Q1062083	2	'billionaire'@en	0.01%
+Q105957950	2	'LORAN-C Transmitter'@en	0.01%
+Q105756498	2	'type of musical ensemble/group'@en	0.01%
+Q105731	2	'lock'@en	0.01%
+Q1051606	2	'Daibutsu'@en	0.01%
+Q104649845	2	'film organization'@en	0.01%
+Q1021711	2	'seaside resort'@en	0.01%
+Q101687	2	'altar'@en	0.01%
+Q99541706	1	'historical unrecognized state'@en	0.0%
+Q995268	1	'F type'@en	0.0%
+Q98966309	1	'classification of human settlements'@en	0.0%
+Q988108	1	'club'@en	0.0%
+Q987767	1	'container'@en	0.0%
+Q98399252	1	'Geographical indications in India'@en	0.0%
+Q979507	1	'Hindu deity'@en	0.0%
+Q97945992	1	'Fresce paintings'@en	0.0%
+Q973861	1	'factorial prime'@en	0.0%
+Q969040	1	'creative industries'@en	0.0%
+Q96378286	1	'demolished synagogue'@en	0.0%
+Q96371629	1	'secularized monastery'@en	0.0%
+Q96352510	1	'destroyed religious building'@en	0.0%
+Q962734	1	'migration museum'@en	0.0%
+Q96251598	1	'type of object'@en	0.0%
+Q96211395	1	'heritage site in Sweden'@en	0.0%
+Q961867	1	'nef'@en	0.0%
+Q95993050	1	'first order'@en	0.0%
+Q95984744	1	'Veterans Administration hospital'@en	0.0%
+Q955824	1	'learned society'@en	0.0%
+Q95463156	1	'Ancient Roman dam'@en	0.0%
+Q954501	1	'natural arch'@en	0.0%
+Q952885	1	'orangery'@en	0.0%
+Q95074	1	'fictional character'@en	0.0%
+Q94701721	1	'Tuscan museum of regional importance'@en	0.0%
+Q939871	1	'guild'@en	0.0%
+Q9398093	1	'vowel letter'@en	0.0%
+Q9386255	1	'production facility'@en	0.0%
+Q937228	1	'property'@en	0.0%
+Q936821	1	'travelling exhibition'@en	0.0%
+Q936518	1	'aerospace manufacturer'@en	0.0%
+Q935773	1	'cromlech'@en	0.0%
+Q934744	1	'political scandal'@en	0.0%
+Q9346860	1	'geological structure'@en	0.0%
+Q93429857	1	'ancient Roman cistern'@en	0.0%
+Q93288	1	'contract'@en	0.0%
+Q930314	1	'vernacular architecture'@en	0.0%
+Q922203	1	'code of law'@en	0.0%
+Q918088	1	'paper mill'@en	0.0%
+Q916412	1	'infanticide'@en	0.0%
+Q9128	1	'light'@en	0.0%
+Q91203	1	'sconce'@en	0.0%
+Q911663	1	'bascule bridge'@en	0.0%
+Q909906	1	'skatepark'@en	0.0%
+Q90685	1	'palisade'@en	0.0%
+Q904756	1	'religious conversion'@en	0.0%
+Q903495	1	'residue'@en	0.0%
+Q899959	1	'cliff-dwelling'@en	0.0%
+Q898675	1	'Eisenstein prime'@en	0.0%
+Q893775	1	'National Monument of the United States'@en	0.0%
+Q8928	1	'constellation'@en	0.0%
+Q884742	1	'log house'@en	0.0%
+Q88372	1	'esplanade'@en	0.0%
+Q878223	1	'highland'@en	0.0%
+Q877998	1	'students\' union'@en	0.0%
+Q8776398	1	'collective population entity of Spain'@en	0.0%
+Q875538	1	'public university'@en	0.0%
+Q87410915	1	'administrative quarter of Marseille'@en	0.0%
+Q87267402	1	'trailside museum'@en	0.0%
+Q871419	1	'district of Austria'@en	0.0%
+Q868557	1	'music festival'@en	0.0%
+Q863454	1	'pier'@en	0.0%
+Q862597	1	'musical form'@en	0.0%
+Q861809	1	'bilingual inscription'@en	0.0%
+Q858157	1	'German folklore'@en	0.0%
+Q85635929	1	'urban district of Lower Saxony'@en	0.0%
+Q85632032	1	'urban district of Rhineland-Palatinate'@en	0.0%
+Q853252	1	'Mining town'@en	0.0%
+Q852590	1	'spire'@en	0.0%
+Q848330	1	'tondo'@en	0.0%
+Q846659	1	'Jewish cemetery'@en	0.0%
+Q8458	1	'human rights'@en	0.0%
+Q841654	1	'competition'@en	0.0%
+Q838795	1	'comic strip'@en	0.0%
+Q838718	1	'city fire'@en	0.0%
+Q837995	1	'rood screen'@en	0.0%
+Q837249	1	'marble sculpture'@en	0.0%
+Q837142	1	'nursing home'@en	0.0%
+Q836976	1	'Delta Scuti variable'@en	0.0%
+Q836950	1	'derivative work'@en	0.0%
+Q836708	1	'star polygon'@en	0.0%
+Q8362	1	'miniature'@en	0.0%
+Q8346700	1	'cultural heritage site in Russia'@en	0.0%
+Q83464	1	'euphemism'@en	0.0%
+Q833823	1	'beaker'@en	0.0%
+Q832266	1	'intarsia'@en	0.0%
+Q831869	1	'oenochoe'@en	0.0%
+Q829080	1	'professional association'@en	0.0%
+Q828909	1	'wharf'@en	0.0%
+Q82821	1	'tradition'@en	0.0%
+Q825237	1	'safety instrumented system'@en	0.0%
+Q821435	1	'borough of Berlin'@en	0.0%
+Q820254	1	'mining community'@en	0.0%
+Q81945865	1	'multi-unit audio release format'@en	0.0%
+Q8187769	1	'economic activity'@en	0.0%
+Q81851	1	'bastion'@en	0.0%
+Q8171	1	'word'@en	0.0%
+Q81670826	1	'basketball venue'@en	0.0%
+Q816063	1	'Bell number'@en	0.0%
+Q815448	1	'belfry'@en	0.0%
+Q815241	1	'runestone'@en	0.0%
+Q814648	1	'parish of Denmark'@en	0.0%
+Q8142	1	'currency'@en	0.0%
+Q811936	1	'building method'@en	0.0%
+Q811909	1	'technological component'@en	0.0%
+Q811463	1	'human-made geographic feature'@en	0.0%
+Q8104	1	'atmosphere'@en	0.0%
+Q807293	1	'Baray'@en	0.0%
+Q80359036	1	'alcohol brand'@en	0.0%
+Q80096233	1	'information list'@en	0.0%
+Q79913	1	'non-governmental organization'@en	0.0%
+Q7963015	1	'walled garden'@en	0.0%
+Q79141101	1	'set of wall hangings'@en	0.0%
+Q7886778	1	'union station'@en	0.0%
+Q7881	1	'skeleton'@en	0.0%
+Q787116	1	'automaton'@en	0.0%
+Q785260	1	'phase of human life'@en	0.0%
+Q784969	1	'architectural typology'@en	0.0%
+Q7845721	1	'Trophy property'@en	0.0%
+Q782970	1	'Domus'@en	0.0%
+Q781549	1	'megachurch'@en	0.0%
+Q778575	1	'conglomerate'@en	0.0%
+Q775842	1	'desire'@en	0.0%
+Q7755	1	'constitution'@en	0.0%
+Q7725310	1	'series of creative works'@en	0.0%
+Q7694920	1	'tehsil of India'@en	0.0%
+Q766983	1	'clay pot'@en	0.0%
+Q762882	1	'subregion of Finland'@en	0.0%
+Q7627808	1	'student center'@en	0.0%
+Q758870	1	'digital audio editor'@en	0.0%
+Q757292	1	'border checkpoint'@en	0.0%
+Q755707	1	'municipality of Norway'@en	0.0%
+Q7540126	1	'headquarters'@en	0.0%
+Q751989	1	'astronomical phenomenon'@en	0.0%
+Q75093704	1	'station of the Tōkaidō'@en	0.0%
+Q75054287	1	'music by country or region'@en	0.0%
+Q750215	1	'mass murder'@en	0.0%
+Q7493941	1	'shelter'@en	0.0%
+Q748198	1	'gay village'@en	0.0%
+Q748019	1	'scientific society'@en	0.0%
+Q745456	1	'business cluster'@en	0.0%
+Q744913	1	'aviation accident'@en	0.0%
+Q744296	1	'wooden church'@en	0.0%
+Q742421	1	'theatrical troupe'@en	0.0%
+Q740464	1	'legal act'@en	0.0%
+Q740437	1	'picture gallery'@en	0.0%
+Q7368619	1	'Rosenwald School'@en	0.0%
+Q7361876	1	'Roman Catholic dogma'@en	0.0%
+Q732717	1	'law enforcement agency'@en	0.0%
+Q7321974	1	'cairn'@en	0.0%
+Q7317885	1	'revenants in fiction'@en	0.0%
+Q7315155	1	'research center'@en	0.0%
+Q7308408	1	'regimental museum'@en	0.0%
+Q728	1	'weapon'@en	0.0%
+Q727407	1	'trump'@en	0.0%
+Q7270	1	'republic'@en	0.0%
+Q726870	1	'brick and mortar'@en	0.0%
+Q7247618	1	'prodigy house'@en	0.0%
+Q7246209	1	'private housing estate in Hong Kong'@en	0.0%
+Q7216840	1	'urban-type settlement in Ukraine'@en	0.0%
+Q719592	1	'local council of Malta'@en	0.0%
+Q7189713	1	'physiological condition'@en	0.0%
+Q7160100	1	'pedway'@en	0.0%
+Q713623	1	'clade'@en	0.0%
+Q713223	1	'artist-in-residence'@en	0.0%
+Q7112451	1	'outline of Singapore'@en	0.0%
+Q703941	1	'private road'@en	0.0%
+Q699405	1	'residence'@en	0.0%
+Q699	1	'fairy tale'@en	0.0%
+Q6973044	1	'National Heritage Area'@en	0.0%
+Q697196	1	'ocean liner'@en	0.0%
+Q695850	1	'airbase'@en	0.0%
+Q6936301	1	'municipal authority in Pennsylvania'@en	0.0%
+Q690851	1	'Gospel Book'@en	0.0%
+Q6882870	1	'designated spa town'@en	0.0%
+Q685935	1	'trade magazine'@en	0.0%
+Q6857706	1	'military profession'@en	0.0%
+Q685621	1	'fideicommissum'@en	0.0%
+Q685309	1	'former municipality of Switzerland'@en	0.0%
+Q6852233	1	'military building'@en	0.0%
+Q683992	1	'military prison'@en	0.0%
+Q682943	1	'cricket field'@en	0.0%
+Q678146	1	'bombardment'@en	0.0%
+Q676050	1	'old town'@en	0.0%
+Q675824	1	'cinerarium'@en	0.0%
+Q673767	1	'art competitions at the Olympic Games'@en	0.0%
+Q672603	1	'studiolo'@en	0.0%
+Q672070	1	'photographic studio'@en	0.0%
+Q67206691	1	'infrared source'@en	0.0%
+Q67200784	1	'form of Parvati'@en	0.0%
+Q671735	1	'media library'@en	0.0%
+Q67165238	1	'noncommercial art gallery'@en	0.0%
+Q668349	1	'kylix'@en	0.0%
+Q66762677	1	'political term'@en	0.0%
+Q666586	1	'macellum'@en	0.0%
+Q66480858	1	'affixed family name'@en	0.0%
+Q66472631	1	'nautical term'@en	0.0%
+Q6646177	1	'listed buildings in Northern Ireland'@en	0.0%
+Q66344	1	'central bank'@en	0.0%
+Q66310866	1	'museum village'@en	0.0%
+Q6630149	1	'narrative form'@en	0.0%
+Q662656	1	'pole star'@en	0.0%
+Q6623303	1	'list of historic houses in the Republic of Ireland'@en	0.0%
+Q661199	1	'dining room'@en	0.0%
+Q66088259	1	'ceramic techniques'@en	0.0%
+Q66010132	1	'month starting on Wednesday'@en	0.0%
+Q6581615	1	'thermae'@en	0.0%
+Q65611482	1	'fossil museum'@en	0.0%
+Q6532502	1	'public housing'@en	0.0%
+Q653208	1	'monolith'@en	0.0%
+Q6503358	1	'law library'@en	0.0%
+Q65032826	1	'folkeskole'@en	0.0%
+Q6501447	1	'local government'@en	0.0%
+Q65007262	1	'petroglyphic site'@en	0.0%
+Q6498663	1	'fire department'@en	0.0%
+Q6489113	1	'large burgh'@en	0.0%
+Q6484056	1	'land development'@en	0.0%
+Q64801076	1	'education in country or region'@en	0.0%
+Q64732764	1	'cave church'@en	0.0%
+Q646683	1	'music sequencer'@en	0.0%
+Q6455119	1	'kōgoishi'@en	0.0%
+Q6453233	1	'duplex'@en	0.0%
+Q6451172	1	'morgue'@en	0.0%
+Q64506407	1	'skilled trade'@en	0.0%
+Q6428674	1	'era'@en	0.0%
+Q64222339	1	'art term'@en	0.0%
+Q641066	1	'girl group'@en	0.0%
+Q639030	1	'people mover'@en	0.0%
+Q63869263	1	'bakery chain'@en	0.0%
+Q635719	1	'archive building'@en	0.0%
+Q63539947	1	'artistic concept'@en	0.0%
+Q63390901	1		0.0%
+Q63372996	1	'bicentennial'@en	0.0%
+Q63187384	1	'Jewish religious occupation'@en	0.0%
+Q63187345	1	'religious occupation'@en	0.0%
+Q63161001	1	'entomological museum'@en	0.0%
+Q63143903	1	'episode in Greek mythology'@en	0.0%
+Q628455	1	'rite'@en	0.0%
+Q624240	1	'Arabic name'@en	0.0%
+Q624025	1	'Sophie Germain prime'@en	0.0%
+Q622425	1	'nightclub'@en	0.0%
+Q62098611	1	'museum of decorative arts'@en	0.0%
+Q620749	1	'dogma'@en	0.0%
+Q619610	1	'social state'@en	0.0%
+Q61960059	1	'vegetarian restaurant'@en	0.0%
+Q619300	1	'Hamadryad'@en	0.0%
+Q61881926	1	'German noble family'@en	0.0%
+Q61788060	1	'human activity'@en	0.0%
+Q61781831	1	'curatorial department'@en	0.0%
+Q61760621	1	'group of monuments'@en	0.0%
+Q615699	1	'Internet encyclopedia'@en	0.0%
+Q6149036	1	'decoration'@en	0.0%
+Q614316	1	'private museum'@en	0.0%
+Q614305	1	'Courts of England and Wales'@en	0.0%
+Q61220733	1	'Star Trek episode'@en	0.0%
+Q6110453	1	'Jacal'@en	0.0%
+Q61089180	1	'part of municipality in the Czech Republic'@en	0.0%
+Q61002	1	'pseudonym'@en	0.0%
+Q60539479	1	'positive emotion'@en	0.0%
+Q60227	1	'sin'@en	0.0%
+Q599093	1	'Perrin number'@en	0.0%
+Q59861107	1	'temporary art exhibition'@en	0.0%
+Q59622687	1	'museums in India'@en	0.0%
+Q59294700	1	'record group'@en	0.0%
+Q58927801	1	'ethical theory'@en	0.0%
+Q58901470	1	'historical article'@en	0.0%
+Q5888666	1	'home rule municipality of Pennsylvania'@en	0.0%
+Q5844636	1	'model farm'@en	0.0%
+Q58339717	1	'city of India'@en	0.0%
+Q581830	1	'carfree city'@en	0.0%
+Q581776	1	'boulder'@en	0.0%
+Q580499	1	'oratory'@en	0.0%
+Q578521	1	'borough of Montreal'@en	0.0%
+Q577	1	'year'@en	0.0%
+Q5767753	1	'style'@en	0.0%
+Q576639	1	'essentially contested concept'@en	0.0%
+Q573607	1	'revenue service'@en	0.0%
+Q572916	1	'found object'@en	0.0%
+Q56822897	1	'mill building'@en	0.0%
+Q567303	1	'announcement'@en	0.0%
+Q56627913	1	'ceremonial object'@en	0.0%
+Q5647631	1	'handscroll'@en	0.0%
+Q5639512	1	'hair museum'@en	0.0%
+Q56242250	1	'Anglican or episcopal cathedral'@en	0.0%
+Q56242235	1	'Lutheran cathedral'@en	0.0%
+Q56242225	1	'Eastern Orthodox cathedral'@en	0.0%
+Q56228301	1	'surname prefixed with Ó or O'@en	0.0%
+Q5608878	1	'dry stone'@en	0.0%
+Q56055236	1	'photographic print'@en	0.0%
+Q56053097	1	'HTML4 named color'@en	0.0%
+Q560311	1	'literary technique'@en	0.0%
+Q56019	1	'military rank'@en	0.0%
+Q55979391	1	'ethical concept'@en	0.0%
+Q558330	1	'municipality of Cuba'@en	0.0%
+Q557141	1	'public art'@en	0.0%
+Q55485	1	'dead-end station'@en	0.0%
+Q55454947	1	'subcommittee of a technical committee'@en	0.0%
+Q55118208	1	'internment Camp for Romani people'@en	0.0%
+Q55102916	1	'parish of Asturias'@en	0.0%
+Q55097243	1	'defunct organization'@en	0.0%
+Q5504247	1	'Quaker meeting house'@en	0.0%
+Q5500295	1	'free school'@en	0.0%
+Q54872349	1	'military fair'@en	0.0%
+Q5474524	1	'foundation school'@en	0.0%
+Q5473425	1	'anthropology museum'@en	0.0%
+Q5465500	1	'food museum'@en	0.0%
+Q54230	1	'Nereids'@en	0.0%
+Q542261	1	'Mughal architecture'@en	0.0%
+Q5383482	1	'episcopal palace'@en	0.0%
+Q5367899	1	'transmitter station'@en	0.0%
+Q53541099	1	'royal villa'@en	0.0%
+Q5326897	1	'early skyscraper'@en	0.0%
+Q5307555	1	'drill hall'@en	0.0%
+Q5302681	1	'dower house'@en	0.0%
+Q5275	1	'astronomical clock'@en	0.0%
+Q52721923	1	'high-voltage overhead power line'@en	0.0%
+Q5255892	1	'democratic republic'@en	0.0%
+Q52177058	1	'civic building'@en	0.0%
+Q5193405	1	'cultural rights'@en	0.0%
+Q51929311	1	'largest city'@en	0.0%
+Q5191724	1	'steeple'@en	0.0%
+Q5172452	1	'corporate crime'@en	0.0%
+Q51631	1	'miracles of Jesus'@en	0.0%
+Q5149695	1	'Columbia Global Centers'@en	0.0%
+Q5124370	1	'civic society'@en	0.0%
+Q512187	1	'federal republic'@en	0.0%
+Q511056	1	'solar deity'@en	0.0%
+Q5107	1	'continent'@en	0.0%
+Q5078274	1	'sketch'@en	0.0%
+Q507619	1	'retail chain'@en	0.0%
+Q50707	1	'composite number'@en	0.0%
+Q5069563	1	'chambered long barrow'@en	0.0%
+Q50068795	1	'historical Chinese state'@en	0.0%
+Q50053	1	'binary star'@en	0.0%
+Q5004679	1	'path'@en	0.0%
+Q4998629	1	'burgh of barony'@en	0.0%
+Q49956097	1	'paleolithic site'@en	0.0%
+Q49848	1	'document'@en	0.0%
+Q49836	1	'wedding'@en	0.0%
+Q49773	1	'social movement'@en	0.0%
+Q494978	1	'special economic zone'@en	0.0%
+Q494823	1	'data format'@en	0.0%
+Q494721	1	'city of Japan'@en	0.0%
+Q49447	1	'world view'@en	0.0%
+Q494311	1	'Low German house'@en	0.0%
+Q49377	1	'Oriental Orthodox Churches'@en	0.0%
+Q4936952	1	'anatomical structure'@en	0.0%
+Q493694	1	'tide mill'@en	0.0%
+Q4936202	1	'Boccia classification'@en	0.0%
+Q493522	1	'municipality of Belgium'@en	0.0%
+Q4922985	1	'treasure trove'@en	0.0%
+Q492255	1	'tetrapylon'@en	0.0%
+Q4919932	1	'stately home'@en	0.0%
+Q490329	1	'dong of South Korea'@en	0.0%
+Q49008	1	'prime number'@en	0.0%
+Q4886	1	'cultivar'@en	0.0%
+Q48812846	1	'airport for antique aircraft'@en	0.0%
+Q486245	1	'National Treasures of South Korea'@en	0.0%
+Q483247	1	'phenomenon'@en	0.0%
+Q483242	1	'laboratory'@en	0.0%
+Q4824242	1	'Australian High Commission'@en	0.0%
+Q4823517	1	'big thing in Australia'@en	0.0%
+Q482	1	'poetry'@en	0.0%
+Q4818719	1	'attributes of God in Christianity'@en	0.0%
+Q4808723	1	'assembly room'@en	0.0%
+Q48075064	1	'sea god'@en	0.0%
+Q480260	1	'local coat of arms'@en	0.0%
+Q4801521	1	'arts festival'@en	0.0%
+Q4796697	1	'art bank'@en	0.0%
+Q47883	1	'playing card'@en	0.0%
+Q47848	1	'sacred architecture'@en	0.0%
+Q47692	1	'Chinese garden'@en	0.0%
+Q476028	1	'association football club'@en	0.0%
+Q475476	1	'diptych'@en	0.0%
+Q47530379	1	'agricultural college'@en	0.0%
+Q47528	1	'radar'@en	0.0%
+Q47509284	1	'assembly plant'@en	0.0%
+Q475018	1	'living room'@en	0.0%
+Q47371099	1	'non-positive integer'@en	0.0%
+Q47163308	1	'ambassador\'s residence'@en	0.0%
+Q47018901	1	'calendar month'@en	0.0%
+Q47018478	1	'calendar month of a given year'@en	0.0%
+Q46970	1	'airline'@en	0.0%
+Q4688003	1	'aerial bombing of a city'@en	0.0%
+Q4677783	1	'Act of the Parliament of the United Kingdom'@en	0.0%
+Q466449	1	'ashram'@en	0.0%
+Q464780	1	'mint'@en	0.0%
+Q4632675	1	'dwelling place'@en	0.0%
+Q4618	1	'carnival'@en	0.0%
+Q46169	1	'national park'@en	0.0%
+Q46124	1	'sanatorium'@en	0.0%
+Q456627	1	'Sacramentals'@en	0.0%
+Q4539	1	'cooperative'@en	0.0%
+Q45107780	1	'silent film series'@en	0.0%
+Q4502129	1	'Russian folk art'@en	0.0%
+Q4498974	1	'ice hockey team'@en	0.0%
+Q448998	1	'wedge tomb'@en	0.0%
+Q448801	1	'big district town'@en	0.0%
+Q44844	1	'Bismarck tower'@en	0.0%
+Q448190	1	'cage cup'@en	0.0%
+Q445396	1	'print room'@en	0.0%
+Q44476427	1	'medical attribute'@en	0.0%
+Q4438121	1	'sports organization'@en	0.0%
+Q4430243	1	'social organization'@en	0.0%
+Q43791339	1	'political party in Bulgaria'@en	0.0%
+Q4375074	1	'calendar era'@en	0.0%
+Q43702	1	'federation'@en	0.0%
+Q4367464	1	'preparatory school'@en	0.0%
+Q436435	1	'Rail transport modelling scales'@en	0.0%
+Q43501	1	'zoo'@en	0.0%
+Q4349921	1	'first human'@en	0.0%
+Q43412	1	'Apostle'@en	0.0%
+Q43116871	1	'plant-derived motif'@en	0.0%
+Q4306036	1	'museum-reserve'@en	0.0%
+Q4306024	1	'Holocaust museum'@en	0.0%
+Q43060	1	'online music store'@en	0.0%
+Q4298922	1	'mixed-use development'@en	0.0%
+Q429785	1	'poster'@en	0.0%
+Q42961155	1	'quarter of Milan'@en	0.0%
+Q42929138	1	'Tramlink stop'@en	0.0%
+Q4287745	1	'medical organization'@en	0.0%
+Q428661	1	'U-boat'@en	0.0%
+Q42855995	1	'fabricator'@en	0.0%
+Q42723927	1	'bydel'@en	0.0%
+Q4271324	1	'mythical character'@en	0.0%
+Q4263830	1	'literary form'@en	0.0%
+Q4260475	1	'medical facility'@en	0.0%
+Q4240267	1	'palace theatre'@en	0.0%
+Q4224624	1	'kmetstvo of Bulgaria'@en	0.0%
+Q42177	1	'bed'@en	0.0%
+Q420962	1	'heritage railway'@en	0.0%
+Q4209223	1	'Rechtsstaat'@en	0.0%
+Q420545	1	'Novotel'@en	0.0%
+Q4171445	1	'landed gentry'@en	0.0%
+Q4159443	1	'сhildren\'s art school'@en	0.0%
+Q415917	1	'riding arena'@en	0.0%
+Q4156067	1	'palace complex'@en	0.0%
+Q4140840	1	'lost artwork'@en	0.0%
+Q41362222	1	'type of map'@en	0.0%
+Q4067618	1	'anthropogony'@en	0.0%
+Q4057659	1	'subdivision of Kyiv'@en	0.0%
+Q40347546	1	'gas streetlight'@en	0.0%
+Q40244	1	'marathon'@en	0.0%
+Q4	1	'death'@en	0.0%
+Q399811	1	'Japanese television drama'@en	0.0%
+Q39919471	1	'former warehouse'@en	0.0%
+Q3958441	1	'economic sector'@en	0.0%
+Q39546	1	'tool'@en	0.0%
+Q395295	1	'agony'@en	0.0%
+Q39518369	1	'castle museum'@en	0.0%
+Q3918368	1	'agricultural show'@en	0.0%
+Q39026077	1	'zombie in a work of fiction'@en	0.0%
+Q3901935	1	'inferior planet'@en	0.0%
+Q389581	1	'triennale'@en	0.0%
+Q38723	1	'higher education institution'@en	0.0%
+Q385378	1	'construction'@en	0.0%
+Q3822604	1	'roman mausoleum'@en	0.0%
+Q38048707	1	'historical cultural heritage site'@en	0.0%
+Q3802482	1	'stins'@en	0.0%
+Q37996118	1	'Washington state park'@en	0.0%
+Q37947493	1	'Arkansas state park'@en	0.0%
+Q375011	1	'religious festival'@en	0.0%
+Q371752	1	'calvary'@en	0.0%
+Q371174	1	'gesture'@en	0.0%
+Q3707571	1	'giant'@en	0.0%
+Q370665	1	'sacra conversazione'@en	0.0%
+Q3705105	1	'Chinese martial arts'@en	0.0%
+Q3694	1	'vacation property'@en	0.0%
+Q3681673	1	'private club'@en	0.0%
+Q3678596	1	'Ancient City of Damascus'@en	0.0%
+Q3678424	1	'city with special status'@en	0.0%
+Q367293	1	'convention'@en	0.0%
+Q3657724	1	'private chapel'@en	0.0%
+Q3649129	1	'cabin'@en	0.0%
+Q361665	1	'summit cross'@en	0.0%
+Q361132	1	'roofing'@en	0.0%
+Q359414	1	'open-air concert'@en	0.0%
+Q35872	1	'boat'@en	0.0%
+Q358316	1	'chamber tomb'@en	0.0%
+Q3579101	1	'edifice'@en	0.0%
+Q3559093	1	'sanctuary city'@en	0.0%
+Q3556889	1	'municipality of El Salvador'@en	0.0%
+Q355646	1	'Living history'@en	0.0%
+Q355472	1	'history of photography'@en	0.0%
+Q355304	1	'watercourse'@en	0.0%
+Q35473	1	'window'@en	0.0%
+Q3533467	1	'group action'@en	0.0%
+Q353163	1	'promotion'@en	0.0%
+Q3522256	1	'herb garden'@en	0.0%
+Q35140	1	'performance'@en	0.0%
+Q3504248	1	'inner planet of the Solar System'@en	0.0%
+Q3502482	1	'cultural region'@en	0.0%
+Q34982659	1	'quarter of Bucharest'@en	0.0%
+Q34763	1	'peninsula'@en	0.0%
+Q34760007	1	'mythological ship'@en	0.0%
+Q3464665	1	'television series season'@en	0.0%
+Q3445354	1	'United States senior military college'@en	0.0%
+Q3409269	1	'statistical unit'@en	0.0%
+Q34038	1	'waterfall'@en	0.0%
+Q3374262	1	'market town'@en	0.0%
+Q3373936	1	'pectoral'@en	0.0%
+Q3355498	1	'contemplative order'@en	0.0%
+Q3354019	1	'seat farm'@en	0.0%
+Q334166	1	'mode of transport'@en	0.0%
+Q3336843	1	'constituent country of the United Kingdom'@en	0.0%
+Q33316032	1	'moved building'@en	0.0%
+Q3330083	1	'wine museum'@en	0.0%
+Q3329663	1	'medical museum'@en	0.0%
+Q3325736	1	'artist-run initiative'@en	0.0%
+Q33185258	1	'faux lighthouse'@en	0.0%
+Q33104279	1	'philosophical concept'@en	0.0%
+Q3301053	1	'consolidated city-county'@en	0.0%
+Q329477	1	'Kilometer zero'@en	0.0%
+Q3284499	1	'capitol building'@en	0.0%
+Q3280285	1	'Victorian house'@en	0.0%
+Q327328	1	'stoa'@en	0.0%
+Q327245	1	'team'@en	0.0%
+Q3266850	1	'commune'@en	0.0%
+Q325944	1	'texture'@en	0.0%
+Q3257782	1	'locution'@en	0.0%
+Q3241972	1	'character'@en	0.0%
+Q321839	1	'agreement'@en	0.0%
+Q32090	1	'lifestyle'@en	0.0%
+Q3186692	1	'calendar year'@en	0.0%
+Q317548	1	'resort town'@en	0.0%
+Q31629	1	'type of sport'@en	0.0%
+Q3146899	1	'diocese of the Catholic Church'@en	0.0%
+Q31374404	1	'shopping mall'@en	0.0%
+Q3136914	1	'history of Oregon'@en	0.0%
+Q3124902	1	'Balinese Temple'@en	0.0%
+Q3117863	1	'isolated human group'@en	0.0%
+Q3116510	1	'frog'@en	0.0%
+Q31028314	1	'partial contour fort'@en	0.0%
+Q309100	1	'planning'@en	0.0%
+Q30785519	1	'university campus'@en	0.0%
+Q30634609	1	'heritage designation'@en	0.0%
+Q3055118	1	'single entity of population'@en	0.0%
+Q3032114	1	'district of Madrid'@en	0.0%
+Q30304302	1	'National Park System unit'@en	0.0%
+Q30301606	1	'cubic building'@en	0.0%
+Q30301498	1	'student housing'@en	0.0%
+Q30149195	1	'biblical concept'@en	0.0%
+Q30124446	1	'legislative building'@en	0.0%
+Q30027695	1	'0 number class'@en	0.0%
+Q29968665	1	'fortress island'@en	0.0%
+Q298742	1	'crown jewels'@en	0.0%
+Q29857932	1	'kinetic object'@en	0.0%
+Q2982955	1	'public collection'@en	0.0%
+Q29791211	1	'sport in a geographic region'@en	0.0%
+Q2974842	1	'lost city'@en	0.0%
+Q2973801	1	'fortified line'@en	0.0%
+Q297163	1	'oil mill'@en	0.0%
+Q29702995	1	'chalkotheke'@en	0.0%
+Q29654714	1	'national motto'@en	0.0%
+Q29628876	1	'tuberculosis sanatorium'@en	0.0%
+Q29556	1	'civil liberties'@en	0.0%
+Q29549240	1	'protected Latvian geological and geomorphological natural monument'@en	0.0%
+Q2948561	1	'fair ground'@en	0.0%
+Q29469577	1	'LGBT historic place'@en	0.0%
+Q2935533	1	'campo'@en	0.0%
+Q29300714	1	'international association'@en	0.0%
+Q2928458	1	'royal burgh'@en	0.0%
+Q2927074	1	'Internet meme'@en	0.0%
+Q2923447	1	'waterlines'@en	0.0%
+Q2920343	1	'sarsen'@en	0.0%
+Q2918952	1	'hill figure'@en	0.0%
+Q29168168	1	'statue of Jesus'@en	0.0%
+Q29154515	1	'chapter of the Bible'@en	0.0%
+Q2915234	1	'Motzkin number'@en	0.0%
+Q291177	1	'rose garden'@en	0.0%
+Q2910675	1	'unfinished creative work'@en	0.0%
+Q29023906	1	'temporary exhibition'@en	0.0%
+Q28942344	1	'Indigenous Australian community'@en	0.0%
+Q28920052	1	'non-negative integer'@en	0.0%
+Q28890616	1	'group of casts'@en	0.0%
+Q288514	1	'fair'@en	0.0%
+Q28846085	1	'city gate of London'@en	0.0%
+Q2880255	1	'resort hotel'@en	0.0%
+Q28795800	1	'decimal currency'@en	0.0%
+Q28737012	1	'museum of culture'@en	0.0%
+Q28648855	1	'police unit'@en	0.0%
+Q28608087	1	'human-based unit of measurement'@en	0.0%
+Q28607738	1	'obsolete system of measurement'@en	0.0%
+Q2860356	1	'visionary environments'@en	0.0%
+Q28512	1	'cameo'@en	0.0%
+Q2820111	1	'cult image'@en	0.0%
+Q28171280	1	'ancient civilization'@en	0.0%
+Q28169064	1	'68k emulator'@en	0.0%
+Q28148504	1	'museum district'@en	0.0%
+Q28142754	1	'food market'@en	0.0%
+Q28020127	1	'fictional humanoid'@en	0.0%
+Q27995042	1	'wilderness area'@en	0.0%
+Q2799245	1		0.0%
+Q27955379	1	'road transport infrastructure'@en	0.0%
+Q2795367	1	'neighborhood in Utrecht'@en	0.0%
+Q27949697	1	'Wikibase reason for deprecated rank'@en	0.0%
+Q2786687	1	'Steenhuis'@en	0.0%
+Q2776067	1	'borg'@en	0.0%
+Q277583	1	'kakemono'@en	0.0%
+Q277565	1	'labor education camp'@en	0.0%
+Q27699276	1	'museum collection'@en	0.0%
+Q2767837	1	'additive identity'@en	0.0%
+Q27676428	1	'municipality'@en	0.0%
+Q27560760	1	'сollection of fairy tales'@en	0.0%
+Q2750585	1	'chancery'@en	0.0%
+Q2738074	1	'political movement'@en	0.0%
+Q2736610	1	'artistic school'@en	0.0%
+Q273120	1	'protest'@en	0.0%
+Q272937	1	'treasure'@en	0.0%
+Q2728698	1	'religious belief'@en	0.0%
+Q272231	1	'arboretum'@en	0.0%
+Q271669	1	'landform'@en	0.0%
+Q27095213	1	'shopping district'@en	0.0%
+Q2708903	1	'pentagonal pyramidal number'@en	0.0%
+Q27032363	1	'photo archive'@en	0.0%
+Q27031439	1	'group of sculptures'@en	0.0%
+Q27030941	1	'special archive'@en	0.0%
+Q27028153	1	'tram depot'@en	0.0%
+Q26958712	1	'astronomical museum'@en	0.0%
+Q26958661	1	'naval museum'@en	0.0%
+Q2695327	1	'polder windmill'@en	0.0%
+Q26944999	1	'paper museum'@en	0.0%
+Q26944985	1	'economy museum'@en	0.0%
+Q26884324	1	'Wikimedia outline article'@en	0.0%
+Q268592	1	'industry'@en	0.0%
+Q26830017	1	'state in the Holy Roman Empire'@en	0.0%
+Q2680291	1	'residential college'@en	0.0%
+Q26789694	1	'plague column'@en	0.0%
+Q26678366	1	'hundred'@en	0.0%
+Q264965	1	'subculture'@en	0.0%
+Q264649	1	'Palladian architecture'@en	0.0%
+Q264542	1	'student club'@en	0.0%
+Q26401003	1	'individual animal'@en	0.0%
+Q2634521	1	'title of Jesus'@en	0.0%
+Q262882	1	'statutory city of Austria'@en	0.0%
+Q2627400	1	'geographic envelope'@en	0.0%
+Q26214208	1	'set of mythological Greek characters'@en	0.0%
+Q26211545	1	'desa'@en	0.0%
+Q26132862	1	'Olympic sports discipline event'@en	0.0%
+Q2604618	1	'fishing tackle'@en	0.0%
+Q25964553	1	'ceramics museum'@en	0.0%
+Q259618	1	'boutique hotel'@en	0.0%
+Q25894868	1	'place type'@en	0.0%
+Q2581063	1	'type of farm house'@en	0.0%
+Q2579179	1	'parish of Ecuador'@en	0.0%
+Q2556234	1	'wine producing locality'@en	0.0%
+Q254978	1	'burgh'@en	0.0%
+Q2549179	1	'department store chain'@en	0.0%
+Q2537829	1	'winged horse'@en	0.0%
+Q25377923	1		0.0%
+Q2537	1	'natural satellite'@en	0.0%
+Q25343	1	'square metre'@en	0.0%
+Q2534228	1	'obsolete unit of length'@en	0.0%
+Q253270	1	'borough of Munich'@en	0.0%
+Q25235	1	'hour'@en	0.0%
+Q252021	1	'villa rustica'@en	0.0%
+Q2520013	1	'sculpture in the round'@en	0.0%
+Q25183395	1	'textile museum'@en	0.0%
+Q25037430	1	'Textile block house'@en	0.0%
+Q2493023	1		0.0%
+Q24862	1	'short film'@en	0.0%
+Q2470803	1	'short title'@en	0.0%
+Q2460972	1	'tower castle'@en	0.0%
+Q2460422	1	'guest house'@en	0.0%
+Q24566025	1	'Norse runestone'@en	0.0%
+Q24529780	1	'point'@en	0.0%
+Q2434238	1	'heritage'@en	0.0%
+Q24334893	1	'mythical place'@en	0.0%
+Q24296329	1	'mythological horse'@en	0.0%
+Q2418896	1	'part of the world'@en	0.0%
+Q2416723	1	'theme park'@en	0.0%
+Q241625	1	'wish'@en	0.0%
+Q241284	1	'geosphere'@en	0.0%
+Q2412834	1	'reserve team'@en	0.0%
+Q2397485	1	'chain'@en	0.0%
+Q2393314	1	'dance troupe'@en	0.0%
+Q2388316	1	'public'@en	0.0%
+Q2388270	1	'tahara house'@en	0.0%
+Q2387974	1	'military hospital'@en	0.0%
+Q23828039	1	'village/town/city in Lebanon'@en	0.0%
+Q23768723	1	'third pagoda'@en	0.0%
+Q2373919	1	'intentional community'@en	0.0%
+Q23296480	1	'highly touchable number'@en	0.0%
+Q2325038	1	'state church'@en	0.0%
+Q2323517	1	'water gate'@en	0.0%
+Q2315928	1	'ice hockey rink'@en	0.0%
+Q230752	1	'auditorium'@en	0.0%
+Q23006	1	'Verbandsgemeinde'@en	0.0%
+Q23002054	1	'private not-for-profit educational institution'@en	0.0%
+Q2298412	1	'solar power station'@en	0.0%
+Q22958233	1	'farm of Norway'@en	0.0%
+Q2293148	1	'sculpture trail'@en	0.0%
+Q22927616	1	'commune of France with specific status'@en	0.0%
+Q22908	1	'retirement home'@en	0.0%
+Q2281788	1	'public aquarium'@en	0.0%
+Q22813672	1	'two biblical humans'@en	0.0%
+Q22811668	1	'archaeological institute'@en	0.0%
+Q22808066	1	'symbol of a state of the United States'@en	0.0%
+Q22733	1	'garage'@en	0.0%
+Q2270442	1	'horseshoe waterfall'@en	0.0%
+Q2267705	1	'field of study'@en	0.0%
+Q22674925	1	'former populated place'@en	0.0%
+Q22668995	1	'hundred of Delaware'@en	0.0%
+Q22580836	1	'village in Latvia'@en	0.0%
+Q22569957	1	'screen print'@en	0.0%
+Q2252429	1	'protective sign'@en	0.0%
+Q2239243	1	'mythical creature'@en	0.0%
+Q223638	1	'guide book'@en	0.0%
+Q2225692	1	'fourth-level administrative division in Indonesia'@en	0.0%
+Q2223653	1	'terrorist attack'@en	0.0%
+Q22222786	1	'government program'@en	0.0%
+Q2221906	1	'geographic location'@en	0.0%
+Q2191999	1	'Pogost'@en	0.0%
+Q218735	1	'customs museum'@en	0.0%
+Q218653	1	'custom house'@en	0.0%
+Q2176289	1	'round barn'@en	0.0%
+Q21745157	1	'destroyed artwork'@en	0.0%
+Q217177	1	'taifa'@en	0.0%
+Q217175	1	'architectural order'@en	0.0%
+Q217019	1	'leap year starting on Thursday and ending on Friday'@en	0.0%
+Q21684377	1	'unit without standard conversion to SI'@en	0.0%
+Q21672098	1	'village of Ukraine'@en	0.0%
+Q215857	1	'bookcase'@en	0.0%
+Q21551063	1	'tourist cabins'@en	0.0%
+Q21550879	1	'philatelic museum'@en	0.0%
+Q21550639	1	'geometric concept'@en	0.0%
+Q2154519	1	'astrophysical X-ray source'@en	0.0%
+Q2143825	1	'hiking trail'@en	0.0%
+Q2143354	1	'insurance company'@en	0.0%
+Q214334	1	'cave painting'@en	0.0%
+Q214252	1	'stable'@en	0.0%
+Q2142152	1	'temple'@en	0.0%
+Q213924	1	'codex'@en	0.0%
+Q2139	1	'moon of Neptune'@en	0.0%
+Q2135465	1	'legal concept'@en	0.0%
+Q212805	1	'digital library'@en	0.0%
+Q2126549	1	'Wheel Chandelier'@en	0.0%
+Q212431	1	'installation art'@en	0.0%
+Q2122214	1	'national archives'@en	0.0%
+Q21198342	1	'manga series'@en	0.0%
+Q21192438	1	'fictional species'@en	0.0%
+Q211302	1	'glacial lake'@en	0.0%
+Q210723	1	'chalice'@en	0.0%
+Q21042249	1	'environmental artwork'@en	0.0%
+Q21032902	1	'shape of ancient vases'@en	0.0%
+Q210223	1	'sloop'@en	0.0%
+Q210167	1	'video game developer'@en	0.0%
+Q21010817	1	'city of Pennsylvania'@en	0.0%
+Q20968950	1	'performance series'@en	0.0%
+Q20967773	1	'tide organ'@en	0.0%
+Q2091629	1	'magnitude'@en	0.0%
+Q2088753	1	'triple star system'@en	0.0%
+Q20871353	1	'cadastral area in the Czech Republic'@en	0.0%
+Q20871196	1	'fictional vehicle'@en	0.0%
+Q20830276	1	'group of mythical characters'@en	0.0%
+Q20819922	1	'opera company'@en	0.0%
+Q207869	1	'epithet'@en	0.0%
+Q207766	1	'lawn'@en	0.0%
+Q20744439	1	'photograph series'@en	0.0%
+Q20742825	1	'cultural depiction'@en	0.0%
+Q20742776	1	'video artwork'@en	0.0%
+Q20679540	1	'cinema chain'@en	0.0%
+Q20672229	1	'friary'@en	0.0%
+Q20643324	1	'opera genre'@en	0.0%
+Q2063507	1	'recreation area'@en	0.0%
+Q2061186	1	'religious order'@en	0.0%
+Q205985	1	'goddess'@en	0.0%
+Q205961	1	'skill'@en	0.0%
+Q2052698	1	'rural cemetery'@en	0.0%
+Q2046325	1	'round barrow'@en	0.0%
+Q2046310	1	'bowl barrow'@en	0.0%
+Q2042081	1	'octagon house'@en	0.0%
+Q2037332	1	'cladding'@en	0.0%
+Q2031836	1	'Eastern Orthodox church'@en	0.0%
+Q2031250	1	'ferme ornée'@en	0.0%
+Q202871	1	'emulator'@en	0.0%
+Q2026188	1	'panoramic painting'@en	0.0%
+Q202595	1	'prefecture of Greece'@en	0.0%
+Q202509	1	'Chinatown'@en	0.0%
+Q202435	1	'lieutenancy area of Scotland'@en	0.0%
+Q20225034	1	'unfinished novel'@en	0.0%
+Q20202269	1	'musical term'@en	0.0%
+Q20034791	1	'defensive tower'@en	0.0%
+Q200250	1	'metropolis'@en	0.0%
+Q200141	1	'necropolis'@en	0.0%
+Q2001305	1	'television channel'@en	0.0%
+Q200023	1	'swimming center'@en	0.0%
+Q19953632	1	'former administrative territorial entity'@en	0.0%
+Q19941832	1	'dog hotel'@en	0.0%
+Q1993624	1	'spectroscopic binary star'@en	0.0%
+Q19934856	1	'twin towers'@en	0.0%
+Q199098	1	'ornamental garden'@en	0.0%
+Q19890860	1	'agricultural museum'@en	0.0%
+Q1985797	1	'municipal unit of Greece'@en	0.0%
+Q1985622	1	'defense'@en	0.0%
+Q19850578	1	'Chappe semaphore tower'@en	0.0%
+Q19832712	1	'historical administrative division'@en	0.0%
+Q19828370	1	'drawing series'@en	0.0%
+Q19828	1	'leap year'@en	0.0%
+Q19793459	1	'Greek letter'@en	0.0%
+Q1978718	1	'unit of length'@en	0.0%
+Q19776628	1	'Latin-script letter'@en	0.0%
+Q1976594	1	'science park'@en	0.0%
+Q1975485	1	'Orthodox chapel'@en	0.0%
+Q19730508	1	'former municipality'@en	0.0%
+Q1970725	1	'natural region'@en	0.0%
+Q1970243	1	'lowland castle'@en	0.0%
+Q1968403	1	'post town'@en	0.0%
+Q1961493	1	'gildhouse'@en	0.0%
+Q19610271	1	'literary term'@en	0.0%
+Q196068	1	'lordship'@en	0.0%
+Q1948968	1		0.0%
+Q194195	1	'amusement park'@en	0.0%
+Q19361238	1	'Wikidata metaclass'@en	0.0%
+Q1935728	1	'stone circle'@en	0.0%
+Q1935136	1	'winged words'@en	0.0%
+Q1930585	1	'victory column'@en	0.0%
+Q1929784	1	'poorhouse'@en	0.0%
+Q1928191	1	'emergency light'@en	0.0%
+Q192425	1	'postcard'@en	0.0%
+Q191851	1	'vase'@en	0.0%
+Q1916821	1	'water deity'@en	0.0%
+Q191600	1	'civil and political rights'@en	0.0%
+Q19097	1	'sect'@en	0.0%
+Q190891	1	'centered pentagonal number'@en	0.0%
+Q189819	1	'ritual'@en	0.0%
+Q189594	1	'Islamic art'@en	0.0%
+Q189445	1	'bicameral legislature'@en	0.0%
+Q189265	1	'atrium'@en	0.0%
+Q188619	1	'hierarchy'@en	0.0%
+Q188507	1	'apartment'@en	0.0%
+Q18811583	1	'sorority'@en	0.0%
+Q188040	1	'quarry'@en	0.0%
+Q187909	1	'agora'@en	0.0%
+Q18673040	1	'Hong Kong Ordinance'@en	0.0%
+Q186347	1	'caravanserai'@en	0.0%
+Q18628369	1	'art library'@en	0.0%
+Q1862724	1	'list of natural history museums'@en	0.0%
+Q18609875	1	'tapestry series'@en	0.0%
+Q18608569	1	'lower house of U.S. state legislature'@en	0.0%
+Q18551781	1	'subdistrict'@en	0.0%
+Q18535	1	'allegory'@en	0.0%
+Q18534542	1	'restaurant chain'@en	0.0%
+Q18511725	1	'market town'@en	0.0%
+Q185113	1	'cape'@en	0.0%
+Q18509232	1	'fast food restaurant chain'@en	0.0%
+Q1850454	1	'cosmetic palette'@en	0.0%
+Q184949	1	'hippodrome'@en	0.0%
+Q18411786	1	'visitor centre'@en	0.0%
+Q18355750	1	'food hall'@en	0.0%
+Q18346616	1	'part of municipality'@en	0.0%
+Q18328097	1	'courage award'@en	0.0%
+Q183272	1	'frieze'@en	0.0%
+Q183197	1	'spreadsheet'@en	0.0%
+Q182545	1	'stylistic device'@en	0.0%
+Q182406	1	'Okeanid'@en	0.0%
+Q182060	1	'office'@en	0.0%
+Q181970	1	'archaism'@en	0.0%
+Q18159445	1	'Chedi'@en	0.0%
+Q181348	1	'viaduct'@en	0.0%
+Q18133227	1	'pantheon'@en	0.0%
+Q18127	1	'record label'@en	0.0%
+Q18105680	1	'Cirque du Soleil show'@en	0.0%
+Q18096903	1	'statue type'@en	0.0%
+Q180720	1	'chakra'@en	0.0%
+Q180673	1	'ceremonial county of England'@en	0.0%
+Q18058299	1	'fictional castle'@en	0.0%
+Q1802401	1		0.0%
+Q18009431	1	'Act of the Parliament of Great Britain'@en	0.0%
+Q1798450	1	'ecomuseum'@en	0.0%
+Q1797722	1	'L-plan castle'@en	0.0%
+Q1797122	1	'artist\'s house'@en	0.0%
+Q179226	1	'equestrianism'@en	0.0%
+Q179164	1	'unitary state'@en	0.0%
+Q17912683	1	'aerial bombing'@en	0.0%
+Q178885	1	'deity'@en	0.0%
+Q178193	1	'steamboat'@en	0.0%
+Q178149	1	'Bodhisattva'@en	0.0%
+Q1781180	1	'condensation power station'@en	0.0%
+Q1780389	1	'special municipality association of Germany'@en	0.0%
+Q1779587	1	'column krater'@en	0.0%
+Q177634	1	'community'@en	0.0%
+Q1774898	1	'clinic'@en	0.0%
+Q177305	1	'observation deck'@en	0.0%
+Q177220	1	'singer'@en	0.0%
+Q1768043	1	'Metropolitan Statistical Area'@en	0.0%
+Q176799	1	'military unit'@en	0.0%
+Q1766565	1	'mask stone'@en	0.0%
+Q17624054	1	'fictional deity'@en	0.0%
+Q1762059	1	'film production company'@en	0.0%
+Q1760610	1	'comic book'@en	0.0%
+Q1756157	1	'area of law'@en	0.0%
+Q1754946	1	'rural district of England, Wales, and Ireland'@en	0.0%
+Q1752939	1	'independent agency of the United States government'@en	0.0%
+Q17517379	1	'animated short film'@en	0.0%
+Q1751626	1	'theatre festival'@en	0.0%
+Q1751513	1	'game mechanics'@en	0.0%
+Q1751323	1	'indoor ski slope'@en	0.0%
+Q17504814	1	'gunpowder magazine'@en	0.0%
+Q17456916	1	'government commission'@en	0.0%
+Q17444909	1	'astronomical object type'@en	0.0%
+Q1743247	1	'redundant church'@en	0.0%
+Q17379525	1	'pottery ware'@en	0.0%
+Q17362920	1	'Wikimedia duplicated page'@en	0.0%
+Q173603	1	'helmet'@en	0.0%
+Q173253	1	'sense'@en	0.0%
+Q17156398	1	'stone cross'@en	0.0%
+Q17152495	1	'prime version'@en	0.0%
+Q17148672	1	'social club'@en	0.0%
+Q17143070	1	'toponymic surname'@en	0.0%
+Q171318	1	'kinship'@en	0.0%
+Q17105874	1	'cultural history museum'@en	0.0%
+Q1707610	1	'war cemetery'@en	0.0%
+Q170544	1	'tent'@en	0.0%
+Q17051044	1	'mahalle'@en	0.0%
+Q170477	1	'chimney'@en	0.0%
+Q170156	1	'confederation'@en	0.0%
+Q1701174	1	'monastery ruins'@en	0.0%
+Q170043	1	'perfect number'@en	0.0%
+Q169358	1	'stratovolcano'@en	0.0%
+Q16905563	1	'cycle of paintings'@en	0.0%
+Q16895642	1	'philosophical school'@en	0.0%
+Q1688297	1	'Umayyad desert castles'@en	0.0%
+Q168827	1	'prophet of Islam'@en	0.0%
+Q16858648	1	'centered pentachoric number'@en	0.0%
+Q168565	1	'ghost station'@en	0.0%
+Q16782623	1	'English unit of measurement'@en	0.0%
+Q1673271	1	'regime change'@en	0.0%
+Q167270	1	'trademark'@en	0.0%
+Q16725895	1	'visa policy'@en	0.0%
+Q16722960	1	'phenomenon'@en	0.0%
+Q166902	1	'primary color'@en	0.0%
+Q1668124	1	'interpolation'@en	0.0%
+Q1661080	1	'small press'@en	0.0%
+Q1656682	1	'event'@en	0.0%
+Q1655611	1	'plantation house'@en	0.0%
+Q16543169	1	'council of Araba'@en	0.0%
+Q16536851	1	'coastal battery'@en	0.0%
+Q165116	1	'grand duchy'@en	0.0%
+Q165044	1	'greenhouse'@en	0.0%
+Q1643932	1	'tabletop role-playing game'@en	0.0%
+Q1639354	1	'simultaneum'@en	0.0%
+Q16355778	1	'average size village in Latvia'@en	0.0%
+Q163446	1	'carpet'@en	0.0%
+Q16335296	1	'historical profession'@en	0.0%
+Q1633472	1	'fraternity and sorority housing'@en	0.0%
+Q162602	1	'river island'@en	0.0%
+Q1622062	1	'university library'@en	0.0%
+Q1620797	1	'historic district in the United States'@en	0.0%
+Q1619743	1		0.0%
+Q161851	1	'condominium'@en	0.0%
+Q161726	1	'multinational corporation'@en	0.0%
+Q16155707	1	'městys'@en	0.0%
+Q16151173	1	'Grade II* listed buildings in Merseyside'@en	0.0%
+Q16148174	1	'bungalow court'@en	0.0%
+Q161439	1	'jewelry'@en	0.0%
+Q1614140	1	'tramway museum'@en	0.0%
+Q161243	1	'dependent territory'@en	0.0%
+Q160645	1	'orphanage'@en	0.0%
+Q159979	1	'twin'@en	0.0%
+Q15983930	1	'Act of Parliament of Ontario'@en	0.0%
+Q15979581	1	'townhouse (Great Britain)'@en	0.0%
+Q15974307	1	'Einheitsgemeinde of Germany'@en	0.0%
+Q1595408	1	'climatic health resort'@en	0.0%
+Q159313	1	'urban agglomeration'@en	0.0%
+Q15893266	1	'former entity'@en	0.0%
+Q1589009	1	'privately held company'@en	0.0%
+Q15835	1	'Japanese garden'@en	0.0%
+Q15831596	1	'class of fictional entities'@en	0.0%
+Q15831577	1	'non-classical state of matter'@en	0.0%
+Q15830667	1	'quarter of Hamburg'@en	0.0%
+Q1580122	1	'hyperboloid structure'@en	0.0%
+Q157811	1	'virtue'@en	0.0%
+Q15773347	1	'film character'@en	0.0%
+Q1574516	1	'photo library'@en	0.0%
+Q15731904	1	'municipal district of Nova Scotia'@en	0.0%
+Q15725677	1	'pedanía'@en	0.0%
+Q15711870	1	'animated character'@en	0.0%
+Q15711026	1	'altarpiece'@en	0.0%
+Q15710020	1	'storage room'@en	0.0%
+Q1567972	1	'Port Vell Aerial Tramway'@en	0.0%
+Q1564373	1	'mission complex'@en	0.0%
+Q15640053	1	'tram system'@en	0.0%
+Q15621286	1	'intellectual work'@en	0.0%
+Q15590336	1	'music streaming service'@en	0.0%
+Q155271	1	'think tank'@en	0.0%
+Q1549731	1	'interpretation centre'@en	0.0%
+Q15487029	1	'patriarchal basilica'@en	0.0%
+Q1548525	1	'large independent city of Lower Saxony'@en	0.0%
+Q15416	1	'television program'@en	0.0%
+Q1541532	1	'Hall of Fame (Graffiti)'@en	0.0%
+Q153988	1	'bowl'@en	0.0%
+Q1535658	1	'Tower houses in Britain and Ireland'@en	0.0%
+Q1534477	1	'gokoku shrine'@en	0.0%
+Q1529128	1	'postal service'@en	0.0%
+Q1529	1	'traffic circle'@en	0.0%
+Q15253354	1	'art magazine'@en	0.0%
+Q1523821	1	'socken'@en	0.0%
+Q15221370	1	'third-class city'@en	0.0%
+Q15221304	1	'first-class city'@en	0.0%
+Q1522115	1	'energy source'@en	0.0%
+Q15210668	1	'lower-tier municipality'@en	0.0%
+Q15206070	1	'popular music venue'@en	0.0%
+Q1520223	1	'constitutional republic'@en	0.0%
+Q151771	1	'candlestick'@en	0.0%
+Q15169167	1	'execution method'@en	0.0%
+Q15135589	1	'pilgrimage site'@en	0.0%
+Q15123870	1	'lithograph'@en	0.0%
+Q15077303	1	'landscape garden'@en	0.0%
+Q15056993	1	'aircraft family'@en	0.0%
+Q15054484	1	'Belgian noble family'@en	0.0%
+Q15042037	1	'statistical territorial entity'@en	0.0%
+Q1499881	1	'outdoor game'@en	0.0%
+Q1497483	1	'memorial cross'@en	0.0%
+Q1496967	1	'territorial entity'@en	0.0%
+Q14946335	1	'Jardín histórico'@en	0.0%
+Q14936523	1	'ironic award'@en	0.0%
+Q1489259	1	'superpower'@en	0.0%
+Q14784328	1	'state capital in Germany'@en	0.0%
+Q1475403	1	'kunsthalle'@en	0.0%
+Q14752149	1	'amateur football club'@en	0.0%
+Q14750991	1	'Commonwealth War Graves Commission maintained cemetery'@en	0.0%
+Q1474493	1	'radio communication station'@en	0.0%
+Q146924	1	'Roman limes'@en	0.0%
+Q14659	1	'coat of arms'@en	0.0%
+Q1465881	1	'pioneer museum'@en	0.0%
+Q14645593	1	'rugby union team'@en	0.0%
+Q1462591	1	'taxicab number'@en	0.0%
+Q14528644	1	'care center'@en	0.0%
+Q14514600	1	'group of fictional characters'@en	0.0%
+Q145134	1	'strictly non-palindromic number'@en	0.0%
+Q1438040	1	'research library'@en	0.0%
+Q1437361	1	'form of art'@en	0.0%
+Q1436181	1	'maison de plaisance'@en	0.0%
+Q1435951	1	'food festival'@en	0.0%
+Q1433492	1	'stone ship'@en	0.0%
+Q1431958	1	'State room'@en	0.0%
+Q1426035	1	'local government area of Victoria'@en	0.0%
+Q1424583	1	'sepulchral chapel'@en	0.0%
+Q1424519	1	'choker'@en	0.0%
+Q1424449	1	'hunting lodge'@en	0.0%
+Q1423423	1	'Château'@en	0.0%
+Q1416745	1	'paltrock windmill'@en	0.0%
+Q1416685	1	'rampart'@en	0.0%
+Q1416517	1	'cartoon'@en	0.0%
+Q1415899	1	'stepping stones'@en	0.0%
+Q1414991	1	'area'@en	0.0%
+Q1414089	1	'art theory'@en	0.0%
+Q1412224	1	'tribunal'@en	0.0%
+Q1411766	1	'predella'@en	0.0%
+Q1411242	1	'vice'@en	0.0%
+Q1408286	1	'production process'@en	0.0%
+Q1407236	1	'weigh house'@en	0.0%
+Q1406988	1	'grand ensemble'@en	0.0%
+Q1399576	1	'cist'@en	0.0%
+Q1394738	1	'parachute tower'@en	0.0%
+Q138840	1	'Common Germanic deities'@en	0.0%
+Q13883136	1	'foundry'@en	0.0%
+Q1387388	1	'mythical hybrid'@en	0.0%
+Q1379116	1	'base station'@en	0.0%
+Q1371562	1	'unit of area'@en	0.0%
+Q136689	1	'chalet'@en	0.0%
+Q1364150	1	'tollbooth'@en	0.0%
+Q1363686	1	'entering a heaven while alive'@en	0.0%
+Q1363241	1	'plant variety'@en	0.0%
+Q1362225	1	'warehouse'@en	0.0%
+Q1355866	1	'dollhouse'@en	0.0%
+Q1349587	1	'earthwork'@en	0.0%
+Q134737	1	'nobility'@en	0.0%
+Q13473501	1	'collective'@en	0.0%
+Q13424466	1	'natural harbor'@en	0.0%
+Q13414953	1	'religious denomination'@en	0.0%
+Q1341478	1	'energy company'@en	0.0%
+Q1341387	1	'spa'@en	0.0%
+Q13411064	1	'pastoral lease'@en	0.0%
+Q13406554	1	'sports competition'@en	0.0%
+Q13405593	1	'nature deity'@en	0.0%
+Q1339195	1	'station building'@en	0.0%
+Q13381944	1	'quadrangle'@en	0.0%
+Q1335799	1	'Irish round tower'@en	0.0%
+Q133442	1	'city-state'@en	0.0%
+Q133311	1	'tribe'@en	0.0%
+Q1330974	1	'active volcano'@en	0.0%
+Q1330941	1	'Royal Park of London'@en	0.0%
+Q1330336	1	'web framework'@en	0.0%
+Q132911	1	'elevator'@en	0.0%
+Q132510	1	'market'@en	0.0%
+Q13226383	1	'facility'@en	0.0%
+Q13218690	1	'town in Hungary'@en	0.0%
+Q132137	1	'icon'@en	0.0%
+Q1318959	1	'toy store'@en	0.0%
+Q1318295	1	'narrative'@en	0.0%
+Q131436	1	'board game'@en	0.0%
+Q1310967	1	'automobile repair shop'@en	0.0%
+Q13099631	1	'liturgical furniture'@en	0.0%
+Q1308274	1	'language usage'@en	0.0%
+Q1307214	1	'form of government'@en	0.0%
+Q13015156	1		0.0%
+Q130003	1	'ski resort'@en	0.0%
+Q129558	1	'ocean current'@en	0.0%
+Q129264	1	'phantom island'@en	0.0%
+Q1289426	1	'county of China'@en	0.0%
+Q12876091	1	'municipal/local community'@en	0.0%
+Q12859788	1	'steamship'@en	0.0%
+Q1281158	1	'flight maneuver'@en	0.0%
+Q12786684	1	'Cantor number'@en	0.0%
+Q12783	1	'English garden'@en	0.0%
+Q12781	1	'Giardino all\'italiana'@en	0.0%
+Q12774	1	'French formal garden'@en	0.0%
+Q12771350	1		0.0%
+Q12761956	1	'affair'@en	0.0%
+Q1267632	1	'raion of Ukraine'@en	0.0%
+Q1265179	1	'maritime archaeology'@en	0.0%
+Q1261214	1	'television special'@en	0.0%
+Q1259759	1	'miniseries'@en	0.0%
+Q12573007	1	'stone sculpture'@en	0.0%
+Q12570	1	'suspension bridge'@en	0.0%
+Q125576	1	'papyrus'@en	0.0%
+Q1251403	1	'alleyway'@en	0.0%
+Q12503	1	'integer'@en	0.0%
+Q12493	1	'dome'@en	0.0%
+Q124734	1	'rebellion'@en	0.0%
+Q1243157	1	'double name'@en	0.0%
+Q1241535	1	'galea'@en	0.0%
+Q1240885	1	'Arma Christi'@en	0.0%
+Q1240161	1	'temporary structure'@en	0.0%
+Q1236923	1	'cathedral library'@en	0.0%
+Q123480	1	'landlocked country'@en	0.0%
+Q1234255	1	'regional unit of Greece'@en	0.0%
+Q12323	1	'dam'@en	0.0%
+Q1231888	1	'diocesan museum'@en	0.0%
+Q1229071	1	'motif'@en	0.0%
+Q12284	1	'canal'@en	0.0%
+Q12277	1	'arch'@en	0.0%
+Q1220959	1	'building of public administration'@en	0.0%
+Q12170890	1		0.0%
+Q12161100	1	'cortijo'@en	0.0%
+Q12160552	1	'theonym'@en	0.0%
+Q12146012	1	'underground building'@en	0.0%
+Q12139612	1	'list'@en	0.0%
+Q12104567	1	'housing estate'@en	0.0%
+Q1209783	1	'shukuba'@en	0.0%
+Q1207757	1	'provincial temple'@en	0.0%
+Q12054099	1	'neighborhood of Jerusalem'@en	0.0%
+Q12043905	1	'pastel'@en	0.0%
+Q12042110	1	'steel bridge'@en	0.0%
+Q1202618	1	'sports field'@en	0.0%
+Q12013554	1	'sawmill'@en	0.0%
+Q11990908	1	'national park centre'@en	0.0%
+Q1198413	1	'military camp'@en	0.0%
+Q1195098	1	'ward'@en	0.0%
+Q1194970	1	'dot-com company'@en	0.0%
+Q1193753	1	'stone row'@en	0.0%
+Q1193438	1	'bullring'@en	0.0%
+Q1191753	1	'bus depot'@en	0.0%
+Q1191610	1	'sex museum'@en	0.0%
+Q1190781	1	'emakimono'@en	0.0%
+Q119	1	'May'@en	0.0%
+Q11895075	1	'provincial museum in Finland'@en	0.0%
+Q1188223	1	'dance hall'@en	0.0%
+Q1187811	1	'college town'@en	0.0%
+Q118289	1	'pericope'@en	0.0%
+Q11822917	1	'horse racing venue'@en	0.0%
+Q1182203	1	'Presentation miniature'@en	0.0%
+Q1180262	1	'residenz'@en	0.0%
+Q1179791	1	'glassworks'@en	0.0%
+Q11784935	1	'Orthodox monastery‎'@en	0.0%
+Q11753232	1	'launch service provider'@en	0.0%
+Q11741382	1	'Holy Trinity column'@en	0.0%
+Q1173065	1	'album'@en	0.0%
+Q1165838	1	'hexagonal number'@en	0.0%
+Q11606	1	'magic number'@en	0.0%
+Q1153484	1	'folk art'@en	0.0%
+Q11499334	1	'religious doctrine'@en	0.0%
+Q1149652	1	'district of India'@en	0.0%
+Q11488158	1	'corporate title'@en	0.0%
+Q11483816	1	'annual event'@en	0.0%
+Q11482300	1	'hirajiro'@en	0.0%
+Q1147354	1	'sequence'@en	0.0%
+Q11457930	1	'temple rank'@en	0.0%
+Q1144661	1	'amusement ride'@en	0.0%
+Q1143635	1	'business school'@en	0.0%
+Q11436	1	'aircraft'@en	0.0%
+Q11422	1	'toy'@en	0.0%
+Q1141381	1	'World Athletics Cross Country Championships'@en	0.0%
+Q11411019	1	'kofungun'@en	0.0%
+Q1139917	1	'haunted attraction'@en	0.0%
+Q11396180	1	'library branch'@en	0.0%
+Q11391922	1	'public policy school'@en	0.0%
+Q1139056	1	'livery company'@en	0.0%
+Q1138571	1	'renewable resource'@en	0.0%
+Q1138494	1	'historic county of England'@en	0.0%
+Q1136880	1	'power of two'@en	0.0%
+Q1135449	1	'corridor'@en	0.0%
+Q1134237	1	'court'@en	0.0%
+Q11341528	1	'comics museum'@en	0.0%
+Q11298947	1	'classic hotel'@en	0.0%
+Q1129474	1	'cultural landscape'@en	0.0%
+Q1128637	1	'national symbol'@en	0.0%
+Q1128500	1	'museum of sacred art'@en	0.0%
+Q11268718	1	'Keyhole-shaped kofun'@en	0.0%
+Q11239248	1		0.0%
+Q1121471	1	'paddle steamer'@en	0.0%
+Q112110	1	'emblem'@en	0.0%
+Q112099	1	'island nation'@en	0.0%
+Q1118509	1	'list of Royal Air Force stations'@en	0.0%
+Q1110992	1	'Guild of Saint Luke'@en	0.0%
+Q1110794	1	'daily newspaper'@en	0.0%
+Q110582464	1	'history of science museum'@en	0.0%
+Q110556685	1		0.0%
+Q110550976	1	'Saqqara king'@en	0.0%
+Q110534846	1	'printing museum'@en	0.0%
+Q1103699	1	'Fibonacci prime'@en	0.0%
+Q1098590	1	'monastic grange'@en	0.0%
+Q109598321	1	'literary style'@en	0.0%
+Q10942443	1	'suite'@en	0.0%
+Q1092939	1	'cardinal title'@en	0.0%
+Q10929058	1	'product model'@en	0.0%
+Q109239751	1	'Eastern Catholic cemetery'@en	0.0%
+Q109235270	1	'quaker cemetery'@en	0.0%
+Q10901138	1	'chokugan-ji'@en	0.0%
+Q10862618	1	'saddle'@en	0.0%
+Q10860585	1	'country within the Czech Republic'@en	0.0%
+Q108465955	1	'fiction genre'@en	0.0%
+Q108402818	1	'university in Nova Scotia'@en	0.0%
+Q108300140	1	'occupation group according to ISCO'@en	0.0%
+Q10827799	1	'silk painting'@en	0.0%
+Q108040195	1	'music release attribute'@en	0.0%
+Q1079855	1	'Monzeki'@en	0.0%
+Q107679	1	'cliff'@en	0.0%
+Q1075	1	'color'@en	0.0%
+Q10748583	1	'Buddhist temple in Vietnam'@en	0.0%
+Q1074523	1	'planned community'@en	0.0%
+Q107393743	1	'fire lookout station'@en	0.0%
+Q10732476	1	'art collector'@en	0.0%
+Q1072166	1	'tea house'@en	0.0%
+Q106935957	1		0.0%
+Q10684215	1	'slope house'@en	0.0%
+Q106807864	1	'BAPS Shri Swaminarayan Mandir temple'@en	0.0%
+Q1067867	1	'Sestiere of Venice'@en	0.0%
+Q106760956	1	'engineering society'@en	0.0%
+Q1067164	1	'service'@en	0.0%
+Q106658	1	'district'@en	0.0%
+Q106355253	1	'gospel episode'@en	0.0%
+Q106259	1	'polder'@en	0.0%
+Q1062404	1	'artist\'s book'@en	0.0%
+Q1060750	1	'digital audio workstation'@en	0.0%
+Q1059324	1	'university hospital'@en	0.0%
+Q105890973	1	'supernatural realm'@en	0.0%
+Q105821051	1	'unbuilt building or structure'@en	0.0%
+Q1057440	1	'Heraion'@en	0.0%
+Q105416219	1	'Roman Catholic Maintained school'@en	0.0%
+Q105190	1	'levee'@en	0.0%
+Q105036777	1	'pedestrian tunnel'@en	0.0%
+Q1048525	1	'golf course'@en	0.0%
+Q10451997	1	'classical Cepheid variable'@en	0.0%
+Q104438958	1	'lost painting'@en	0.0%
+Q10438042	1	'bus company'@en	0.0%
+Q10411887	1	'approach lighthouse'@en	0.0%
+Q104092768	1	'Academic hall of the University of Oxford'@en	0.0%
+Q103817	1	'indigenous people'@en	0.0%
+Q10373565	1	'waterworks'@en	0.0%
+Q1030097	1	'campagne'@en	0.0%
+Q102047	1	'suffix'@en	0.0%
+Q101998	1	'biome'@en	0.0%
+Q101609	1	'Twelve Olympians'@en	0.0%
+Q1015644	1	'Burgstall'@en	0.0%
+Q1015103	1	'castle chapel'@en	0.0%
+Q101251494	1	'star'@en	0.0%
+Q100773131	1	'economy of region'@en	0.0%
+Q100731037	1	'Native American organization'@en	0.0%
+Q100705206	1	'prefectural office building'@en	0.0%
+Q1006283	1	'national trust'@en	0.0%
+Q1000809	1	'Buddharupa'@en	0.0%

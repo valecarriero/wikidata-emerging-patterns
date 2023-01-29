@@ -1,0 +1,27 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q207694	P2002	external-id	76.0	'art museum'@en	'Twitter username'@en		18.4%
+Q207694	P856	url	329.0	'art museum'@en	'official website'@en		79.66%
+Q207694	P646	external-id	378.0	'art museum'@en	'Freebase ID'@en		91.53%
+Q207694	P214	external-id	303.0	'art museum'@en	'VIAF ID'@en		73.37%
+Q207694	P244	external-id	272.0	'art museum'@en	'Library of Congress authority ID'@en		65.86%
+Q207694	P17	Q6256	412.0	'art museum'@en	'country'@en	'country'@en	99.76%
+Q207694	P17	Q3624078	405.0	'art museum'@en	'country'@en	'sovereign state'@en	98.06%
+Q207694	P7859	external-id	296.0	'art museum'@en	'WorldCat Identities ID'@en		71.67%
+Q207694	P373	string	230.0	'art museum'@en	'Commons category'@en		55.69%
+Q207694	P276	Q1549591	27.0	'art museum'@en	'location'@en	'big city'@en	6.54%
+Q207694	P276	Q515	22.0	'art museum'@en	'location'@en	'city'@en	5.33%
+Q207694	P276	Q1093829	18.0	'art museum'@en	'location'@en	'city of the United States'@en	4.36%
+Q207694	P625	globe-coordinate	391.0	'art museum'@en	'coordinate location'@en		94.67%
+Q207694	P1612	string	65.0	'art museum'@en	'Commons Institution page'@en		15.74%
+Q207694	P213	external-id	159.0	'art museum'@en	'ISNI'@en		38.5%
+Q207694	P269	external-id	67.0	'art museum'@en	'IdRef ID'@en		16.22%
+Q207694	P6375	monolingualtext	78.0	'art museum'@en	'street address'@en		18.89%
+Q207694	P18	commonsMedia	306.0	'art museum'@en	'image'@en		74.09%
+Q207694	P131	Q1549591	98.0	'art museum'@en	'located in the administrative territorial entity'@en	'big city'@en	23.73%
+Q207694	P131	Q35657	86.0	'art museum'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	20.82%
+Q207694	P131	Q515	60.0	'art museum'@en	'located in the administrative territorial entity'@en	'city'@en	14.53%
+Q207694	P4146	external-id	79.0	'art museum'@en	'Athenaeum museum ID'@en		19.13%
+Q207694	P1619	time	95.0	'art museum'@en	'date of official opening'@en		23.0%
+Q207694	P281	string	66.0	'art museum'@en	'postal code'@en		15.98%
+Q207694	P571	time	377.0	'art museum'@en	'inception'@en		91.28%
+Q207694	P227	external-id	81.0	'art museum'@en	'GND ID'@en		19.61%

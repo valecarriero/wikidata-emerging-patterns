@@ -1,0 +1,1774 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q23413	P7959	Q67376938	294.0	'castle'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q23413	P7959	Q1138494	290.0	'castle'@en	'historic county'@en	'historic county of England'@en
+Q23413	P7959	Q1350181	215.0	'castle'@en	'historic county'@en	'shire of Scotland'@en
+Q23413	P7959	Q7309443	143.0	'castle'@en	'historic county'@en	'registration county'@en
+Q23413	P7959	Q179872	91.0	'castle'@en	'historic county'@en	'county of Ireland'@en
+Q23413	P7959	Q202435	68.0	'castle'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q23413	P7959	Q1857731	42.0	'castle'@en	'historic county'@en	'historic county of Wales'@en
+Q23413	P7959	Q1317848	40.0	'castle'@en	'historic county'@en	'county of Northern Ireland'@en
+Q23413	P7959	Q7925010	31.0	'castle'@en	'historic county'@en	'vice-county'@en
+Q23413	P7959	Q2991489	28.0	'castle'@en	'historic county'@en	'county palatine'@en
+Q2087181	P7959	Q1138494	20.0	'historic house museum'@en	'historic county'@en	'historic county of England'@en
+Q1343246	P7959	Q1138494	14.0	'English country house'@en	'historic county'@en	'historic county of England'@en
+Q839954	P7959	Q67376938	14.0	'archaeological site'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q23413	P7959	Q21457810	13.0	'castle'@en	'historic county'@en	'Scottish district'@en
+Q839954	P7959	Q1857731	11.0	'archaeological site'@en	'historic county'@en	'historic county of Wales'@en
+Q839954	P7959	Q1138494	10.0	'archaeological site'@en	'historic county'@en	'historic county of England'@en
+Q180174	P7959	Q1138494	8.0	'folly'@en	'historic county'@en	'historic county of England'@en
+Q23413	P7959	Q19953632	7.0	'castle'@en	'historic county'@en	'former administrative territorial entity'@en
+Q92062	P7959	Q1138494	7.0	'motte-and-bailey castle'@en	'historic county'@en	'historic county of England'@en
+Q23413	P7959	Q683738	6.0	'castle'@en	'historic county'@en	'Administrative subdivision of Wales'@en
+Q5267014	P7959	Q1138494	6.0	'Device Fort'@en	'historic county'@en	'historic county of England'@en
+Q839954	P7959	Q1350181	6.0	'archaeological site'@en	'historic county'@en	'shire of Scotland'@en
+Q109607	P7959	Q1138494	5.0	'ruins'@en	'historic county'@en	'historic county of England'@en
+Q839954	P7959	Q7309443	5.0	'archaeological site'@en	'historic county'@en	'registration county'@en
+Q19860854	P7959	Q67376938	4.0	'destroyed building or structure'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q2772772	P7959	Q1138494	4.0	'military museum'@en	'historic county'@en	'historic county of England'@en
+Q879050	P7959	Q1138494	4.0	'manor house'@en	'historic county'@en	'historic county of England'@en
+Q91312	P7959	Q1350181	4.0	'tower house'@en	'historic county'@en	'shire of Scotland'@en
+Q91312	P7959	Q67376938	4.0	'tower house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q91312	P7959	Q7309443	4.0	'tower house'@en	'historic county'@en	'registration county'@en
+Q19860854	P7959	Q1350181	3.0	'destroyed building or structure'@en	'historic county'@en	'shire of Scotland'@en
+Q19860854	P7959	Q179872	3.0	'destroyed building or structure'@en	'historic county'@en	'county of Ireland'@en
+Q27686	P7959	Q179872	3.0	'hotel'@en	'historic county'@en	'county of Ireland'@en
+Q32164125	P7959	Q1857731	3.0	'fortified manor house'@en	'historic county'@en	'historic county of Wales'@en
+Q32164125	P7959	Q67376938	3.0	'fortified manor house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q839954	P7959	Q202435	3.0	'archaeological site'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q839954	P7959	Q683738	3.0	'archaeological site'@en	'historic county'@en	'Administrative subdivision of Wales'@en
+Q839954	P7959	Q7925010	3.0	'archaeological site'@en	'historic county'@en	'vice-county'@en
+Q91312	P7959	Q202435	3.0	'tower house'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q1343246	P7959	Q2991489	2.0	'English country house'@en	'historic county'@en	'county palatine'@en
+Q1595639	P7959	Q1138494	2.0	'local museum'@en	'historic county'@en	'historic county of England'@en
+Q17715832	P7959	Q1138494	2.0	'castle ruin'@en	'historic county'@en	'historic county of England'@en
+Q17715832	P7959	Q179872	2.0	'castle ruin'@en	'historic county'@en	'county of Ireland'@en
+Q1923257	P7959	Q1350181	2.0	'hall house'@en	'historic county'@en	'shire of Scotland'@en
+Q1923257	P7959	Q67376938	2.0	'hall house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q1923257	P7959	Q7309443	2.0	'hall house'@en	'historic county'@en	'registration county'@en
+Q33506	P7959	Q1350181	2.0	'museum'@en	'historic county'@en	'shire of Scotland'@en
+Q33506	P7959	Q202435	2.0	'museum'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q33506	P7959	Q67376938	2.0	'museum'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q33506	P7959	Q7309443	2.0	'museum'@en	'historic county'@en	'registration county'@en
+Q570116	P7959	Q1138494	2.0	'tourist attraction'@en	'historic county'@en	'historic county of England'@en
+Q64995589	P7959	Q1138494	2.0	'country house hotel'@en	'historic county'@en	'historic county of England'@en
+Q80446812	P7959	Q1350181	2.0	'motte'@en	'historic county'@en	'shire of Scotland'@en
+Q80446812	P7959	Q202435	2.0	'motte'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q80446812	P7959	Q67376938	2.0	'motte'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q80446812	P7959	Q7309443	2.0	'motte'@en	'historic county'@en	'registration county'@en
+Q1007870	P7959	Q179872	1.0	'art gallery'@en	'historic county'@en	'county of Ireland'@en
+Q109607	P7959	Q2991489	1.0	'ruins'@en	'historic county'@en	'county palatine'@en
+Q13402009	P7959	Q1138494	1.0	'apartment building'@en	'historic county'@en	'historic county of England'@en
+Q1343246	P7959	Q7925010	1.0	'English country house'@en	'historic county'@en	'vice-county'@en
+Q13955118	P7959	Q1350181	1.0	'earthwork'@en	'historic county'@en	'shire of Scotland'@en
+Q13955118	P7959	Q202435	1.0	'earthwork'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q13955118	P7959	Q67376938	1.0	'earthwork'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q13955118	P7959	Q7309443	1.0	'earthwork'@en	'historic county'@en	'registration county'@en
+Q1423423	P7959	Q1350181	1.0	'Château'@en	'historic county'@en	'shire of Scotland'@en
+Q1423423	P7959	Q67376938	1.0	'Château'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q1423423	P7959	Q7309443	1.0	'Château'@en	'historic county'@en	'registration county'@en
+Q16884952	P7959	Q1138494	1.0	'country house'@en	'historic county'@en	'historic county of England'@en
+Q16884952	P7959	Q1317848	1.0	'country house'@en	'historic county'@en	'county of Northern Ireland'@en
+Q16884952	P7959	Q179872	1.0	'country house'@en	'historic county'@en	'county of Ireland'@en
+Q16884952	P7959	Q67376938	1.0	'country house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q17715832	P7959	Q1857731	1.0	'castle ruin'@en	'historic county'@en	'historic county of Wales'@en
+Q180174	P7959	Q2991489	1.0	'folly'@en	'historic county'@en	'county palatine'@en
+Q19860854	P7959	Q1138494	1.0	'destroyed building or structure'@en	'historic county'@en	'historic county of England'@en
+Q19860854	P7959	Q1317848	1.0	'destroyed building or structure'@en	'historic county'@en	'county of Northern Ireland'@en
+Q19860854	P7959	Q202435	1.0	'destroyed building or structure'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q19860854	P7959	Q2991489	1.0	'destroyed building or structure'@en	'historic county'@en	'county palatine'@en
+Q19860854	P7959	Q7309443	1.0	'destroyed building or structure'@en	'historic county'@en	'registration county'@en
+Q207694	P7959	Q179872	1.0	'art museum'@en	'historic county'@en	'county of Ireland'@en
+Q2087181	P7959	Q2991489	1.0	'historic house museum'@en	'historic county'@en	'county palatine'@en
+Q2087181	P7959	Q7925010	1.0	'historic house museum'@en	'historic county'@en	'vice-county'@en
+Q23413	P7959	Q15060255	1.0	'castle'@en	'historic county'@en	'Scottish council area'@en
+Q23413	P7959	Q33837	1.0	'castle'@en	'historic county'@en	'archipelago'@en
+Q23413	P7959	Q6083725	1.0	'castle'@en	'historic county'@en	'Scottish islands area'@en
+Q27686	P7959	Q1350181	1.0	'hotel'@en	'historic county'@en	'shire of Scotland'@en
+Q27686	P7959	Q67376938	1.0	'hotel'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q2772772	P7959	Q1350181	1.0	'military museum'@en	'historic county'@en	'shire of Scotland'@en
+Q2772772	P7959	Q202435	1.0	'military museum'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q2772772	P7959	Q67376938	1.0	'military museum'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q2772772	P7959	Q7309443	1.0	'military museum'@en	'historic county'@en	'registration county'@en
+Q28045079	P7959	Q1857731	1.0	'contour fort'@en	'historic county'@en	'historic county of Wales'@en
+Q28045079	P7959	Q67376938	1.0	'contour fort'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q32164125	P7959	Q1138494	1.0	'fortified manor house'@en	'historic county'@en	'historic county of England'@en
+Q32164125	P7959	Q2991489	1.0	'fortified manor house'@en	'historic county'@en	'county palatine'@en
+Q32164125	P7959	Q7925010	1.0	'fortified manor house'@en	'historic county'@en	'vice-county'@en
+Q3898745	P7959	Q1138494	1.0	'peel tower'@en	'historic county'@en	'historic county of England'@en
+Q3898745	P7959	Q179872	1.0	'peel tower'@en	'historic county'@en	'county of Ireland'@en
+Q3947	P7959	Q1138494	1.0	'house'@en	'historic county'@en	'historic county of England'@en
+Q3947	P7959	Q1350181	1.0	'house'@en	'historic county'@en	'shire of Scotland'@en
+Q3947	P7959	Q202435	1.0	'house'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q3947	P7959	Q67376938	1.0	'house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q3947	P7959	Q7309443	1.0	'house'@en	'historic county'@en	'registration county'@en
+Q486972	P7959	Q179872	1.0	'human settlement'@en	'historic county'@en	'county of Ireland'@en
+Q489357	P7959	Q1350181	1.0	'farmhouse'@en	'historic county'@en	'shire of Scotland'@en
+Q489357	P7959	Q202435	1.0	'farmhouse'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q489357	P7959	Q67376938	1.0	'farmhouse'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q489357	P7959	Q7309443	1.0	'farmhouse'@en	'historic county'@en	'registration county'@en
+Q532	P7959	Q1350181	1.0	'village'@en	'historic county'@en	'shire of Scotland'@en
+Q532	P7959	Q67376938	1.0	'village'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q532	P7959	Q7309443	1.0	'village'@en	'historic county'@en	'registration county'@en
+Q570116	P7959	Q2991489	1.0	'tourist attraction'@en	'historic county'@en	'county palatine'@en
+Q57821	P7959	Q1350181	1.0	'fortification'@en	'historic county'@en	'shire of Scotland'@en
+Q57821	P7959	Q67376938	1.0	'fortification'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q57831	P7959	Q1138494	1.0	'fortress'@en	'historic county'@en	'historic county of England'@en
+Q62832	P7959	Q179872	1.0	'observatory'@en	'historic county'@en	'county of Ireland'@en
+Q64995589	P7959	Q2991489	1.0	'country house hotel'@en	'historic county'@en	'county palatine'@en
+Q7335033	P7959	Q1857731	1.0	'ringwork castle'@en	'historic county'@en	'historic county of Wales'@en
+Q7335033	P7959	Q67376938	1.0	'ringwork castle'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q7963015	P7959	Q1350181	1.0	'walled garden'@en	'historic county'@en	'shire of Scotland'@en
+Q7963015	P7959	Q67376938	1.0	'walled garden'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q839954	P7959	Q1317848	1.0	'archaeological site'@en	'historic county'@en	'county of Northern Ireland'@en
+Q839954	P7959	Q179872	1.0	'archaeological site'@en	'historic county'@en	'county of Ireland'@en
+Q8502	P7959	Q1138494	1.0	'mountain'@en	'historic county'@en	'historic county of England'@en
+Q8719053	P7959	Q179872	1.0	'music venue'@en	'historic county'@en	'county of Ireland'@en
+Q879050	P7959	Q2991489	1.0	'manor house'@en	'historic county'@en	'county palatine'@en
+Q879050	P7959	Q7925010	1.0	'manor house'@en	'historic county'@en	'vice-county'@en
+Q91312	P7959	Q1138494	1.0	'tower house'@en	'historic county'@en	'historic county of England'@en
+Q91312	P7959	Q179872	1.0	'tower house'@en	'historic county'@en	'county of Ireland'@en
+Q92062	P7959	Q2991489	1.0	'motte-and-bailey castle'@en	'historic county'@en	'county palatine'@en
+Q92086	P7959	Q1350181	1.0	'promontory fort'@en	'historic county'@en	'shire of Scotland'@en
+Q92086	P7959	Q67376938	1.0	'promontory fort'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q92086	P7959	Q7309443	1.0	'promontory fort'@en	'historic county'@en	'registration county'@en
+Q23413	P646	external-id	987.0	'castle'@en	'Freebase ID'@en	
+Q839954	P646	external-id	33.0	'archaeological site'@en	'Freebase ID'@en	
+Q17715832	P646	external-id	25.0	'castle ruin'@en	'Freebase ID'@en	
+Q751876	P646	external-id	25.0	'château'@en	'Freebase ID'@en	
+Q109607	P646	external-id	20.0	'ruins'@en	'Freebase ID'@en	
+Q2087181	P646	external-id	20.0	'historic house museum'@en	'Freebase ID'@en	
+Q811979	P646	external-id	19.0	'architectural structure'@en	'Freebase ID'@en	
+Q33506	P646	external-id	17.0	'museum'@en	'Freebase ID'@en	
+Q1343246	P646	external-id	12.0	'English country house'@en	'Freebase ID'@en	
+Q4989906	P646	external-id	11.0	'monument'@en	'Freebase ID'@en	
+Q19860854	P646	external-id	10.0	'destroyed building or structure'@en	'Freebase ID'@en	
+Q180174	P646	external-id	8.0	'folly'@en	'Freebase ID'@en	
+Q2065736	P646	external-id	8.0	'cultural property'@en	'Freebase ID'@en	
+Q92062	P646	external-id	7.0	'motte-and-bailey castle'@en	'Freebase ID'@en	
+Q5267014	P646	external-id	6.0	'Device Fort'@en	'Freebase ID'@en	
+Q91312	P646	external-id	6.0	'tower house'@en	'Freebase ID'@en	
+Q2772772	P646	external-id	5.0	'military museum'@en	'Freebase ID'@en	
+Q879050	P646	external-id	5.0	'manor house'@en	'Freebase ID'@en	
+Q11691318	P646	external-id	4.0	'cultural heritage monument in Germany'@en	'Freebase ID'@en	
+Q210272	P646	external-id	4.0	'cultural heritage'@en	'Freebase ID'@en	
+Q32164125	P646	external-id	4.0	'fortified manor house'@en	'Freebase ID'@en	
+Q1081138	P646	external-id	3.0	'historic site'@en	'Freebase ID'@en	
+Q1595639	P646	external-id	3.0	'local museum'@en	'Freebase ID'@en	
+Q3947	P646	external-id	3.0	'house'@en	'Freebase ID'@en	
+Q570116	P646	external-id	3.0	'tourist attraction'@en	'Freebase ID'@en	
+Q1195705	P646	external-id	2.0	'rocca'@en	'Freebase ID'@en	
+Q16560	P646	external-id	2.0	'palace'@en	'Freebase ID'@en	
+Q16735822	P646	external-id	2.0	'history museum'@en	'Freebase ID'@en	
+Q16884952	P646	external-id	2.0	'country house'@en	'Freebase ID'@en	
+Q1923257	P646	external-id	2.0	'hall house'@en	'Freebase ID'@en	
+Q27686	P646	external-id	2.0	'hotel'@en	'Freebase ID'@en	
+Q3898745	P646	external-id	2.0	'peel tower'@en	'Freebase ID'@en	
+Q486972	P646	external-id	2.0	'human settlement'@en	'Freebase ID'@en	
+Q57831	P646	external-id	2.0	'fortress'@en	'Freebase ID'@en	
+Q744099	P646	external-id	2.0	'hillfort'@en	'Freebase ID'@en	
+Q80446812	P646	external-id	2.0	'motte'@en	'Freebase ID'@en	
+Q92026	P646	external-id	2.0	'Japanese castle'@en	'Freebase ID'@en	
+Q1007870	P646	external-id	1.0	'art gallery'@en	'Freebase ID'@en	
+Q1015644	P646	external-id	1.0	'Burgstall'@en	'Freebase ID'@en	
+Q10416961	P646	external-id	1.0	'working life museum'@en	'Freebase ID'@en	
+Q108325	P646	external-id	1.0	'chapel'@en	'Freebase ID'@en	
+Q1128397	P646	external-id	1.0	'convent'@en	'Freebase ID'@en	
+Q1134237	P646	external-id	1.0	'court'@en	'Freebase ID'@en	
+Q1200957	P646	external-id	1.0	'tourist destination'@en	'Freebase ID'@en	
+Q13402009	P646	external-id	1.0	'apartment building'@en	'Freebase ID'@en	
+Q13955118	P646	external-id	1.0	'earthwork'@en	'Freebase ID'@en	
+Q14528644	P646	external-id	1.0	'care center'@en	'Freebase ID'@en	
+Q1497375	P646	external-id	1.0	'architectural ensemble'@en	'Freebase ID'@en	
+Q1497649	P646	external-id	1.0	'memory institution'@en	'Freebase ID'@en	
+Q15710038	P646	external-id	1.0	'hill castle'@en	'Freebase ID'@en	
+Q16970	P646	external-id	1.0	'church building'@en	'Freebase ID'@en	
+Q1970243	P646	external-id	1.0	'lowland castle'@en	'Freebase ID'@en	
+Q19850578	P646	external-id	1.0	'Chappe semaphore tower'@en	'Freebase ID'@en	
+Q207694	P646	external-id	1.0	'art museum'@en	'Freebase ID'@en	
+Q23442	P646	external-id	1.0	'island'@en	'Freebase ID'@en	
+Q24699794	P646	external-id	1.0	'museum building'@en	'Freebase ID'@en	
+Q28045079	P646	external-id	1.0	'contour fort'@en	'Freebase ID'@en	
+Q29960985	P646	external-id	1.0	'bishop castle'@en	'Freebase ID'@en	
+Q3329412	P646	external-id	1.0	'archaeological museum'@en	'Freebase ID'@en	
+Q3330083	P646	external-id	1.0	'wine museum'@en	'Freebase ID'@en	
+Q3354019	P646	external-id	1.0	'seat farm'@en	'Freebase ID'@en	
+Q3395377	P646	external-id	1.0	'ancient monument'@en	'Freebase ID'@en	
+Q358	P646	external-id	1.0	'heritage site'@en	'Freebase ID'@en	
+Q41176	P646	external-id	1.0	'building'@en	'Freebase ID'@en	
+Q44613	P646	external-id	1.0	'monastery'@en	'Freebase ID'@en	
+Q481289	P646	external-id	1.0	'official residence'@en	'Freebase ID'@en	
+Q489357	P646	external-id	1.0	'farmhouse'@en	'Freebase ID'@en	
+Q532	P646	external-id	1.0	'village'@en	'Freebase ID'@en	
+Q543654	P646	external-id	1.0	'rathaus'@en	'Freebase ID'@en	
+Q57821	P646	external-id	1.0	'fortification'@en	'Freebase ID'@en	
+Q615810	P646	external-id	1.0	'water castle'@en	'Freebase ID'@en	
+Q62832	P646	external-id	1.0	'observatory'@en	'Freebase ID'@en	
+Q64995589	P646	external-id	1.0	'country house hotel'@en	'Freebase ID'@en	
+Q7335033	P646	external-id	1.0	'ringwork castle'@en	'Freebase ID'@en	
+Q7963015	P646	external-id	1.0	'walled garden'@en	'Freebase ID'@en	
+Q811165	P646	external-id	1.0	'architectural heritage monument'@en	'Freebase ID'@en	
+Q81917	P646	external-id	1.0	'fortified tower'@en	'Freebase ID'@en	
+Q8502	P646	external-id	1.0	'mountain'@en	'Freebase ID'@en	
+Q8719053	P646	external-id	1.0	'music venue'@en	'Freebase ID'@en	
+Q907116	P646	external-id	1.0	'National monument of Spain'@en	'Freebase ID'@en	
+Q91165	P646	external-id	1.0	'keep'@en	'Freebase ID'@en	
+Q92086	P646	external-id	1.0	'promontory fort'@en	'Freebase ID'@en	
+Q96211395	P646	external-id	1.0	'heritage site in Sweden'@en	'Freebase ID'@en	
+Q23413	P625	globe-coordinate	1033.0	'castle'@en	'coordinate location'@en	
+Q839954	P625	globe-coordinate	34.0	'archaeological site'@en	'coordinate location'@en	
+Q17715832	P625	globe-coordinate	26.0	'castle ruin'@en	'coordinate location'@en	
+Q751876	P625	globe-coordinate	26.0	'château'@en	'coordinate location'@en	
+Q811979	P625	globe-coordinate	21.0	'architectural structure'@en	'coordinate location'@en	
+Q109607	P625	globe-coordinate	20.0	'ruins'@en	'coordinate location'@en	
+Q2087181	P625	globe-coordinate	20.0	'historic house museum'@en	'coordinate location'@en	
+Q33506	P625	globe-coordinate	17.0	'museum'@en	'coordinate location'@en	
+Q1343246	P625	globe-coordinate	14.0	'English country house'@en	'coordinate location'@en	
+Q4989906	P625	globe-coordinate	11.0	'monument'@en	'coordinate location'@en	
+Q19860854	P625	globe-coordinate	10.0	'destroyed building or structure'@en	'coordinate location'@en	
+Q180174	P625	globe-coordinate	8.0	'folly'@en	'coordinate location'@en	
+Q2065736	P625	globe-coordinate	8.0	'cultural property'@en	'coordinate location'@en	
+Q92062	P625	globe-coordinate	7.0	'motte-and-bailey castle'@en	'coordinate location'@en	
+Q5267014	P625	globe-coordinate	6.0	'Device Fort'@en	'coordinate location'@en	
+Q91312	P625	globe-coordinate	6.0	'tower house'@en	'coordinate location'@en	
+Q11691318	P625	globe-coordinate	5.0	'cultural heritage monument in Germany'@en	'coordinate location'@en	
+Q210272	P625	globe-coordinate	5.0	'cultural heritage'@en	'coordinate location'@en	
+Q2772772	P625	globe-coordinate	5.0	'military museum'@en	'coordinate location'@en	
+Q879050	P625	globe-coordinate	5.0	'manor house'@en	'coordinate location'@en	
+Q27686	P625	globe-coordinate	4.0	'hotel'@en	'coordinate location'@en	
+Q32164125	P625	globe-coordinate	4.0	'fortified manor house'@en	'coordinate location'@en	
+Q1081138	P625	globe-coordinate	3.0	'historic site'@en	'coordinate location'@en	
+Q1595639	P625	globe-coordinate	3.0	'local museum'@en	'coordinate location'@en	
+Q16884952	P625	globe-coordinate	3.0	'country house'@en	'coordinate location'@en	
+Q3947	P625	globe-coordinate	3.0	'house'@en	'coordinate location'@en	
+Q570116	P625	globe-coordinate	3.0	'tourist attraction'@en	'coordinate location'@en	
+Q1195705	P625	globe-coordinate	2.0	'rocca'@en	'coordinate location'@en	
+Q16560	P625	globe-coordinate	2.0	'palace'@en	'coordinate location'@en	
+Q16735822	P625	globe-coordinate	2.0	'history museum'@en	'coordinate location'@en	
+Q1923257	P625	globe-coordinate	2.0	'hall house'@en	'coordinate location'@en	
+Q3898745	P625	globe-coordinate	2.0	'peel tower'@en	'coordinate location'@en	
+Q486972	P625	globe-coordinate	2.0	'human settlement'@en	'coordinate location'@en	
+Q57831	P625	globe-coordinate	2.0	'fortress'@en	'coordinate location'@en	
+Q64995589	P625	globe-coordinate	2.0	'country house hotel'@en	'coordinate location'@en	
+Q744099	P625	globe-coordinate	2.0	'hillfort'@en	'coordinate location'@en	
+Q80446812	P625	globe-coordinate	2.0	'motte'@en	'coordinate location'@en	
+Q92026	P625	globe-coordinate	2.0	'Japanese castle'@en	'coordinate location'@en	
+Q1007870	P625	globe-coordinate	1.0	'art gallery'@en	'coordinate location'@en	
+Q1015644	P625	globe-coordinate	1.0	'Burgstall'@en	'coordinate location'@en	
+Q10416961	P625	globe-coordinate	1.0	'working life museum'@en	'coordinate location'@en	
+Q108325	P625	globe-coordinate	1.0	'chapel'@en	'coordinate location'@en	
+Q1128397	P625	globe-coordinate	1.0	'convent'@en	'coordinate location'@en	
+Q1200957	P625	globe-coordinate	1.0	'tourist destination'@en	'coordinate location'@en	
+Q13402009	P625	globe-coordinate	1.0	'apartment building'@en	'coordinate location'@en	
+Q13955118	P625	globe-coordinate	1.0	'earthwork'@en	'coordinate location'@en	
+Q1423423	P625	globe-coordinate	1.0	'Château'@en	'coordinate location'@en	
+Q14528644	P625	globe-coordinate	1.0	'care center'@en	'coordinate location'@en	
+Q1497375	P625	globe-coordinate	1.0	'architectural ensemble'@en	'coordinate location'@en	
+Q1497649	P625	globe-coordinate	1.0	'memory institution'@en	'coordinate location'@en	
+Q156362	P625	globe-coordinate	1.0	'winery'@en	'coordinate location'@en	
+Q15710038	P625	globe-coordinate	1.0	'hill castle'@en	'coordinate location'@en	
+Q16970	P625	globe-coordinate	1.0	'church building'@en	'coordinate location'@en	
+Q1970243	P625	globe-coordinate	1.0	'lowland castle'@en	'coordinate location'@en	
+Q19850578	P625	globe-coordinate	1.0	'Chappe semaphore tower'@en	'coordinate location'@en	
+Q207694	P625	globe-coordinate	1.0	'art museum'@en	'coordinate location'@en	
+Q23442	P625	globe-coordinate	1.0	'island'@en	'coordinate location'@en	
+Q24699794	P625	globe-coordinate	1.0	'museum building'@en	'coordinate location'@en	
+Q28045079	P625	globe-coordinate	1.0	'contour fort'@en	'coordinate location'@en	
+Q29960985	P625	globe-coordinate	1.0	'bishop castle'@en	'coordinate location'@en	
+Q3329412	P625	globe-coordinate	1.0	'archaeological museum'@en	'coordinate location'@en	
+Q3330083	P625	globe-coordinate	1.0	'wine museum'@en	'coordinate location'@en	
+Q3354019	P625	globe-coordinate	1.0	'seat farm'@en	'coordinate location'@en	
+Q3395377	P625	globe-coordinate	1.0	'ancient monument'@en	'coordinate location'@en	
+Q358	P625	globe-coordinate	1.0	'heritage site'@en	'coordinate location'@en	
+Q41176	P625	globe-coordinate	1.0	'building'@en	'coordinate location'@en	
+Q44613	P625	globe-coordinate	1.0	'monastery'@en	'coordinate location'@en	
+Q481289	P625	globe-coordinate	1.0	'official residence'@en	'coordinate location'@en	
+Q489357	P625	globe-coordinate	1.0	'farmhouse'@en	'coordinate location'@en	
+Q532	P625	globe-coordinate	1.0	'village'@en	'coordinate location'@en	
+Q543654	P625	globe-coordinate	1.0	'rathaus'@en	'coordinate location'@en	
+Q57821	P625	globe-coordinate	1.0	'fortification'@en	'coordinate location'@en	
+Q615810	P625	globe-coordinate	1.0	'water castle'@en	'coordinate location'@en	
+Q62832	P625	globe-coordinate	1.0	'observatory'@en	'coordinate location'@en	
+Q7335033	P625	globe-coordinate	1.0	'ringwork castle'@en	'coordinate location'@en	
+Q7963015	P625	globe-coordinate	1.0	'walled garden'@en	'coordinate location'@en	
+Q811165	P625	globe-coordinate	1.0	'architectural heritage monument'@en	'coordinate location'@en	
+Q81917	P625	globe-coordinate	1.0	'fortified tower'@en	'coordinate location'@en	
+Q8502	P625	globe-coordinate	1.0	'mountain'@en	'coordinate location'@en	
+Q8719053	P625	globe-coordinate	1.0	'music venue'@en	'coordinate location'@en	
+Q907116	P625	globe-coordinate	1.0	'National monument of Spain'@en	'coordinate location'@en	
+Q91165	P625	globe-coordinate	1.0	'keep'@en	'coordinate location'@en	
+Q92086	P625	globe-coordinate	1.0	'promontory fort'@en	'coordinate location'@en	
+Q96211395	P625	globe-coordinate	1.0	'heritage site in Sweden'@en	'coordinate location'@en	
+Q23413	P571	time	219.0	'castle'@en	'inception'@en	
+Q17715832	P571	time	14.0	'castle ruin'@en	'inception'@en	
+Q2087181	P571	time	9.0	'historic house museum'@en	'inception'@en	
+Q839954	P571	time	9.0	'archaeological site'@en	'inception'@en	
+Q109607	P571	time	7.0	'ruins'@en	'inception'@en	
+Q1343246	P571	time	6.0	'English country house'@en	'inception'@en	
+Q33506	P571	time	6.0	'museum'@en	'inception'@en	
+Q811979	P571	time	5.0	'architectural structure'@en	'inception'@en	
+Q5267014	P571	time	4.0	'Device Fort'@en	'inception'@en	
+Q751876	P571	time	4.0	'château'@en	'inception'@en	
+Q2772772	P571	time	3.0	'military museum'@en	'inception'@en	
+Q570116	P571	time	3.0	'tourist attraction'@en	'inception'@en	
+Q1595639	P571	time	2.0	'local museum'@en	'inception'@en	
+Q16560	P571	time	2.0	'palace'@en	'inception'@en	
+Q180174	P571	time	2.0	'folly'@en	'inception'@en	
+Q19860854	P571	time	2.0	'destroyed building or structure'@en	'inception'@en	
+Q2065736	P571	time	2.0	'cultural property'@en	'inception'@en	
+Q210272	P571	time	2.0	'cultural heritage'@en	'inception'@en	
+Q879050	P571	time	2.0	'manor house'@en	'inception'@en	
+Q91312	P571	time	2.0	'tower house'@en	'inception'@en	
+Q92026	P571	time	2.0	'Japanese castle'@en	'inception'@en	
+Q1007870	P571	time	1.0	'art gallery'@en	'inception'@en	
+Q1015644	P571	time	1.0	'Burgstall'@en	'inception'@en	
+Q10416961	P571	time	1.0	'working life museum'@en	'inception'@en	
+Q1081138	P571	time	1.0	'historic site'@en	'inception'@en	
+Q1128397	P571	time	1.0	'convent'@en	'inception'@en	
+Q1200957	P571	time	1.0	'tourist destination'@en	'inception'@en	
+Q1497375	P571	time	1.0	'architectural ensemble'@en	'inception'@en	
+Q15710038	P571	time	1.0	'hill castle'@en	'inception'@en	
+Q16884952	P571	time	1.0	'country house'@en	'inception'@en	
+Q1923257	P571	time	1.0	'hall house'@en	'inception'@en	
+Q19850578	P571	time	1.0	'Chappe semaphore tower'@en	'inception'@en	
+Q207694	P571	time	1.0	'art museum'@en	'inception'@en	
+Q24699794	P571	time	1.0	'museum building'@en	'inception'@en	
+Q27686	P571	time	1.0	'hotel'@en	'inception'@en	
+Q28045079	P571	time	1.0	'contour fort'@en	'inception'@en	
+Q3330083	P571	time	1.0	'wine museum'@en	'inception'@en	
+Q3354019	P571	time	1.0	'seat farm'@en	'inception'@en	
+Q3395377	P571	time	1.0	'ancient monument'@en	'inception'@en	
+Q358	P571	time	1.0	'heritage site'@en	'inception'@en	
+Q41176	P571	time	1.0	'building'@en	'inception'@en	
+Q44613	P571	time	1.0	'monastery'@en	'inception'@en	
+Q481289	P571	time	1.0	'official residence'@en	'inception'@en	
+Q4989906	P571	time	1.0	'monument'@en	'inception'@en	
+Q57831	P571	time	1.0	'fortress'@en	'inception'@en	
+Q615810	P571	time	1.0	'water castle'@en	'inception'@en	
+Q64995589	P571	time	1.0	'country house hotel'@en	'inception'@en	
+Q7335033	P571	time	1.0	'ringwork castle'@en	'inception'@en	
+Q7963015	P571	time	1.0	'walled garden'@en	'inception'@en	
+Q8719053	P571	time	1.0	'music venue'@en	'inception'@en	
+Q907116	P571	time	1.0	'National monument of Spain'@en	'inception'@en	
+Q92062	P571	time	1.0	'motte-and-bailey castle'@en	'inception'@en	
+Q96211395	P571	time	1.0	'heritage site in Sweden'@en	'inception'@en	
+Q23413	P4141	external-id	242.0	'castle'@en	'Gatehouse Gazetteer place ID'@en	
+Q839954	P4141	external-id	19.0	'archaeological site'@en	'Gatehouse Gazetteer place ID'@en	
+Q2087181	P4141	external-id	17.0	'historic house museum'@en	'Gatehouse Gazetteer place ID'@en	
+Q1343246	P4141	external-id	11.0	'English country house'@en	'Gatehouse Gazetteer place ID'@en	
+Q92062	P4141	external-id	6.0	'motte-and-bailey castle'@en	'Gatehouse Gazetteer place ID'@en	
+Q32164125	P4141	external-id	4.0	'fortified manor house'@en	'Gatehouse Gazetteer place ID'@en	
+Q109607	P4141	external-id	3.0	'ruins'@en	'Gatehouse Gazetteer place ID'@en	
+Q17715832	P4141	external-id	3.0	'castle ruin'@en	'Gatehouse Gazetteer place ID'@en	
+Q5267014	P4141	external-id	3.0	'Device Fort'@en	'Gatehouse Gazetteer place ID'@en	
+Q879050	P4141	external-id	3.0	'manor house'@en	'Gatehouse Gazetteer place ID'@en	
+Q2772772	P4141	external-id	2.0	'military museum'@en	'Gatehouse Gazetteer place ID'@en	
+Q1595639	P4141	external-id	1.0	'local museum'@en	'Gatehouse Gazetteer place ID'@en	
+Q16884952	P4141	external-id	1.0	'country house'@en	'Gatehouse Gazetteer place ID'@en	
+Q180174	P4141	external-id	1.0	'folly'@en	'Gatehouse Gazetteer place ID'@en	
+Q19860854	P4141	external-id	1.0	'destroyed building or structure'@en	'Gatehouse Gazetteer place ID'@en	
+Q28045079	P4141	external-id	1.0	'contour fort'@en	'Gatehouse Gazetteer place ID'@en	
+Q3947	P4141	external-id	1.0	'house'@en	'Gatehouse Gazetteer place ID'@en	
+Q570116	P4141	external-id	1.0	'tourist attraction'@en	'Gatehouse Gazetteer place ID'@en	
+Q7335033	P4141	external-id	1.0	'ringwork castle'@en	'Gatehouse Gazetteer place ID'@en	
+Q91312	P4141	external-id	1.0	'tower house'@en	'Gatehouse Gazetteer place ID'@en	
+Q23413	P373	string	714.0	'castle'@en	'Commons category'@en	
+Q839954	P373	string	27.0	'archaeological site'@en	'Commons category'@en	
+Q17715832	P373	string	26.0	'castle ruin'@en	'Commons category'@en	
+Q751876	P373	string	23.0	'château'@en	'Commons category'@en	
+Q811979	P373	string	21.0	'architectural structure'@en	'Commons category'@en	
+Q2087181	P373	string	20.0	'historic house museum'@en	'Commons category'@en	
+Q109607	P373	string	19.0	'ruins'@en	'Commons category'@en	
+Q33506	P373	string	16.0	'museum'@en	'Commons category'@en	
+Q1343246	P373	string	12.0	'English country house'@en	'Commons category'@en	
+Q4989906	P373	string	11.0	'monument'@en	'Commons category'@en	
+Q19860854	P373	string	8.0	'destroyed building or structure'@en	'Commons category'@en	
+Q2065736	P373	string	7.0	'cultural property'@en	'Commons category'@en	
+Q5267014	P373	string	6.0	'Device Fort'@en	'Commons category'@en	
+Q210272	P373	string	5.0	'cultural heritage'@en	'Commons category'@en	
+Q2772772	P373	string	5.0	'military museum'@en	'Commons category'@en	
+Q11691318	P373	string	4.0	'cultural heritage monument in Germany'@en	'Commons category'@en	
+Q180174	P373	string	4.0	'folly'@en	'Commons category'@en	
+Q92062	P373	string	4.0	'motte-and-bailey castle'@en	'Commons category'@en	
+Q1595639	P373	string	3.0	'local museum'@en	'Commons category'@en	
+Q27686	P373	string	3.0	'hotel'@en	'Commons category'@en	
+Q879050	P373	string	3.0	'manor house'@en	'Commons category'@en	
+Q91312	P373	string	3.0	'tower house'@en	'Commons category'@en	
+Q1081138	P373	string	2.0	'historic site'@en	'Commons category'@en	
+Q1195705	P373	string	2.0	'rocca'@en	'Commons category'@en	
+Q16560	P373	string	2.0	'palace'@en	'Commons category'@en	
+Q16735822	P373	string	2.0	'history museum'@en	'Commons category'@en	
+Q570116	P373	string	2.0	'tourist attraction'@en	'Commons category'@en	
+Q57831	P373	string	2.0	'fortress'@en	'Commons category'@en	
+Q64995589	P373	string	2.0	'country house hotel'@en	'Commons category'@en	
+Q92026	P373	string	2.0	'Japanese castle'@en	'Commons category'@en	
+Q1007870	P373	string	1.0	'art gallery'@en	'Commons category'@en	
+Q10416961	P373	string	1.0	'working life museum'@en	'Commons category'@en	
+Q108325	P373	string	1.0	'chapel'@en	'Commons category'@en	
+Q1128397	P373	string	1.0	'convent'@en	'Commons category'@en	
+Q1134237	P373	string	1.0	'court'@en	'Commons category'@en	
+Q1200957	P373	string	1.0	'tourist destination'@en	'Commons category'@en	
+Q13402009	P373	string	1.0	'apartment building'@en	'Commons category'@en	
+Q1423423	P373	string	1.0	'Château'@en	'Commons category'@en	
+Q14528644	P373	string	1.0	'care center'@en	'Commons category'@en	
+Q1497375	P373	string	1.0	'architectural ensemble'@en	'Commons category'@en	
+Q1497649	P373	string	1.0	'memory institution'@en	'Commons category'@en	
+Q156362	P373	string	1.0	'winery'@en	'Commons category'@en	
+Q15710038	P373	string	1.0	'hill castle'@en	'Commons category'@en	
+Q16884952	P373	string	1.0	'country house'@en	'Commons category'@en	
+Q16970	P373	string	1.0	'church building'@en	'Commons category'@en	
+Q1923257	P373	string	1.0	'hall house'@en	'Commons category'@en	
+Q1970243	P373	string	1.0	'lowland castle'@en	'Commons category'@en	
+Q19850578	P373	string	1.0	'Chappe semaphore tower'@en	'Commons category'@en	
+Q207694	P373	string	1.0	'art museum'@en	'Commons category'@en	
+Q24699794	P373	string	1.0	'museum building'@en	'Commons category'@en	
+Q28045079	P373	string	1.0	'contour fort'@en	'Commons category'@en	
+Q29960985	P373	string	1.0	'bishop castle'@en	'Commons category'@en	
+Q32164125	P373	string	1.0	'fortified manor house'@en	'Commons category'@en	
+Q3329412	P373	string	1.0	'archaeological museum'@en	'Commons category'@en	
+Q3330083	P373	string	1.0	'wine museum'@en	'Commons category'@en	
+Q3354019	P373	string	1.0	'seat farm'@en	'Commons category'@en	
+Q3395377	P373	string	1.0	'ancient monument'@en	'Commons category'@en	
+Q358	P373	string	1.0	'heritage site'@en	'Commons category'@en	
+Q3947	P373	string	1.0	'house'@en	'Commons category'@en	
+Q41176	P373	string	1.0	'building'@en	'Commons category'@en	
+Q44613	P373	string	1.0	'monastery'@en	'Commons category'@en	
+Q481289	P373	string	1.0	'official residence'@en	'Commons category'@en	
+Q486972	P373	string	1.0	'human settlement'@en	'Commons category'@en	
+Q543654	P373	string	1.0	'rathaus'@en	'Commons category'@en	
+Q57821	P373	string	1.0	'fortification'@en	'Commons category'@en	
+Q615810	P373	string	1.0	'water castle'@en	'Commons category'@en	
+Q62832	P373	string	1.0	'observatory'@en	'Commons category'@en	
+Q7335033	P373	string	1.0	'ringwork castle'@en	'Commons category'@en	
+Q744099	P373	string	1.0	'hillfort'@en	'Commons category'@en	
+Q7963015	P373	string	1.0	'walled garden'@en	'Commons category'@en	
+Q811165	P373	string	1.0	'architectural heritage monument'@en	'Commons category'@en	
+Q81917	P373	string	1.0	'fortified tower'@en	'Commons category'@en	
+Q8719053	P373	string	1.0	'music venue'@en	'Commons category'@en	
+Q907116	P373	string	1.0	'National monument of Spain'@en	'Commons category'@en	
+Q91165	P373	string	1.0	'keep'@en	'Commons category'@en	
+Q92086	P373	string	1.0	'promontory fort'@en	'Commons category'@en	
+Q96211395	P373	string	1.0	'heritage site in Sweden'@en	'Commons category'@en	
+Q23413	P18	commonsMedia	896.0	'castle'@en	'image'@en	
+Q839954	P18	commonsMedia	29.0	'archaeological site'@en	'image'@en	
+Q17715832	P18	commonsMedia	26.0	'castle ruin'@en	'image'@en	
+Q751876	P18	commonsMedia	25.0	'château'@en	'image'@en	
+Q2087181	P18	commonsMedia	20.0	'historic house museum'@en	'image'@en	
+Q811979	P18	commonsMedia	20.0	'architectural structure'@en	'image'@en	
+Q109607	P18	commonsMedia	19.0	'ruins'@en	'image'@en	
+Q33506	P18	commonsMedia	17.0	'museum'@en	'image'@en	
+Q1343246	P18	commonsMedia	14.0	'English country house'@en	'image'@en	
+Q4989906	P18	commonsMedia	11.0	'monument'@en	'image'@en	
+Q180174	P18	commonsMedia	8.0	'folly'@en	'image'@en	
+Q19860854	P18	commonsMedia	8.0	'destroyed building or structure'@en	'image'@en	
+Q2065736	P18	commonsMedia	8.0	'cultural property'@en	'image'@en	
+Q5267014	P18	commonsMedia	6.0	'Device Fort'@en	'image'@en	
+Q91312	P18	commonsMedia	6.0	'tower house'@en	'image'@en	
+Q92062	P18	commonsMedia	6.0	'motte-and-bailey castle'@en	'image'@en	
+Q210272	P18	commonsMedia	5.0	'cultural heritage'@en	'image'@en	
+Q2772772	P18	commonsMedia	5.0	'military museum'@en	'image'@en	
+Q879050	P18	commonsMedia	5.0	'manor house'@en	'image'@en	
+Q11691318	P18	commonsMedia	4.0	'cultural heritage monument in Germany'@en	'image'@en	
+Q27686	P18	commonsMedia	4.0	'hotel'@en	'image'@en	
+Q1595639	P18	commonsMedia	3.0	'local museum'@en	'image'@en	
+Q16884952	P18	commonsMedia	3.0	'country house'@en	'image'@en	
+Q32164125	P18	commonsMedia	3.0	'fortified manor house'@en	'image'@en	
+Q3947	P18	commonsMedia	3.0	'house'@en	'image'@en	
+Q570116	P18	commonsMedia	3.0	'tourist attraction'@en	'image'@en	
+Q1081138	P18	commonsMedia	2.0	'historic site'@en	'image'@en	
+Q1195705	P18	commonsMedia	2.0	'rocca'@en	'image'@en	
+Q16560	P18	commonsMedia	2.0	'palace'@en	'image'@en	
+Q16735822	P18	commonsMedia	2.0	'history museum'@en	'image'@en	
+Q1923257	P18	commonsMedia	2.0	'hall house'@en	'image'@en	
+Q3898745	P18	commonsMedia	2.0	'peel tower'@en	'image'@en	
+Q57831	P18	commonsMedia	2.0	'fortress'@en	'image'@en	
+Q64995589	P18	commonsMedia	2.0	'country house hotel'@en	'image'@en	
+Q744099	P18	commonsMedia	2.0	'hillfort'@en	'image'@en	
+Q80446812	P18	commonsMedia	2.0	'motte'@en	'image'@en	
+Q92026	P18	commonsMedia	2.0	'Japanese castle'@en	'image'@en	
+Q1007870	P18	commonsMedia	1.0	'art gallery'@en	'image'@en	
+Q1015644	P18	commonsMedia	1.0	'Burgstall'@en	'image'@en	
+Q10416961	P18	commonsMedia	1.0	'working life museum'@en	'image'@en	
+Q108325	P18	commonsMedia	1.0	'chapel'@en	'image'@en	
+Q1128397	P18	commonsMedia	1.0	'convent'@en	'image'@en	
+Q1134237	P18	commonsMedia	1.0	'court'@en	'image'@en	
+Q1200957	P18	commonsMedia	1.0	'tourist destination'@en	'image'@en	
+Q13402009	P18	commonsMedia	1.0	'apartment building'@en	'image'@en	
+Q13955118	P18	commonsMedia	1.0	'earthwork'@en	'image'@en	
+Q1423423	P18	commonsMedia	1.0	'Château'@en	'image'@en	
+Q14528644	P18	commonsMedia	1.0	'care center'@en	'image'@en	
+Q1497375	P18	commonsMedia	1.0	'architectural ensemble'@en	'image'@en	
+Q1497649	P18	commonsMedia	1.0	'memory institution'@en	'image'@en	
+Q156362	P18	commonsMedia	1.0	'winery'@en	'image'@en	
+Q15710038	P18	commonsMedia	1.0	'hill castle'@en	'image'@en	
+Q16970	P18	commonsMedia	1.0	'church building'@en	'image'@en	
+Q1970243	P18	commonsMedia	1.0	'lowland castle'@en	'image'@en	
+Q19850578	P18	commonsMedia	1.0	'Chappe semaphore tower'@en	'image'@en	
+Q207694	P18	commonsMedia	1.0	'art museum'@en	'image'@en	
+Q23442	P18	commonsMedia	1.0	'island'@en	'image'@en	
+Q24699794	P18	commonsMedia	1.0	'museum building'@en	'image'@en	
+Q28045079	P18	commonsMedia	1.0	'contour fort'@en	'image'@en	
+Q29960985	P18	commonsMedia	1.0	'bishop castle'@en	'image'@en	
+Q3329412	P18	commonsMedia	1.0	'archaeological museum'@en	'image'@en	
+Q3330083	P18	commonsMedia	1.0	'wine museum'@en	'image'@en	
+Q3354019	P18	commonsMedia	1.0	'seat farm'@en	'image'@en	
+Q3395377	P18	commonsMedia	1.0	'ancient monument'@en	'image'@en	
+Q358	P18	commonsMedia	1.0	'heritage site'@en	'image'@en	
+Q41176	P18	commonsMedia	1.0	'building'@en	'image'@en	
+Q44613	P18	commonsMedia	1.0	'monastery'@en	'image'@en	
+Q481289	P18	commonsMedia	1.0	'official residence'@en	'image'@en	
+Q486972	P18	commonsMedia	1.0	'human settlement'@en	'image'@en	
+Q489357	P18	commonsMedia	1.0	'farmhouse'@en	'image'@en	
+Q543654	P18	commonsMedia	1.0	'rathaus'@en	'image'@en	
+Q57821	P18	commonsMedia	1.0	'fortification'@en	'image'@en	
+Q615810	P18	commonsMedia	1.0	'water castle'@en	'image'@en	
+Q62832	P18	commonsMedia	1.0	'observatory'@en	'image'@en	
+Q7335033	P18	commonsMedia	1.0	'ringwork castle'@en	'image'@en	
+Q7963015	P18	commonsMedia	1.0	'walled garden'@en	'image'@en	
+Q811165	P18	commonsMedia	1.0	'architectural heritage monument'@en	'image'@en	
+Q81917	P18	commonsMedia	1.0	'fortified tower'@en	'image'@en	
+Q8502	P18	commonsMedia	1.0	'mountain'@en	'image'@en	
+Q8719053	P18	commonsMedia	1.0	'music venue'@en	'image'@en	
+Q907116	P18	commonsMedia	1.0	'National monument of Spain'@en	'image'@en	
+Q91165	P18	commonsMedia	1.0	'keep'@en	'image'@en	
+Q92086	P18	commonsMedia	1.0	'promontory fort'@en	'image'@en	
+Q96211395	P18	commonsMedia	1.0	'heritage site in Sweden'@en	'image'@en	
+Q23413	P17	Q6256	1042.0	'castle'@en	'country'@en	'country'@en
+Q23413	P17	Q3624078	1038.0	'castle'@en	'country'@en	'sovereign state'@en
+Q23413	P17	Q112099	699.0	'castle'@en	'country'@en	'island nation'@en
+Q23413	P17	Q1250464	627.0	'castle'@en	'country'@en	'realm'@en
+Q23413	P17	Q20181813	623.0	'castle'@en	'country'@en	'colonial power'@en
+Q23413	P17	Q202686	594.0	'castle'@en	'country'@en	'Commonwealth realm'@en
+Q23413	P17	Q7270	151.0	'castle'@en	'country'@en	'republic'@en
+Q23413	P17	Q123480	138.0	'castle'@en	'country'@en	'landlocked country'@en
+Q23413	P17	Q43702	114.0	'castle'@en	'country'@en	'federation'@en
+Q23413	P17	Q4209223	96.0	'castle'@en	'country'@en	'Rechtsstaat'@en
+Q23413	P17	Q51576574	90.0	'castle'@en	'country'@en	'Mediterranean country'@en
+Q23413	P17	Q63791824	89.0	'castle'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q23413	P17	Q619610	72.0	'castle'@en	'country'@en	'social state'@en
+Q23413	P17	Q179164	70.0	'castle'@en	'country'@en	'unitary state'@en
+Q23413	P17	Q170156	60.0	'castle'@en	'country'@en	'confederation'@en
+Q23413	P17	Q7275	43.0	'castle'@en	'country'@en	'state'@en
+Q839954	P17	Q6256	34.0	'archaeological site'@en	'country'@en	'country'@en
+Q839954	P17	Q3624078	33.0	'archaeological site'@en	'country'@en	'sovereign state'@en
+Q839954	P17	Q112099	29.0	'archaeological site'@en	'country'@en	'island nation'@en
+Q839954	P17	Q1250464	28.0	'archaeological site'@en	'country'@en	'realm'@en
+Q839954	P17	Q20181813	28.0	'archaeological site'@en	'country'@en	'colonial power'@en
+Q839954	P17	Q202686	28.0	'archaeological site'@en	'country'@en	'Commonwealth realm'@en
+Q17715832	P17	Q3624078	26.0	'castle ruin'@en	'country'@en	'sovereign state'@en
+Q17715832	P17	Q6256	26.0	'castle ruin'@en	'country'@en	'country'@en
+Q751876	P17	Q6256	26.0	'château'@en	'country'@en	'country'@en
+Q751876	P17	Q3624078	25.0	'château'@en	'country'@en	'sovereign state'@en
+Q811979	P17	Q123480	21.0	'architectural structure'@en	'country'@en	'landlocked country'@en
+Q811979	P17	Q170156	21.0	'architectural structure'@en	'country'@en	'confederation'@en
+Q811979	P17	Q3624078	21.0	'architectural structure'@en	'country'@en	'sovereign state'@en
+Q811979	P17	Q43702	21.0	'architectural structure'@en	'country'@en	'federation'@en
+Q811979	P17	Q6256	21.0	'architectural structure'@en	'country'@en	'country'@en
+Q17715832	P17	Q123480	20.0	'castle ruin'@en	'country'@en	'landlocked country'@en
+Q2087181	P17	Q112099	20.0	'historic house museum'@en	'country'@en	'island nation'@en
+Q2087181	P17	Q1250464	20.0	'historic house museum'@en	'country'@en	'realm'@en
+Q2087181	P17	Q20181813	20.0	'historic house museum'@en	'country'@en	'colonial power'@en
+Q2087181	P17	Q202686	20.0	'historic house museum'@en	'country'@en	'Commonwealth realm'@en
+Q2087181	P17	Q3624078	20.0	'historic house museum'@en	'country'@en	'sovereign state'@en
+Q2087181	P17	Q6256	20.0	'historic house museum'@en	'country'@en	'country'@en
+Q109607	P17	Q3624078	19.0	'ruins'@en	'country'@en	'sovereign state'@en
+Q109607	P17	Q6256	19.0	'ruins'@en	'country'@en	'country'@en
+Q751876	P17	Q7270	18.0	'château'@en	'country'@en	'republic'@en
+Q23413	P17	Q165116	17.0	'castle'@en	'country'@en	'grand duchy'@en
+Q33506	P17	Q6256	17.0	'museum'@en	'country'@en	'country'@en
+Q33506	P17	Q3624078	16.0	'museum'@en	'country'@en	'sovereign state'@en
+Q751876	P17	Q123480	15.0	'château'@en	'country'@en	'landlocked country'@en
+Q1343246	P17	Q112099	14.0	'English country house'@en	'country'@en	'island nation'@en
+Q1343246	P17	Q1250464	14.0	'English country house'@en	'country'@en	'realm'@en
+Q1343246	P17	Q20181813	14.0	'English country house'@en	'country'@en	'colonial power'@en
+Q1343246	P17	Q202686	14.0	'English country house'@en	'country'@en	'Commonwealth realm'@en
+Q1343246	P17	Q3624078	14.0	'English country house'@en	'country'@en	'sovereign state'@en
+Q1343246	P17	Q6256	14.0	'English country house'@en	'country'@en	'country'@en
+Q17715832	P17	Q43702	14.0	'castle ruin'@en	'country'@en	'federation'@en
+Q17715832	P17	Q170156	13.0	'castle ruin'@en	'country'@en	'confederation'@en
+Q109607	P17	Q123480	11.0	'ruins'@en	'country'@en	'landlocked country'@en
+Q33506	P17	Q123480	11.0	'museum'@en	'country'@en	'landlocked country'@en
+Q4989906	P17	Q1250464	11.0	'monument'@en	'country'@en	'realm'@en
+Q4989906	P17	Q3624078	11.0	'monument'@en	'country'@en	'sovereign state'@en
+Q4989906	P17	Q51576574	11.0	'monument'@en	'country'@en	'Mediterranean country'@en
+Q4989906	P17	Q6256	11.0	'monument'@en	'country'@en	'country'@en
+Q19860854	P17	Q3624078	10.0	'destroyed building or structure'@en	'country'@en	'sovereign state'@en
+Q19860854	P17	Q6256	10.0	'destroyed building or structure'@en	'country'@en	'country'@en
+Q33506	P17	Q4209223	10.0	'museum'@en	'country'@en	'Rechtsstaat'@en
+Q33506	P17	Q7270	10.0	'museum'@en	'country'@en	'republic'@en
+Q33506	P17	Q7275	9.0	'museum'@en	'country'@en	'state'@en
+Q109607	P17	Q7270	8.0	'ruins'@en	'country'@en	'republic'@en
+Q109607	P17	Q7275	8.0	'ruins'@en	'country'@en	'state'@en
+Q180174	P17	Q112099	8.0	'folly'@en	'country'@en	'island nation'@en
+Q180174	P17	Q1250464	8.0	'folly'@en	'country'@en	'realm'@en
+Q180174	P17	Q20181813	8.0	'folly'@en	'country'@en	'colonial power'@en
+Q180174	P17	Q202686	8.0	'folly'@en	'country'@en	'Commonwealth realm'@en
+Q180174	P17	Q3624078	8.0	'folly'@en	'country'@en	'sovereign state'@en
+Q180174	P17	Q6256	8.0	'folly'@en	'country'@en	'country'@en
+Q19860854	P17	Q112099	8.0	'destroyed building or structure'@en	'country'@en	'island nation'@en
+Q2065736	P17	Q3624078	8.0	'cultural property'@en	'country'@en	'sovereign state'@en
+Q2065736	P17	Q6256	8.0	'cultural property'@en	'country'@en	'country'@en
+Q23413	P17	Q185145	8.0	'castle'@en	'country'@en	'great power'@en
+Q751876	P17	Q20181813	8.0	'château'@en	'country'@en	'colonial power'@en
+Q109607	P17	Q179164	7.0	'ruins'@en	'country'@en	'unitary state'@en
+Q109607	P17	Q4209223	7.0	'ruins'@en	'country'@en	'Rechtsstaat'@en
+Q17715832	P17	Q7270	7.0	'castle ruin'@en	'country'@en	'republic'@en
+Q751876	P17	Q4209223	7.0	'château'@en	'country'@en	'Rechtsstaat'@en
+Q751876	P17	Q51576574	7.0	'château'@en	'country'@en	'Mediterranean country'@en
+Q92062	P17	Q112099	7.0	'motte-and-bailey castle'@en	'country'@en	'island nation'@en
+Q92062	P17	Q1250464	7.0	'motte-and-bailey castle'@en	'country'@en	'realm'@en
+Q92062	P17	Q20181813	7.0	'motte-and-bailey castle'@en	'country'@en	'colonial power'@en
+Q92062	P17	Q202686	7.0	'motte-and-bailey castle'@en	'country'@en	'Commonwealth realm'@en
+Q92062	P17	Q3624078	7.0	'motte-and-bailey castle'@en	'country'@en	'sovereign state'@en
+Q92062	P17	Q6256	7.0	'motte-and-bailey castle'@en	'country'@en	'country'@en
+Q2065736	P17	Q123480	6.0	'cultural property'@en	'country'@en	'landlocked country'@en
+Q2065736	P17	Q4209223	6.0	'cultural property'@en	'country'@en	'Rechtsstaat'@en
+Q2065736	P17	Q7270	6.0	'cultural property'@en	'country'@en	'republic'@en
+Q2065736	P17	Q7275	6.0	'cultural property'@en	'country'@en	'state'@en
+Q23413	P17	Q1323642	6.0	'castle'@en	'country'@en	'transcontinental country'@en
+Q23413	P17	Q185441	6.0	'castle'@en	'country'@en	'member state of the european union'@en
+Q5267014	P17	Q112099	6.0	'Device Fort'@en	'country'@en	'island nation'@en
+Q5267014	P17	Q1250464	6.0	'Device Fort'@en	'country'@en	'realm'@en
+Q5267014	P17	Q20181813	6.0	'Device Fort'@en	'country'@en	'colonial power'@en
+Q5267014	P17	Q202686	6.0	'Device Fort'@en	'country'@en	'Commonwealth realm'@en
+Q5267014	P17	Q3624078	6.0	'Device Fort'@en	'country'@en	'sovereign state'@en
+Q5267014	P17	Q6256	6.0	'Device Fort'@en	'country'@en	'country'@en
+Q751876	P17	Q165116	6.0	'château'@en	'country'@en	'grand duchy'@en
+Q751876	P17	Q179164	6.0	'château'@en	'country'@en	'unitary state'@en
+Q91312	P17	Q112099	6.0	'tower house'@en	'country'@en	'island nation'@en
+Q91312	P17	Q3624078	6.0	'tower house'@en	'country'@en	'sovereign state'@en
+Q91312	P17	Q6256	6.0	'tower house'@en	'country'@en	'country'@en
+Q109607	P17	Q112099	5.0	'ruins'@en	'country'@en	'island nation'@en
+Q109607	P17	Q1250464	5.0	'ruins'@en	'country'@en	'realm'@en
+Q109607	P17	Q20181813	5.0	'ruins'@en	'country'@en	'colonial power'@en
+Q109607	P17	Q202686	5.0	'ruins'@en	'country'@en	'Commonwealth realm'@en
+Q11691318	P17	Q3624078	5.0	'cultural heritage monument in Germany'@en	'country'@en	'sovereign state'@en
+Q11691318	P17	Q4209223	5.0	'cultural heritage monument in Germany'@en	'country'@en	'Rechtsstaat'@en
+Q11691318	P17	Q43702	5.0	'cultural heritage monument in Germany'@en	'country'@en	'federation'@en
+Q11691318	P17	Q619610	5.0	'cultural heritage monument in Germany'@en	'country'@en	'social state'@en
+Q11691318	P17	Q6256	5.0	'cultural heritage monument in Germany'@en	'country'@en	'country'@en
+Q11691318	P17	Q63791824	5.0	'cultural heritage monument in Germany'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q11691318	P17	Q7270	5.0	'cultural heritage monument in Germany'@en	'country'@en	'republic'@en
+Q17715832	P17	Q112099	5.0	'castle ruin'@en	'country'@en	'island nation'@en
+Q19860854	P17	Q1250464	5.0	'destroyed building or structure'@en	'country'@en	'realm'@en
+Q19860854	P17	Q20181813	5.0	'destroyed building or structure'@en	'country'@en	'colonial power'@en
+Q19860854	P17	Q202686	5.0	'destroyed building or structure'@en	'country'@en	'Commonwealth realm'@en
+Q210272	P17	Q20181813	5.0	'cultural heritage'@en	'country'@en	'colonial power'@en
+Q210272	P17	Q3624078	5.0	'cultural heritage'@en	'country'@en	'sovereign state'@en
+Q210272	P17	Q6256	5.0	'cultural heritage'@en	'country'@en	'country'@en
+Q23413	P17	Q339834	5.0	'castle'@en	'country'@en	'regional power'@en
+Q23413	P17	Q859563	5.0	'castle'@en	'country'@en	'secular state'@en
+Q2772772	P17	Q112099	5.0	'military museum'@en	'country'@en	'island nation'@en
+Q2772772	P17	Q1250464	5.0	'military museum'@en	'country'@en	'realm'@en
+Q2772772	P17	Q20181813	5.0	'military museum'@en	'country'@en	'colonial power'@en
+Q2772772	P17	Q202686	5.0	'military museum'@en	'country'@en	'Commonwealth realm'@en
+Q2772772	P17	Q3624078	5.0	'military museum'@en	'country'@en	'sovereign state'@en
+Q2772772	P17	Q6256	5.0	'military museum'@en	'country'@en	'country'@en
+Q751876	P17	Q7275	5.0	'château'@en	'country'@en	'state'@en
+Q879050	P17	Q3624078	5.0	'manor house'@en	'country'@en	'sovereign state'@en
+Q879050	P17	Q6256	5.0	'manor house'@en	'country'@en	'country'@en
+Q91312	P17	Q1250464	5.0	'tower house'@en	'country'@en	'realm'@en
+Q91312	P17	Q20181813	5.0	'tower house'@en	'country'@en	'colonial power'@en
+Q91312	P17	Q202686	5.0	'tower house'@en	'country'@en	'Commonwealth realm'@en
+Q17715832	P17	Q1250464	4.0	'castle ruin'@en	'country'@en	'realm'@en
+Q17715832	P17	Q20181813	4.0	'castle ruin'@en	'country'@en	'colonial power'@en
+Q23413	P17	Q11396118	4.0	'castle'@en	'country'@en	'divided country'@en
+Q23413	P17	Q15239622	4.0	'castle'@en	'country'@en	'disputed territory'@en
+Q23413	P17	Q672729	4.0	'castle'@en	'country'@en	'Islamic Republic'@en
+Q27686	P17	Q112099	4.0	'hotel'@en	'country'@en	'island nation'@en
+Q27686	P17	Q3624078	4.0	'hotel'@en	'country'@en	'sovereign state'@en
+Q27686	P17	Q6256	4.0	'hotel'@en	'country'@en	'country'@en
+Q32164125	P17	Q112099	4.0	'fortified manor house'@en	'country'@en	'island nation'@en
+Q32164125	P17	Q1250464	4.0	'fortified manor house'@en	'country'@en	'realm'@en
+Q32164125	P17	Q20181813	4.0	'fortified manor house'@en	'country'@en	'colonial power'@en
+Q32164125	P17	Q202686	4.0	'fortified manor house'@en	'country'@en	'Commonwealth realm'@en
+Q32164125	P17	Q3624078	4.0	'fortified manor house'@en	'country'@en	'sovereign state'@en
+Q32164125	P17	Q6256	4.0	'fortified manor house'@en	'country'@en	'country'@en
+Q33506	P17	Q1250464	4.0	'museum'@en	'country'@en	'realm'@en
+Q33506	P17	Q43702	4.0	'museum'@en	'country'@en	'federation'@en
+Q879050	P17	Q112099	4.0	'manor house'@en	'country'@en	'island nation'@en
+Q879050	P17	Q1250464	4.0	'manor house'@en	'country'@en	'realm'@en
+Q879050	P17	Q20181813	4.0	'manor house'@en	'country'@en	'colonial power'@en
+Q879050	P17	Q202686	4.0	'manor house'@en	'country'@en	'Commonwealth realm'@en
+Q1081138	P17	Q6256	3.0	'historic site'@en	'country'@en	'country'@en
+Q109607	P17	Q165116	3.0	'ruins'@en	'country'@en	'grand duchy'@en
+Q1595639	P17	Q3624078	3.0	'local museum'@en	'country'@en	'sovereign state'@en
+Q1595639	P17	Q6256	3.0	'local museum'@en	'country'@en	'country'@en
+Q16884952	P17	Q112099	3.0	'country house'@en	'country'@en	'island nation'@en
+Q16884952	P17	Q3624078	3.0	'country house'@en	'country'@en	'sovereign state'@en
+Q16884952	P17	Q6256	3.0	'country house'@en	'country'@en	'country'@en
+Q17715832	P17	Q202686	3.0	'castle ruin'@en	'country'@en	'Commonwealth realm'@en
+Q23413	P17	Q1520223	3.0	'castle'@en	'country'@en	'constitutional republic'@en
+Q23413	P17	Q15304003	3.0	'castle'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q23413	P17	Q56061	3.0	'castle'@en	'country'@en	'administrative territorial entity'@en
+Q33506	P17	Q20181813	3.0	'museum'@en	'country'@en	'colonial power'@en
+Q3947	P17	Q3624078	3.0	'house'@en	'country'@en	'sovereign state'@en
+Q3947	P17	Q6256	3.0	'house'@en	'country'@en	'country'@en
+Q570116	P17	Q3624078	3.0	'tourist attraction'@en	'country'@en	'sovereign state'@en
+Q570116	P17	Q6256	3.0	'tourist attraction'@en	'country'@en	'country'@en
+Q751876	P17	Q43702	3.0	'château'@en	'country'@en	'federation'@en
+Q839954	P17	Q619610	3.0	'archaeological site'@en	'country'@en	'social state'@en
+Q839954	P17	Q63791824	3.0	'archaeological site'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1081138	P17	Q123480	2.0	'historic site'@en	'country'@en	'landlocked country'@en
+Q1081138	P17	Q179164	2.0	'historic site'@en	'country'@en	'unitary state'@en
+Q1081138	P17	Q3624078	2.0	'historic site'@en	'country'@en	'sovereign state'@en
+Q109607	P17	Q63791824	2.0	'ruins'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1195705	P17	Q123480	2.0	'rocca'@en	'country'@en	'landlocked country'@en
+Q1195705	P17	Q3624078	2.0	'rocca'@en	'country'@en	'sovereign state'@en
+Q1195705	P17	Q4209223	2.0	'rocca'@en	'country'@en	'Rechtsstaat'@en
+Q1195705	P17	Q6256	2.0	'rocca'@en	'country'@en	'country'@en
+Q1195705	P17	Q7270	2.0	'rocca'@en	'country'@en	'republic'@en
+Q1195705	P17	Q7275	2.0	'rocca'@en	'country'@en	'state'@en
+Q1595639	P17	Q112099	2.0	'local museum'@en	'country'@en	'island nation'@en
+Q1595639	P17	Q1250464	2.0	'local museum'@en	'country'@en	'realm'@en
+Q1595639	P17	Q20181813	2.0	'local museum'@en	'country'@en	'colonial power'@en
+Q1595639	P17	Q202686	2.0	'local museum'@en	'country'@en	'Commonwealth realm'@en
+Q16560	P17	Q123480	2.0	'palace'@en	'country'@en	'landlocked country'@en
+Q16560	P17	Q3624078	2.0	'palace'@en	'country'@en	'sovereign state'@en
+Q16560	P17	Q6256	2.0	'palace'@en	'country'@en	'country'@en
+Q16560	P17	Q7270	2.0	'palace'@en	'country'@en	'republic'@en
+Q16735822	P17	Q3624078	2.0	'history museum'@en	'country'@en	'sovereign state'@en
+Q16735822	P17	Q6256	2.0	'history museum'@en	'country'@en	'country'@en
+Q16884952	P17	Q1250464	2.0	'country house'@en	'country'@en	'realm'@en
+Q16884952	P17	Q20181813	2.0	'country house'@en	'country'@en	'colonial power'@en
+Q16884952	P17	Q202686	2.0	'country house'@en	'country'@en	'Commonwealth realm'@en
+Q1923257	P17	Q112099	2.0	'hall house'@en	'country'@en	'island nation'@en
+Q1923257	P17	Q1250464	2.0	'hall house'@en	'country'@en	'realm'@en
+Q1923257	P17	Q20181813	2.0	'hall house'@en	'country'@en	'colonial power'@en
+Q1923257	P17	Q202686	2.0	'hall house'@en	'country'@en	'Commonwealth realm'@en
+Q1923257	P17	Q3624078	2.0	'hall house'@en	'country'@en	'sovereign state'@en
+Q1923257	P17	Q6256	2.0	'hall house'@en	'country'@en	'country'@en
+Q19860854	P17	Q179164	2.0	'destroyed building or structure'@en	'country'@en	'unitary state'@en
+Q19860854	P17	Q7270	2.0	'destroyed building or structure'@en	'country'@en	'republic'@en
+Q23413	P17	Q133156	2.0	'castle'@en	'country'@en	'colony'@en
+Q23413	P17	Q208500	2.0	'castle'@en	'country'@en	'principality'@en
+Q23413	P17	Q244381	2.0	'castle'@en	'country'@en	'microstate'@en
+Q23413	P17	Q26879769	2.0	'castle'@en	'country'@en	'state in the Confederation of the Rhine'@en
+Q23413	P17	Q3024240	2.0	'castle'@en	'country'@en	'historical country'@en
+Q23413	P17	Q41614	2.0	'castle'@en	'country'@en	'constitutional monarchy'@en
+Q33506	P17	Q112099	2.0	'museum'@en	'country'@en	'island nation'@en
+Q33506	P17	Q170156	2.0	'museum'@en	'country'@en	'confederation'@en
+Q33506	P17	Q202686	2.0	'museum'@en	'country'@en	'Commonwealth realm'@en
+Q3898745	P17	Q112099	2.0	'peel tower'@en	'country'@en	'island nation'@en
+Q3898745	P17	Q3624078	2.0	'peel tower'@en	'country'@en	'sovereign state'@en
+Q3898745	P17	Q6256	2.0	'peel tower'@en	'country'@en	'country'@en
+Q3947	P17	Q112099	2.0	'house'@en	'country'@en	'island nation'@en
+Q3947	P17	Q1250464	2.0	'house'@en	'country'@en	'realm'@en
+Q3947	P17	Q20181813	2.0	'house'@en	'country'@en	'colonial power'@en
+Q3947	P17	Q202686	2.0	'house'@en	'country'@en	'Commonwealth realm'@en
+Q486972	P17	Q3624078	2.0	'human settlement'@en	'country'@en	'sovereign state'@en
+Q486972	P17	Q6256	2.0	'human settlement'@en	'country'@en	'country'@en
+Q570116	P17	Q112099	2.0	'tourist attraction'@en	'country'@en	'island nation'@en
+Q570116	P17	Q1250464	2.0	'tourist attraction'@en	'country'@en	'realm'@en
+Q570116	P17	Q20181813	2.0	'tourist attraction'@en	'country'@en	'colonial power'@en
+Q570116	P17	Q202686	2.0	'tourist attraction'@en	'country'@en	'Commonwealth realm'@en
+Q57831	P17	Q3624078	2.0	'fortress'@en	'country'@en	'sovereign state'@en
+Q57831	P17	Q6256	2.0	'fortress'@en	'country'@en	'country'@en
+Q64995589	P17	Q112099	2.0	'country house hotel'@en	'country'@en	'island nation'@en
+Q64995589	P17	Q1250464	2.0	'country house hotel'@en	'country'@en	'realm'@en
+Q64995589	P17	Q20181813	2.0	'country house hotel'@en	'country'@en	'colonial power'@en
+Q64995589	P17	Q202686	2.0	'country house hotel'@en	'country'@en	'Commonwealth realm'@en
+Q64995589	P17	Q3624078	2.0	'country house hotel'@en	'country'@en	'sovereign state'@en
+Q64995589	P17	Q6256	2.0	'country house hotel'@en	'country'@en	'country'@en
+Q744099	P17	Q3624078	2.0	'hillfort'@en	'country'@en	'sovereign state'@en
+Q744099	P17	Q6256	2.0	'hillfort'@en	'country'@en	'country'@en
+Q744099	P17	Q63791824	2.0	'hillfort'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q751876	P17	Q619610	2.0	'château'@en	'country'@en	'social state'@en
+Q751876	P17	Q63791824	2.0	'château'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q80446812	P17	Q112099	2.0	'motte'@en	'country'@en	'island nation'@en
+Q80446812	P17	Q1250464	2.0	'motte'@en	'country'@en	'realm'@en
+Q80446812	P17	Q20181813	2.0	'motte'@en	'country'@en	'colonial power'@en
+Q80446812	P17	Q202686	2.0	'motte'@en	'country'@en	'Commonwealth realm'@en
+Q80446812	P17	Q3624078	2.0	'motte'@en	'country'@en	'sovereign state'@en
+Q80446812	P17	Q6256	2.0	'motte'@en	'country'@en	'country'@en
+Q839954	P17	Q179164	2.0	'archaeological site'@en	'country'@en	'unitary state'@en
+Q839954	P17	Q4209223	2.0	'archaeological site'@en	'country'@en	'Rechtsstaat'@en
+Q839954	P17	Q43702	2.0	'archaeological site'@en	'country'@en	'federation'@en
+Q839954	P17	Q7270	2.0	'archaeological site'@en	'country'@en	'republic'@en
+Q92026	P17	Q112099	2.0	'Japanese castle'@en	'country'@en	'island nation'@en
+Q92026	P17	Q3624078	2.0	'Japanese castle'@en	'country'@en	'sovereign state'@en
+Q92026	P17	Q6256	2.0	'Japanese castle'@en	'country'@en	'country'@en
+Q1007870	P17	Q112099	1.0	'art gallery'@en	'country'@en	'island nation'@en
+Q1007870	P17	Q3624078	1.0	'art gallery'@en	'country'@en	'sovereign state'@en
+Q1007870	P17	Q6256	1.0	'art gallery'@en	'country'@en	'country'@en
+Q1015644	P17	Q179164	1.0	'Burgstall'@en	'country'@en	'unitary state'@en
+Q1015644	P17	Q3624078	1.0	'Burgstall'@en	'country'@en	'sovereign state'@en
+Q1015644	P17	Q6256	1.0	'Burgstall'@en	'country'@en	'country'@en
+Q1015644	P17	Q63791824	1.0	'Burgstall'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q10416961	P17	Q179164	1.0	'working life museum'@en	'country'@en	'unitary state'@en
+Q10416961	P17	Q3624078	1.0	'working life museum'@en	'country'@en	'sovereign state'@en
+Q10416961	P17	Q6256	1.0	'working life museum'@en	'country'@en	'country'@en
+Q10416961	P17	Q63791824	1.0	'working life museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1081138	P17	Q15634554	1.0	'historic site'@en	'country'@en	'state with limited recognition'@en
+Q1081138	P17	Q170156	1.0	'historic site'@en	'country'@en	'confederation'@en
+Q1081138	P17	Q43702	1.0	'historic site'@en	'country'@en	'federation'@en
+Q1081138	P17	Q51576574	1.0	'historic site'@en	'country'@en	'Mediterranean country'@en
+Q1081138	P17	Q7270	1.0	'historic site'@en	'country'@en	'republic'@en
+Q108325	P17	Q123480	1.0	'chapel'@en	'country'@en	'landlocked country'@en
+Q108325	P17	Q3624078	1.0	'chapel'@en	'country'@en	'sovereign state'@en
+Q108325	P17	Q4209223	1.0	'chapel'@en	'country'@en	'Rechtsstaat'@en
+Q108325	P17	Q6256	1.0	'chapel'@en	'country'@en	'country'@en
+Q108325	P17	Q7270	1.0	'chapel'@en	'country'@en	'republic'@en
+Q108325	P17	Q7275	1.0	'chapel'@en	'country'@en	'state'@en
+Q109607	P17	Q185086	1.0	'ruins'@en	'country'@en	'Crown Dependencies'@en
+Q109607	P17	Q208500	1.0	'ruins'@en	'country'@en	'principality'@en
+Q109607	P17	Q244381	1.0	'ruins'@en	'country'@en	'microstate'@en
+Q109607	P17	Q26879769	1.0	'ruins'@en	'country'@en	'state in the Confederation of the Rhine'@en
+Q109607	P17	Q51576574	1.0	'ruins'@en	'country'@en	'Mediterranean country'@en
+Q1128397	P17	Q1250464	1.0	'convent'@en	'country'@en	'realm'@en
+Q1128397	P17	Q3624078	1.0	'convent'@en	'country'@en	'sovereign state'@en
+Q1128397	P17	Q51576574	1.0	'convent'@en	'country'@en	'Mediterranean country'@en
+Q1128397	P17	Q6256	1.0	'convent'@en	'country'@en	'country'@en
+Q1134237	P17	Q112099	1.0	'court'@en	'country'@en	'island nation'@en
+Q1134237	P17	Q1250464	1.0	'court'@en	'country'@en	'realm'@en
+Q1134237	P17	Q20181813	1.0	'court'@en	'country'@en	'colonial power'@en
+Q1134237	P17	Q202686	1.0	'court'@en	'country'@en	'Commonwealth realm'@en
+Q1134237	P17	Q3624078	1.0	'court'@en	'country'@en	'sovereign state'@en
+Q1134237	P17	Q6256	1.0	'court'@en	'country'@en	'country'@en
+Q1200957	P17	Q123480	1.0	'tourist destination'@en	'country'@en	'landlocked country'@en
+Q1200957	P17	Q3624078	1.0	'tourist destination'@en	'country'@en	'sovereign state'@en
+Q1200957	P17	Q4209223	1.0	'tourist destination'@en	'country'@en	'Rechtsstaat'@en
+Q1200957	P17	Q6256	1.0	'tourist destination'@en	'country'@en	'country'@en
+Q1200957	P17	Q7270	1.0	'tourist destination'@en	'country'@en	'republic'@en
+Q1200957	P17	Q7275	1.0	'tourist destination'@en	'country'@en	'state'@en
+Q13402009	P17	Q112099	1.0	'apartment building'@en	'country'@en	'island nation'@en
+Q13402009	P17	Q1250464	1.0	'apartment building'@en	'country'@en	'realm'@en
+Q13402009	P17	Q20181813	1.0	'apartment building'@en	'country'@en	'colonial power'@en
+Q13402009	P17	Q202686	1.0	'apartment building'@en	'country'@en	'Commonwealth realm'@en
+Q13402009	P17	Q3624078	1.0	'apartment building'@en	'country'@en	'sovereign state'@en
+Q13402009	P17	Q6256	1.0	'apartment building'@en	'country'@en	'country'@en
+Q13955118	P17	Q112099	1.0	'earthwork'@en	'country'@en	'island nation'@en
+Q13955118	P17	Q1250464	1.0	'earthwork'@en	'country'@en	'realm'@en
+Q13955118	P17	Q20181813	1.0	'earthwork'@en	'country'@en	'colonial power'@en
+Q13955118	P17	Q202686	1.0	'earthwork'@en	'country'@en	'Commonwealth realm'@en
+Q13955118	P17	Q3624078	1.0	'earthwork'@en	'country'@en	'sovereign state'@en
+Q13955118	P17	Q6256	1.0	'earthwork'@en	'country'@en	'country'@en
+Q1423423	P17	Q112099	1.0	'Château'@en	'country'@en	'island nation'@en
+Q1423423	P17	Q1250464	1.0	'Château'@en	'country'@en	'realm'@en
+Q1423423	P17	Q20181813	1.0	'Château'@en	'country'@en	'colonial power'@en
+Q1423423	P17	Q202686	1.0	'Château'@en	'country'@en	'Commonwealth realm'@en
+Q1423423	P17	Q3624078	1.0	'Château'@en	'country'@en	'sovereign state'@en
+Q1423423	P17	Q6256	1.0	'Château'@en	'country'@en	'country'@en
+Q14528644	P17	Q1250464	1.0	'care center'@en	'country'@en	'realm'@en
+Q14528644	P17	Q185441	1.0	'care center'@en	'country'@en	'member state of the european union'@en
+Q14528644	P17	Q20181813	1.0	'care center'@en	'country'@en	'colonial power'@en
+Q14528644	P17	Q3624078	1.0	'care center'@en	'country'@en	'sovereign state'@en
+Q14528644	P17	Q43702	1.0	'care center'@en	'country'@en	'federation'@en
+Q14528644	P17	Q6256	1.0	'care center'@en	'country'@en	'country'@en
+Q1497375	P17	Q179164	1.0	'architectural ensemble'@en	'country'@en	'unitary state'@en
+Q1497375	P17	Q3624078	1.0	'architectural ensemble'@en	'country'@en	'sovereign state'@en
+Q1497375	P17	Q6256	1.0	'architectural ensemble'@en	'country'@en	'country'@en
+Q1497375	P17	Q63791824	1.0	'architectural ensemble'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q1497649	P17	Q123480	1.0	'memory institution'@en	'country'@en	'landlocked country'@en
+Q1497649	P17	Q170156	1.0	'memory institution'@en	'country'@en	'confederation'@en
+Q1497649	P17	Q3624078	1.0	'memory institution'@en	'country'@en	'sovereign state'@en
+Q1497649	P17	Q43702	1.0	'memory institution'@en	'country'@en	'federation'@en
+Q1497649	P17	Q6256	1.0	'memory institution'@en	'country'@en	'country'@en
+Q156362	P17	Q123480	1.0	'winery'@en	'country'@en	'landlocked country'@en
+Q156362	P17	Q170156	1.0	'winery'@en	'country'@en	'confederation'@en
+Q156362	P17	Q3624078	1.0	'winery'@en	'country'@en	'sovereign state'@en
+Q156362	P17	Q43702	1.0	'winery'@en	'country'@en	'federation'@en
+Q156362	P17	Q6256	1.0	'winery'@en	'country'@en	'country'@en
+Q15710038	P17	Q3624078	1.0	'hill castle'@en	'country'@en	'sovereign state'@en
+Q15710038	P17	Q4209223	1.0	'hill castle'@en	'country'@en	'Rechtsstaat'@en
+Q15710038	P17	Q43702	1.0	'hill castle'@en	'country'@en	'federation'@en
+Q15710038	P17	Q619610	1.0	'hill castle'@en	'country'@en	'social state'@en
+Q15710038	P17	Q6256	1.0	'hill castle'@en	'country'@en	'country'@en
+Q15710038	P17	Q63791824	1.0	'hill castle'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q15710038	P17	Q7270	1.0	'hill castle'@en	'country'@en	'republic'@en
+Q1595639	P17	Q123480	1.0	'local museum'@en	'country'@en	'landlocked country'@en
+Q1595639	P17	Q4209223	1.0	'local museum'@en	'country'@en	'Rechtsstaat'@en
+Q1595639	P17	Q7270	1.0	'local museum'@en	'country'@en	'republic'@en
+Q1595639	P17	Q7275	1.0	'local museum'@en	'country'@en	'state'@en
+Q16560	P17	Q179164	1.0	'palace'@en	'country'@en	'unitary state'@en
+Q16560	P17	Q4209223	1.0	'palace'@en	'country'@en	'Rechtsstaat'@en
+Q16560	P17	Q619610	1.0	'palace'@en	'country'@en	'social state'@en
+Q16560	P17	Q7275	1.0	'palace'@en	'country'@en	'state'@en
+Q16735822	P17	Q123480	1.0	'history museum'@en	'country'@en	'landlocked country'@en
+Q16735822	P17	Q170156	1.0	'history museum'@en	'country'@en	'confederation'@en
+Q16735822	P17	Q43702	1.0	'history museum'@en	'country'@en	'federation'@en
+Q16735822	P17	Q63791824	1.0	'history museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q16970	P17	Q1250464	1.0	'church building'@en	'country'@en	'realm'@en
+Q16970	P17	Q3624078	1.0	'church building'@en	'country'@en	'sovereign state'@en
+Q16970	P17	Q51576574	1.0	'church building'@en	'country'@en	'Mediterranean country'@en
+Q16970	P17	Q6256	1.0	'church building'@en	'country'@en	'country'@en
+Q17715832	P17	Q185441	1.0	'castle ruin'@en	'country'@en	'member state of the european union'@en
+Q17715832	P17	Q4209223	1.0	'castle ruin'@en	'country'@en	'Rechtsstaat'@en
+Q17715832	P17	Q7275	1.0	'castle ruin'@en	'country'@en	'state'@en
+Q1970243	P17	Q123480	1.0	'lowland castle'@en	'country'@en	'landlocked country'@en
+Q1970243	P17	Q3624078	1.0	'lowland castle'@en	'country'@en	'sovereign state'@en
+Q1970243	P17	Q4209223	1.0	'lowland castle'@en	'country'@en	'Rechtsstaat'@en
+Q1970243	P17	Q6256	1.0	'lowland castle'@en	'country'@en	'country'@en
+Q1970243	P17	Q7270	1.0	'lowland castle'@en	'country'@en	'republic'@en
+Q1970243	P17	Q7275	1.0	'lowland castle'@en	'country'@en	'state'@en
+Q19850578	P17	Q1250464	1.0	'Chappe semaphore tower'@en	'country'@en	'realm'@en
+Q19850578	P17	Q3624078	1.0	'Chappe semaphore tower'@en	'country'@en	'sovereign state'@en
+Q19850578	P17	Q51576574	1.0	'Chappe semaphore tower'@en	'country'@en	'Mediterranean country'@en
+Q19850578	P17	Q6256	1.0	'Chappe semaphore tower'@en	'country'@en	'country'@en
+Q19860854	P17	Q4209223	1.0	'destroyed building or structure'@en	'country'@en	'Rechtsstaat'@en
+Q19860854	P17	Q619610	1.0	'destroyed building or structure'@en	'country'@en	'social state'@en
+Q19860854	P17	Q63791824	1.0	'destroyed building or structure'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q2065736	P17	Q41614	1.0	'cultural property'@en	'country'@en	'constitutional monarchy'@en
+Q2065736	P17	Q672729	1.0	'cultural property'@en	'country'@en	'Islamic Republic'@en
+Q207694	P17	Q112099	1.0	'art museum'@en	'country'@en	'island nation'@en
+Q207694	P17	Q3624078	1.0	'art museum'@en	'country'@en	'sovereign state'@en
+Q207694	P17	Q6256	1.0	'art museum'@en	'country'@en	'country'@en
+Q23413	P17	Q12759805	1.0	'castle'@en	'country'@en	'sultanate'@en
+Q23413	P17	Q15634554	1.0	'castle'@en	'country'@en	'state with limited recognition'@en
+Q23413	P17	Q185086	1.0	'castle'@en	'country'@en	'Crown Dependencies'@en
+Q23413	P17	Q236036	1.0	'castle'@en	'country'@en	'republics of the Soviet Union'@en
+Q23442	P17	Q179164	1.0	'island'@en	'country'@en	'unitary state'@en
+Q23442	P17	Q3624078	1.0	'island'@en	'country'@en	'sovereign state'@en
+Q23442	P17	Q6256	1.0	'island'@en	'country'@en	'country'@en
+Q23442	P17	Q63791824	1.0	'island'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q24699794	P17	Q1250464	1.0	'museum building'@en	'country'@en	'realm'@en
+Q24699794	P17	Q3624078	1.0	'museum building'@en	'country'@en	'sovereign state'@en
+Q24699794	P17	Q51576574	1.0	'museum building'@en	'country'@en	'Mediterranean country'@en
+Q24699794	P17	Q6256	1.0	'museum building'@en	'country'@en	'country'@en
+Q27686	P17	Q1250464	1.0	'hotel'@en	'country'@en	'realm'@en
+Q27686	P17	Q20181813	1.0	'hotel'@en	'country'@en	'colonial power'@en
+Q27686	P17	Q202686	1.0	'hotel'@en	'country'@en	'Commonwealth realm'@en
+Q28045079	P17	Q112099	1.0	'contour fort'@en	'country'@en	'island nation'@en
+Q28045079	P17	Q1250464	1.0	'contour fort'@en	'country'@en	'realm'@en
+Q28045079	P17	Q20181813	1.0	'contour fort'@en	'country'@en	'colonial power'@en
+Q28045079	P17	Q202686	1.0	'contour fort'@en	'country'@en	'Commonwealth realm'@en
+Q28045079	P17	Q3624078	1.0	'contour fort'@en	'country'@en	'sovereign state'@en
+Q28045079	P17	Q6256	1.0	'contour fort'@en	'country'@en	'country'@en
+Q29960985	P17	Q179164	1.0	'bishop castle'@en	'country'@en	'unitary state'@en
+Q29960985	P17	Q3624078	1.0	'bishop castle'@en	'country'@en	'sovereign state'@en
+Q29960985	P17	Q6256	1.0	'bishop castle'@en	'country'@en	'country'@en
+Q29960985	P17	Q63791824	1.0	'bishop castle'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q3329412	P17	Q112099	1.0	'archaeological museum'@en	'country'@en	'island nation'@en
+Q3329412	P17	Q11396118	1.0	'archaeological museum'@en	'country'@en	'divided country'@en
+Q3329412	P17	Q15239622	1.0	'archaeological museum'@en	'country'@en	'disputed territory'@en
+Q3329412	P17	Q3624078	1.0	'archaeological museum'@en	'country'@en	'sovereign state'@en
+Q3329412	P17	Q51576574	1.0	'archaeological museum'@en	'country'@en	'Mediterranean country'@en
+Q3329412	P17	Q6256	1.0	'archaeological museum'@en	'country'@en	'country'@en
+Q3329412	P17	Q7275	1.0	'archaeological museum'@en	'country'@en	'state'@en
+Q3330083	P17	Q123480	1.0	'wine museum'@en	'country'@en	'landlocked country'@en
+Q3330083	P17	Q170156	1.0	'wine museum'@en	'country'@en	'confederation'@en
+Q3330083	P17	Q3624078	1.0	'wine museum'@en	'country'@en	'sovereign state'@en
+Q3330083	P17	Q43702	1.0	'wine museum'@en	'country'@en	'federation'@en
+Q3330083	P17	Q6256	1.0	'wine museum'@en	'country'@en	'country'@en
+Q33506	P17	Q15304003	1.0	'museum'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q33506	P17	Q185441	1.0	'museum'@en	'country'@en	'member state of the european union'@en
+Q33506	P17	Q51576574	1.0	'museum'@en	'country'@en	'Mediterranean country'@en
+Q33506	P17	Q619610	1.0	'museum'@en	'country'@en	'social state'@en
+Q33506	P17	Q63791824	1.0	'museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q3354019	P17	Q179164	1.0	'seat farm'@en	'country'@en	'unitary state'@en
+Q3354019	P17	Q3624078	1.0	'seat farm'@en	'country'@en	'sovereign state'@en
+Q3354019	P17	Q6256	1.0	'seat farm'@en	'country'@en	'country'@en
+Q3354019	P17	Q63791824	1.0	'seat farm'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q3395377	P17	Q179164	1.0	'ancient monument'@en	'country'@en	'unitary state'@en
+Q3395377	P17	Q3624078	1.0	'ancient monument'@en	'country'@en	'sovereign state'@en
+Q3395377	P17	Q6256	1.0	'ancient monument'@en	'country'@en	'country'@en
+Q3395377	P17	Q63791824	1.0	'ancient monument'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q358	P17	Q1250464	1.0	'heritage site'@en	'country'@en	'realm'@en
+Q358	P17	Q3624078	1.0	'heritage site'@en	'country'@en	'sovereign state'@en
+Q358	P17	Q51576574	1.0	'heritage site'@en	'country'@en	'Mediterranean country'@en
+Q358	P17	Q6256	1.0	'heritage site'@en	'country'@en	'country'@en
+Q3898745	P17	Q1250464	1.0	'peel tower'@en	'country'@en	'realm'@en
+Q3898745	P17	Q20181813	1.0	'peel tower'@en	'country'@en	'colonial power'@en
+Q3898745	P17	Q202686	1.0	'peel tower'@en	'country'@en	'Commonwealth realm'@en
+Q3947	P17	Q41614	1.0	'house'@en	'country'@en	'constitutional monarchy'@en
+Q41176	P17	Q3624078	1.0	'building'@en	'country'@en	'sovereign state'@en
+Q41176	P17	Q4209223	1.0	'building'@en	'country'@en	'Rechtsstaat'@en
+Q41176	P17	Q43702	1.0	'building'@en	'country'@en	'federation'@en
+Q41176	P17	Q619610	1.0	'building'@en	'country'@en	'social state'@en
+Q41176	P17	Q6256	1.0	'building'@en	'country'@en	'country'@en
+Q41176	P17	Q63791824	1.0	'building'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q41176	P17	Q7270	1.0	'building'@en	'country'@en	'republic'@en
+Q44613	P17	Q1323642	1.0	'monastery'@en	'country'@en	'transcontinental country'@en
+Q44613	P17	Q179164	1.0	'monastery'@en	'country'@en	'unitary state'@en
+Q44613	P17	Q236036	1.0	'monastery'@en	'country'@en	'republics of the Soviet Union'@en
+Q44613	P17	Q3624078	1.0	'monastery'@en	'country'@en	'sovereign state'@en
+Q44613	P17	Q4209223	1.0	'monastery'@en	'country'@en	'Rechtsstaat'@en
+Q44613	P17	Q6256	1.0	'monastery'@en	'country'@en	'country'@en
+Q44613	P17	Q7270	1.0	'monastery'@en	'country'@en	'republic'@en
+Q481289	P17	Q123480	1.0	'official residence'@en	'country'@en	'landlocked country'@en
+Q481289	P17	Q3624078	1.0	'official residence'@en	'country'@en	'sovereign state'@en
+Q481289	P17	Q4209223	1.0	'official residence'@en	'country'@en	'Rechtsstaat'@en
+Q481289	P17	Q6256	1.0	'official residence'@en	'country'@en	'country'@en
+Q481289	P17	Q7270	1.0	'official residence'@en	'country'@en	'republic'@en
+Q481289	P17	Q7275	1.0	'official residence'@en	'country'@en	'state'@en
+Q486972	P17	Q112099	1.0	'human settlement'@en	'country'@en	'island nation'@en
+Q486972	P17	Q1250464	1.0	'human settlement'@en	'country'@en	'realm'@en
+Q486972	P17	Q51576574	1.0	'human settlement'@en	'country'@en	'Mediterranean country'@en
+Q489357	P17	Q112099	1.0	'farmhouse'@en	'country'@en	'island nation'@en
+Q489357	P17	Q1250464	1.0	'farmhouse'@en	'country'@en	'realm'@en
+Q489357	P17	Q20181813	1.0	'farmhouse'@en	'country'@en	'colonial power'@en
+Q489357	P17	Q202686	1.0	'farmhouse'@en	'country'@en	'Commonwealth realm'@en
+Q489357	P17	Q3624078	1.0	'farmhouse'@en	'country'@en	'sovereign state'@en
+Q489357	P17	Q6256	1.0	'farmhouse'@en	'country'@en	'country'@en
+Q532	P17	Q112099	1.0	'village'@en	'country'@en	'island nation'@en
+Q532	P17	Q1250464	1.0	'village'@en	'country'@en	'realm'@en
+Q532	P17	Q20181813	1.0	'village'@en	'country'@en	'colonial power'@en
+Q532	P17	Q202686	1.0	'village'@en	'country'@en	'Commonwealth realm'@en
+Q532	P17	Q3624078	1.0	'village'@en	'country'@en	'sovereign state'@en
+Q532	P17	Q6256	1.0	'village'@en	'country'@en	'country'@en
+Q543654	P17	Q123480	1.0	'rathaus'@en	'country'@en	'landlocked country'@en
+Q543654	P17	Q165116	1.0	'rathaus'@en	'country'@en	'grand duchy'@en
+Q543654	P17	Q179164	1.0	'rathaus'@en	'country'@en	'unitary state'@en
+Q543654	P17	Q3624078	1.0	'rathaus'@en	'country'@en	'sovereign state'@en
+Q543654	P17	Q6256	1.0	'rathaus'@en	'country'@en	'country'@en
+Q570116	P17	Q179164	1.0	'tourist attraction'@en	'country'@en	'unitary state'@en
+Q570116	P17	Q63791824	1.0	'tourist attraction'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q57821	P17	Q112099	1.0	'fortification'@en	'country'@en	'island nation'@en
+Q57821	P17	Q1250464	1.0	'fortification'@en	'country'@en	'realm'@en
+Q57821	P17	Q20181813	1.0	'fortification'@en	'country'@en	'colonial power'@en
+Q57821	P17	Q202686	1.0	'fortification'@en	'country'@en	'Commonwealth realm'@en
+Q57821	P17	Q3624078	1.0	'fortification'@en	'country'@en	'sovereign state'@en
+Q57821	P17	Q6256	1.0	'fortification'@en	'country'@en	'country'@en
+Q57831	P17	Q112099	1.0	'fortress'@en	'country'@en	'island nation'@en
+Q57831	P17	Q1250464	1.0	'fortress'@en	'country'@en	'realm'@en
+Q57831	P17	Q1520223	1.0	'fortress'@en	'country'@en	'constitutional republic'@en
+Q57831	P17	Q20181813	1.0	'fortress'@en	'country'@en	'colonial power'@en
+Q57831	P17	Q202686	1.0	'fortress'@en	'country'@en	'Commonwealth realm'@en
+Q57831	P17	Q51576574	1.0	'fortress'@en	'country'@en	'Mediterranean country'@en
+Q615810	P17	Q1250464	1.0	'water castle'@en	'country'@en	'realm'@en
+Q615810	P17	Q185441	1.0	'water castle'@en	'country'@en	'member state of the european union'@en
+Q615810	P17	Q20181813	1.0	'water castle'@en	'country'@en	'colonial power'@en
+Q615810	P17	Q3624078	1.0	'water castle'@en	'country'@en	'sovereign state'@en
+Q615810	P17	Q43702	1.0	'water castle'@en	'country'@en	'federation'@en
+Q615810	P17	Q6256	1.0	'water castle'@en	'country'@en	'country'@en
+Q62832	P17	Q112099	1.0	'observatory'@en	'country'@en	'island nation'@en
+Q62832	P17	Q3624078	1.0	'observatory'@en	'country'@en	'sovereign state'@en
+Q62832	P17	Q6256	1.0	'observatory'@en	'country'@en	'country'@en
+Q7335033	P17	Q112099	1.0	'ringwork castle'@en	'country'@en	'island nation'@en
+Q7335033	P17	Q1250464	1.0	'ringwork castle'@en	'country'@en	'realm'@en
+Q7335033	P17	Q20181813	1.0	'ringwork castle'@en	'country'@en	'colonial power'@en
+Q7335033	P17	Q202686	1.0	'ringwork castle'@en	'country'@en	'Commonwealth realm'@en
+Q7335033	P17	Q3624078	1.0	'ringwork castle'@en	'country'@en	'sovereign state'@en
+Q7335033	P17	Q6256	1.0	'ringwork castle'@en	'country'@en	'country'@en
+Q744099	P17	Q179164	1.0	'hillfort'@en	'country'@en	'unitary state'@en
+Q744099	P17	Q4209223	1.0	'hillfort'@en	'country'@en	'Rechtsstaat'@en
+Q744099	P17	Q43702	1.0	'hillfort'@en	'country'@en	'federation'@en
+Q744099	P17	Q619610	1.0	'hillfort'@en	'country'@en	'social state'@en
+Q744099	P17	Q7270	1.0	'hillfort'@en	'country'@en	'republic'@en
+Q751876	P17	Q1250464	1.0	'château'@en	'country'@en	'realm'@en
+Q751876	P17	Q15304003	1.0	'château'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q751876	P17	Q185441	1.0	'château'@en	'country'@en	'member state of the european union'@en
+Q7963015	P17	Q112099	1.0	'walled garden'@en	'country'@en	'island nation'@en
+Q7963015	P17	Q1250464	1.0	'walled garden'@en	'country'@en	'realm'@en
+Q7963015	P17	Q20181813	1.0	'walled garden'@en	'country'@en	'colonial power'@en
+Q7963015	P17	Q202686	1.0	'walled garden'@en	'country'@en	'Commonwealth realm'@en
+Q7963015	P17	Q3624078	1.0	'walled garden'@en	'country'@en	'sovereign state'@en
+Q7963015	P17	Q6256	1.0	'walled garden'@en	'country'@en	'country'@en
+Q811165	P17	Q3624078	1.0	'architectural heritage monument'@en	'country'@en	'sovereign state'@en
+Q811165	P17	Q6256	1.0	'architectural heritage monument'@en	'country'@en	'country'@en
+Q811165	P17	Q63791824	1.0	'architectural heritage monument'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q81917	P17	Q1250464	1.0	'fortified tower'@en	'country'@en	'realm'@en
+Q81917	P17	Q3624078	1.0	'fortified tower'@en	'country'@en	'sovereign state'@en
+Q81917	P17	Q51576574	1.0	'fortified tower'@en	'country'@en	'Mediterranean country'@en
+Q81917	P17	Q6256	1.0	'fortified tower'@en	'country'@en	'country'@en
+Q839954	P17	Q123480	1.0	'archaeological site'@en	'country'@en	'landlocked country'@en
+Q839954	P17	Q1323642	1.0	'archaeological site'@en	'country'@en	'transcontinental country'@en
+Q839954	P17	Q15634554	1.0	'archaeological site'@en	'country'@en	'state with limited recognition'@en
+Q839954	P17	Q339834	1.0	'archaeological site'@en	'country'@en	'regional power'@en
+Q839954	P17	Q51576574	1.0	'archaeological site'@en	'country'@en	'Mediterranean country'@en
+Q839954	P17	Q859563	1.0	'archaeological site'@en	'country'@en	'secular state'@en
+Q8502	P17	Q112099	1.0	'mountain'@en	'country'@en	'island nation'@en
+Q8502	P17	Q1250464	1.0	'mountain'@en	'country'@en	'realm'@en
+Q8502	P17	Q20181813	1.0	'mountain'@en	'country'@en	'colonial power'@en
+Q8502	P17	Q202686	1.0	'mountain'@en	'country'@en	'Commonwealth realm'@en
+Q8502	P17	Q3624078	1.0	'mountain'@en	'country'@en	'sovereign state'@en
+Q8502	P17	Q6256	1.0	'mountain'@en	'country'@en	'country'@en
+Q8719053	P17	Q112099	1.0	'music venue'@en	'country'@en	'island nation'@en
+Q8719053	P17	Q3624078	1.0	'music venue'@en	'country'@en	'sovereign state'@en
+Q8719053	P17	Q6256	1.0	'music venue'@en	'country'@en	'country'@en
+Q879050	P17	Q63791824	1.0	'manor house'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q879050	P17	Q7270	1.0	'manor house'@en	'country'@en	'republic'@en
+Q907116	P17	Q1250464	1.0	'National monument of Spain'@en	'country'@en	'realm'@en
+Q907116	P17	Q3624078	1.0	'National monument of Spain'@en	'country'@en	'sovereign state'@en
+Q907116	P17	Q51576574	1.0	'National monument of Spain'@en	'country'@en	'Mediterranean country'@en
+Q907116	P17	Q6256	1.0	'National monument of Spain'@en	'country'@en	'country'@en
+Q91165	P17	Q20181813	1.0	'keep'@en	'country'@en	'colonial power'@en
+Q91165	P17	Q3624078	1.0	'keep'@en	'country'@en	'sovereign state'@en
+Q91165	P17	Q51576574	1.0	'keep'@en	'country'@en	'Mediterranean country'@en
+Q91165	P17	Q6256	1.0	'keep'@en	'country'@en	'country'@en
+Q91165	P17	Q7270	1.0	'keep'@en	'country'@en	'republic'@en
+Q92086	P17	Q112099	1.0	'promontory fort'@en	'country'@en	'island nation'@en
+Q92086	P17	Q1250464	1.0	'promontory fort'@en	'country'@en	'realm'@en
+Q92086	P17	Q20181813	1.0	'promontory fort'@en	'country'@en	'colonial power'@en
+Q92086	P17	Q202686	1.0	'promontory fort'@en	'country'@en	'Commonwealth realm'@en
+Q92086	P17	Q3624078	1.0	'promontory fort'@en	'country'@en	'sovereign state'@en
+Q92086	P17	Q6256	1.0	'promontory fort'@en	'country'@en	'country'@en
+Q96211395	P17	Q179164	1.0	'heritage site in Sweden'@en	'country'@en	'unitary state'@en
+Q96211395	P17	Q3624078	1.0	'heritage site in Sweden'@en	'country'@en	'sovereign state'@en
+Q96211395	P17	Q6256	1.0	'heritage site in Sweden'@en	'country'@en	'country'@en
+Q96211395	P17	Q63791824	1.0	'heritage site in Sweden'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q23413	P1566	external-id	369.0	'castle'@en	'GeoNames ID'@en	
+Q839954	P1566	external-id	21.0	'archaeological site'@en	'GeoNames ID'@en	
+Q2087181	P1566	external-id	19.0	'historic house museum'@en	'GeoNames ID'@en	
+Q1343246	P1566	external-id	10.0	'English country house'@en	'GeoNames ID'@en	
+Q92062	P1566	external-id	7.0	'motte-and-bailey castle'@en	'GeoNames ID'@en	
+Q109607	P1566	external-id	5.0	'ruins'@en	'GeoNames ID'@en	
+Q32164125	P1566	external-id	4.0	'fortified manor house'@en	'GeoNames ID'@en	
+Q33506	P1566	external-id	4.0	'museum'@en	'GeoNames ID'@en	
+Q5267014	P1566	external-id	4.0	'Device Fort'@en	'GeoNames ID'@en	
+Q19860854	P1566	external-id	3.0	'destroyed building or structure'@en	'GeoNames ID'@en	
+Q2772772	P1566	external-id	3.0	'military museum'@en	'GeoNames ID'@en	
+Q751876	P1566	external-id	3.0	'château'@en	'GeoNames ID'@en	
+Q879050	P1566	external-id	3.0	'manor house'@en	'GeoNames ID'@en	
+Q17715832	P1566	external-id	2.0	'castle ruin'@en	'GeoNames ID'@en	
+Q1923257	P1566	external-id	2.0	'hall house'@en	'GeoNames ID'@en	
+Q27686	P1566	external-id	2.0	'hotel'@en	'GeoNames ID'@en	
+Q4989906	P1566	external-id	2.0	'monument'@en	'GeoNames ID'@en	
+Q570116	P1566	external-id	2.0	'tourist attraction'@en	'GeoNames ID'@en	
+Q744099	P1566	external-id	2.0	'hillfort'@en	'GeoNames ID'@en	
+Q1007870	P1566	external-id	1.0	'art gallery'@en	'GeoNames ID'@en	
+Q1200957	P1566	external-id	1.0	'tourist destination'@en	'GeoNames ID'@en	
+Q1423423	P1566	external-id	1.0	'Château'@en	'GeoNames ID'@en	
+Q1497375	P1566	external-id	1.0	'architectural ensemble'@en	'GeoNames ID'@en	
+Q1595639	P1566	external-id	1.0	'local museum'@en	'GeoNames ID'@en	
+Q16560	P1566	external-id	1.0	'palace'@en	'GeoNames ID'@en	
+Q16884952	P1566	external-id	1.0	'country house'@en	'GeoNames ID'@en	
+Q180174	P1566	external-id	1.0	'folly'@en	'GeoNames ID'@en	
+Q19850578	P1566	external-id	1.0	'Chappe semaphore tower'@en	'GeoNames ID'@en	
+Q2065736	P1566	external-id	1.0	'cultural property'@en	'GeoNames ID'@en	
+Q207694	P1566	external-id	1.0	'art museum'@en	'GeoNames ID'@en	
+Q23442	P1566	external-id	1.0	'island'@en	'GeoNames ID'@en	
+Q24699794	P1566	external-id	1.0	'museum building'@en	'GeoNames ID'@en	
+Q28045079	P1566	external-id	1.0	'contour fort'@en	'GeoNames ID'@en	
+Q3329412	P1566	external-id	1.0	'archaeological museum'@en	'GeoNames ID'@en	
+Q3354019	P1566	external-id	1.0	'seat farm'@en	'GeoNames ID'@en	
+Q358	P1566	external-id	1.0	'heritage site'@en	'GeoNames ID'@en	
+Q3898745	P1566	external-id	1.0	'peel tower'@en	'GeoNames ID'@en	
+Q3947	P1566	external-id	1.0	'house'@en	'GeoNames ID'@en	
+Q481289	P1566	external-id	1.0	'official residence'@en	'GeoNames ID'@en	
+Q57831	P1566	external-id	1.0	'fortress'@en	'GeoNames ID'@en	
+Q62832	P1566	external-id	1.0	'observatory'@en	'GeoNames ID'@en	
+Q64995589	P1566	external-id	1.0	'country house hotel'@en	'GeoNames ID'@en	
+Q7335033	P1566	external-id	1.0	'ringwork castle'@en	'GeoNames ID'@en	
+Q81917	P1566	external-id	1.0	'fortified tower'@en	'GeoNames ID'@en	
+Q8719053	P1566	external-id	1.0	'music venue'@en	'GeoNames ID'@en	
+Q907116	P1566	external-id	1.0	'National monument of Spain'@en	'GeoNames ID'@en	
+Q91312	P1566	external-id	1.0	'tower house'@en	'GeoNames ID'@en	
+Q92026	P1566	external-id	1.0	'Japanese castle'@en	'GeoNames ID'@en	
+Q96211395	P1566	external-id	1.0	'heritage site in Sweden'@en	'GeoNames ID'@en	
+Q23413	P1435	Q30634609	183.0	'castle'@en	'heritage designation'@en	'heritage designation'@en
+Q2087181	P1435	Q30634609	18.0	'historic house museum'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q19386377	14.0	'castle'@en	'heritage designation'@en	'register'@en
+Q4989906	P1435	Q30634609	11.0	'monument'@en	'heritage designation'@en	'heritage designation'@en
+Q839954	P1435	Q30634609	11.0	'archaeological site'@en	'heritage designation'@en	'heritage designation'@en
+Q1343246	P1435	Q30634609	10.0	'English country house'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q23712	8.0	'castle'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q23413	P1435	Q74817647	8.0	'castle'@en	'heritage designation'@en	'aspect in a geographic region'@en
+Q180174	P1435	Q30634609	6.0	'folly'@en	'heritage designation'@en	'heritage designation'@en
+Q751876	P1435	Q19386377	6.0	'château'@en	'heritage designation'@en	'register'@en
+Q109607	P1435	Q30634609	5.0	'ruins'@en	'heritage designation'@en	'heritage designation'@en
+Q210272	P1435	Q30634609	5.0	'cultural heritage'@en	'heritage designation'@en	'heritage designation'@en
+Q210272	P1435	Q45580643	5.0	'cultural heritage'@en	'heritage designation'@en	'national heritage site'@en
+Q23413	P1435	Q45580643	5.0	'castle'@en	'heritage designation'@en	'national heritage site'@en
+Q5267014	P1435	Q30634609	5.0	'Device Fort'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q13406463	4.0	'castle'@en	'heritage designation'@en	'Wikimedia list article'@en
+Q2772772	P1435	Q30634609	4.0	'military museum'@en	'heritage designation'@en	'heritage designation'@en
+Q109607	P1435	Q19386377	3.0	'ruins'@en	'heritage designation'@en	'register'@en
+Q17715832	P1435	Q74817647	3.0	'castle ruin'@en	'heritage designation'@en	'aspect in a geographic region'@en
+Q751876	P1435	Q74817647	3.0	'château'@en	'heritage designation'@en	'aspect in a geographic region'@en
+Q879050	P1435	Q30634609	3.0	'manor house'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q2352616	2.0	'castle'@en	'heritage designation'@en	'catalogue'@en
+Q23413	P1435	Q5162954	2.0	'castle'@en	'heritage designation'@en	'conservation designation'@en
+Q32164125	P1435	Q30634609	2.0	'fortified manor house'@en	'heritage designation'@en	'heritage designation'@en
+Q4989906	P1435	Q23712	2.0	'monument'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q64995589	P1435	Q30634609	2.0	'country house hotel'@en	'heritage designation'@en	'heritage designation'@en
+Q92062	P1435	Q30634609	2.0	'motte-and-bailey castle'@en	'heritage designation'@en	'heritage designation'@en
+Q1128397	P1435	Q30634609	1.0	'convent'@en	'heritage designation'@en	'heritage designation'@en
+Q13402009	P1435	Q30634609	1.0	'apartment building'@en	'heritage designation'@en	'heritage designation'@en
+Q1595639	P1435	Q30634609	1.0	'local museum'@en	'heritage designation'@en	'heritage designation'@en
+Q16560	P1435	Q2352616	1.0	'palace'@en	'heritage designation'@en	'catalogue'@en
+Q16735822	P1435	Q13406463	1.0	'history museum'@en	'heritage designation'@en	'Wikimedia list article'@en
+Q16735822	P1435	Q30634609	1.0	'history museum'@en	'heritage designation'@en	'heritage designation'@en
+Q16735822	P1435	Q618123	1.0	'history museum'@en	'heritage designation'@en	'geographical feature'@en
+Q16884952	P1435	Q30634609	1.0	'country house'@en	'heritage designation'@en	'heritage designation'@en
+Q16970	P1435	Q23712	1.0	'church building'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q16970	P1435	Q30634609	1.0	'church building'@en	'heritage designation'@en	'heritage designation'@en
+Q17715832	P1435	Q30634609	1.0	'castle ruin'@en	'heritage designation'@en	'heritage designation'@en
+Q19850578	P1435	Q23712	1.0	'Chappe semaphore tower'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q19850578	P1435	Q30634609	1.0	'Chappe semaphore tower'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q4167836	1.0	'castle'@en	'heritage designation'@en	'Wikimedia category'@en
+Q23413	P1435	Q618123	1.0	'castle'@en	'heritage designation'@en	'geographical feature'@en
+Q24699794	P1435	Q23712	1.0	'museum building'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q24699794	P1435	Q30634609	1.0	'museum building'@en	'heritage designation'@en	'heritage designation'@en
+Q28045079	P1435	Q30634609	1.0	'contour fort'@en	'heritage designation'@en	'heritage designation'@en
+Q33506	P1435	Q30634609	1.0	'museum'@en	'heritage designation'@en	'heritage designation'@en
+Q358	P1435	Q23712	1.0	'heritage site'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q358	P1435	Q30634609	1.0	'heritage site'@en	'heritage designation'@en	'heritage designation'@en
+Q3898745	P1435	Q30634609	1.0	'peel tower'@en	'heritage designation'@en	'heritage designation'@en
+Q3947	P1435	Q30634609	1.0	'house'@en	'heritage designation'@en	'heritage designation'@en
+Q44613	P1435	Q5162954	1.0	'monastery'@en	'heritage designation'@en	'conservation designation'@en
+Q486972	P1435	Q30634609	1.0	'human settlement'@en	'heritage designation'@en	'heritage designation'@en
+Q570116	P1435	Q30634609	1.0	'tourist attraction'@en	'heritage designation'@en	'heritage designation'@en
+Q57831	P1435	Q13406463	1.0	'fortress'@en	'heritage designation'@en	'Wikimedia list article'@en
+Q57831	P1435	Q30634609	1.0	'fortress'@en	'heritage designation'@en	'heritage designation'@en
+Q7335033	P1435	Q30634609	1.0	'ringwork castle'@en	'heritage designation'@en	'heritage designation'@en
+Q81917	P1435	Q30634609	1.0	'fortified tower'@en	'heritage designation'@en	'heritage designation'@en
+Q839954	P1435	Q5162954	1.0	'archaeological site'@en	'heritage designation'@en	'conservation designation'@en
+Q907116	P1435	Q23712	1.0	'National monument of Spain'@en	'heritage designation'@en	'Bien de Interés Cultural'@en
+Q907116	P1435	Q30634609	1.0	'National monument of Spain'@en	'heritage designation'@en	'heritage designation'@en
+Q91312	P1435	Q30634609	1.0	'tower house'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P131	Q15060255	216.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q23413	P131	Q1115575	199.0	'castle'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q23413	P131	Q532	141.0	'castle'@en	'located in the administrative territorial entity'@en	'village'@en
+Q23413	P131	Q5124673	122.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q23413	P131	Q202435	83.0	'castle'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q23413	P131	Q2138167	73.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q23413	P131	Q21457810	70.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q23413	P131	Q3957	70.0	'castle'@en	'located in the administrative territorial entity'@en	'town'@en
+Q23413	P131	Q23058	56.0	'castle'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q23413	P131	Q70208	54.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q23413	P131	Q7309443	48.0	'castle'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q23413	P131	Q179872	42.0	'castle'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q23413	P131	Q2630741	37.0	'castle'@en	'located in the administrative territorial entity'@en	'community'@en
+Q23413	P131	Q667509	35.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q23413	P131	Q515	30.0	'castle'@en	'located in the administrative territorial entity'@en	'city'@en
+Q23413	P131	Q486972	22.0	'castle'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q811979	P131	Q70208	21.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q811979	P131	Q23058	20.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q23413	P131	Q42744322	19.0	'castle'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q2087181	P131	Q1115575	18.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q23413	P131	Q1549591	18.0	'castle'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q23413	P131	Q34763	18.0	'castle'@en	'located in the administrative territorial entity'@en	'peninsula'@en
+Q23413	P131	Q1221156	17.0	'castle'@en	'located in the administrative territorial entity'@en	'federal state of Germany'@en
+Q23413	P131	Q2919801	17.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Luxembourg'@en
+Q23413	P131	Q484170	16.0	'castle'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q23413	P131	Q180673	15.0	'castle'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q23413	P131	Q2074737	15.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q17715832	P131	Q70208	13.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q23413	P131	Q13539802	13.0	'castle'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q1343246	P131	Q1115575	12.0	'English country house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q17715832	P131	Q23058	12.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q23413	P131	Q262166	12.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Germany'@en
+Q23413	P131	Q562061	12.0	'castle'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q23413	P131	Q1187580	11.0	'castle'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q23413	P131	Q7897276	11.0	'castle'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q23413	P131	Q1006876	10.0	'castle'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q23413	P131	Q1802801	10.0	'castle'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q23413	P131	Q54935504	10.0	'castle'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q839954	P131	Q2630741	10.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'community'@en
+Q4989906	P131	Q2074737	9.0	'monument'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q1343246	P131	Q532	8.0	'English country house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q2087181	P131	Q3957	8.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q23413	P131	Q1357964	8.0	'castle'@en	'located in the administrative territorial entity'@en	'county town'@en
+Q23413	P131	Q15979307	8.0	'castle'@en	'located in the administrative territorial entity'@en	'principal area of Wales'@en
+Q33506	P131	Q667509	8.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q109607	P131	Q667509	7.0	'ruins'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q2087181	P131	Q532	7.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'village'@en
+Q23413	P131	Q127448	7.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q23413	P131	Q33146843	7.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q23413	P131	Q5084	7.0	'castle'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q23413	P131	Q5153359	7.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of the Czech Republic'@en
+Q23413	P131	Q56061	7.0	'castle'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q23413	P131	Q747074	7.0	'castle'@en	'located in the administrative territorial entity'@en	'commune of Italy'@en
+Q23413	P131	Q902814	7.0	'castle'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q751876	P131	Q484170	7.0	'château'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q839954	P131	Q1115575	7.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q839954	P131	Q3957	7.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'town'@en
+Q839954	P131	Q532	7.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'village'@en
+Q92062	P131	Q1115575	7.0	'motte-and-bailey castle'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q23413	P131	Q18511725	6.0	'castle'@en	'located in the administrative territorial entity'@en	'market town'@en
+Q23413	P131	Q21503295	6.0	'castle'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q23413	P131	Q328584	6.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Slovenia'@en
+Q23413	P131	Q493522	6.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q23413	P131	Q67376938	6.0	'castle'@en	'located in the administrative territorial entity'@en	'historic county of the United Kingdom'@en
+Q5267014	P131	Q1115575	6.0	'Device Fort'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q751876	P131	Q2919801	6.0	'château'@en	'located in the administrative territorial entity'@en	'municipality of Luxembourg'@en
+Q839954	P131	Q15060255	6.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q180174	P131	Q1115575	5.0	'folly'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q2065736	P131	Q667509	5.0	'cultural property'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q210272	P131	Q1131296	5.0	'cultural heritage'@en	'located in the administrative territorial entity'@en	'freguesia of Portugal'@en
+Q23413	P131	Q1131296	5.0	'castle'@en	'located in the administrative territorial entity'@en	'freguesia of Portugal'@en
+Q23413	P131	Q1317848	5.0	'castle'@en	'located in the administrative territorial entity'@en	'county of Northern Ireland'@en
+Q23413	P131	Q134626	5.0	'castle'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q23413	P131	Q5119	5.0	'castle'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q5267014	P131	Q3957	5.0	'Device Fort'@en	'located in the administrative territorial entity'@en	'town'@en
+Q839954	P131	Q5124673	5.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q109607	P131	Q13539802	4.0	'ruins'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q11691318	P131	Q1221156	4.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'federal state of Germany'@en
+Q17715832	P131	Q5153359	4.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'municipality of the Czech Republic'@en
+Q180174	P131	Q532	4.0	'folly'@en	'located in the administrative territorial entity'@en	'village'@en
+Q23413	P131	Q1002812	4.0	'castle'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q23413	P131	Q1136601	4.0	'castle'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q23413	P131	Q1187811	4.0	'castle'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q23413	P131	Q15273785	4.0	'castle'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q23413	P131	Q15334	4.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Poland'@en
+Q23413	P131	Q21869758	4.0	'castle'@en	'located in the administrative territorial entity'@en	'delegated commune'@en
+Q23413	P131	Q3032132	4.0	'castle'@en	'located in the administrative territorial entity'@en	'district of the canton of Vaud'@en
+Q23413	P131	Q57053	4.0	'castle'@en	'located in the administrative territorial entity'@en	'county of Croatia'@en
+Q2772772	P131	Q1115575	4.0	'military museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q33506	P131	Q562061	4.0	'museum'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q751876	P131	Q667509	4.0	'château'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q91312	P131	Q15060255	4.0	'tower house'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q91312	P131	Q5124673	4.0	'tower house'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q109607	P131	Q1115575	3.0	'ruins'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q109607	P131	Q2919801	3.0	'ruins'@en	'located in the administrative territorial entity'@en	'municipality of Luxembourg'@en
+Q109607	P131	Q532	3.0	'ruins'@en	'located in the administrative territorial entity'@en	'village'@en
+Q19860854	P131	Q15060255	3.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q23413	P131	Q11732217	3.0	'castle'@en	'located in the administrative territorial entity'@en	'Flecken'@en
+Q23413	P131	Q12131624	3.0	'castle'@en	'located in the administrative territorial entity'@en	'city ​​in Ukraine'@en
+Q23413	P131	Q13455770	3.0	'castle'@en	'located in the administrative territorial entity'@en	'town council in the Republic of Ireland'@en
+Q23413	P131	Q137535	3.0	'castle'@en	'located in the administrative territorial entity'@en	'county of Iran'@en
+Q23413	P131	Q14770218	3.0	'castle'@en	'located in the administrative territorial entity'@en	'cantonal capital of Switzerland'@en
+Q23413	P131	Q15105893	3.0	'castle'@en	'located in the administrative territorial entity'@en	'town in Croatia'@en
+Q23413	P131	Q15584664	3.0	'castle'@en	'located in the administrative territorial entity'@en	'city under municipality jurisdiction in Latvia'@en
+Q23413	P131	Q15978299	3.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality with town privileges in the Czech Republic'@en
+Q23413	P131	Q162620	3.0	'castle'@en	'located in the administrative territorial entity'@en	'province of Spain'@en
+Q23413	P131	Q16362394	3.0	'castle'@en	'located in the administrative territorial entity'@en	'large village in Latvia'@en
+Q23413	P131	Q17376095	3.0	'castle'@en	'located in the administrative territorial entity'@en	'cadastral municipality of Austria'@en
+Q23413	P131	Q188509	3.0	'castle'@en	'located in the administrative territorial entity'@en	'suburb'@en
+Q23413	P131	Q19953632	3.0	'castle'@en	'located in the administrative territorial entity'@en	'former administrative territorial entity'@en
+Q23413	P131	Q2039348	3.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q23413	P131	Q22580836	3.0	'castle'@en	'located in the administrative territorial entity'@en	'village in Latvia'@en
+Q23413	P131	Q2327515	3.0	'castle'@en	'located in the administrative territorial entity'@en	'city district of Baden-Württemberg'@en
+Q23413	P131	Q253030	3.0	'castle'@en	'located in the administrative territorial entity'@en	'major regional center'@en
+Q23413	P131	Q28122896	3.0	'castle'@en	'located in the administrative territorial entity'@en	'rural municipality of Estonia'@en
+Q23413	P131	Q3336843	3.0	'castle'@en	'located in the administrative territorial entity'@en	'constituent country of the United Kingdom'@en
+Q23413	P131	Q494721	3.0	'castle'@en	'located in the administrative territorial entity'@en	'city of Japan'@en
+Q23413	P131	Q57058	3.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Croatia'@en
+Q23413	P131	Q61089180	3.0	'castle'@en	'located in the administrative territorial entity'@en	'part of municipality in the Czech Republic'@en
+Q23413	P131	Q685309	3.0	'castle'@en	'located in the administrative territorial entity'@en	'former municipality of Switzerland'@en
+Q23413	P131	Q707813	3.0	'castle'@en	'located in the administrative territorial entity'@en	'Hanseatic city'@en
+Q23413	P131	Q7216840	3.0	'castle'@en	'located in the administrative territorial entity'@en	'urban-type settlement in Ukraine'@en
+Q23413	P131	Q769603	3.0	'castle'@en	'located in the administrative territorial entity'@en	'non-metropolitan county'@en
+Q23413	P131	Q856076	3.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q2772772	P131	Q3957	3.0	'military museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q32164125	P131	Q2630741	3.0	'fortified manor house'@en	'located in the administrative territorial entity'@en	'community'@en
+Q33506	P131	Q13539802	3.0	'museum'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q751876	P131	Q13539802	3.0	'château'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q751876	P131	Q21869758	3.0	'château'@en	'located in the administrative territorial entity'@en	'delegated commune'@en
+Q751876	P131	Q5153359	3.0	'château'@en	'located in the administrative territorial entity'@en	'municipality of the Czech Republic'@en
+Q811979	P131	Q3032132	3.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'district of the canton of Vaud'@en
+Q811979	P131	Q54935504	3.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q811979	P131	Q56061	3.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q839954	P131	Q15979307	3.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'principal area of Wales'@en
+Q91312	P131	Q2138167	3.0	'tower house'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q109607	P131	Q3957	2.0	'ruins'@en	'located in the administrative territorial entity'@en	'town'@en
+Q109607	P131	Q562061	2.0	'ruins'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q1195705	P131	Q667509	2.0	'rocca'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q1343246	P131	Q3957	2.0	'English country house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q1595639	P131	Q1115575	2.0	'local museum'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1595639	P131	Q3957	2.0	'local museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q17715832	P131	Q1115575	2.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q17715832	P131	Q179872	2.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q17715832	P131	Q532	2.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'village'@en
+Q17715832	P131	Q6784672	2.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'municipality of Slovakia'@en
+Q1923257	P131	Q15060255	2.0	'hall house'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q1923257	P131	Q202435	2.0	'hall house'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q1923257	P131	Q21457810	2.0	'hall house'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q1923257	P131	Q5124673	2.0	'hall house'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q19860854	P131	Q179872	2.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q19860854	P131	Q202435	2.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q19860854	P131	Q21457810	2.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q2065736	P131	Q13539802	2.0	'cultural property'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q2065736	P131	Q562061	2.0	'cultural property'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q2087181	P131	Q1006876	2.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q2087181	P131	Q1187580	2.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q23413	P131	Q1066984	2.0	'castle'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q23413	P131	Q1074523	2.0	'castle'@en	'located in the administrative territorial entity'@en	'planned community'@en
+Q23413	P131	Q109329953	2.0	'castle'@en	'located in the administrative territorial entity'@en	'state city of Latvia'@en
+Q23413	P131	Q1147395	2.0	'castle'@en	'located in the administrative territorial entity'@en	'district of Turkey'@en
+Q23413	P131	Q13220204	2.0	'castle'@en	'located in the administrative territorial entity'@en	'second-level administrative country subdivision'@en
+Q23413	P131	Q13417250	2.0	'castle'@en	'located in the administrative territorial entity'@en	'district of Azerbaijan'@en
+Q23413	P131	Q14784328	2.0	'castle'@en	'located in the administrative territorial entity'@en	'state capital in Germany'@en
+Q23413	P131	Q15127838	2.0	'castle'@en	'located in the administrative territorial entity'@en	'city under state jurisdiction in Latvia'@en
+Q23413	P131	Q16739079	2.0	'castle'@en	'located in the administrative territorial entity'@en	'municipalities of Cyprus Republic'@en
+Q23413	P131	Q17276572	2.0	'castle'@en	'located in the administrative territorial entity'@en	'constituency of the canton of St. Gallen'@en
+Q23413	P131	Q203300	2.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Liechtenstein'@en
+Q23413	P131	Q20871353	2.0	'castle'@en	'located in the administrative territorial entity'@en	'cadastral area in the Czech Republic'@en
+Q23413	P131	Q2264924	2.0	'castle'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q23413	P131	Q253019	2.0	'castle'@en	'located in the administrative territorial entity'@en	'Ortsteil'@en
+Q23413	P131	Q2561694	2.0	'castle'@en	'located in the administrative territorial entity'@en	'city-kingdom of Cyprus'@en
+Q23413	P131	Q2616791	2.0	'castle'@en	'located in the administrative territorial entity'@en	'urban municipality of Poland'@en
+Q23413	P131	Q29556224	2.0	'castle'@en	'located in the administrative territorial entity'@en	'city in Cyprus'@en
+Q23413	P131	Q3032131	2.0	'castle'@en	'located in the administrative territorial entity'@en	'district of the canton of Solothurn'@en
+Q23413	P131	Q3257686	2.0	'castle'@en	'located in the administrative territorial entity'@en	'locality'@en
+Q23413	P131	Q33837	2.0	'castle'@en	'located in the administrative territorial entity'@en	'archipelago'@en
+Q23413	P131	Q3558970	2.0	'castle'@en	'located in the administrative territorial entity'@en	'village of Poland'@en
+Q23413	P131	Q3910694	2.0	'castle'@en	'located in the administrative territorial entity'@en	'civil parishes of Ireland'@en
+Q23413	P131	Q48336	2.0	'castle'@en	'located in the administrative territorial entity'@en	'province of Turkey'@en
+Q23413	P131	Q518261	2.0	'castle'@en	'located in the administrative territorial entity'@en	'cultural area'@en
+Q23413	P131	Q56398194	2.0	'castle'@en	'located in the administrative territorial entity'@en	'core municipal part with the same name as the municipality in the Czech Republic'@en
+Q23413	P131	Q6083725	2.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish islands area'@en
+Q23413	P131	Q6256	2.0	'castle'@en	'located in the administrative territorial entity'@en	'country'@en
+Q23413	P131	Q630638	2.0	'castle'@en	'located in the administrative territorial entity'@en	'preserved county of Wales'@en
+Q23413	P131	Q6784672	2.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Slovakia'@en
+Q23413	P131	Q6882870	2.0	'castle'@en	'located in the administrative territorial entity'@en	'designated spa town'@en
+Q23413	P131	Q6960199	2.0	'castle'@en	'located in the administrative territorial entity'@en	'city municipality of Slovenia'@en
+Q23413	P131	Q79324274	2.0	'castle'@en	'located in the administrative territorial entity'@en	'city of raion subordinance'@en
+Q23413	P131	Q85637361	2.0	'castle'@en	'located in the administrative territorial entity'@en	'local government county in Ireland'@en
+Q23413	P131	Q925381	2.0	'castle'@en	'located in the administrative territorial entity'@en	'city with powiat rights'@en
+Q27686	P131	Q486972	2.0	'hotel'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q32164125	P131	Q532	2.0	'fortified manor house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q33506	P131	Q15060255	2.0	'museum'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q33506	P131	Q23058	2.0	'museum'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q33506	P131	Q5124673	2.0	'museum'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q33506	P131	Q54935504	2.0	'museum'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q33506	P131	Q70208	2.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q4989906	P131	Q33146843	2.0	'monument'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q64995589	P131	Q1115575	2.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q751876	P131	Q15978299	2.0	'château'@en	'located in the administrative territorial entity'@en	'municipality with town privileges in the Czech Republic'@en
+Q751876	P131	Q42744322	2.0	'château'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q751876	P131	Q902814	2.0	'château'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q80446812	P131	Q15060255	2.0	'motte'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q80446812	P131	Q5124673	2.0	'motte'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q839954	P131	Q18511725	2.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'market town'@en
+Q839954	P131	Q202435	2.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q839954	P131	Q2138167	2.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q839954	P131	Q21457810	2.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q839954	P131	Q42744322	2.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q879050	P131	Q1115575	2.0	'manor house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q879050	P131	Q532	2.0	'manor house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q92026	P131	Q494721	2.0	'Japanese castle'@en	'located in the administrative territorial entity'@en	'city of Japan'@en
+Q92062	P131	Q3957	2.0	'motte-and-bailey castle'@en	'located in the administrative territorial entity'@en	'town'@en
+Q92062	P131	Q532	2.0	'motte-and-bailey castle'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1007870	P131	Q179872	1.0	'art gallery'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q1015644	P131	Q127448	1.0	'Burgstall'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q10416961	P131	Q127448	1.0	'working life museum'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q1081138	P131	Q104251	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'county of Albania'@en
+Q1081138	P131	Q123266	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'district of Albania'@en
+Q1081138	P131	Q2008050	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'municipalities of Albania'@en
+Q1081138	P131	Q23058	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q1081138	P131	Q2989682	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'municipality of Kosovo'@en
+Q1081138	P131	Q3032132	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'district of the canton of Vaud'@en
+Q1081138	P131	Q515	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1081138	P131	Q54935504	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q1081138	P131	Q70208	1.0	'historic site'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q108325	P131	Q1802801	1.0	'chapel'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q108325	P131	Q667509	1.0	'chapel'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q109607	P131	Q1006876	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q109607	P131	Q104251	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'county of Albania'@en
+Q109607	P131	Q1187580	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q109607	P131	Q123266	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'district of Albania'@en
+Q109607	P131	Q127448	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q109607	P131	Q17376095	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'cadastral municipality of Austria'@en
+Q109607	P131	Q1802801	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q109607	P131	Q2008050	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'municipalities of Albania'@en
+Q109607	P131	Q203300	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'municipality of Liechtenstein'@en
+Q109607	P131	Q2140214	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'parish of Jersey'@en
+Q109607	P131	Q7897276	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q109607	P131	Q856076	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q109607	P131	Q902814	1.0	'ruins'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q1128397	P131	Q2074737	1.0	'convent'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q11691318	P131	Q106517174	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'Option municipality'@en
+Q11691318	P131	Q1066984	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q11691318	P131	Q14784328	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'state capital in Germany'@en
+Q11691318	P131	Q1549591	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q11691318	P131	Q2327515	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'city district of Baden-Württemberg'@en
+Q11691318	P131	Q253030	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'major regional center'@en
+Q11691318	P131	Q42744322	1.0	'cultural heritage monument in Germany'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q1195705	P131	Q1802801	1.0	'rocca'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q1195705	P131	Q562061	1.0	'rocca'@en	'located in the administrative territorial entity'@en	'market municipality'@en
+Q1200957	P131	Q261023	1.0	'tourist destination'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q1200957	P131	Q581830	1.0	'tourist destination'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q13402009	P131	Q1115575	1.0	'apartment building'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1343246	P131	Q1006876	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q1343246	P131	Q1136601	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q1343246	P131	Q1187580	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q1343246	P131	Q180673	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q1343246	P131	Q23442	1.0	'English country house'@en	'located in the administrative territorial entity'@en	'island'@en
+Q13955118	P131	Q15060255	1.0	'earthwork'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q13955118	P131	Q2138167	1.0	'earthwork'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q13955118	P131	Q5124673	1.0	'earthwork'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q1423423	P131	Q15060255	1.0	'Château'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q1423423	P131	Q2138167	1.0	'Château'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q1423423	P131	Q5124673	1.0	'Château'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q14528644	P131	Q15273785	1.0	'care center'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q14528644	P131	Q493522	1.0	'care center'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q1497375	P131	Q127448	1.0	'architectural ensemble'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q1497649	P131	Q23058	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q1497649	P131	Q54935504	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q1497649	P131	Q56061	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q1497649	P131	Q70208	1.0	'memory institution'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q156362	P131	Q23058	1.0	'winery'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q156362	P131	Q3032132	1.0	'winery'@en	'located in the administrative territorial entity'@en	'district of the canton of Vaud'@en
+Q156362	P131	Q70208	1.0	'winery'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q15710038	P131	Q134626	1.0	'hill castle'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q15710038	P131	Q19953632	1.0	'hill castle'@en	'located in the administrative territorial entity'@en	'former administrative territorial entity'@en
+Q15710038	P131	Q42744322	1.0	'hill castle'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q15710038	P131	Q707813	1.0	'hill castle'@en	'located in the administrative territorial entity'@en	'Hanseatic city'@en
+Q1595639	P131	Q1187580	1.0	'local museum'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q1595639	P131	Q13539802	1.0	'local museum'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q1595639	P131	Q19953632	1.0	'local museum'@en	'located in the administrative territorial entity'@en	'former administrative territorial entity'@en
+Q1595639	P131	Q667509	1.0	'local museum'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q16560	P131	Q261023	1.0	'palace'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q16560	P131	Q581830	1.0	'palace'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q16560	P131	Q79324274	1.0	'palace'@en	'located in the administrative territorial entity'@en	'city of raion subordinance'@en
+Q16735822	P131	Q1549591	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q16735822	P131	Q23058	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q16735822	P131	Q50330360	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q16735822	P131	Q5119	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q16735822	P131	Q54935504	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q16735822	P131	Q56061	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q16735822	P131	Q70208	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q16735822	P131	Q707813	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'Hanseatic city'@en
+Q16735822	P131	Q925381	1.0	'history museum'@en	'located in the administrative territorial entity'@en	'city with powiat rights'@en
+Q16884952	P131	Q1115575	1.0	'country house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q16884952	P131	Q3957	1.0	'country house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q16884952	P131	Q532	1.0	'country house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q16970	P131	Q33146843	1.0	'church building'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q17715832	P131	Q102496	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'parish'@en
+Q17715832	P131	Q15978299	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'municipality with town privileges in the Czech Republic'@en
+Q17715832	P131	Q15979307	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'principal area of Wales'@en
+Q17715832	P131	Q1802801	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q17715832	P131	Q3032131	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'district of the canton of Solothurn'@en
+Q17715832	P131	Q493522	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q17715832	P131	Q56061	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q17715832	P131	Q667509	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q17715832	P131	Q685309	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'former municipality of Switzerland'@en
+Q17715832	P131	Q902814	1.0	'castle ruin'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q180174	P131	Q1136601	1.0	'folly'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q180174	P131	Q3957	1.0	'folly'@en	'located in the administrative territorial entity'@en	'town'@en
+Q1970243	P131	Q13539802	1.0	'lowland castle'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q1970243	P131	Q667509	1.0	'lowland castle'@en	'located in the administrative territorial entity'@en	'municipality of Austria'@en
+Q19850578	P131	Q33146843	1.0	'Chappe semaphore tower'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q19860854	P131	Q1317848	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'county of Northern Ireland'@en
+Q19860854	P131	Q2138167	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q19860854	P131	Q21583365	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'city'@en
+Q19860854	P131	Q486972	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q19860854	P131	Q5124673	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q19860854	P131	Q67376938	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'historic county of the United Kingdom'@en
+Q19860854	P131	Q7216840	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'urban-type settlement in Ukraine'@en
+Q19860854	P131	Q7309443	1.0	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q2065736	P131	Q137535	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'county of Iran'@en
+Q2065736	P131	Q1802801	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q2065736	P131	Q261023	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q2065736	P131	Q3957	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'town'@en
+Q2065736	P131	Q581830	1.0	'cultural property'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q207694	P131	Q179872	1.0	'art museum'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q2087181	P131	Q7897276	1.0	'historic house museum'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q23413	P131	Q100341898	1.0	'castle'@en	'located in the administrative territorial entity'@en	'market municipality of Germany'@en
+Q23413	P131	Q1021711	1.0	'castle'@en	'located in the administrative territorial entity'@en	'seaside resort'@en
+Q23413	P131	Q102496	1.0	'castle'@en	'located in the administrative territorial entity'@en	'parish'@en
+Q23413	P131	Q104251	1.0	'castle'@en	'located in the administrative territorial entity'@en	'county of Albania'@en
+Q23413	P131	Q1054813	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Japan'@en
+Q23413	P131	Q1059478	1.0	'castle'@en	'located in the administrative territorial entity'@en	'town of Japan'@en
+Q23413	P131	Q106517174	1.0	'castle'@en	'located in the administrative territorial entity'@en	'Option municipality'@en
+Q23413	P131	Q1137833	1.0	'castle'@en	'located in the administrative territorial entity'@en	'core city of Japan'@en
+Q23413	P131	Q1151616	1.0	'castle'@en	'located in the administrative territorial entity'@en	'stateless nation'@en
+Q23413	P131	Q1180262	1.0	'castle'@en	'located in the administrative territorial entity'@en	'residenz'@en
+Q23413	P131	Q1195098	1.0	'castle'@en	'located in the administrative territorial entity'@en	'ward'@en
+Q23413	P131	Q1210300	1.0	'castle'@en	'located in the administrative territorial entity'@en	'mkhare'@en
+Q23413	P131	Q123266	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district of Albania'@en
+Q23413	P131	Q1234255	1.0	'castle'@en	'located in the administrative territorial entity'@en	'regional unit of Greece'@en
+Q23413	P131	Q123705	1.0	'castle'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q23413	P131	Q12397176	1.0	'castle'@en	'located in the administrative territorial entity'@en	'parish of Galicia'@en
+Q23413	P131	Q13218690	1.0	'castle'@en	'located in the administrative territorial entity'@en	'town in Hungary'@en
+Q23413	P131	Q13221722	1.0	'castle'@en	'located in the administrative territorial entity'@en	'third-level administrative country subdivision'@en
+Q23413	P131	Q13416557	1.0	'castle'@en	'located in the administrative territorial entity'@en	'Royal city in Polish–Lithuanian Commonwealth'@en
+Q23413	P131	Q13455560	1.0	'castle'@en	'located in the administrative territorial entity'@en	'Ceremonial cities of the Republic of Ireland'@en
+Q23413	P131	Q1349648	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Greece'@en
+Q23413	P131	Q1350181	1.0	'castle'@en	'located in the administrative territorial entity'@en	'shire of Scotland'@en
+Q23413	P131	Q137773	1.0	'castle'@en	'located in the administrative territorial entity'@en	'ward of Japan'@en
+Q23413	P131	Q149621	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district'@en
+Q23413	P131	Q15661340	1.0	'castle'@en	'located in the administrative territorial entity'@en	'ancient city'@en
+Q23413	P131	Q158490	1.0	'castle'@en	'located in the administrative territorial entity'@en	'Gaeltacht'@en
+Q23413	P131	Q16085106	1.0	'castle'@en	'located in the administrative territorial entity'@en	'local administrative entity'@en
+Q23413	P131	Q1637706	1.0	'castle'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q23413	P131	Q16858213	1.0	'castle'@en	'located in the administrative territorial entity'@en	'town in Romania'@en
+Q23413	P131	Q17301072	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district municipality of Lithuania'@en
+Q23413	P131	Q17364572	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district of Northern Ireland'@en
+Q23413	P131	Q17468533	1.0	'castle'@en	'located in the administrative territorial entity'@en	'former municipality of Finland'@en
+Q23413	P131	Q17601336	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q23413	P131	Q1776764	1.0	'castle'@en	'located in the administrative territorial entity'@en	'județ'@en
+Q23413	P131	Q18346616	1.0	'castle'@en	'located in the administrative territorial entity'@en	'part of municipality'@en
+Q23413	P131	Q18663579	1.0	'castle'@en	'located in the administrative territorial entity'@en	'former municipality of Norway'@en
+Q23413	P131	Q2008050	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipalities of Albania'@en
+Q23413	P131	Q2140214	1.0	'castle'@en	'located in the administrative territorial entity'@en	'parish of Jersey'@en
+Q23413	P131	Q21583365	1.0	'castle'@en	'located in the administrative territorial entity'@en	'city'@en
+Q23413	P131	Q2202509	1.0	'castle'@en	'located in the administrative territorial entity'@en	'Roman city'@en
+Q23413	P131	Q23442	1.0	'castle'@en	'located in the administrative territorial entity'@en	'island'@en
+Q23413	P131	Q2577184	1.0	'castle'@en	'located in the administrative territorial entity'@en	'parish of Latvia'@en
+Q23413	P131	Q261023	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q23413	P131	Q262882	1.0	'castle'@en	'located in the administrative territorial entity'@en	'statutory city of Austria'@en
+Q23413	P131	Q2655841	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q23413	P131	Q26934845	1.0	'castle'@en	'located in the administrative territorial entity'@en	'integral overseas territory'@en
+Q23413	P131	Q2706302	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Bosnia and Herzegovina'@en
+Q23413	P131	Q27104997	1.0	'castle'@en	'located in the administrative territorial entity'@en	'civil parish with city status'@en
+Q23413	P131	Q2989682	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Kosovo'@en
+Q23413	P131	Q3055118	1.0	'castle'@en	'located in the administrative territorial entity'@en	'single entity of population'@en
+Q23413	P131	Q3250615	1.0	'castle'@en	'located in the administrative territorial entity'@en	'province of Oman'@en
+Q23413	P131	Q3345345	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Latvia'@en
+Q23413	P131	Q3685476	1.0	'castle'@en	'located in the administrative territorial entity'@en	'abolished municipality in Italy'@en
+Q23413	P131	Q3764344	1.0	'castle'@en	'located in the administrative territorial entity'@en	'district of the Isle of Man'@en
+Q23413	P131	Q4286337	1.0	'castle'@en	'located in the administrative territorial entity'@en	'city district'@en
+Q23413	P131	Q448801	1.0	'castle'@en	'located in the administrative territorial entity'@en	'big district town'@en
+Q23413	P131	Q4946461	1.0	'castle'@en	'located in the administrative territorial entity'@en	'spa town'@en
+Q23413	P131	Q50330360	1.0	'castle'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q23413	P131	Q5123999	1.0	'castle'@en	'located in the administrative territorial entity'@en	'city of regional significance of Ukraine'@en
+Q23413	P131	Q54935786	1.0	'castle'@en	'located in the administrative territorial entity'@en	'medium district town'@en
+Q23413	P131	Q56557664	1.0	'castle'@en	'located in the administrative territorial entity'@en	'şəhər'@en
+Q23413	P131	Q581830	1.0	'castle'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q23413	P131	Q65589340	1.0	'castle'@en	'located in the administrative territorial entity'@en	'capital of a prefecture of Japan'@en
+Q23413	P131	Q738570	1.0	'castle'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q23413	P131	Q755707	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q23413	P131	Q7819319	1.0	'castle'@en	'located in the administrative territorial entity'@en	'Czech municipality with expanded powers'@en
+Q23413	P131	Q7841907	1.0	'castle'@en	'located in the administrative territorial entity'@en	'municipality with authorized municipal office'@en
+Q23413	P131	Q7930989	1.0	'castle'@en	'located in the administrative territorial entity'@en	'city/town'@en
+Q23413	P131	Q839954	1.0	'castle'@en	'located in the administrative territorial entity'@en	'archaeological site'@en
+Q23413	P131	Q85635929	1.0	'castle'@en	'located in the administrative territorial entity'@en	'urban district of Lower Saxony'@en
+Q23442	P131	Q17468533	1.0	'island'@en	'located in the administrative territorial entity'@en	'former municipality of Finland'@en
+Q23442	P131	Q856076	1.0	'island'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q24699794	P131	Q33146843	1.0	'museum building'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q27686	P131	Q15060255	1.0	'hotel'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q27686	P131	Q179872	1.0	'hotel'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q27686	P131	Q202435	1.0	'hotel'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q27686	P131	Q21457810	1.0	'hotel'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q27686	P131	Q7309443	1.0	'hotel'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q2772772	P131	Q1187580	1.0	'military museum'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q2772772	P131	Q15060255	1.0	'military museum'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q2772772	P131	Q19953632	1.0	'military museum'@en	'located in the administrative territorial entity'@en	'former administrative territorial entity'@en
+Q2772772	P131	Q5124673	1.0	'military museum'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q28045079	P131	Q2630741	1.0	'contour fort'@en	'located in the administrative territorial entity'@en	'community'@en
+Q28045079	P131	Q532	1.0	'contour fort'@en	'located in the administrative territorial entity'@en	'village'@en
+Q29960985	P131	Q3957	1.0	'bishop castle'@en	'located in the administrative territorial entity'@en	'town'@en
+Q29960985	P131	Q515	1.0	'bishop castle'@en	'located in the administrative territorial entity'@en	'city'@en
+Q29960985	P131	Q856076	1.0	'bishop castle'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q32164125	P131	Q1115575	1.0	'fortified manor house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q32164125	P131	Q5084	1.0	'fortified manor house'@en	'located in the administrative territorial entity'@en	'hamlet'@en
+Q3329412	P131	Q16739079	1.0	'archaeological museum'@en	'located in the administrative territorial entity'@en	'municipalities of Cyprus Republic'@en
+Q3330083	P131	Q23058	1.0	'wine museum'@en	'located in the administrative territorial entity'@en	'canton of Switzerland'@en
+Q3330083	P131	Q3032132	1.0	'wine museum'@en	'located in the administrative territorial entity'@en	'district of the canton of Vaud'@en
+Q3330083	P131	Q54935504	1.0	'wine museum'@en	'located in the administrative territorial entity'@en	'city of Switzerland'@en
+Q3330083	P131	Q70208	1.0	'wine museum'@en	'located in the administrative territorial entity'@en	'municipality of Switzerland'@en
+Q33506	P131	Q15273785	1.0	'museum'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q33506	P131	Q1549591	1.0	'museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q33506	P131	Q1802801	1.0	'museum'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q33506	P131	Q2039348	1.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q33506	P131	Q2074737	1.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q33506	P131	Q261023	1.0	'museum'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q33506	P131	Q262166	1.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Germany'@en
+Q33506	P131	Q3032132	1.0	'museum'@en	'located in the administrative territorial entity'@en	'district of the canton of Vaud'@en
+Q33506	P131	Q493522	1.0	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q33506	P131	Q581830	1.0	'museum'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q3354019	P131	Q127448	1.0	'seat farm'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q3395377	P131	Q127448	1.0	'ancient monument'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q358	P131	Q1549591	1.0	'heritage site'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q358	P131	Q33146843	1.0	'heritage site'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q358	P131	Q515	1.0	'heritage site'@en	'located in the administrative territorial entity'@en	'city'@en
+Q3898745	P131	Q1115575	1.0	'peel tower'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q3898745	P131	Q179872	1.0	'peel tower'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q3947	P131	Q1115575	1.0	'house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q3947	P131	Q15060255	1.0	'house'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q3947	P131	Q5124673	1.0	'house'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q41176	P131	Q1074523	1.0	'building'@en	'located in the administrative territorial entity'@en	'planned community'@en
+Q41176	P131	Q1549591	1.0	'building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q41176	P131	Q253030	1.0	'building'@en	'located in the administrative territorial entity'@en	'major regional center'@en
+Q41176	P131	Q42744322	1.0	'building'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q41176	P131	Q85635929	1.0	'building'@en	'located in the administrative territorial entity'@en	'urban district of Lower Saxony'@en
+Q44613	P131	Q1210300	1.0	'monastery'@en	'located in the administrative territorial entity'@en	'mkhare'@en
+Q44613	P131	Q2655841	1.0	'monastery'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q481289	P131	Q261023	1.0	'official residence'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q481289	P131	Q581830	1.0	'official residence'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q486972	P131	Q2074737	1.0	'human settlement'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q489357	P131	Q15060255	1.0	'farmhouse'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q489357	P131	Q5124673	1.0	'farmhouse'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q5267014	P131	Q1187580	1.0	'Device Fort'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q5267014	P131	Q19953632	1.0	'Device Fort'@en	'located in the administrative territorial entity'@en	'former administrative territorial entity'@en
+Q5267014	P131	Q532	1.0	'Device Fort'@en	'located in the administrative territorial entity'@en	'village'@en
+Q532	P131	Q15060255	1.0	'village'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q532	P131	Q5124673	1.0	'village'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q543654	P131	Q2919801	1.0	'rathaus'@en	'located in the administrative territorial entity'@en	'municipality of Luxembourg'@en
+Q570116	P131	Q1002812	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q570116	P131	Q1115575	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q570116	P131	Q127448	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q570116	P131	Q21503295	1.0	'tourist attraction'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q57821	P131	Q15060255	1.0	'fortification'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q57821	P131	Q202435	1.0	'fortification'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q57821	P131	Q2138167	1.0	'fortification'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q57821	P131	Q34763	1.0	'fortification'@en	'located in the administrative territorial entity'@en	'peninsula'@en
+Q57821	P131	Q5124673	1.0	'fortification'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q57821	P131	Q7309443	1.0	'fortification'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q57831	P131	Q1115575	1.0	'fortress'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q57831	P131	Q16085106	1.0	'fortress'@en	'located in the administrative territorial entity'@en	'local administrative entity'@en
+Q57831	P131	Q3257686	1.0	'fortress'@en	'located in the administrative territorial entity'@en	'locality'@en
+Q57831	P131	Q3957	1.0	'fortress'@en	'located in the administrative territorial entity'@en	'town'@en
+Q615810	P131	Q15273785	1.0	'water castle'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q615810	P131	Q1549591	1.0	'water castle'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q615810	P131	Q493522	1.0	'water castle'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q62832	P131	Q179872	1.0	'observatory'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q64995589	P131	Q3957	1.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'town'@en
+Q64995589	P131	Q532	1.0	'country house hotel'@en	'located in the administrative territorial entity'@en	'village'@en
+Q7335033	P131	Q2630741	1.0	'ringwork castle'@en	'located in the administrative territorial entity'@en	'community'@en
+Q7335033	P131	Q532	1.0	'ringwork castle'@en	'located in the administrative territorial entity'@en	'village'@en
+Q744099	P131	Q11732217	1.0	'hillfort'@en	'located in the administrative territorial entity'@en	'Flecken'@en
+Q744099	P131	Q17468533	1.0	'hillfort'@en	'located in the administrative territorial entity'@en	'former municipality of Finland'@en
+Q744099	P131	Q262166	1.0	'hillfort'@en	'located in the administrative territorial entity'@en	'municipality of Germany'@en
+Q744099	P131	Q856076	1.0	'hillfort'@en	'located in the administrative territorial entity'@en	'municipality of Finland'@en
+Q751876	P131	Q1187811	1.0	'château'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q751876	P131	Q134626	1.0	'château'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q751876	P131	Q14784328	1.0	'château'@en	'located in the administrative territorial entity'@en	'state capital in Germany'@en
+Q751876	P131	Q1549591	1.0	'château'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q751876	P131	Q17376095	1.0	'château'@en	'located in the administrative territorial entity'@en	'cadastral municipality of Austria'@en
+Q751876	P131	Q1802801	1.0	'château'@en	'located in the administrative territorial entity'@en	'rural municipality of Austria'@en
+Q751876	P131	Q2039348	1.0	'château'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q751876	P131	Q2327515	1.0	'château'@en	'located in the administrative territorial entity'@en	'city district of Baden-Württemberg'@en
+Q751876	P131	Q261023	1.0	'château'@en	'located in the administrative territorial entity'@en	'district of Vienna'@en
+Q751876	P131	Q493522	1.0	'château'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q751876	P131	Q4946461	1.0	'château'@en	'located in the administrative territorial entity'@en	'spa town'@en
+Q751876	P131	Q56398194	1.0	'château'@en	'located in the administrative territorial entity'@en	'core municipal part with the same name as the municipality in the Czech Republic'@en
+Q751876	P131	Q581830	1.0	'château'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q751876	P131	Q61089180	1.0	'château'@en	'located in the administrative territorial entity'@en	'part of municipality in the Czech Republic'@en
+Q751876	P131	Q7819319	1.0	'château'@en	'located in the administrative territorial entity'@en	'Czech municipality with expanded powers'@en
+Q751876	P131	Q7841907	1.0	'château'@en	'located in the administrative territorial entity'@en	'municipality with authorized municipal office'@en
+Q7963015	P131	Q15060255	1.0	'walled garden'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q7963015	P131	Q202435	1.0	'walled garden'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q7963015	P131	Q21457810	1.0	'walled garden'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q7963015	P131	Q5124673	1.0	'walled garden'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q7963015	P131	Q7309443	1.0	'walled garden'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q80446812	P131	Q2138167	1.0	'motte'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q811165	P131	Q1549591	1.0	'architectural heritage monument'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q811165	P131	Q4286337	1.0	'architectural heritage monument'@en	'located in the administrative territorial entity'@en	'city district'@en
+Q811165	P131	Q515	1.0	'architectural heritage monument'@en	'located in the administrative territorial entity'@en	'city'@en
+Q811165	P131	Q532	1.0	'architectural heritage monument'@en	'located in the administrative territorial entity'@en	'village'@en
+Q811165	P131	Q925381	1.0	'architectural heritage monument'@en	'located in the administrative territorial entity'@en	'city with powiat rights'@en
+Q811979	P131	Q1187811	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q811979	P131	Q14770218	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'cantonal capital of Switzerland'@en
+Q811979	P131	Q17276572	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'constituency of the canton of St. Gallen'@en
+Q811979	P131	Q5119	1.0	'architectural structure'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q81917	P131	Q2074737	1.0	'fortified tower'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q839954	P131	Q1002812	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q839954	P131	Q1147395	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'district of Turkey'@en
+Q839954	P131	Q1187811	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q839954	P131	Q127448	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q839954	P131	Q2989682	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'municipality of Kosovo'@en
+Q839954	P131	Q515	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'city'@en
+Q839954	P131	Q7309443	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q839954	P131	Q7897276	1.0	'archaeological site'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q8502	P131	Q1115575	1.0	'mountain'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q8719053	P131	Q532	1.0	'music venue'@en	'located in the administrative territorial entity'@en	'village'@en
+Q879050	P131	Q1002812	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q879050	P131	Q1006876	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q879050	P131	Q1187580	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q879050	P131	Q15584664	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'city under municipality jurisdiction in Latvia'@en
+Q879050	P131	Q21503295	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q879050	P131	Q7897276	1.0	'manor house'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q907116	P131	Q33146843	1.0	'National monument of Spain'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q91165	P131	Q484170	1.0	'keep'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q91312	P131	Q1115575	1.0	'tower house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q91312	P131	Q486972	1.0	'tower house'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q91312	P131	Q532	1.0	'tower house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q92026	P131	Q1549591	1.0	'Japanese castle'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q92062	P131	Q180673	1.0	'motte-and-bailey castle'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q92086	P131	Q15060255	1.0	'promontory fort'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q92086	P131	Q5124673	1.0	'promontory fort'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q96211395	P131	Q127448	1.0	'heritage site in Sweden'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q23413	P1216	external-id	161.0	'castle'@en	'National Heritage List for England number'@en	
+Q2087181	P1216	external-id	18.0	'historic house museum'@en	'National Heritage List for England number'@en	
+Q1343246	P1216	external-id	12.0	'English country house'@en	'National Heritage List for England number'@en	
+Q839954	P1216	external-id	7.0	'archaeological site'@en	'National Heritage List for England number'@en	
+Q180174	P1216	external-id	6.0	'folly'@en	'National Heritage List for England number'@en	
+Q92062	P1216	external-id	6.0	'motte-and-bailey castle'@en	'National Heritage List for England number'@en	
+Q109607	P1216	external-id	5.0	'ruins'@en	'National Heritage List for England number'@en	
+Q2772772	P1216	external-id	4.0	'military museum'@en	'National Heritage List for England number'@en	
+Q5267014	P1216	external-id	4.0	'Device Fort'@en	'National Heritage List for England number'@en	
+Q879050	P1216	external-id	3.0	'manor house'@en	'National Heritage List for England number'@en	
+Q1595639	P1216	external-id	2.0	'local museum'@en	'National Heritage List for England number'@en	
+Q17715832	P1216	external-id	2.0	'castle ruin'@en	'National Heritage List for England number'@en	
+Q64995589	P1216	external-id	2.0	'country house hotel'@en	'National Heritage List for England number'@en	
+Q13402009	P1216	external-id	1.0	'apartment building'@en	'National Heritage List for England number'@en	
+Q16884952	P1216	external-id	1.0	'country house'@en	'National Heritage List for England number'@en	
+Q32164125	P1216	external-id	1.0	'fortified manor house'@en	'National Heritage List for England number'@en	
+Q3898745	P1216	external-id	1.0	'peel tower'@en	'National Heritage List for England number'@en	
+Q3947	P1216	external-id	1.0	'house'@en	'National Heritage List for England number'@en	
+Q570116	P1216	external-id	1.0	'tourist attraction'@en	'National Heritage List for England number'@en	
+Q57831	P1216	external-id	1.0	'fortress'@en	'National Heritage List for England number'@en	
+Q91312	P1216	external-id	1.0	'tower house'@en	'National Heritage List for England number'@en	

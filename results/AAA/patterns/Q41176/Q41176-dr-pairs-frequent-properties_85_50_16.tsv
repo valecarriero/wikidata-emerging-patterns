@@ -1,0 +1,17 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q41176	P131	Q35657	1013.0	'building'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	62.65%
+Q41176	P1435	Q30634609	1172.0	'building'@en	'heritage designation'@en	'heritage designation'@en	72.48%
+Q41176	P646	external-id	1474.0	'building'@en	'Freebase ID'@en		91.16%
+Q41176	P649	external-id	1107.0	'building'@en	'NRHP reference number'@en		68.46%
+Q41176	P373	string	428.0	'building'@en	'Commons category'@en		26.47%
+Q41176	P625	globe-coordinate	1583.0	'building'@en	'coordinate location'@en		97.9%
+Q41176	P18	commonsMedia	1422.0	'building'@en	'image'@en		87.94%
+Q41176	P149	Q32880	479.0	'building'@en	'architectural style'@en	'architectural style'@en	29.62%
+Q41176	P17	Q6256	1612.0	'building'@en	'country'@en	'country'@en	99.69%
+Q41176	P17	Q3624078	1595.0	'building'@en	'country'@en	'sovereign state'@en	98.64%
+Q41176	P17	Q1520223	1304.0	'building'@en	'country'@en	'constitutional republic'@en	80.64%
+Q41176	P17	Q512187	1302.0	'building'@en	'country'@en	'federal republic'@en	80.52%
+Q41176	P17	Q5255892	1288.0	'building'@en	'country'@en	'democratic republic'@en	79.65%
+Q41176	P17	Q99541706	1274.0	'building'@en	'country'@en	'historical unrecognized state'@en	78.79%
+Q41176	P17	Q1489259	1271.0	'building'@en	'country'@en	'superpower'@en	78.6%
+Q41176	P571	time	278.0	'building'@en	'inception'@en		17.19%

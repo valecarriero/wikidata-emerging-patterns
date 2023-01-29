@@ -1,0 +1,21 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q18127	P966	external-id	2520.0	'record label'@en	'MusicBrainz label ID'@en		71.17%
+Q18127	P1955	external-id	1014.0	'record label'@en	'Discogs label ID'@en		28.64%
+Q18127	P17	Q6256	3021.0	'record label'@en	'country'@en	'country'@en	85.31%
+Q18127	P17	Q3624078	2976.0	'record label'@en	'country'@en	'sovereign state'@en	84.04%
+Q18127	P17	Q1520223	1691.0	'record label'@en	'country'@en	'constitutional republic'@en	47.75%
+Q18127	P17	Q512187	1687.0	'record label'@en	'country'@en	'federal republic'@en	47.64%
+Q18127	P17	Q5255892	1663.0	'record label'@en	'country'@en	'democratic republic'@en	46.96%
+Q18127	P17	Q99541706	1651.0	'record label'@en	'country'@en	'historical unrecognized state'@en	46.63%
+Q18127	P17	Q1489259	1649.0	'record label'@en	'country'@en	'superpower'@en	46.57%
+Q18127	P856	url	1767.0	'record label'@en	'official website'@en		49.9%
+Q18127	P571	time	2831.0	'record label'@en	'inception'@en		79.95%
+Q18127	P112	Q5	622.0	'record label'@en	'founded by'@en	'human'@en	17.57%
+Q18127	P7859	external-id	606.0	'record label'@en	'WorldCat Identities ID'@en		17.11%
+Q18127	P159	Q1549591	563.0	'record label'@en	'headquarters location'@en	'big city'@en	15.9%
+Q18127	P159	Q515	460.0	'record label'@en	'headquarters location'@en	'city'@en	12.99%
+Q18127	P159	Q1093829	365.0	'record label'@en	'headquarters location'@en	'city of the United States'@en	10.31%
+Q18127	P159	Q1637706	321.0	'record label'@en	'headquarters location'@en	'million city'@en	9.07%
+Q18127	P136	Q188451	939.0	'record label'@en	'genre'@en	'music genre'@en	26.52%
+Q18127	P646	external-id	3480.0	'record label'@en	'Freebase ID'@en		98.28%
+Q18127	P214	external-id	641.0	'record label'@en	'VIAF ID'@en		18.1%

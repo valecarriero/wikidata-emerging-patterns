@@ -1,0 +1,79 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q3947_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q3947 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'house' 'country' 'entity'
+<< << wd:Q3947 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.91%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q3947 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.5%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'heritage designation' 'entity'
+<< << wd:Q3947 wdt:P1435 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "96.01%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'architectural style' 'entity'
+<< << wd:Q3947 wdt:P149 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.46%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'coordinate location' globe-coordinate
+<< << wd:Q3947 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.93%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'architectural style' 'architectural style'
+<< << wd:Q3947 wdt:P149 wd:Q32880 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.33%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'Commons category' string
+<< << wd:Q3947 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "21.17%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'image' commonsMedia
+<< << wd:Q3947 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.97%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'heritage designation' 'heritage designation'
+<< << wd:Q3947 wdt:P1435 wd:Q30634609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "93.78%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'NRHP reference number' external-id
+<< << wd:Q3947 wdt:P649 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.27%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'country'
+<< << wd:Q3947 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.91%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'sovereign state'
+<< << wd:Q3947 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.61%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'federal republic'
+<< << wd:Q3947 wdt:P17 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.76%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'democratic republic'
+<< << wd:Q3947 wdt:P17 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.76%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'constitutional republic'
+<< << wd:Q3947 wdt:P17 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.71%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'superpower'
+<< << wd:Q3947 wdt:P17 wd:Q1489259 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.67%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'country' 'historical unrecognized state'
+<< << wd:Q3947 wdt:P17 wd:Q99541706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.67%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'located in the administrative territorial entity' 'U.S. state'
+<< << wd:Q3947 wdt:P131 wd:Q35657 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "65.41%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+
+# 'house' 'Freebase ID' external-id
+<< << wd:Q3947 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.29%" ; oplax:isNativeTo weps:AAA_Q3947_09508505 .
+

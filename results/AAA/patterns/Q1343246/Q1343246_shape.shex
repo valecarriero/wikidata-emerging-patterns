@@ -1,0 +1,79 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<English country house> 
+
+<English country house> { wdt:P31 [wd:Q1343246] ; 
+
+# 'English country house' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'historic county' 'entity'
+wdt:P7959 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 93.96% 
+
+# 'English country house' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 88.59% 
+
+# 'English country house' 'heritage designation' 'entity'
+wdt:P1435 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 78.86% 
+
+# 'English country house' 'located in the administrative territorial entity' 'civil parish'
+wdt:P131 { wdt:P31 [wd:Q1115575] } ;   # probability of constraint: 79.87% 
+
+# 'English country house' 'located in the administrative territorial entity' 'village'
+wdt:P131 { wdt:P31 [wd:Q532] } ;   # probability of constraint: 52.85% 
+
+# 'English country house' 'National Heritage List for England number' external-id
+wdt:P1216 xsd:string ;   # probability of constraint: 78.52% 
+
+# 'English country house' 'historic county' 'historic county of England'
+wdt:P7959 { wdt:P31 [wd:Q1138494] } ;   # probability of constraint: 93.62% 
+
+# 'English country house' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 84.9% 
+
+# 'English country house' 'country' 'island nation'
+wdt:P17 { wdt:P31 [wd:Q112099] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'country' 'realm'
+wdt:P17 { wdt:P31 [wd:Q1250464] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'country' 'colonial power'
+wdt:P17 { wdt:P31 [wd:Q20181813] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'country' 'Commonwealth realm'
+wdt:P17 { wdt:P31 [wd:Q202686] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 100.0% 
+
+# 'English country house' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 92.45% 
+
+# 'English country house' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 75.67% 
+
+# 'English country house' 'heritage designation' 'heritage designation'
+wdt:P1435 { wdt:P31 [wd:Q30634609] } ;   # probability of constraint: 77.68% 
+
+# 'English country house' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 49.16% 
+
+# 'English country house' 'OS grid reference' string
+wdt:P613 xsd:string ;   # probability of constraint: 77.35% 
+
+# 'English country house' 'Parks & Gardens UK record ID' external-id
+wdt:P3481 xsd:string ;   # probability of constraint: 18.46% 
+
+
+ }

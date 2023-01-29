@@ -1,0 +1,20 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q33506	P1619	time	99.0	'museum'@en	'date of official opening'@en		15.57%
+Q33506	P625	globe-coordinate	581.0	'museum'@en	'coordinate location'@en		91.35%
+Q33506	P17	Q6256	631.0	'museum'@en	'country'@en	'country'@en	99.21%
+Q33506	P17	Q3624078	601.0	'museum'@en	'country'@en	'sovereign state'@en	94.5%
+Q33506	P571	time	422.0	'museum'@en	'inception'@en		66.35%
+Q33506	P373	string	342.0	'museum'@en	'Commons category'@en		53.77%
+Q33506	P244	external-id	186.0	'museum'@en	'Library of Congress authority ID'@en		29.25%
+Q33506	P18	commonsMedia	482.0	'museum'@en	'image'@en		75.79%
+Q33506	P1435	Q30634609	36.0	'museum'@en	'heritage designation'@en	'heritage designation'@en	5.66%
+Q33506	P131	Q1549591	133.0	'museum'@en	'located in the administrative territorial entity'@en	'big city'@en	20.91%
+Q33506	P131	Q35657	95.0	'museum'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	14.94%
+Q33506	P131	Q515	93.0	'museum'@en	'located in the administrative territorial entity'@en	'city'@en	14.62%
+Q33506	P214	external-id	272.0	'museum'@en	'VIAF ID'@en		42.77%
+Q33506	P276	Q1549591	55.0	'museum'@en	'location'@en	'big city'@en	8.65%
+Q33506	P276	Q515	53.0	'museum'@en	'location'@en	'city'@en	8.33%
+Q33506	P856	url	424.0	'museum'@en	'official website'@en		66.67%
+Q33506	P6375	monolingualtext	116.0	'museum'@en	'street address'@en		18.24%
+Q33506	P7859	external-id	242.0	'museum'@en	'WorldCat Identities ID'@en		38.05%
+Q33506	P646	external-id	558.0	'museum'@en	'Freebase ID'@en		87.74%

@@ -1,0 +1,18 @@
+property	count	property;label	percentage
+P646	9975	'Freebase ID'@en	94.73%
+P7937	9795	'form of creative work'@en	93.02%
+P577	7549	'publication date'@en	71.69%
+P175	7091	'performer'@en	67.34%
+P435	6153	'MusicBrainz work ID'@en	58.43%
+P136	5884	'genre'@en	55.88%
+P86	5232	'composer'@en	49.69%
+P361	4019	'part of'@en	38.17%
+P407	3759	'language of work or name'@en	35.7%
+P1476	3239	'title'@en	30.76%
+P264	3113	'record label'@en	29.56%
+P676	3095	'lyrics by'@en	29.39%
+P1827	2110	'ISWC'@en	20.04%
+P2908	1620	'SecondHandSongs work ID'@en	15.38%
+P155	1550	'follows'@en	14.72%
+P156	1517	'followed by'@en	14.41%
+P162	1510	'producer'@en	14.34%

@@ -1,0 +1,139 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_music_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<musical group> 
+
+<musical group> { wdt:P31 [wd:Q215380] ; 
+
+# 'musical group' 'country of origin' 'entity'
+wdt:P495 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 87.3% 
+
+# 'musical group' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 84.25% 
+
+# 'musical group' 'location of formation' 'entity'
+wdt:P740 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 50.74% 
+
+# 'musical group' 'record label' 'entity'
+wdt:P264 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 48.68% 
+
+# 'musical group' 'has part or parts' 'entity'
+wdt:P527 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 30.52% 
+
+# 'musical group' 'Facebook ID' external-id
+wdt:P2013 xsd:string ;   # probability of constraint: 37.74% 
+
+# 'musical group' 'MusicBrainz artist ID' external-id
+wdt:P434 xsd:string ;   # probability of constraint: 83.39% 
+
+# 'musical group' 'work period (start)' time
+wdt:P2031 xsd:dateTime ;   # probability of constraint: 78.7% 
+
+# 'musical group' 'ISNI' external-id
+wdt:P213 xsd:string ;   # probability of constraint: 54.31% 
+
+# 'musical group' 'Deezer artist ID' external-id
+wdt:P2722 xsd:string ;   # probability of constraint: 17.67% 
+
+# 'musical group' 'Rate Your Music artist ID' external-id
+wdt:P5404 xsd:string ;   # probability of constraint: 36.69% 
+
+# 'musical group' 'location of formation' 'big city'
+wdt:P740 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 27.77% 
+
+# 'musical group' 'location of formation' 'city'
+wdt:P740 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 19.75% 
+
+# 'musical group' 'location of formation' 'city of the United States'
+wdt:P740 { wdt:P31 [wd:Q1093829] } ;   # probability of constraint: 16.44% 
+
+# 'musical group' 'Discogs artist ID' external-id
+wdt:P1953 xsd:string ;   # probability of constraint: 81.53% 
+
+# 'musical group' 'official website' url
+wdt:P856 xsd:string ;   # probability of constraint: 51.56% 
+
+# 'musical group' 'Acharts.co artist ID' external-id
+wdt:P7109 xsd:string ;   # probability of constraint: 14.09% 
+
+# 'musical group' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 66.89% 
+
+# 'musical group' 'country of origin' 'country'
+wdt:P495 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 87.08% 
+
+# 'musical group' 'country of origin' 'sovereign state'
+wdt:P495 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 85.52% 
+
+# 'musical group' 'country of origin' 'federal republic'
+wdt:P495 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 44.48% 
+
+# 'musical group' 'country of origin' 'constitutional republic'
+wdt:P495 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 43.8% 
+
+# 'musical group' 'Billboard artist ID' external-id
+wdt:P4208 xsd:string ;   # probability of constraint: 23.42% 
+
+# 'musical group' 'Twitter username' external-id
+wdt:P2002 xsd:string ;   # probability of constraint: 24.01% 
+
+# 'musical group' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 18.77% 
+
+# 'musical group' 'Myspace ID' external-id
+wdt:P3265 xsd:string ;   # probability of constraint: 36.21% 
+
+# 'musical group' 'WorldCat Identities ID' external-id
+wdt:P7859 xsd:string ;   # probability of constraint: 51.2% 
+
+# 'musical group' 'Library of Congress authority ID' external-id
+wdt:P244 xsd:string ;   # probability of constraint: 31.79% 
+
+# 'musical group' 'social media followers' quantity
+wdt:P8687 xsd:decimal ;   # probability of constraint: 16.16% 
+
+# 'musical group' 'Last.fm ID' external-id
+wdt:P3192 xsd:string ;   # probability of constraint: 26.93% 
+
+# 'musical group' 'genre' 'music genre'
+wdt:P136 { wdt:P31 [wd:Q188451] } ;   # probability of constraint: 84.09% 
+
+# 'musical group' 'has part or parts' 'human'
+wdt:P527 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 30.01% 
+
+# 'musical group' 'Songkick artist ID' external-id
+wdt:P3478 xsd:string ;   # probability of constraint: 62.9% 
+
+# 'musical group' 'AllMusic artist ID' external-id
+wdt:P1728 xsd:string ;   # probability of constraint: 40.77% 
+
+# 'musical group' 'LyricsTranslate ID' external-id
+wdt:P7212 xsd:string ;   # probability of constraint: 20.6% 
+
+# 'musical group' 'Muziekweb performer ID' external-id
+wdt:P5882 xsd:string ;   # probability of constraint: 47.85% 
+
+# 'musical group' 'record label' 'record label'
+wdt:P264 { wdt:P31 [wd:Q18127] } ;   # probability of constraint: 46.45% 
+
+# 'musical group' 'Spotify artist ID' external-id
+wdt:P1902 xsd:string ;   # probability of constraint: 24.39% 
+
+# 'musical group' 'VIAF ID' external-id
+wdt:P214 xsd:string ;   # probability of constraint: 53.6% 
+
+# 'musical group' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 89.21% 
+
+# 'musical group' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 36.81% 
+
+
+ }

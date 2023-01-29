@@ -1,0 +1,109 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q207694_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q207694 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'art museum' 'country' 'entity'
+<< << wd:Q207694 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q207694 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "90.56%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'location' 'entity'
+<< << wd:Q207694 wdt:P276 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.88%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'Twitter username' external-id
+<< << wd:Q207694 wdt:P2002 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.4%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'official website' url
+<< << wd:Q207694 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "79.66%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'Freebase ID' external-id
+<< << wd:Q207694 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.53%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'VIAF ID' external-id
+<< << wd:Q207694 wdt:P214 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "73.37%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'Library of Congress authority ID' external-id
+<< << wd:Q207694 wdt:P244 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "65.86%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'country' 'country'
+<< << wd:Q207694 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.76%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'country' 'sovereign state'
+<< << wd:Q207694 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.06%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'WorldCat Identities ID' external-id
+<< << wd:Q207694 wdt:P7859 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "71.67%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'Commons category' string
+<< << wd:Q207694 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "55.69%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'location' 'big city'
+<< << wd:Q207694 wdt:P276 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.54%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'location' 'city'
+<< << wd:Q207694 wdt:P276 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "5.33%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'location' 'city of the United States'
+<< << wd:Q207694 wdt:P276 wd:Q1093829 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "4.36%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'coordinate location' globe-coordinate
+<< << wd:Q207694 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "94.67%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'Commons Institution page' string
+<< << wd:Q207694 wdt:P1612 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.74%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'ISNI' external-id
+<< << wd:Q207694 wdt:P213 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "38.5%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'IdRef ID' external-id
+<< << wd:Q207694 wdt:P269 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.22%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'street address' monolingualtext
+<< << wd:Q207694 wdt:P6375 wikibase:Monolingualtext >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.89%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'image' commonsMedia
+<< << wd:Q207694 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "74.09%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'located in the administrative territorial entity' 'big city'
+<< << wd:Q207694 wdt:P131 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.73%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'located in the administrative territorial entity' 'U.S. state'
+<< << wd:Q207694 wdt:P131 wd:Q35657 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.82%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'located in the administrative territorial entity' 'city'
+<< << wd:Q207694 wdt:P131 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.53%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'Athenaeum museum ID' external-id
+<< << wd:Q207694 wdt:P4146 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.13%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'date of official opening' time
+<< << wd:Q207694 wdt:P1619 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.0%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'postal code' string
+<< << wd:Q207694 wdt:P281 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.98%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'inception' time
+<< << wd:Q207694 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.28%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+
+# 'art museum' 'GND ID' external-id
+<< << wd:Q207694 wdt:P227 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.61%" ; oplax:isNativeTo weps:AAA_Q207694_09508505 .
+

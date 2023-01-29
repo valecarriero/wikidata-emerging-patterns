@@ -1,0 +1,2357 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q5	P7859	external-id	4621.0	'human'@en	'WorldCat Identities ID'@en	
+Q20643955	P7859	external-id	10.0	'human biblical figure'@en	'WorldCat Identities ID'@en	
+Q1747829	P7859	external-id	4.0	'notname'@en	'WorldCat Identities ID'@en	
+Q1062083	P7859	external-id	1.0	'billionaire'@en	'WorldCat Identities ID'@en	
+Q110550976	P7859	external-id	1.0	'Saqqara king'@en	'WorldCat Identities ID'@en	
+Q110556685	P7859	external-id	1.0		'WorldCat Identities ID'@en	
+Q168827	P7859	external-id	1.0	'prophet of Islam'@en	'WorldCat Identities ID'@en	
+Q1802401	P7859	external-id	1.0		'WorldCat Identities ID'@en	
+Q43412	P7859	external-id	1.0	'Apostle'@en	'WorldCat Identities ID'@en	
+Q61002	P7859	external-id	1.0	'pseudonym'@en	'WorldCat Identities ID'@en	
+Q858157	P7859	external-id	1.0	'German folklore'@en	'WorldCat Identities ID'@en	
+Q5	P7763	Q73568642	3952.0	'human'@en	'copyright status as a creator'@en	'copyright status of works'@en
+Q5	P7763	Q1151067	992.0	'human'@en	'copyright status as a creator'@en	'rule'@en
+Q1747829	P7763	Q1151067	7.0	'notname'@en	'copyright status as a creator'@en	'rule'@en
+Q1747829	P7763	Q73568642	7.0	'notname'@en	'copyright status as a creator'@en	'copyright status of works'@en
+Q1802401	P7763	Q1151067	1.0		'copyright status as a creator'@en	'rule'@en
+Q1802401	P7763	Q73568642	1.0		'copyright status as a creator'@en	'copyright status of works'@en
+Q20643955	P7763	Q1151067	1.0	'human biblical figure'@en	'copyright status as a creator'@en	'rule'@en
+Q20643955	P7763	Q73568642	1.0	'human biblical figure'@en	'copyright status as a creator'@en	'copyright status of works'@en
+Q25377923	P7763	Q1151067	1.0		'copyright status as a creator'@en	'rule'@en
+Q25377923	P7763	Q73568642	1.0		'copyright status as a creator'@en	'copyright status of works'@en
+Q5	P7763	Q1790144	1.0	'human'@en	'copyright status as a creator'@en	'unit of time'@en
+Q5	P7763	Q3268848	1.0	'human'@en	'copyright status as a creator'@en	'non-SI unit mentioned in and accepted with the SI'@en
+Q5	P7763	Q82047057	1.0	'human'@en	'copyright status as a creator'@en	'UCUM derived unit'@en
+Q5	P7704	external-id	4241.0	'human'@en	'Europeana entity'@en	
+Q1747829	P7704	external-id	7.0	'notname'@en	'Europeana entity'@en	
+Q16334295	P7704	external-id	1.0	'group of humans'@en	'Europeana entity'@en	
+Q5	P735	Q12308941	4856.0	'human'@en	'given name'@en	'male given name'@en
+Q5	P735	Q11879590	1410.0	'human'@en	'given name'@en	'female given name'@en
+Q5	P735	Q3409032	444.0	'human'@en	'given name'@en	'unisex given name'@en
+Q5	P735	Q1130279	439.0	'human'@en	'given name'@en	'hypocorism'@en
+Q5	P735	Q202444	437.0	'human'@en	'given name'@en	'given name'@en
+Q5	P735	Q19803443	44.0	'human'@en	'given name'@en	'initials instead of given names'@en
+Q5	P735	Q108709	43.0	'human'@en	'given name'@en	'diminutive'@en
+Q5	P735	Q1243157	28.0	'human'@en	'given name'@en	'double name'@en
+Q5	P735	Q88865478	27.0	'human'@en	'given name'@en	'undifferentiated kana given name'@en
+Q5	P735	Q62834786	26.0	'human'@en	'given name'@en	'biblical proper name'@en
+Q5	P735	Q4167410	14.0	'human'@en	'given name'@en	'Wikimedia disambiguation page'@en
+Q5	P735	Q83076627	12.0	'human'@en	'given name'@en	'compound given name'@en
+Q5	P735	Q83080356	8.0	'human'@en	'given name'@en	'hyphenated given name'@en
+Q20643955	P735	Q12308941	6.0	'human biblical figure'@en	'given name'@en	'male given name'@en
+Q5	P735	Q104868059	5.0	'human'@en	'given name'@en	'Ukrainian male given name'@en
+Q20643955	P735	Q11879590	4.0	'human biblical figure'@en	'given name'@en	'female given name'@en
+Q5	P735	Q19689753	4.0	'human'@en	'given name'@en	'Belarusian personal name'@en
+Q5	P735	Q22812564	4.0	'human'@en	'given name'@en	'Japanese given name'@en
+Q5	P735	Q147276	3.0	'human'@en	'given name'@en	'proper noun'@en
+Q5	P735	Q4401011	3.0	'human'@en	'given name'@en	'Russian given name'@en
+Q1062083	P735	Q12308941	2.0	'billionaire'@en	'given name'@en	'male given name'@en
+Q20643955	P735	Q1130279	2.0	'human biblical figure'@en	'given name'@en	'hypocorism'@en
+Q5	P735	Q220463	2.0	'human'@en	'given name'@en	'Icelandic name'@en
+Q1062083	P735	Q1130279	1.0	'billionaire'@en	'given name'@en	'hypocorism'@en
+Q168827	P735	Q1130279	1.0	'prophet of Islam'@en	'given name'@en	'hypocorism'@en
+Q168827	P735	Q12308941	1.0	'prophet of Islam'@en	'given name'@en	'male given name'@en
+Q1802401	P735	Q12308941	1.0		'given name'@en	'male given name'@en
+Q19828370	P735	Q12308941	1.0	'drawing series'@en	'given name'@en	'male given name'@en
+Q43412	P735	Q12308941	1.0	'Apostle'@en	'given name'@en	'male given name'@en
+Q5	P735	Q101352	1.0	'human'@en	'given name'@en	'family name'@en
+Q5	P735	Q1070016	1.0	'human'@en	'given name'@en	'Persian name'@en
+Q5	P735	Q108538054	1.0	'human'@en	'given name'@en	'female given name borne by a male'@en
+Q5	P735	Q1093580	1.0	'human'@en	'given name'@en	'Han surname'@en
+Q5	P735	Q22809413	1.0	'human'@en	'given name'@en	'Chinese given name'@en
+Q5	P735	Q25846004	1.0	'human'@en	'given name'@en	'Hebrew given name'@en
+Q5	P735	Q3320743	1.0	'human'@en	'given name'@en	'title of honor'@en
+Q5	P735	Q494511	1.0	'human'@en	'given name'@en	'Devi'@en
+Q5	P735	Q49614	1.0	'human'@en	'given name'@en	'nickname'@en
+Q5	P735	Q5	1.0	'human'@en	'given name'@en	'human'@en
+Q5	P735	Q67200784	1.0	'human'@en	'given name'@en	'form of Parvati'@en
+Q5	P735	Q7452919	1.0	'human'@en	'given name'@en	'Serbian names'@en
+Q5	P735	Q777342	1.0	'human'@en	'given name'@en	'cognomen'@en
+Q858157	P735	Q12308941	1.0	'German folklore'@en	'given name'@en	'male given name'@en
+Q858157	P735	Q202444	1.0	'German folklore'@en	'given name'@en	'given name'@en
+Q858157	P735	Q3409032	1.0	'German folklore'@en	'given name'@en	'unisex given name'@en
+Q5	P734	Q101352	4218.0	'human'@en	'family name'@en	'family name'@en
+Q5	P734	Q829026	172.0	'human'@en	'family name'@en	'occupational surname'@en
+Q5	P734	Q98775491	153.0	'human'@en	'family name'@en	'family name named after given name'@en
+Q5	P734	Q11455398	147.0	'human'@en	'family name'@en	'patronymic surname'@en
+Q5	P734	Q56219051	64.0	'human'@en	'family name'@en	'family name prefixed with Mac or Mc'@en
+Q5	P734	Q333021	58.0	'human'@en	'family name'@en	'Übername'@en
+Q5	P734	Q17143070	54.0	'human'@en	'family name'@en	'toponymic surname'@en
+Q5	P734	Q1093580	40.0	'human'@en	'family name'@en	'Han surname'@en
+Q5	P734	Q1714800	32.0	'human'@en	'family name'@en	'locational surname'@en
+Q5	P734	Q66480858	16.0	'human'@en	'family name'@en	'affixed family name'@en
+Q5	P734	Q56228301	9.0	'human'@en	'family name'@en	'surname prefixed with Ó or O'@en
+Q5	P734	Q18972245	8.0	'human'@en	'family name'@en	'male family name'@en
+Q5	P734	Q11420694	5.0	'human'@en	'family name'@en	'royal surname'@en
+Q5	P734	Q3342913	5.0	'human'@en	'family name'@en	'Basque family name'@en
+Q5	P734	Q4167410	5.0	'human'@en	'family name'@en	'Wikimedia disambiguation page'@en
+Q5	P734	Q110874	3.0	'human'@en	'family name'@en	'patronymic'@en
+Q5	P734	Q2635283	3.0	'human'@en	'family name'@en	'Ukrainian surname'@en
+Q5	P734	Q29042997	3.0	'human'@en	'family name'@en	'double surname'@en
+Q5	P734	Q56226913	3.0	'human'@en	'family name'@en	'surname prefixed with Fitz'@en
+Q5	P734	Q862091	3.0	'human'@en	'family name'@en	'Jewish name'@en
+Q5	P734	Q24074280	2.0	'human'@en	'family name'@en	'noble family name'@en
+Q5	P734	Q33283501	2.0	'human'@en	'family name'@en	'family name from a specific origin'@en
+Q5	P734	Q88865447	2.0	'human'@en	'family name'@en	'undifferentiated kana surname'@en
+Q1062083	P734	Q101352	1.0	'billionaire'@en	'family name'@en	'family name'@en
+Q1062083	P734	Q829026	1.0	'billionaire'@en	'family name'@en	'occupational surname'@en
+Q16334295	P734	Q101352	1.0	'group of humans'@en	'family name'@en	'family name'@en
+Q20643955	P734	Q101352	1.0	'human biblical figure'@en	'family name'@en	'family name'@en
+Q20643955	P734	Q98775491	1.0	'human biblical figure'@en	'family name'@en	'family name named after given name'@en
+Q5	P734	Q13406463	1.0	'human'@en	'family name'@en	'Wikimedia list article'@en
+Q5	P734	Q13417114	1.0	'human'@en	'family name'@en	'noble family'@en
+Q5	P734	Q18972207	1.0	'human'@en	'family name'@en	'female family name'@en
+Q5	P734	Q202444	1.0	'human'@en	'family name'@en	'given name'@en
+Q5	P734	Q23688107	1.0	'human'@en	'family name'@en	'Portuguese family name'@en
+Q5	P734	Q486972	1.0	'human'@en	'family name'@en	'human settlement'@en
+Q5	P734	Q5	1.0	'human'@en	'family name'@en	'human'@en
+Q5	P734	Q53475615	1.0	'human'@en	'family name'@en	'family name in Portugal'@en
+Q5	P734	Q8436	1.0	'human'@en	'family name'@en	'family'@en
+Q5	P69	Q3918	1001.0	'human'@en	'educated at'@en	'university'@en
+Q5	P69	Q383092	927.0	'human'@en	'educated at'@en	'Art school'@en
+Q5	P69	Q23002054	823.0	'human'@en	'educated at'@en	'private not-for-profit educational institution'@en
+Q5	P69	Q62078547	503.0	'human'@en	'educated at'@en	'public research university'@en
+Q5	P69	Q23002039	450.0	'human'@en	'educated at'@en	'public educational institution of the United States'@en
+Q5	P69	Q875538	418.0	'human'@en	'educated at'@en	'public university'@en
+Q5	P69	Q902104	417.0	'human'@en	'educated at'@en	'private university'@en
+Q5	P69	Q45400320	373.0	'human'@en	'educated at'@en	'open-access publisher'@en
+Q5	P69	Q15936437	371.0	'human'@en	'educated at'@en	'research university'@en
+Q5	P69	Q38723	311.0	'human'@en	'educated at'@en	'higher education institution'@en
+Q5	P69	Q5341295	293.0	'human'@en	'educated at'@en	'educational organization'@en
+Q5	P69	Q1188663	215.0	'human'@en	'educated at'@en	'Colonial Colleges'@en
+Q5	P69	Q9826	173.0	'human'@en	'educated at'@en	'high school'@en
+Q5	P69	Q615150	171.0	'human'@en	'educated at'@en	'land-grant university'@en
+Q5	P69	Q3914	165.0	'human'@en	'educated at'@en	'school'@en
+Q5	P69	Q2668072	153.0	'human'@en	'educated at'@en	'collection'@en
+Q5	P69	Q2385804	136.0	'human'@en	'educated at'@en	'educational institution'@en
+Q5	P69	Q189004	133.0	'human'@en	'educated at'@en	'college'@en
+Q5	P69	Q1371037	110.0	'human'@en	'educated at'@en	'institute of technology'@en
+Q5	P69	Q269770	102.0	'human'@en	'educated at'@en	'boarding school'@en
+Q5	P69	Q2418495	91.0	'human'@en	'educated at'@en	'independent school'@en
+Q5	P69	Q21540699	84.0	'human'@en	'educated at'@en	'design school'@en
+Q5	P69	Q19844914	69.0	'human'@en	'educated at'@en	'university building'@en
+Q5	P69	Q4671277	68.0	'human'@en	'educated at'@en	'academic institution'@en
+Q5	P69	Q1377182	67.0	'human'@en	'educated at'@en	'liberal arts college'@en
+Q5	P69	Q847027	67.0	'human'@en	'educated at'@en	'grande école'@en
+Q5	P69	Q43229	63.0	'human'@en	'educated at'@en	'organization'@en
+Q5	P69	Q2221906	60.0	'human'@en	'educated at'@en	'geographic location'@en
+Q5	P69	Q33506	59.0	'human'@en	'educated at'@en	'museum'@en
+Q5	P69	Q209465	56.0	'human'@en	'educated at'@en	'campus'@en
+Q5	P69	Q20971972	56.0	'human'@en	'educated at'@en	'Original Public Ivy'@en
+Q5	P69	Q207694	54.0	'human'@en	'educated at'@en	'art museum'@en
+Q5	P69	Q10273077	50.0	'human'@en	'educated at'@en	'architecture school'@en
+Q5	P69	Q159334	50.0	'human'@en	'educated at'@en	'secondary school'@en
+Q5	P69	Q180958	43.0	'human'@en	'educated at'@en	'faculty'@en
+Q5	P69	Q3354859	41.0	'human'@en	'educated at'@en	'collegiate university'@en
+Q5	P69	Q1792623	39.0	'human'@en	'educated at'@en	'arts educational institution'@en
+Q5	P69	Q62079009	38.0	'human'@en	'educated at'@en	'constituent college'@en
+Q5	P69	Q1055028	37.0	'human'@en	'educated at'@en	'college of the University of Cambridge'@en
+Q5	P69	Q20820271	37.0	'human'@en	'educated at'@en	'graduate school'@en
+Q5	P69	Q6540832	36.0	'human'@en	'educated at'@en	'liberal arts college in the United States'@en
+Q5	P69	Q380093	35.0	'human'@en	'educated at'@en	'film school'@en
+Q5	P69	Q1080794	34.0	'human'@en	'educated at'@en	'state school'@en
+Q5	P69	Q11422631	34.0	'human'@en	'educated at'@en	'United Nations Depository Library'@en
+Q5	P69	Q1713379	34.0	'human'@en	'educated at'@en	'boys\' school'@en
+Q5	P69	Q3053337	34.0	'human'@en	'educated at'@en	'employer'@en
+Q5	P69	Q1244442	33.0	'human'@en	'educated at'@en	'school building'@en
+Q5	P69	Q2467461	32.0	'human'@en	'educated at'@en	'academic department'@en
+Q5	P69	Q708676	32.0	'human'@en	'educated at'@en	'charitable organization'@en
+Q5	P69	Q1767829	31.0	'human'@en	'educated at'@en	'comprehensive university'@en
+Q5	P69	Q2581649	29.0	'human'@en	'educated at'@en	'college of the University of Oxford'@en
+Q5	P69	Q265662	29.0	'human'@en	'educated at'@en	'national university'@en
+Q5	P69	Q2085381	27.0	'human'@en	'educated at'@en	'publisher'@en
+Q5	P69	Q23002052	27.0	'human'@en	'educated at'@en	'private for-profit educational institution'@en
+Q5	P69	Q41176	27.0	'human'@en	'educated at'@en	'building'@en
+Q5	P69	Q108403040	26.0	'human'@en	'educated at'@en	'university in Ontario'@en
+Q5	P69	Q31855	26.0	'human'@en	'educated at'@en	'research institute'@en
+Q5	P69	Q641347	26.0	'human'@en	'educated at'@en	'Local Internet registry'@en
+Q5	P69	Q184644	24.0	'human'@en	'educated at'@en	'conservatory'@en
+Q5	P69	Q2143781	24.0	'human'@en	'educated at'@en	'drama school'@en
+Q5	P69	Q1972829	23.0	'human'@en	'educated at'@en	'public school'@en
+Q5	P69	Q7638697	23.0	'human'@en	'educated at'@en	'sun grant institution'@en
+Q5	P69	Q15407956	21.0	'human'@en	'educated at'@en	'university college'@en
+Q5	P69	Q1075106	20.0	'human'@en	'educated at'@en	'state university system'@en
+Q5	P69	Q20925702	20.0	'human'@en	'educated at'@en	'Colleges That Change Lives'@en
+Q5	P69	Q3660535	19.0	'human'@en	'educated at'@en	'women\'s college'@en
+Q5	P69	Q428602	19.0	'human'@en	'educated at'@en	'university-preparatory school'@en
+Q5	P69	Q5420001	18.0	'human'@en	'educated at'@en	'exempt charity'@en
+Q5	P69	Q3551775	17.0	'human'@en	'educated at'@en	'university in France'@en
+Q5	P69	Q1021290	16.0	'human'@en	'educated at'@en	'music school'@en
+Q5	P69	Q21032617	16.0	'human'@en	'educated at'@en	'sea grant institution'@en
+Q5	P69	Q68295960	16.0	'human'@en	'educated at'@en	'Swedish government agency'@en
+Q5	P69	Q1143635	15.0	'human'@en	'educated at'@en	'business school'@en
+Q5	P69	Q1966910	15.0	'human'@en	'educated at'@en	'national academy'@en
+Q5	P69	Q1497364	14.0	'human'@en	'educated at'@en	'building complex'@en
+Q5	P69	Q166118	14.0	'human'@en	'educated at'@en	'archive'@en
+Q5	P69	Q3551519	14.0	'human'@en	'educated at'@en	'university in Quebec'@en
+Q5	P69	Q423208	14.0	'human'@en	'educated at'@en	'private school'@en
+Q5	P69	Q27032435	13.0	'human'@en	'educated at'@en	'academic archive'@en
+Q5	P69	Q1321960	12.0	'human'@en	'educated at'@en	'law school'@en
+Q5	P69	Q162633	12.0	'human'@en	'educated at'@en	'academy'@en
+Q5	P69	Q2667285	12.0	'human'@en	'educated at'@en	'ancient university'@en
+Q5	P69	Q36161	12.0	'human'@en	'educated at'@en	'set'@en
+Q5	P69	Q4671329	12.0	'human'@en	'educated at'@en	'academy school'@en
+Q5	P69	Q498162	12.0	'human'@en	'educated at'@en	'census-designated place'@en
+Q5	P69	Q3238833	11.0	'human'@en	'educated at'@en	'independent school'@en
+Q5	P69	Q1336920	10.0	'human'@en	'educated at'@en	'community college'@en
+Q5	P69	Q967098	10.0	'human'@en	'educated at'@en	'grammar school'@en
+Q5	P69	Q108402759	9.0	'human'@en	'educated at'@en	'university in British Columbia'@en
+Q5	P69	Q1620945	9.0	'human'@en	'educated at'@en	'historically black colleges and universities'@en
+Q5	P69	Q557206	9.0	'human'@en	'educated at'@en	'Catholic university'@en
+Q5	P69	Q98658352	9.0	'human'@en	'educated at'@en	'higher education institution directly under Ministry of Education of the People’s Republic of China'@en
+Q5	P69	Q108935461	8.0	'human'@en	'educated at'@en	'structure of research'@en
+Q5	P69	Q1663017	8.0	'human'@en	'educated at'@en	'engineering school'@en
+Q5	P69	Q346549	8.0	'human'@en	'educated at'@en	'Technische Hochschule'@en
+Q5	P69	Q7014642	8.0	'human'@en	'educated at'@en	'performing arts school'@en
+Q5	P69	Q811979	8.0	'human'@en	'educated at'@en	'architectural structure'@en
+Q5	P69	Q8346700	8.0	'human'@en	'educated at'@en	'cultural heritage site in Russia'@en
+Q5	P69	Q917182	8.0	'human'@en	'educated at'@en	'military academy'@en
+Q5	P69	Q1743327	7.0	'human'@en	'educated at'@en	'сhurch college'@en
+Q5	P69	Q2511322	7.0	'human'@en	'educated at'@en	'lycée'@en
+Q5	P69	Q464980	7.0	'human'@en	'educated at'@en	'exhibition'@en
+Q5	P69	Q987075	7.0	'human'@en	'educated at'@en	'new university'@en
+Q5	P69	Q108402786	6.0	'human'@en	'educated at'@en	'university in Manitoba'@en
+Q5	P69	Q1138671	6.0	'human'@en	'educated at'@en	'Catholic school'@en
+Q5	P69	Q15893266	6.0	'human'@en	'educated at'@en	'former entity'@en
+Q5	P69	Q2065736	6.0	'human'@en	'educated at'@en	'cultural property'@en
+Q5	P69	Q17334923	5.0	'human'@en	'educated at'@en	'location'@en
+Q5	P69	Q21032622	5.0	'human'@en	'educated at'@en	'space grant institution'@en
+Q5	P69	Q2120173	5.0	'human'@en	'educated at'@en	'school of education'@en
+Q5	P69	Q22713629	5.0	'human'@en	'educated at'@en	'girls\' school'@en
+Q5	P69	Q3591586	5.0	'human'@en	'educated at'@en	'public scientific, cultural or professional establishment'@en
+Q5	P69	Q3889692	5.0	'human'@en	'educated at'@en	'college of music'@en
+Q5	P69	Q392376	5.0	'human'@en	'educated at'@en	'Kunstgewerbeschule'@en
+Q5	P69	Q7315091	5.0	'human'@en	'educated at'@en	'Research I university'@en
+Q5	P69	Q845392	5.0	'human'@en	'educated at'@en	'polytechnic'@en
+Q5	P69	Q149566	4.0	'human'@en	'educated at'@en	'middle school'@en
+Q5	P69	Q163740	4.0	'human'@en	'educated at'@en	'nonprofit organization'@en
+Q5	P69	Q178706	4.0	'human'@en	'educated at'@en	'institution'@en
+Q5	P69	Q1902446	4.0	'human'@en	'educated at'@en	'plate glass university'@en
+Q5	P69	Q1935049	4.0	'human'@en	'educated at'@en	'military school'@en
+Q5	P69	Q2190251	4.0	'human'@en	'educated at'@en	'arts centre'@en
+Q5	P69	Q23005233	4.0	'human'@en	'educated at'@en	'ballet school'@en
+Q5	P69	Q32880	4.0	'human'@en	'educated at'@en	'architectural style'@en
+Q5	P69	Q59537665	4.0	'human'@en	'educated at'@en	'campus university'@en
+Q5	P69	Q7940971	4.0	'human'@en	'educated at'@en	'voluntary aided school'@en
+Q5	P69	Q867738	4.0	'human'@en	'educated at'@en	'Christian school'@en
+Q5	P69	Q968159	4.0	'human'@en	'educated at'@en	'art movement'@en
+Q5	P69	Q1076486	3.0	'human'@en	'educated at'@en	'sports venue'@en
+Q5	P69	Q110225820	3.0	'human'@en	'educated at'@en	'Jesuit university'@en
+Q5	P69	Q11057861	3.0	'human'@en	'educated at'@en	'autonomous university'@en
+Q5	P69	Q123705	3.0	'human'@en	'educated at'@en	'neighborhood'@en
+Q5	P69	Q1493752	3.0	'human'@en	'educated at'@en	'day school'@en
+Q5	P69	Q16077796	3.0	'human'@en	'educated at'@en	'vice-ministerial level university'@en
+Q5	P69	Q19860854	3.0	'human'@en	'educated at'@en	'destroyed building or structure'@en
+Q5	P69	Q233324	3.0	'human'@en	'educated at'@en	'seminary'@en
+Q5	P69	Q2772772	3.0	'human'@en	'educated at'@en	'military museum'@en
+Q5	P69	Q352102	3.0	'human'@en	'educated at'@en	'journalism school'@en
+Q5	P69	Q4367464	3.0	'human'@en	'educated at'@en	'preparatory school'@en
+Q5	P69	Q5246046	3.0	'human'@en	'educated at'@en	'academic publishing'@en
+Q5	P69	Q55043	3.0	'human'@en	'educated at'@en	'gymnasium'@en
+Q5	P69	Q96086516	3.0	'human'@en	'educated at'@en	'former educational institution'@en
+Q5	P69	Q9842	3.0	'human'@en	'educated at'@en	'primary school'@en
+Q5	P69	Q100731037	2.0	'human'@en	'educated at'@en	'Native American organization'@en
+Q5	P69	Q10511371	2.0	'human'@en	'educated at'@en	'gymnasieskola'@en
+Q5	P69	Q108415420	2.0	'human'@en	'educated at'@en	'comprehensive academic and research university'@en
+Q5	P69	Q13132631	2.0	'human'@en	'educated at'@en	'Welsh-medium school'@en
+Q5	P69	Q135436	2.0	'human'@en	'educated at'@en	'école normale supérieure'@en
+Q5	P69	Q1542938	2.0	'human'@en	'educated at'@en	'grand établissement'@en
+Q5	P69	Q1620797	2.0	'human'@en	'educated at'@en	'historic district in the United States'@en
+Q5	P69	Q1664720	2.0	'human'@en	'educated at'@en	'institute'@en
+Q5	P69	Q167037	2.0	'human'@en	'educated at'@en	'corporation'@en
+Q5	P69	Q1703577	2.0	'human'@en	'educated at'@en	'magnet school'@en
+Q5	P69	Q1898357	2.0	'human'@en	'educated at'@en	'naval academy'@en
+Q5	P69	Q1971849	2.0	'human'@en	'educated at'@en	'religious school'@en
+Q5	P69	Q19720190	2.0	'human'@en	'educated at'@en	'medium size publisher'@en
+Q5	P69	Q2120466	2.0	'human'@en	'educated at'@en	'pontifical university'@en
+Q5	P69	Q322563	2.0	'human'@en	'educated at'@en	'vocational school'@en
+Q5	P69	Q3445354	2.0	'human'@en	'educated at'@en	'United States senior military college'@en
+Q5	P69	Q3998530	2.0	'human'@en	'educated at'@en	'ancient university of Scotland'@en
+Q5	P69	Q4159443	2.0	'human'@en	'educated at'@en	'сhildren\'s art school'@en
+Q5	P69	Q486972	2.0	'human'@en	'educated at'@en	'human settlement'@en
+Q5	P69	Q667471	2.0	'human'@en	'educated at'@en	'Realschule'@en
+Q5	P69	Q7574916	2.0	'human'@en	'educated at'@en	'specialized high schools in New York City'@en
+Q5	P69	Q7840326	2.0	'human'@en	'educated at'@en	'tribal colleges and universities'@en
+Q5	P69	Q8031137	2.0	'human'@en	'educated at'@en	'Women\'s colleges in the United States'@en
+Q1062083	P69	Q15407956	1.0	'billionaire'@en	'educated at'@en	'university college'@en
+Q1062083	P69	Q38723	1.0	'billionaire'@en	'educated at'@en	'higher education institution'@en
+Q1062083	P69	Q3918	1.0	'billionaire'@en	'educated at'@en	'university'@en
+Q1062083	P69	Q4671277	1.0	'billionaire'@en	'educated at'@en	'academic institution'@en
+Q1062083	P69	Q5341295	1.0	'billionaire'@en	'educated at'@en	'educational organization'@en
+Q5	P69	Q100741837	1.0	'human'@en	'educated at'@en	'major seminary'@en
+Q5	P69	Q10572388	1.0	'human'@en	'educated at'@en	'läroverk'@en
+Q5	P69	Q1081138	1.0	'human'@en	'educated at'@en	'historic site'@en
+Q5	P69	Q108410343	1.0	'human'@en	'educated at'@en	'university in Saskatchewan'@en
+Q5	P69	Q10875128	1.0	'human'@en	'educated at'@en	'ministry-owned university'@en
+Q5	P69	Q109644417	1.0	'human'@en	'educated at'@en	'école nationale supérieure d\'art'@en
+Q5	P69	Q1110992	1.0	'human'@en	'educated at'@en	'Guild of Saint Luke'@en
+Q5	P69	Q11391922	1.0	'human'@en	'educated at'@en	'public policy school'@en
+Q5	P69	Q11812394	1.0	'human'@en	'educated at'@en	'theatre company'@en
+Q5	P69	Q118365	1.0	'human'@en	'educated at'@en	'dictatorship of the proletariat'@en
+Q5	P69	Q1202123	1.0	'human'@en	'educated at'@en	'Red brick university'@en
+Q5	P69	Q1225300	1.0	'human'@en	'educated at'@en	'dicastery'@en
+Q5	P69	Q126807	1.0	'human'@en	'educated at'@en	'kindergarten'@en
+Q5	P69	Q1322589	1.0	'human'@en	'educated at'@en	'Roman College'@en
+Q5	P69	Q133215	1.0	'human'@en	'educated at'@en	'casino'@en
+Q5	P69	Q1343246	1.0	'human'@en	'educated at'@en	'English country house'@en
+Q5	P69	Q1365560	1.0	'human'@en	'educated at'@en	'university of applied sciences'@en
+Q5	P69	Q1400264	1.0	'human'@en	'educated at'@en	'artist collective'@en
+Q5	P69	Q14350	1.0	'human'@en	'educated at'@en	'radio station'@en
+Q5	P69	Q1459186	1.0	'human'@en	'educated at'@en	'college'@en
+Q5	P69	Q14911880	1.0	'human'@en	'educated at'@en	'Catholic seminary'@en
+Q5	P69	Q1520223	1.0	'human'@en	'educated at'@en	'constitutional republic'@en
+Q5	P69	Q15634554	1.0	'human'@en	'educated at'@en	'state with limited recognition'@en
+Q5	P69	Q15911314	1.0	'human'@en	'educated at'@en	'association'@en
+Q5	P69	Q160742	1.0	'human'@en	'educated at'@en	'abbey'@en
+Q5	P69	Q16463	1.0	'human'@en	'educated at'@en	'lyceum'@en
+Q5	P69	Q17028020	1.0	'human'@en	'educated at'@en	'vocational university'@en
+Q5	P69	Q178561	1.0	'human'@en	'educated at'@en	'battle'@en
+Q5	P69	Q1797187	1.0	'human'@en	'educated at'@en	'artist society'@en
+Q5	P69	Q18189	1.0	'human'@en	'educated at'@en	'educational stage'@en
+Q5	P69	Q18674739	1.0	'human'@en	'educated at'@en	'event venue'@en
+Q5	P69	Q20052016	1.0	'human'@en	'educated at'@en	'federal university'@en
+Q5	P69	Q20856087	1.0	'human'@en	'educated at'@en	'NRHP district'@en
+Q5	P69	Q215380	1.0	'human'@en	'educated at'@en	'musical group'@en
+Q5	P69	Q21822439	1.0	'human'@en	'educated at'@en	'further education college'@en
+Q5	P69	Q221096	1.0	'human'@en	'educated at'@en	'public–private partnership'@en
+Q5	P69	Q23002037	1.0	'human'@en	'educated at'@en	'public educational institution'@en
+Q5	P69	Q23002042	1.0	'human'@en	'educated at'@en	'private educational institution'@en
+Q5	P69	Q2319498	1.0	'human'@en	'educated at'@en	'landmark'@en
+Q5	P69	Q23308777	1.0	'human'@en	'educated at'@en	'boys\' high school'@en
+Q5	P69	Q2349320	1.0	'human'@en	'educated at'@en	'Stiftungshochschule'@en
+Q5	P69	Q2373919	1.0	'human'@en	'educated at'@en	'intentional community'@en
+Q5	P69	Q2393314	1.0	'human'@en	'educated at'@en	'dance troupe'@en
+Q5	P69	Q24699794	1.0	'human'@en	'educated at'@en	'museum building'@en
+Q5	P69	Q2667332	1.0	'human'@en	'educated at'@en	'Talmud Torah school'@en
+Q5	P69	Q2680291	1.0	'human'@en	'educated at'@en	'residential college'@en
+Q5	P69	Q27686	1.0	'human'@en	'educated at'@en	'hotel'@en
+Q5	P69	Q28667313	1.0	'human'@en	'educated at'@en	'imperial university of the Russian Empire'@en
+Q5	P69	Q28935764	1.0	'human'@en	'educated at'@en	'school for special needs education'@en
+Q5	P69	Q3152824	1.0	'human'@en	'educated at'@en	'cultural institution'@en
+Q5	P69	Q3280746	1.0	'human'@en	'educated at'@en	'general education liceum'@en
+Q5	P69	Q331225	1.0	'human'@en	'educated at'@en	'Fabergé egg'@en
+Q5	P69	Q3457065	1.0	'human'@en	'educated at'@en	'university network'@en
+Q5	P69	Q3488547	1.0	'human'@en	'educated at'@en	'faculty of law'@en
+Q5	P69	Q355567	1.0	'human'@en	'educated at'@en	'noble title'@en
+Q5	P69	Q3578166	1.0	'human'@en	'educated at'@en	'École nationale supérieure'@en
+Q5	P69	Q3624078	1.0	'human'@en	'educated at'@en	'sovereign state'@en
+Q5	P69	Q3831895	1.0	'human'@en	'educated at'@en	'liceo artistico'@en
+Q5	P69	Q3953379	1.0	'human'@en	'educated at'@en	'superior graduate school in Italy'@en
+Q5	P69	Q39614	1.0	'human'@en	'educated at'@en	'cemetery'@en
+Q5	P69	Q398141	1.0	'human'@en	'educated at'@en	'school district'@en
+Q5	P69	Q4140840	1.0	'human'@en	'educated at'@en	'lost artwork'@en
+Q5	P69	Q41694961	1.0	'human'@en	'educated at'@en	'training facility'@en
+Q5	P69	Q465613	1.0	'human'@en	'educated at'@en	'people\'s republic'@en
+Q5	P69	Q47002003	1.0	'human'@en	'educated at'@en	'upper secondary school in Norway'@en
+Q5	P69	Q4830453	1.0	'human'@en	'educated at'@en	'business'@en
+Q5	P69	Q494230	1.0	'human'@en	'educated at'@en	'medical school'@en
+Q5	P69	Q5	1.0	'human'@en	'educated at'@en	'human'@en
+Q5	P69	Q5003624	1.0	'human'@en	'educated at'@en	'memorial'@en
+Q5	P69	Q5074436	1.0	'human'@en	'educated at'@en	'charitable organization in Canada'@en
+Q5	P69	Q5146929	1.0	'human'@en	'educated at'@en	'college of Durham University'@en
+Q5	P69	Q5155053	1.0	'human'@en	'educated at'@en	'community school'@en
+Q5	P69	Q5474524	1.0	'human'@en	'educated at'@en	'foundation school'@en
+Q5	P69	Q5518	1.0	'human'@en	'educated at'@en	'liceo classico'@en
+Q5	P69	Q5564585	1.0	'human'@en	'educated at'@en	'Girls\' School'@en
+Q5	P69	Q562092	1.0	'human'@en	'educated at'@en	'Imperial universities of Japan'@en
+Q5	P69	Q56351315	1.0	'human'@en	'educated at'@en	'Japanese upper secondary school'@en
+Q5	P69	Q570116	1.0	'human'@en	'educated at'@en	'tourist attraction'@en
+Q5	P69	Q6190035	1.0	'human'@en	'educated at'@en	'Jewish day school'@en
+Q5	P69	Q6256	1.0	'human'@en	'educated at'@en	'country'@en
+Q5	P69	Q7328910	1.0	'human'@en	'educated at'@en	'art collection'@en
+Q5	P69	Q7447785	1.0	'human'@en	'educated at'@en	'selective school'@en
+Q5	P69	Q77115	1.0	'human'@en	'educated at'@en	'community center'@en
+Q5	P69	Q7894996	1.0	'human'@en	'educated at'@en	'university college'@en
+Q5	P69	Q7950347	1.0	'human'@en	'educated at'@en	'World Health Organization collaborating centre'@en
+Q5	P69	Q806116	1.0	'human'@en	'educated at'@en	'Banaras Hindu University'@en
+Q5	P69	Q811165	1.0	'human'@en	'educated at'@en	'architectural heritage monument'@en
+Q5	P69	Q839954	1.0	'human'@en	'educated at'@en	'archaeological site'@en
+Q5	P69	Q842112	1.0	'human'@en	'educated at'@en	'socialist state'@en
+Q5	P69	Q849866	1.0	'human'@en	'educated at'@en	'communist state'@en
+Q5	P69	Q859563	1.0	'human'@en	'educated at'@en	'secular state'@en
+Q5	P69	Q8719053	1.0	'human'@en	'educated at'@en	'music venue'@en
+Q5	P650	external-id	1608.0	'human'@en	'RKDartists ID'@en	
+Q5	P646	external-id	7584.0	'human'@en	'Freebase ID'@en	
+Q20643955	P646	external-id	10.0	'human biblical figure'@en	'Freebase ID'@en	
+Q1747829	P646	external-id	7.0	'notname'@en	'Freebase ID'@en	
+Q1062083	P646	external-id	2.0	'billionaire'@en	'Freebase ID'@en	
+Q110550976	P646	external-id	1.0	'Saqqara king'@en	'Freebase ID'@en	
+Q110556685	P646	external-id	1.0		'Freebase ID'@en	
+Q16334295	P646	external-id	1.0	'group of humans'@en	'Freebase ID'@en	
+Q168827	P646	external-id	1.0	'prophet of Islam'@en	'Freebase ID'@en	
+Q1802401	P646	external-id	1.0		'Freebase ID'@en	
+Q19828370	P646	external-id	1.0	'drawing series'@en	'Freebase ID'@en	
+Q25377923	P646	external-id	1.0		'Freebase ID'@en	
+Q43412	P646	external-id	1.0	'Apostle'@en	'Freebase ID'@en	
+Q61002	P646	external-id	1.0	'pseudonym'@en	'Freebase ID'@en	
+Q7881	P646	external-id	1.0	'skeleton'@en	'Freebase ID'@en	
+Q858157	P646	external-id	1.0	'German folklore'@en	'Freebase ID'@en	
+Q5	P6379	Q207694	1709.0	'human'@en	'has works in the collection'@en	'art museum'@en
+Q5	P6379	Q17431399	775.0	'human'@en	'has works in the collection'@en	'national museum'@en
+Q5	P6379	Q108860593	512.0	'human'@en	'has works in the collection'@en	'museum of modern art'@en
+Q5	P6379	Q2085381	346.0	'human'@en	'has works in the collection'@en	'publisher'@en
+Q5	P6379	Q33506	294.0	'human'@en	'has works in the collection'@en	'museum'@en
+Q5	P6379	Q88667167	288.0	'human'@en	'has works in the collection'@en	'museum network'@en
+Q5	P6379	Q1047437	283.0	'human'@en	'has works in the collection'@en	'copyright collective'@en
+Q5	P6379	Q45400320	283.0	'human'@en	'has works in the collection'@en	'open-access publisher'@en
+Q5	P6379	Q2385804	250.0	'human'@en	'has works in the collection'@en	'educational institution'@en
+Q5	P6379	Q7328910	246.0	'human'@en	'has works in the collection'@en	'art collection'@en
+Q5	P6379	Q24699794	177.0	'human'@en	'has works in the collection'@en	'museum building'@en
+Q5	P6379	Q383092	119.0	'human'@en	'has works in the collection'@en	'Art school'@en
+Q5	P6379	Q15090615	114.0	'human'@en	'has works in the collection'@en	'arts venue'@en
+Q5	P6379	Q4989906	82.0	'human'@en	'has works in the collection'@en	'monument'@en
+Q5	P6379	Q64578911	75.0	'human'@en	'has works in the collection'@en	'former hospital'@en
+Q5	P6379	Q68295960	65.0	'human'@en	'has works in the collection'@en	'Swedish government agency'@en
+Q5	P6379	Q27032363	63.0	'human'@en	'has works in the collection'@en	'photo archive'@en
+Q5	P6379	Q866133	54.0	'human'@en	'has works in the collection'@en	'university museum'@en
+Q5	P6379	Q16735822	49.0	'human'@en	'has works in the collection'@en	'history museum'@en
+Q5	P6379	Q163740	47.0	'human'@en	'has works in the collection'@en	'nonprofit organization'@en
+Q5	P6379	Q2668072	47.0	'human'@en	'has works in the collection'@en	'collection'@en
+Q5	P6379	Q41253	46.0	'human'@en	'has works in the collection'@en	'movie theater'@en
+Q5	P6379	Q570116	43.0	'human'@en	'has works in the collection'@en	'tourist attraction'@en
+Q5	P6379	Q166118	40.0	'human'@en	'has works in the collection'@en	'archive'@en
+Q5	P6379	Q1497375	38.0	'human'@en	'has works in the collection'@en	'architectural ensemble'@en
+Q5	P6379	Q20857085	37.0	'human'@en	'has works in the collection'@en	'state agency of the United States'@en
+Q5	P6379	Q327333	36.0	'human'@en	'has works in the collection'@en	'government agency'@en
+Q5	P6379	Q3196771	34.0	'human'@en	'has works in the collection'@en	'art museum'@en
+Q5	P6379	Q1200701	32.0	'human'@en	'has works in the collection'@en	'design museum'@en
+Q5	P6379	Q17000320	30.0	'human'@en	'has works in the collection'@en	'theatre museum'@en
+Q5	P6379	Q23002054	28.0	'human'@en	'has works in the collection'@en	'private not-for-profit educational institution'@en
+Q5	P6379	Q3469910	28.0	'human'@en	'has works in the collection'@en	'performing arts center'@en
+Q5	P6379	Q54934129	28.0	'human'@en	'has works in the collection'@en	'African-American museum'@en
+Q5	P6379	Q2288140	26.0	'human'@en	'has works in the collection'@en	'Federal Scientific Institute'@en
+Q5	P6379	Q3343298	26.0	'human'@en	'has works in the collection'@en	'non-departmental public body'@en
+Q5	P6379	Q43229	25.0	'human'@en	'has works in the collection'@en	'organization'@en
+Q5	P6379	Q614316	24.0	'human'@en	'has works in the collection'@en	'private museum'@en
+Q5	P6379	Q811979	24.0	'human'@en	'has works in the collection'@en	'architectural structure'@en
+Q5	P6379	Q1759852	21.0	'human'@en	'has works in the collection'@en	'sculpture garden'@en
+Q5	P6379	Q464980	18.0	'human'@en	'has works in the collection'@en	'exhibition'@en
+Q5	P6379	Q1007870	17.0	'human'@en	'has works in the collection'@en	'art gallery'@en
+Q5	P6379	Q1352795	17.0	'human'@en	'has works in the collection'@en	'cinematheque'@en
+Q5	P6379	Q16560	17.0	'human'@en	'has works in the collection'@en	'palace'@en
+Q5	P6379	Q726929	17.0	'human'@en	'has works in the collection'@en	'film archive'@en
+Q5	P6379	Q1863818	14.0	'human'@en	'has works in the collection'@en	'maritime museum'@en
+Q5	P6379	Q22806	14.0	'human'@en	'has works in the collection'@en	'national library'@en
+Q5	P6379	Q41176	13.0	'human'@en	'has works in the collection'@en	'building'@en
+Q5	P6379	Q7981903	13.0	'human'@en	'has works in the collection'@en	'Welsh Government sponsored body'@en
+Q5	P6379	Q1497364	12.0	'human'@en	'has works in the collection'@en	'building complex'@en
+Q5	P6379	Q2772772	12.0	'human'@en	'has works in the collection'@en	'military museum'@en
+Q5	P6379	Q28737012	12.0	'human'@en	'has works in the collection'@en	'museum of culture'@en
+Q5	P6379	Q3152824	12.0	'human'@en	'has works in the collection'@en	'cultural institution'@en
+Q5	P6379	Q756102	12.0	'human'@en	'has works in the collection'@en	'open-air museum'@en
+Q5	P6379	Q1867518	11.0	'human'@en	'has works in the collection'@en	'skateboarding spot'@en
+Q5	P6379	Q1970365	11.0	'human'@en	'has works in the collection'@en	'natural history museum'@en
+Q5	P6379	Q604177	11.0	'human'@en	'has works in the collection'@en	'municipal archive'@en
+Q5	P6379	Q1497649	10.0	'human'@en	'has works in the collection'@en	'memory institution'@en
+Q5	P6379	Q7075	10.0	'human'@en	'has works in the collection'@en	'library'@en
+Q5	P6379	Q28496624	9.0	'human'@en	'has works in the collection'@en	'national museum'@en
+Q5	P6379	Q2945282	9.0	'human'@en	'has works in the collection'@en	'documentation centre'@en
+Q5	P6379	Q39614	9.0	'human'@en	'has works in the collection'@en	'cemetery'@en
+Q1747829	P6379	Q207694	7.0	'notname'@en	'has works in the collection'@en	'art museum'@en
+Q5	P6379	Q1137809	7.0	'human'@en	'has works in the collection'@en	'courthouse'@en
+Q5	P6379	Q2087181	7.0	'human'@en	'has works in the collection'@en	'historic house museum'@en
+Q5	P6379	Q26944969	7.0	'human'@en	'has works in the collection'@en	'photography museum'@en
+Q5	P6379	Q73278267	6.0	'human'@en	'has works in the collection'@en	'copyright holding organisation'@en
+Q1747829	P6379	Q2085381	5.0	'notname'@en	'has works in the collection'@en	'publisher'@en
+Q5	P6379	Q111448803	5.0	'human'@en	'has works in the collection'@en	'University collection'@en
+Q5	P6379	Q15206795	5.0	'human'@en	'has works in the collection'@en	'exhibition room'@en
+Q5	P6379	Q31855	5.0	'human'@en	'has works in the collection'@en	'research institute'@en
+Q5	P6379	Q3329412	5.0	'human'@en	'has works in the collection'@en	'archaeological museum'@en
+Q5	P6379	Q684740	5.0	'human'@en	'has works in the collection'@en	'real property'@en
+Q5	P6379	Q768717	5.0	'human'@en	'has works in the collection'@en	'private collection'@en
+Q5	P6379	Q1329623	4.0	'human'@en	'has works in the collection'@en	'cultural center'@en
+Q5	P6379	Q3330843	4.0	'human'@en	'has works in the collection'@en	'museums of the city of Paris'@en
+Q5	P6379	Q708676	4.0	'human'@en	'has works in the collection'@en	'charitable organization'@en
+Q5	P6379	Q1595639	3.0	'human'@en	'has works in the collection'@en	'local museum'@en
+Q5	P6379	Q2651004	3.0	'human'@en	'has works in the collection'@en	'palazzo'@en
+Q5	P6379	Q28564	3.0	'human'@en	'has works in the collection'@en	'public library'@en
+Q5	P6379	Q28692594	3.0	'human'@en	'has works in the collection'@en	'Modern Architecture'@en
+Q5	P6379	Q36161	3.0	'human'@en	'has works in the collection'@en	'set'@en
+Q5	P6379	Q3918	3.0	'human'@en	'has works in the collection'@en	'university'@en
+Q5	P6379	Q3947	3.0	'human'@en	'has works in the collection'@en	'house'@en
+Q5	P6379	Q5341295	3.0	'human'@en	'has works in the collection'@en	'educational organization'@en
+Q5	P6379	Q64153060	3.0	'human'@en	'has works in the collection'@en	'corporate art collection'@en
+Q5	P6379	Q875538	3.0	'human'@en	'has works in the collection'@en	'public university'@en
+Q1747829	P6379	Q3329412	2.0	'notname'@en	'has works in the collection'@en	'archaeological museum'@en
+Q1747829	P6379	Q33506	2.0	'notname'@en	'has works in the collection'@en	'museum'@en
+Q1747829	P6379	Q866133	2.0	'notname'@en	'has works in the collection'@en	'university museum'@en
+Q5	P6379	Q108935461	2.0	'human'@en	'has works in the collection'@en	'structure of research'@en
+Q5	P6379	Q1307560	2.0	'human'@en	'has works in the collection'@en	'Jewish museum'@en
+Q5	P6379	Q148319	2.0	'human'@en	'has works in the collection'@en	'planetarium'@en
+Q5	P6379	Q16831714	2.0	'human'@en	'has works in the collection'@en	'government building'@en
+Q5	P6379	Q1966910	2.0	'human'@en	'has works in the collection'@en	'national academy'@en
+Q5	P6379	Q27030941	2.0	'human'@en	'has works in the collection'@en	'special archive'@en
+Q5	P6379	Q27032435	2.0	'human'@en	'has works in the collection'@en	'academic archive'@en
+Q5	P6379	Q272231	2.0	'human'@en	'has works in the collection'@en	'arboretum'@en
+Q5	P6379	Q38723	2.0	'human'@en	'has works in the collection'@en	'higher education institution'@en
+Q5	P6379	Q44234152	2.0	'human'@en	'has works in the collection'@en	'rare book library'@en
+Q5	P6379	Q4796697	2.0	'human'@en	'has works in the collection'@en	'art bank'@en
+Q5	P6379	Q5	2.0	'human'@en	'has works in the collection'@en	'human'@en
+Q5	P6379	Q57655560	2.0	'human'@en	'has works in the collection'@en	'U.S. corporation'@en
+Q5	P6379	Q656720	2.0	'human'@en	'has works in the collection'@en	'workshop'@en
+Q5	P6379	Q67165238	2.0	'human'@en	'has works in the collection'@en	'noncommercial art gallery'@en
+Q1747829	P6379	Q16735822	1.0	'notname'@en	'has works in the collection'@en	'history museum'@en
+Q1747829	P6379	Q17431399	1.0	'notname'@en	'has works in the collection'@en	'national museum'@en
+Q1747829	P6379	Q7328910	1.0	'notname'@en	'has works in the collection'@en	'art collection'@en
+Q25377923	P6379	Q207694	1.0		'has works in the collection'@en	'art museum'@en
+Q25377923	P6379	Q2085381	1.0		'has works in the collection'@en	'publisher'@en
+Q25377923	P6379	Q33506	1.0		'has works in the collection'@en	'museum'@en
+Q25377923	P6379	Q866133	1.0		'has works in the collection'@en	'university museum'@en
+Q5	P6379	Q1006283	1.0	'human'@en	'has works in the collection'@en	'national trust'@en
+Q5	P6379	Q100731037	1.0	'human'@en	'has works in the collection'@en	'Native American organization'@en
+Q5	P6379	Q100994575	1.0	'human'@en	'has works in the collection'@en	'provincial archive'@en
+Q5	P6379	Q10416961	1.0	'human'@en	'has works in the collection'@en	'working life museum'@en
+Q5	P6379	Q10444897	1.0	'human'@en	'has works in the collection'@en	
+Q5	P6379	Q1081138	1.0	'human'@en	'has works in the collection'@en	'historic site'@en
+Q5	P6379	Q120560	1.0	'human'@en	'has works in the collection'@en	'minor basilica'@en
+Q5	P6379	Q1343246	1.0	'human'@en	'has works in the collection'@en	'English country house'@en
+Q5	P6379	Q1365179	1.0	'human'@en	'has works in the collection'@en	'private mansion'@en
+Q5	P6379	Q1400264	1.0	'human'@en	'has works in the collection'@en	'artist collective'@en
+Q5	P6379	Q1438040	1.0	'human'@en	'has works in the collection'@en	'research library'@en
+Q5	P6379	Q149789	1.0	'human'@en	'has works in the collection'@en	'limited liability company'@en
+Q5	P6379	Q157031	1.0	'human'@en	'has works in the collection'@en	'foundation'@en
+Q5	P6379	Q16038801	1.0	'human'@en	'has works in the collection'@en	'contemporary art gallery'@en
+Q5	P6379	Q1662089	1.0	'human'@en	'has works in the collection'@en	'industry museum'@en
+Q5	P6379	Q167346	1.0	'human'@en	'has works in the collection'@en	'botanical garden'@en
+Q5	P6379	Q16884952	1.0	'human'@en	'has works in the collection'@en	'country house'@en
+Q5	P6379	Q178706	1.0	'human'@en	'has works in the collection'@en	'institution'@en
+Q5	P6379	Q1882512	1.0	'human'@en	'has works in the collection'@en	'Regional Historic Center'@en
+Q5	P6379	Q1902440	1.0	'human'@en	'has works in the collection'@en	'State archive from the Netherlands'@en
+Q5	P6379	Q19844914	1.0	'human'@en	'has works in the collection'@en	'university building'@en
+Q5	P6379	Q20897549	1.0	'human'@en	'has works in the collection'@en	'art institution'@en
+Q5	P6379	Q210272	1.0	'human'@en	'has works in the collection'@en	'cultural heritage'@en
+Q5	P6379	Q2106220	1.0	'human'@en	'has works in the collection'@en	'postal museum'@en
+Q5	P6379	Q21160378	1.0	'human'@en	'has works in the collection'@en	'contemporary art museum'@en
+Q5	P6379	Q2190251	1.0	'human'@en	'has works in the collection'@en	'arts centre'@en
+Q5	P6379	Q2293148	1.0	'human'@en	'has works in the collection'@en	'sculpture trail'@en
+Q5	P6379	Q23002039	1.0	'human'@en	'has works in the collection'@en	'public educational institution of the United States'@en
+Q5	P6379	Q23058156	1.0	'human'@en	'has works in the collection'@en	'museum complex'@en
+Q5	P6379	Q2327632	1.0	'human'@en	'has works in the collection'@en	'city museum'@en
+Q5	P6379	Q26271642	1.0	'human'@en	'has works in the collection'@en	'library system'@en
+Q5	P6379	Q26945165	1.0	'human'@en	'has works in the collection'@en	'architectural museum'@en
+Q5	P6379	Q27699276	1.0	'human'@en	'has works in the collection'@en	'museum collection'@en
+Q5	P6379	Q281644	1.0	'human'@en	'has works in the collection'@en	'arts association'@en
+Q5	P6379	Q3075898	1.0	'human'@en	'has works in the collection'@en	'Fonds régional d\'art contemporain'@en
+Q5	P6379	Q3410766	1.0	'human'@en	'has works in the collection'@en	'pulp mill'@en
+Q5	P6379	Q35112127	1.0	'human'@en	'has works in the collection'@en	'historic building'@en
+Q5	P6379	Q358	1.0	'human'@en	'has works in the collection'@en	'heritage site'@en
+Q5	P6379	Q38048707	1.0	'human'@en	'has works in the collection'@en	'historical cultural heritage site'@en
+Q5	P6379	Q3950	1.0	'human'@en	'has works in the collection'@en	'villa'@en
+Q5	P6379	Q48204	1.0	'human'@en	'has works in the collection'@en	'voluntary association'@en
+Q5	P6379	Q5003624	1.0	'human'@en	'has works in the collection'@en	'memorial'@en
+Q5	P6379	Q5383482	1.0	'human'@en	'has works in the collection'@en	'episcopal palace'@en
+Q5	P6379	Q5436782	1.0	'human'@en	'has works in the collection'@en	'fashion museum'@en
+Q5	P6379	Q5773747	1.0	'human'@en	'has works in the collection'@en	'historic house'@en
+Q5	P6379	Q58217808	1.0	'human'@en	'has works in the collection'@en	'print workshop'@en
+Q5	P6379	Q61781831	1.0	'human'@en	'has works in the collection'@en	'curatorial department'@en
+Q5	P6379	Q62098611	1.0	'human'@en	'has works in the collection'@en	'museum of decorative arts'@en
+Q5	P6379	Q64995589	1.0	'human'@en	'has works in the collection'@en	'country house hotel'@en
+Q5	P6379	Q7094076	1.0	'human'@en	'has works in the collection'@en	'online database'@en
+Q5	P6379	Q7247618	1.0	'human'@en	'has works in the collection'@en	'prodigy house'@en
+Q5	P6379	Q740437	1.0	'human'@en	'has works in the collection'@en	'picture gallery'@en
+Q5	P6379	Q839954	1.0	'human'@en	'has works in the collection'@en	'archaeological site'@en
+Q5	P6379	Q856584	1.0	'human'@en	'has works in the collection'@en	'library building'@en
+Q5	P6379	Q89126428	1.0	'human'@en	'has works in the collection'@en	'historic preservation organization'@en
+Q5	P6379	Q98818526	1.0	'human'@en	'has works in the collection'@en	'art gallery'@en
+Q5	P570	time	3839.0	'human'@en	'date of death'@en	
+Q20643955	P570	time	8.0	'human biblical figure'@en	'date of death'@en	
+Q168827	P570	time	1.0	'prophet of Islam'@en	'date of death'@en	
+Q1802401	P570	time	1.0		'date of death'@en	
+Q19828370	P570	time	1.0	'drawing series'@en	'date of death'@en	
+Q43412	P570	time	1.0	'Apostle'@en	'date of death'@en	
+Q858157	P570	time	1.0	'German folklore'@en	'date of death'@en	
+Q5	P569	time	7010.0	'human'@en	'date of birth'@en	
+Q20643955	P569	time	4.0	'human biblical figure'@en	'date of birth'@en	
+Q1062083	P569	time	2.0	'billionaire'@en	'date of birth'@en	
+Q1802401	P569	time	1.0		'date of birth'@en	
+Q19828370	P569	time	1.0	'drawing series'@en	'date of birth'@en	
+Q43412	P569	time	1.0	'Apostle'@en	'date of birth'@en	
+Q61002	P569	time	1.0	'pseudonym'@en	'date of birth'@en	
+Q858157	P569	time	1.0	'German folklore'@en	'date of birth'@en	
+Q5	P4927	external-id	1151.0	'human'@en	'Invaluable.com person ID'@en	
+Q5	P3782	external-id	1331.0	'human'@en	'Artnet artist ID'@en	
+Q61002	P3782	external-id	1.0	'pseudonym'@en	'Artnet artist ID'@en	
+Q5	P373	string	2186.0	'human'@en	'Commons category'@en	
+Q20643955	P373	string	10.0	'human biblical figure'@en	'Commons category'@en	
+Q1747829	P373	string	7.0	'notname'@en	'Commons category'@en	
+Q110550976	P373	string	1.0	'Saqqara king'@en	'Commons category'@en	
+Q110556685	P373	string	1.0		'Commons category'@en	
+Q168827	P373	string	1.0	'prophet of Islam'@en	'Commons category'@en	
+Q1802401	P373	string	1.0		'Commons category'@en	
+Q25377923	P373	string	1.0		'Commons category'@en	
+Q43412	P373	string	1.0	'Apostle'@en	'Commons category'@en	
+Q61002	P373	string	1.0	'pseudonym'@en	'Commons category'@en	
+Q858157	P373	string	1.0	'German folklore'@en	'Commons category'@en	
+Q5	P3430	external-id	1844.0	'human'@en	'SNAC ARK ID'@en	
+Q20643955	P3430	external-id	2.0	'human biblical figure'@en	'SNAC ARK ID'@en	
+Q1802401	P3430	external-id	1.0		'SNAC ARK ID'@en	
+Q5	P3368	external-id	2206.0	'human'@en	'Prabook ID'@en	
+Q5	P27	Q3624078	5963.0	'human'@en	'country of citizenship'@en	'sovereign state'@en
+Q5	P27	Q6256	5811.0	'human'@en	'country of citizenship'@en	'country'@en
+Q5	P27	Q512187	2574.0	'human'@en	'country of citizenship'@en	'federal republic'@en
+Q5	P27	Q1520223	2487.0	'human'@en	'country of citizenship'@en	'constitutional republic'@en
+Q5	P27	Q5255892	2444.0	'human'@en	'country of citizenship'@en	'democratic republic'@en
+Q5	P27	Q99541706	2282.0	'human'@en	'country of citizenship'@en	'historical unrecognized state'@en
+Q5	P27	Q1489259	2272.0	'human'@en	'country of citizenship'@en	'superpower'@en
+Q5	P27	Q20181813	1370.0	'human'@en	'country of citizenship'@en	'colonial power'@en
+Q5	P27	Q202686	1195.0	'human'@en	'country of citizenship'@en	'Commonwealth realm'@en
+Q5	P27	Q7270	1087.0	'human'@en	'country of citizenship'@en	'republic'@en
+Q5	P27	Q43702	955.0	'human'@en	'country of citizenship'@en	'federation'@en
+Q5	P27	Q112099	853.0	'human'@en	'country of citizenship'@en	'island nation'@en
+Q5	P27	Q3024240	719.0	'human'@en	'country of citizenship'@en	'historical country'@en
+Q5	P27	Q1250464	693.0	'human'@en	'country of citizenship'@en	'realm'@en
+Q5	P27	Q223832	674.0	'human'@en	'country of citizenship'@en	'dominion of the British Empire'@en
+Q5	P27	Q51576574	650.0	'human'@en	'country of citizenship'@en	'Mediterranean country'@en
+Q5	P27	Q63791824	646.0	'human'@en	'country of citizenship'@en	'country bordering the Baltic Sea'@en
+Q5	P27	Q619610	566.0	'human'@en	'country of citizenship'@en	'social state'@en
+Q5	P27	Q179164	470.0	'human'@en	'country of citizenship'@en	'unitary state'@en
+Q5	P27	Q4209223	459.0	'human'@en	'country of citizenship'@en	'Rechtsstaat'@en
+Q5	P27	Q185145	216.0	'human'@en	'country of citizenship'@en	'great power'@en
+Q5	P27	Q29569274	215.0	'human'@en	'country of citizenship'@en	'former name'@en
+Q5	P27	Q123480	211.0	'human'@en	'country of citizenship'@en	'landlocked country'@en
+Q5	P27	Q7275	155.0	'human'@en	'country of citizenship'@en	'state'@en
+Q5	P27	Q48349	137.0	'human'@en	'country of citizenship'@en	'empire'@en
+Q5	P27	Q6266	137.0	'human'@en	'country of citizenship'@en	'nation'@en
+Q5	P27	Q417175	119.0	'human'@en	'country of citizenship'@en	'kingdom'@en
+Q5	P27	Q849866	119.0	'human'@en	'country of citizenship'@en	'communist state'@en
+Q5	P27	Q1323642	116.0	'human'@en	'country of citizenship'@en	'transcontinental country'@en
+Q5	P27	Q859563	109.0	'human'@en	'country of citizenship'@en	'secular state'@en
+Q5	P27	Q842112	93.0	'human'@en	'country of citizenship'@en	'socialist state'@en
+Q5	P27	Q41614	88.0	'human'@en	'country of citizenship'@en	'constitutional monarchy'@en
+Q5	P27	Q66724388	87.0	'human'@en	'country of citizenship'@en	'autonomous country within the Kingdom of Denmark'@en
+Q5	P27	Q170156	85.0	'human'@en	'country of citizenship'@en	'confederation'@en
+Q5	P27	Q1351282	70.0	'human'@en	'country of citizenship'@en	'crown colony'@en
+Q5	P27	Q63438000	69.0	'human'@en	'country of citizenship'@en	'climate emergency declaration'@en
+Q5	P27	Q465613	66.0	'human'@en	'country of citizenship'@en	'people\'s republic'@en
+Q5	P27	Q611214	63.0	'human'@en	'country of citizenship'@en	'Next Eleven'@en
+Q5	P27	Q1335818	54.0	'human'@en	'country of citizenship'@en	'supranational union'@en
+Q5	P27	Q185441	49.0	'human'@en	'country of citizenship'@en	'member state of the european union'@en
+Q5	P27	Q15634554	48.0	'human'@en	'country of citizenship'@en	'state with limited recognition'@en
+Q5	P27	Q118365	39.0	'human'@en	'country of citizenship'@en	'dictatorship of the proletariat'@en
+Q5	P27	Q133442	37.0	'human'@en	'country of citizenship'@en	'city-state'@en
+Q5	P27	Q3336843	37.0	'human'@en	'country of citizenship'@en	'constituent country of the United Kingdom'@en
+Q5	P27	Q148837	27.0	'human'@en	'country of citizenship'@en	'polis'@en
+Q5	P27	Q15304003	26.0	'human'@en	'country of citizenship'@en	'country of the Kingdom of the Netherlands'@en
+Q5	P27	Q672729	26.0	'human'@en	'country of citizenship'@en	'Islamic Republic'@en
+Q5	P27	Q839954	26.0	'human'@en	'country of citizenship'@en	'archaeological site'@en
+Q5	P27	Q13107770	21.0	'human'@en	'country of citizenship'@en	'archipelagic state'@en
+Q5	P27	Q28171280	20.0	'human'@en	'country of citizenship'@en	'ancient civilization'@en
+Q5	P27	Q3502482	20.0	'human'@en	'country of citizenship'@en	'cultural region'@en
+Q5	P27	Q11514315	18.0	'human'@en	'country of citizenship'@en	'historical period'@en
+Q5	P27	Q1620908	15.0	'human'@en	'country of citizenship'@en	'historical region'@en
+Q5	P27	Q518261	15.0	'human'@en	'country of citizenship'@en	'cultural area'@en
+Q5	P27	Q56061	15.0	'human'@en	'country of citizenship'@en	'administrative territorial entity'@en
+Q5	P27	Q1549591	14.0	'human'@en	'country of citizenship'@en	'big city'@en
+Q5	P27	Q1637706	14.0	'human'@en	'country of citizenship'@en	'million city'@en
+Q5	P27	Q179671	14.0	'human'@en	'country of citizenship'@en	'nation state'@en
+Q5	P27	Q515	14.0	'human'@en	'country of citizenship'@en	'city'@en
+Q5	P27	Q43185013	13.0	'human'@en	'country of citizenship'@en	'maritime republic'@en
+Q5	P27	Q2264924	12.0	'human'@en	'country of citizenship'@en	'port settlement'@en
+Q5	P27	Q5119	12.0	'human'@en	'country of citizenship'@en	'capital'@en
+Q5	P27	Q902814	12.0	'human'@en	'country of citizenship'@en	'border town'@en
+Q5	P27	Q465299	11.0	'human'@en	'country of citizenship'@en	'archaeological culture'@en
+Q5	P27	Q1093720	10.0	'human'@en	'country of citizenship'@en	'real union'@en
+Q5	P27	Q325261	10.0	'human'@en	'country of citizenship'@en	'satellite state'@en
+Q5	P27	Q165116	9.0	'human'@en	'country of citizenship'@en	'grand duchy'@en
+Q5	P27	Q11042	8.0	'human'@en	'country of citizenship'@en	'culture'@en
+Q5	P27	Q1292119	8.0	'human'@en	'country of citizenship'@en	'style'@en
+Q5	P27	Q5284036	8.0	'human'@en	'country of citizenship'@en	'divided region'@en
+Q1747829	P27	Q133442	7.0	'notname'@en	'country of citizenship'@en	'city-state'@en
+Q1747829	P27	Q148837	7.0	'notname'@en	'country of citizenship'@en	'polis'@en
+Q1747829	P27	Q839954	7.0	'notname'@en	'country of citizenship'@en	'archaeological site'@en
+Q5	P27	Q1088391	7.0	'human'@en	'country of citizenship'@en	'rump state'@en
+Q5	P27	Q236036	7.0	'human'@en	'country of citizenship'@en	'republics of the Soviet Union'@en
+Q5	P27	Q49892	7.0	'human'@en	'country of citizenship'@en	'presidential system'@en
+Q5	P27	Q918240	7.0	'human'@en	'country of citizenship'@en	'territorial evolution of the British Empire'@en
+Q5	P27	Q107390	6.0	'human'@en	'country of citizenship'@en	'federated state'@en
+Q5	P27	Q133156	6.0	'human'@en	'country of citizenship'@en	'colony'@en
+Q5	P27	Q187587	6.0	'human'@en	'country of citizenship'@en	'empire'@en
+Q5	P27	Q26830017	6.0	'human'@en	'country of citizenship'@en	'state in the Holy Roman Empire'@en
+Q5	P27	Q1951661	5.0	'human'@en	'country of citizenship'@en	'member states of the Association of Southeast Asian Nations'@en
+Q5	P27	Q339834	5.0	'human'@en	'country of citizenship'@en	'regional power'@en
+Q5	P27	Q19953632	4.0	'human'@en	'country of citizenship'@en	'former administrative territorial entity'@en
+Q5	P27	Q26879763	4.0	'human'@en	'country of citizenship'@en	'Napoleonic client state'@en
+Q5	P27	Q26879769	4.0	'human'@en	'country of citizenship'@en	'state in the Confederation of the Rhine'@en
+Q5	P27	Q50068795	4.0	'human'@en	'country of citizenship'@en	'historical Chinese state'@en
+Q5	P27	Q1151405	3.0	'human'@en	'country of citizenship'@en	'client state'@en
+Q5	P27	Q131401	3.0	'human'@en	'country of citizenship'@en	'caliphate'@en
+Q5	P27	Q161243	3.0	'human'@en	'country of citizenship'@en	'dependent territory'@en
+Q5	P27	Q188063	3.0	'human'@en	'country of citizenship'@en	'fiefdom'@en
+Q5	P27	Q3591895	3.0	'human'@en	'country of citizenship'@en	'Savoyard state'@en
+Q5	P27	Q4057683	3.0	'human'@en	'country of citizenship'@en	'states of the German Empire'@en
+Q5	P27	Q82794	3.0	'human'@en	'country of citizenship'@en	'geographic region'@en
+Q1062083	P27	Q3624078	2.0	'billionaire'@en	'country of citizenship'@en	'sovereign state'@en
+Q1062083	P27	Q6256	2.0	'billionaire'@en	'country of citizenship'@en	'country'@en
+Q20643955	P27	Q3024240	2.0	'human biblical figure'@en	'country of citizenship'@en	'historical country'@en
+Q5	P27	Q1089515	2.0	'human'@en	'country of citizenship'@en	'conquest dynasty'@en
+Q5	P27	Q11396118	2.0	'human'@en	'country of citizenship'@en	'divided country'@en
+Q5	P27	Q1200957	2.0	'human'@en	'country of citizenship'@en	'tourist destination'@en
+Q5	P27	Q12857432	2.0	'human'@en	'country of citizenship'@en	'Chinese dynasty'@en
+Q5	P27	Q1371288	2.0	'human'@en	'country of citizenship'@en	'vassal state'@en
+Q5	P27	Q15239622	2.0	'human'@en	'country of citizenship'@en	'disputed territory'@en
+Q5	P27	Q15661340	2.0	'human'@en	'country of citizenship'@en	'ancient city'@en
+Q5	P27	Q164142	2.0	'human'@en	'country of citizenship'@en	'protectorate'@en
+Q5	P27	Q17544377	2.0	'human'@en	'country of citizenship'@en	'history of a country or state'@en
+Q5	P27	Q188800	2.0	'human'@en	'country of citizenship'@en	'personal union'@en
+Q5	P27	Q1907114	2.0	'human'@en	'country of citizenship'@en	'metropolitan area'@en
+Q5	P27	Q192611	2.0	'human'@en	'country of citizenship'@en	'electoral district'@en
+Q5	P27	Q21512251	2.0	'human'@en	'country of citizenship'@en	'self-proclaimed state'@en
+Q5	P27	Q23037160	2.0	'human'@en	'country of citizenship'@en	'quasi-state'@en
+Q5	P27	Q23442	2.0	'human'@en	'country of citizenship'@en	'island'@en
+Q5	P27	Q2577883	2.0	'human'@en	'country of citizenship'@en	'occupied territory'@en
+Q5	P27	Q327333	2.0	'human'@en	'country of citizenship'@en	'government agency'@en
+Q5	P27	Q41710	2.0	'human'@en	'country of citizenship'@en	'ethnic group'@en
+Q5	P27	Q486972	2.0	'human'@en	'country of citizenship'@en	'human settlement'@en
+Q5	P27	Q59281	2.0	'human'@en	'country of citizenship'@en	'provisional government'@en
+Q5	P27	Q678116	2.0	'human'@en	'country of citizenship'@en	'government in exile'@en
+Q5	P27	Q779415	2.0	'human'@en	'country of citizenship'@en	'special administrative region of China'@en
+Q5	P27	Q788176	2.0	'human'@en	'country of citizenship'@en	'autonomous administrative territorial entity'@en
+Q1062083	P27	Q112099	1.0	'billionaire'@en	'country of citizenship'@en	'island nation'@en
+Q1062083	P27	Q1250464	1.0	'billionaire'@en	'country of citizenship'@en	'realm'@en
+Q1062083	P27	Q20181813	1.0	'billionaire'@en	'country of citizenship'@en	'colonial power'@en
+Q1062083	P27	Q202686	1.0	'billionaire'@en	'country of citizenship'@en	'Commonwealth realm'@en
+Q1062083	P27	Q672729	1.0	'billionaire'@en	'country of citizenship'@en	'Islamic Republic'@en
+Q110550976	P27	Q1620908	1.0	'Saqqara king'@en	'country of citizenship'@en	'historical region'@en
+Q110550976	P27	Q28171280	1.0	'Saqqara king'@en	'country of citizenship'@en	'ancient civilization'@en
+Q110550976	P27	Q3024240	1.0	'Saqqara king'@en	'country of citizenship'@en	'historical country'@en
+Q110550976	P27	Q3502482	1.0	'Saqqara king'@en	'country of citizenship'@en	'cultural region'@en
+Q110556685	P27	Q1620908	1.0		'country of citizenship'@en	'historical region'@en
+Q110556685	P27	Q28171280	1.0		'country of citizenship'@en	'ancient civilization'@en
+Q110556685	P27	Q3024240	1.0		'country of citizenship'@en	'historical country'@en
+Q110556685	P27	Q3502482	1.0		'country of citizenship'@en	'cultural region'@en
+Q20643955	P27	Q182547	1.0	'human biblical figure'@en	'country of citizenship'@en	'Roman province'@en
+Q20643955	P27	Q28171280	1.0	'human biblical figure'@en	'country of citizenship'@en	'ancient civilization'@en
+Q20643955	P27	Q417175	1.0	'human biblical figure'@en	'country of citizenship'@en	'kingdom'@en
+Q20643955	P27	Q465299	1.0	'human biblical figure'@en	'country of citizenship'@en	'archaeological culture'@en
+Q5	P27	Q1048835	1.0	'human'@en	'country of citizenship'@en	'political territorial entity'@en
+Q5	P27	Q10904438	1.0	'human'@en	'country of citizenship'@en	'Twelve Vassals'@en
+Q5	P27	Q109614735	1.0	'human'@en	'country of citizenship'@en	'communist regime'@en
+Q5	P27	Q133311	1.0	'human'@en	'country of citizenship'@en	'tribe'@en
+Q5	P27	Q1352230	1.0	'human'@en	'country of citizenship'@en	'territory of the United States'@en
+Q5	P27	Q15379753	1.0	'human'@en	'country of citizenship'@en	'British Dependent Territory'@en
+Q5	P27	Q154547	1.0	'human'@en	'country of citizenship'@en	'duchy'@en
+Q5	P27	Q171441	1.0	'human'@en	'country of citizenship'@en	'enclave'@en
+Q5	P27	Q179023	1.0	'human'@en	'country of citizenship'@en	'French colonial empire'@en
+Q5	P27	Q182547	1.0	'human'@en	'country of citizenship'@en	'Roman province'@en
+Q5	P27	Q188443	1.0	'human'@en	'country of citizenship'@en	'micronation'@en
+Q5	P27	Q19832712	1.0	'human'@en	'country of citizenship'@en	'historical administrative division'@en
+Q5	P27	Q20203507	1.0	'human'@en	'country of citizenship'@en	'viceroyalty of the Spanish Empire'@en
+Q5	P27	Q244381	1.0	'human'@en	'country of citizenship'@en	'microstate'@en
+Q5	P27	Q333542	1.0	'human'@en	'country of citizenship'@en	'overseas province of Portugal'@en
+Q5	P27	Q33829	1.0	'human'@en	'country of citizenship'@en	'human population'@en
+Q5	P27	Q33837	1.0	'human'@en	'country of citizenship'@en	'archipelago'@en
+Q5	P27	Q353344	1.0	'human'@en	'country of citizenship'@en	'countship'@en
+Q5	P27	Q426759	1.0	'human'@en	'country of citizenship'@en	'League of Nations mandate'@en
+Q5	P27	Q462778	1.0	'human'@en	'country of citizenship'@en	'insular area'@en
+Q5	P27	Q482994	1.0	'human'@en	'country of citizenship'@en	'album'@en
+Q5	P27	Q5156764	1.0	'human'@en	'country of citizenship'@en	'composite monarchy'@en
+Q5	P27	Q5473816	1.0	'human'@en	'country of citizenship'@en	'Crown land'@en
+Q5	P27	Q6428674	1.0	'human'@en	'country of citizenship'@en	'era'@en
+Q5	P27	Q671370	1.0	'human'@en	'country of citizenship'@en	'general governorate of the Russian Empire'@en
+Q5	P27	Q7252696	1.0	'human'@en	'country of citizenship'@en	'Provincial deputation in Spanish America'@en
+Q5	P27	Q783733	1.0	'human'@en	'country of citizenship'@en	'unincorporated territory'@en
+Q5	P27	Q79751	1.0	'human'@en	'country of citizenship'@en	'oligarchy'@en
+Q5	P27	Q836688	1.0	'human'@en	'country of citizenship'@en	'ancient Chinese state'@en
+Q5	P27	Q914425	1.0	'human'@en	'country of citizenship'@en	'Signoria'@en
+Q61002	P27	Q3624078	1.0	'pseudonym'@en	'country of citizenship'@en	'sovereign state'@en
+Q61002	P27	Q6256	1.0	'pseudonym'@en	'country of citizenship'@en	'country'@en
+Q858157	P27	Q3624078	1.0	'German folklore'@en	'country of citizenship'@en	'sovereign state'@en
+Q858157	P27	Q4209223	1.0	'German folklore'@en	'country of citizenship'@en	'Rechtsstaat'@en
+Q858157	P27	Q43702	1.0	'German folklore'@en	'country of citizenship'@en	'federation'@en
+Q858157	P27	Q619610	1.0	'German folklore'@en	'country of citizenship'@en	'social state'@en
+Q858157	P27	Q6256	1.0	'German folklore'@en	'country of citizenship'@en	'country'@en
+Q858157	P27	Q63791824	1.0	'German folklore'@en	'country of citizenship'@en	'country bordering the Baltic Sea'@en
+Q858157	P27	Q7270	1.0	'German folklore'@en	'country of citizenship'@en	'republic'@en
+Q5	P269	external-id	1830.0	'human'@en	'IdRef ID'@en	
+Q20643955	P269	external-id	3.0	'human biblical figure'@en	'IdRef ID'@en	
+Q1802401	P269	external-id	1.0		'IdRef ID'@en	
+Q5	P268	external-id	1512.0	'human'@en	'Bibliothèque nationale de France ID'@en	
+Q20643955	P268	external-id	2.0	'human biblical figure'@en	'Bibliothèque nationale de France ID'@en	
+Q1802401	P268	external-id	1.0		'Bibliothèque nationale de France ID'@en	
+Q5	P245	external-id	2131.0	'human'@en	'Union List of Artist Names ID'@en	
+Q1747829	P245	external-id	7.0	'notname'@en	'Union List of Artist Names ID'@en	
+Q1802401	P245	external-id	1.0		'Union List of Artist Names ID'@en	
+Q20643955	P245	external-id	1.0	'human biblical figure'@en	'Union List of Artist Names ID'@en	
+Q25377923	P245	external-id	1.0		'Union List of Artist Names ID'@en	
+Q5	P244	external-id	3629.0	'human'@en	'Library of Congress authority ID'@en	
+Q20643955	P244	external-id	7.0	'human biblical figure'@en	'Library of Congress authority ID'@en	
+Q1062083	P244	external-id	1.0	'billionaire'@en	'Library of Congress authority ID'@en	
+Q110550976	P244	external-id	1.0	'Saqqara king'@en	'Library of Congress authority ID'@en	
+Q110556685	P244	external-id	1.0		'Library of Congress authority ID'@en	
+Q1747829	P244	external-id	1.0	'notname'@en	'Library of Congress authority ID'@en	
+Q1802401	P244	external-id	1.0		'Library of Congress authority ID'@en	
+Q43412	P244	external-id	1.0	'Apostle'@en	'Library of Congress authority ID'@en	
+Q61002	P244	external-id	1.0	'pseudonym'@en	'Library of Congress authority ID'@en	
+Q5	P227	external-id	2350.0	'human'@en	'GND ID'@en	
+Q20643955	P227	external-id	10.0	'human biblical figure'@en	'GND ID'@en	
+Q1747829	P227	external-id	5.0	'notname'@en	'GND ID'@en	
+Q110550976	P227	external-id	1.0	'Saqqara king'@en	'GND ID'@en	
+Q110556685	P227	external-id	1.0		'GND ID'@en	
+Q168827	P227	external-id	1.0	'prophet of Islam'@en	'GND ID'@en	
+Q1802401	P227	external-id	1.0		'GND ID'@en	
+Q43412	P227	external-id	1.0	'Apostle'@en	'GND ID'@en	
+Q858157	P227	external-id	1.0	'German folklore'@en	'GND ID'@en	
+Q5	P2163	external-id	2613.0	'human'@en	'FAST ID'@en	
+Q20643955	P2163	external-id	7.0	'human biblical figure'@en	'FAST ID'@en	
+Q110550976	P2163	external-id	1.0	'Saqqara king'@en	'FAST ID'@en	
+Q110556685	P2163	external-id	1.0		'FAST ID'@en	
+Q1747829	P2163	external-id	1.0	'notname'@en	'FAST ID'@en	
+Q1802401	P2163	external-id	1.0		'FAST ID'@en	
+Q43412	P2163	external-id	1.0	'Apostle'@en	'FAST ID'@en	
+Q61002	P2163	external-id	1.0	'pseudonym'@en	'FAST ID'@en	
+Q5	P214	external-id	4892.0	'human'@en	'VIAF ID'@en	
+Q20643955	P214	external-id	10.0	'human biblical figure'@en	'VIAF ID'@en	
+Q1747829	P214	external-id	7.0	'notname'@en	'VIAF ID'@en	
+Q1062083	P214	external-id	1.0	'billionaire'@en	'VIAF ID'@en	
+Q110550976	P214	external-id	1.0	'Saqqara king'@en	'VIAF ID'@en	
+Q110556685	P214	external-id	1.0		'VIAF ID'@en	
+Q168827	P214	external-id	1.0	'prophet of Islam'@en	'VIAF ID'@en	
+Q1802401	P214	external-id	1.0		'VIAF ID'@en	
+Q25377923	P214	external-id	1.0		'VIAF ID'@en	
+Q43412	P214	external-id	1.0	'Apostle'@en	'VIAF ID'@en	
+Q61002	P214	external-id	1.0	'pseudonym'@en	'VIAF ID'@en	
+Q858157	P214	external-id	1.0	'German folklore'@en	'VIAF ID'@en	
+Q5	P213	external-id	3609.0	'human'@en	'ISNI'@en	
+Q20643955	P213	external-id	9.0	'human biblical figure'@en	'ISNI'@en	
+Q1747829	P213	external-id	3.0	'notname'@en	'ISNI'@en	
+Q110550976	P213	external-id	1.0	'Saqqara king'@en	'ISNI'@en	
+Q110556685	P213	external-id	1.0		'ISNI'@en	
+Q168827	P213	external-id	1.0	'prophet of Islam'@en	'ISNI'@en	
+Q1802401	P213	external-id	1.0		'ISNI'@en	
+Q43412	P213	external-id	1.0	'Apostle'@en	'ISNI'@en	
+Q5	P21	Q48264	7614.0	'human'@en	'sex or gender'@en	'gender identity'@en
+Q5	P21	Q4369513	7612.0	'human'@en	'sex or gender'@en	'sex of humans'@en
+Q20643955	P21	Q4369513	10.0	'human biblical figure'@en	'sex or gender'@en	'sex of humans'@en
+Q20643955	P21	Q48264	10.0	'human biblical figure'@en	'sex or gender'@en	'gender identity'@en
+Q1747829	P21	Q4369513	4.0	'notname'@en	'sex or gender'@en	'sex of humans'@en
+Q1747829	P21	Q48264	4.0	'notname'@en	'sex or gender'@en	'gender identity'@en
+Q1062083	P21	Q4369513	2.0	'billionaire'@en	'sex or gender'@en	'sex of humans'@en
+Q1062083	P21	Q48264	2.0	'billionaire'@en	'sex or gender'@en	'gender identity'@en
+Q110550976	P21	Q4369513	1.0	'Saqqara king'@en	'sex or gender'@en	'sex of humans'@en
+Q110550976	P21	Q48264	1.0	'Saqqara king'@en	'sex or gender'@en	'gender identity'@en
+Q110556685	P21	Q4369513	1.0		'sex or gender'@en	'sex of humans'@en
+Q110556685	P21	Q48264	1.0		'sex or gender'@en	'gender identity'@en
+Q168827	P21	Q4369513	1.0	'prophet of Islam'@en	'sex or gender'@en	'sex of humans'@en
+Q168827	P21	Q48264	1.0	'prophet of Islam'@en	'sex or gender'@en	'gender identity'@en
+Q1802401	P21	Q4369513	1.0		'sex or gender'@en	'sex of humans'@en
+Q1802401	P21	Q48264	1.0		'sex or gender'@en	'gender identity'@en
+Q19828370	P21	Q4369513	1.0	'drawing series'@en	'sex or gender'@en	'sex of humans'@en
+Q19828370	P21	Q48264	1.0	'drawing series'@en	'sex or gender'@en	'gender identity'@en
+Q43412	P21	Q4369513	1.0	'Apostle'@en	'sex or gender'@en	'sex of humans'@en
+Q43412	P21	Q48264	1.0	'Apostle'@en	'sex or gender'@en	'gender identity'@en
+Q61002	P21	Q4369513	1.0	'pseudonym'@en	'sex or gender'@en	'sex of humans'@en
+Q61002	P21	Q48264	1.0	'pseudonym'@en	'sex or gender'@en	'gender identity'@en
+Q7881	P21	Q4369513	1.0	'skeleton'@en	'sex or gender'@en	'sex of humans'@en
+Q7881	P21	Q48264	1.0	'skeleton'@en	'sex or gender'@en	'gender identity'@en
+Q858157	P21	Q4369513	1.0	'German folklore'@en	'sex or gender'@en	'sex of humans'@en
+Q858157	P21	Q48264	1.0	'German folklore'@en	'sex or gender'@en	'gender identity'@en
+Q5	P20	Q1549591	1024.0	'human'@en	'place of death'@en	'big city'@en
+Q5	P20	Q515	763.0	'human'@en	'place of death'@en	'city'@en
+Q5	P20	Q1637706	504.0	'human'@en	'place of death'@en	'million city'@en
+Q5	P20	Q5119	480.0	'human'@en	'place of death'@en	'capital'@en
+Q5	P20	Q1093829	370.0	'human'@en	'place of death'@en	'city of the United States'@en
+Q5	P20	Q200250	283.0	'human'@en	'place of death'@en	'metropolis'@en
+Q5	P20	Q747074	178.0	'human'@en	'place of death'@en	'commune of Italy'@en
+Q5	P20	Q2264924	164.0	'human'@en	'place of death'@en	'port settlement'@en
+Q5	P20	Q62049	161.0	'human'@en	'place of death'@en	'county seat'@en
+Q5	P20	Q51929311	156.0	'human'@en	'place of death'@en	'largest city'@en
+Q5	P20	Q484170	150.0	'human'@en	'place of death'@en	'commune of France'@en
+Q5	P20	Q50330360	144.0	'human'@en	'place of death'@en	'second largest city'@en
+Q5	P20	Q42744322	143.0	'human'@en	'place of death'@en	'urban municipality of Germany'@en
+Q5	P20	Q1066984	122.0	'human'@en	'place of death'@en	'financial centre'@en
+Q5	P20	Q1187811	101.0	'human'@en	'place of death'@en	'college town'@en
+Q5	P20	Q15063611	99.0	'human'@en	'place of death'@en	'city in the state of New York'@en
+Q5	P20	Q208511	93.0	'human'@en	'place of death'@en	'global city'@en
+Q5	P20	Q902814	90.0	'human'@en	'place of death'@en	'border town'@en
+Q5	P20	Q3957	85.0	'human'@en	'place of death'@en	'town'@en
+Q5	P20	Q1200957	83.0	'human'@en	'place of death'@en	'tourist destination'@en
+Q5	P20	Q13218391	76.0	'human'@en	'place of death'@en	'charter city'@en
+Q5	P20	Q6465	74.0	'human'@en	'place of death'@en	'department of France'@en
+Q5	P20	Q866196	74.0	'human'@en	'place of death'@en	'episcopal see'@en
+Q5	P20	Q707813	73.0	'human'@en	'place of death'@en	'Hanseatic city'@en
+Q5	P20	Q22923920	72.0	'human'@en	'place of death'@en	'territorial collectivity of France with special status'@en
+Q5	P20	Q133442	63.0	'human'@en	'place of death'@en	'city-state'@en
+Q5	P20	Q15661340	62.0	'human'@en	'place of death'@en	'ancient city'@en
+Q5	P20	Q2202509	59.0	'human'@en	'place of death'@en	'Roman city'@en
+Q5	P20	Q3685476	57.0	'human'@en	'place of death'@en	'abolished municipality in Italy'@en
+Q5	P20	Q257391	53.0	'human'@en	'place of death'@en	'federal capital'@en
+Q5	P20	Q21518270	51.0	'human'@en	'place of death'@en	'state or insular area capital of the United States'@en
+Q5	P20	Q10864048	49.0	'human'@en	'place of death'@en	'first-level administrative country subdivision'@en
+Q5	P20	Q1901835	49.0	'human'@en	'place of death'@en	'seat of government'@en
+Q5	P20	Q486972	47.0	'human'@en	'place of death'@en	'human settlement'@en
+Q5	P20	Q134626	46.0	'human'@en	'place of death'@en	'district capital'@en
+Q5	P20	Q956214	46.0	'human'@en	'place of death'@en	'chef-lieu'@en
+Q5	P20	Q6256	43.0	'human'@en	'place of death'@en	'country'@en
+Q5	P20	Q1115575	39.0	'human'@en	'place of death'@en	'civil parish'@en
+Q5	P20	Q7930989	39.0	'human'@en	'place of death'@en	'city/town'@en
+Q5	P20	Q56061	38.0	'human'@en	'place of death'@en	'administrative territorial entity'@en
+Q5	P20	Q15127012	37.0	'human'@en	'place of death'@en	'town of the United States'@en
+Q5	P20	Q3624078	37.0	'human'@en	'place of death'@en	'sovereign state'@en
+Q5	P20	Q7897276	37.0	'human'@en	'place of death'@en	'unparished area'@en
+Q5	P20	Q667509	36.0	'human'@en	'place of death'@en	'municipality of Austria'@en
+Q5	P20	Q171441	34.0	'human'@en	'place of death'@en	'enclave'@en
+Q5	P20	Q1221156	32.0	'human'@en	'place of death'@en	'federal state of Germany'@en
+Q5	P20	Q15974307	32.0	'human'@en	'place of death'@en	'Einheitsgemeinde of Germany'@en
+Q5	P20	Q253030	32.0	'human'@en	'place of death'@en	'major regional center'@en
+Q5	P20	Q1180262	31.0	'human'@en	'place of death'@en	'residenz'@en
+Q5	P20	Q262882	30.0	'human'@en	'place of death'@en	'statutory city of Austria'@en
+Q5	P20	Q67123843	29.0	'human'@en	'place of death'@en	'town divided by border'@en
+Q5	P20	Q85631896	29.0	'human'@en	'place of death'@en	'urban district of Bavaria'@en
+Q5	P20	Q22865	28.0	'human'@en	'place of death'@en	'independent city of Germany'@en
+Q5	P20	Q70208	28.0	'human'@en	'place of death'@en	'municipality of Switzerland'@en
+Q5	P20	Q13539802	27.0	'human'@en	'place of death'@en	'place with town rights and privileges'@en
+Q5	P20	Q532	27.0	'human'@en	'place of death'@en	'village'@en
+Q5	P20	Q261543	25.0	'human'@en	'place of death'@en	'state of Austria'@en
+Q5	P20	Q1907114	23.0	'human'@en	'place of death'@en	'metropolitan area'@en
+Q5	P20	Q21507383	23.0	'human'@en	'place of death'@en	'provincial or territorial capital city in Canada'@en
+Q5	P20	Q3301053	23.0	'human'@en	'place of death'@en	'consolidated city-county'@en
+Q5	P20	Q475050	23.0	'human'@en	'place of death'@en	'federal district'@en
+Q5	P20	Q14762300	22.0	'human'@en	'place of death'@en	'single-tier municipality'@en
+Q5	P20	Q174844	22.0	'human'@en	'place of death'@en	'megacity'@en
+Q5	P20	Q183342	22.0	'human'@en	'place of death'@en	'federal city of Russia'@en
+Q5	P20	Q1852859	22.0	'human'@en	'place of death'@en	'populated place in the Netherlands'@en
+Q5	P20	Q3559093	22.0	'human'@en	'place of death'@en	'sanctuary city'@en
+Q5	P20	Q43263	22.0	'human'@en	'place of death'@en	'federal subject of Russia'@en
+Q5	P20	Q4442912	22.0	'human'@en	'place of death'@en	'capital of Russia'@en
+Q5	P20	Q493522	22.0	'human'@en	'place of death'@en	'municipality of Belgium'@en
+Q5	P20	Q498162	22.0	'human'@en	'place of death'@en	'census-designated place'@en
+Q5	P20	Q925381	22.0	'human'@en	'place of death'@en	'city with powiat rights'@en
+Q5	P20	Q17343829	21.0	'human'@en	'place of death'@en	'unincorporated community in the United States'@en
+Q5	P20	Q1357964	20.0	'human'@en	'place of death'@en	'county town'@en
+Q5	P20	Q188509	19.0	'human'@en	'place of death'@en	'suburb'@en
+Q5	P20	Q35657	19.0	'human'@en	'place of death'@en	'U.S. state'@en
+Q5	P20	Q54935504	19.0	'human'@en	'place of death'@en	'city of Switzerland'@en
+Q5	P20	Q110071194	18.0	'human'@en	'place of death'@en	'city of Illinois'@en
+Q5	P20	Q2039348	18.0	'human'@en	'place of death'@en	'municipality of the Netherlands'@en
+Q5	P20	Q2074737	18.0	'human'@en	'place of death'@en	'municipality of Spain'@en
+Q5	P20	Q2755753	18.0	'human'@en	'place of death'@en	'area of London'@en
+Q5	P20	Q408804	18.0	'human'@en	'place of death'@en	'borough of New York City'@en
+Q5	P20	Q106071004	16.0	'human'@en	'place of death'@en	'town of New York'@en
+Q5	P20	Q14784328	16.0	'human'@en	'place of death'@en	'state capital in Germany'@en
+Q5	P20	Q15273785	16.0	'human'@en	'place of death'@en	'Belgian municipality with the title of city'@en
+Q5	P20	Q192611	16.0	'human'@en	'place of death'@en	'electoral district'@en
+Q5	P20	Q581830	16.0	'human'@en	'place of death'@en	'carfree city'@en
+Q5	P20	Q2154459	15.0	'human'@en	'place of death'@en	'New England town'@en
+Q5	P20	Q2327515	15.0	'human'@en	'place of death'@en	'city district of Baden-Württemberg'@en
+Q5	P20	Q3505887	15.0	'human'@en	'place of death'@en	'city council'@en
+Q5	P20	Q839954	15.0	'human'@en	'place of death'@en	'archaeological site'@en
+Q5	P20	Q85635630	15.0	'human'@en	'place of death'@en	'urban district of North Rhine-Westphalia'@en
+Q5	P20	Q14770218	14.0	'human'@en	'place of death'@en	'cantonal capital of Switzerland'@en
+Q5	P20	Q15105893	13.0	'human'@en	'place of death'@en	'town in Croatia'@en
+Q5	P20	Q180673	13.0	'human'@en	'place of death'@en	'ceremonial county of England'@en
+Q5	P20	Q20528428	13.0	'human'@en	'place of death'@en	'federative entity of Mexico'@en
+Q5	P20	Q51576574	13.0	'human'@en	'place of death'@en	'Mediterranean country'@en
+Q5	P20	Q702842	13.0	'human'@en	'place of death'@en	'municipal arrondissement'@en
+Q5	P20	Q1306755	12.0	'human'@en	'place of death'@en	'administrative centre'@en
+Q5	P20	Q21010817	12.0	'human'@en	'place of death'@en	'city of Pennsylvania'@en
+Q5	P20	Q27676416	12.0	'human'@en	'place of death'@en	'city or town'@en
+Q5	P20	Q57053	12.0	'human'@en	'place of death'@en	'county of Croatia'@en
+Q5	P20	Q57318	12.0	'human'@en	'place of death'@en	'free imperial city'@en
+Q5	P20	Q615980	12.0	'human'@en	'place of death'@en	'parish of the Church of Sweden'@en
+Q5	P20	Q61708099	12.0	'human'@en	'place of death'@en	'urban district in Saxony'@en
+Q5	P20	Q748198	12.0	'human'@en	'place of death'@en	'gay village'@en
+Q5	P20	Q106517174	11.0	'human'@en	'place of death'@en	'Option municipality'@en
+Q5	P20	Q27554677	11.0	'human'@en	'place of death'@en	'former capital'@en
+Q5	P20	Q3184121	11.0	'human'@en	'place of death'@en	'municipality of Brazil'@en
+Q5	P20	Q4946461	11.0	'human'@en	'place of death'@en	'spa town'@en
+Q5	P20	Q17334923	10.0	'human'@en	'place of death'@en	'location'@en
+Q5	P20	Q262166	10.0	'human'@en	'place of death'@en	'municipality of Germany'@en
+Q5	P20	Q104782082	9.0	'human'@en	'place of death'@en	'territory outside RCM'@en
+Q5	P20	Q123705	9.0	'human'@en	'place of death'@en	'neighborhood'@en
+Q5	P20	Q1375749	9.0	'human'@en	'place of death'@en	'European City'@en
+Q5	P20	Q148837	9.0	'human'@en	'place of death'@en	'polis'@en
+Q5	P20	Q15303838	9.0	'human'@en	'place of death'@en	'municipality seat'@en
+Q5	P20	Q692581	9.0	'human'@en	'place of death'@en	'holy city'@en
+Q5	P20	Q1094397	8.0	'human'@en	'place of death'@en	'autonomous city'@en
+Q5	P20	Q12813115	8.0	'human'@en	'place of death'@en	'urban area in Sweden'@en
+Q5	P20	Q1422929	8.0	'human'@en	'place of death'@en	'primate city'@en
+Q5	P20	Q15310171	8.0	'human'@en	'place of death'@en	'seaport'@en
+Q5	P20	Q202435	8.0	'human'@en	'place of death'@en	'lieutenancy area of Scotland'@en
+Q5	P20	Q23442	8.0	'human'@en	'place of death'@en	'island'@en
+Q5	P20	Q3336843	8.0	'human'@en	'place of death'@en	'constituent country of the United Kingdom'@en
+Q5	P20	Q5888666	8.0	'human'@en	'place of death'@en	'home rule municipality of Pennsylvania'@en
+Q5	P20	Q7309306	8.0	'human'@en	'place of death'@en	'region of Victoria'@en
+Q5	P20	Q112099	7.0	'human'@en	'place of death'@en	'island nation'@en
+Q5	P20	Q11881845	7.0	'human'@en	'place of death'@en	'city'@en
+Q5	P20	Q1266818	7.0	'human'@en	'place of death'@en	'independent city'@en
+Q5	P20	Q15344922	7.0	'human'@en	'place of death'@en	'oblast seat'@en
+Q5	P20	Q512187	7.0	'human'@en	'place of death'@en	'federal republic'@en
+Q5	P20	Q5123999	7.0	'human'@en	'place of death'@en	'city of regional significance of Ukraine'@en
+Q5	P20	Q518261	7.0	'human'@en	'place of death'@en	'cultural area'@en
+Q5	P20	Q570116	7.0	'human'@en	'place of death'@en	'tourist attraction'@en
+Q5	P20	Q640364	7.0	'human'@en	'place of death'@en	'municipiu of Romania'@en
+Q5	P20	Q6882870	7.0	'human'@en	'place of death'@en	'designated spa town'@en
+Q5	P20	Q702492	7.0	'human'@en	'place of death'@en	'urban area'@en
+Q5	P20	Q856076	7.0	'human'@en	'place of death'@en	'municipality of Finland'@en
+Q5	P20	Q89487741	7.0	'human'@en	'place of death'@en	'city of Bulgaria'@en
+Q5	P20	Q104630835	6.0	'human'@en	'place of death'@en	'Scottish county of city'@en
+Q5	P20	Q13217644	6.0	'human'@en	'place of death'@en	'municipality of Portugal'@en
+Q5	P20	Q13455645	6.0	'human'@en	'place of death'@en	'administrative city in the Republic of Ireland'@en
+Q5	P20	Q1520223	6.0	'human'@en	'place of death'@en	'constitutional republic'@en
+Q5	P20	Q15253706	6.0	'human'@en	'place of death'@en	'like a city'@en
+Q5	P20	Q15647906	6.0	'human'@en	'place of death'@en	'city of Portugal'@en
+Q5	P20	Q16917	6.0	'human'@en	'place of death'@en	'hospital'@en
+Q5	P20	Q2630741	6.0	'human'@en	'place of death'@en	'community'@en
+Q5	P20	Q2911266	6.0	'human'@en	'place of death'@en	'borough of New Jersey'@en
+Q5	P20	Q5255892	6.0	'human'@en	'place of death'@en	'democratic republic'@en
+Q5	P20	Q537250	6.0	'human'@en	'place of death'@en	'federal city'@en
+Q5	P20	Q7270	6.0	'human'@en	'place of death'@en	'republic'@en
+Q5	P20	Q777120	6.0	'human'@en	'place of death'@en	'borough of Pennsylvania'@en
+Q5	P20	Q13218690	5.0	'human'@en	'place of death'@en	'town in Hungary'@en
+Q5	P20	Q1489259	5.0	'human'@en	'place of death'@en	'superpower'@en
+Q5	P20	Q15284	5.0	'human'@en	'place of death'@en	'municipality'@en
+Q5	P20	Q17457753	5.0	'human'@en	'place of death'@en	'census subdivision'@en
+Q5	P20	Q253019	5.0	'human'@en	'place of death'@en	'Ortsteil'@en
+Q5	P20	Q3257686	5.0	'human'@en	'place of death'@en	'locality'@en
+Q5	P20	Q33146843	5.0	'human'@en	'place of death'@en	'municipality of Catalonia'@en
+Q5	P20	Q45242174	5.0	'human'@en	'place of death'@en	'gazetted locality of Victoria'@en
+Q5	P20	Q56557664	5.0	'human'@en	'place of death'@en	'şəhər'@en
+Q5	P20	Q61980648	5.0	'human'@en	'place of death'@en	'urban district of Hesse'@en
+Q5	P20	Q99541706	5.0	'human'@en	'place of death'@en	'historical unrecognized state'@en
+Q20643955	P20	Q839954	4.0	'human biblical figure'@en	'place of death'@en	'archaeological site'@en
+Q5	P20	Q1074523	4.0	'human'@en	'place of death'@en	'planned community'@en
+Q5	P20	Q110266204	4.0	'human'@en	'place of death'@en	'optional charter municipality of Pennsylvania'@en
+Q5	P20	Q1208802	4.0	'human'@en	'place of death'@en	'direct-controlled municipality'@en
+Q5	P20	Q12131624	4.0	'human'@en	'place of death'@en	'city ​​in Ukraine'@en
+Q5	P20	Q13218357	4.0	'human'@en	'place of death'@en	'city of California'@en
+Q5	P20	Q1548518	4.0	'human'@en	'place of death'@en	'large district town'@en
+Q5	P20	Q179164	4.0	'human'@en	'place of death'@en	'unitary state'@en
+Q5	P20	Q18511725	4.0	'human'@en	'place of death'@en	'market town'@en
+Q5	P20	Q192287	4.0	'human'@en	'place of death'@en	'subdivisions of Russia'@en
+Q5	P20	Q20202352	4.0	'human'@en	'place of death'@en	'locality of Mexico'@en
+Q5	P20	Q202686	4.0	'human'@en	'place of death'@en	'Commonwealth realm'@en
+Q5	P20	Q223832	4.0	'human'@en	'place of death'@en	'dominion of the British Empire'@en
+Q5	P20	Q23413	4.0	'human'@en	'place of death'@en	'castle'@en
+Q5	P20	Q2974552	4.0	'human'@en	'place of death'@en	'city in New Jersey'@en
+Q5	P20	Q328468	4.0	'human'@en	'place of death'@en	'Nazi concentration camp'@en
+Q5	P20	Q33506	4.0	'human'@en	'place of death'@en	'museum'@en
+Q5	P20	Q3788231	4.0	'human'@en	'place of death'@en	'municipal government in Canada'@en
+Q5	P20	Q42723927	4.0	'human'@en	'place of death'@en	'bydel'@en
+Q5	P20	Q43702	4.0	'human'@en	'place of death'@en	'federation'@en
+Q5	P20	Q54935786	4.0	'human'@en	'place of death'@en	'medium district town'@en
+Q5	P20	Q65589340	4.0	'human'@en	'place of death'@en	'capital of a prefecture of Japan'@en
+Q5	P20	Q751876	4.0	'human'@en	'place of death'@en	'château'@en
+Q5	P20	Q755707	4.0	'human'@en	'place of death'@en	'municipality of Norway'@en
+Q5	P20	Q7830213	4.0	'human'@en	'place of death'@en	'township of New Jersey'@en
+Q5	P20	Q105074756	3.0	'human'@en	'place of death'@en	'Municipal Corporation of West Bengal'@en
+Q5	P20	Q1066538	3.0	'human'@en	'place of death'@en	'National Central City'@en
+Q5	P20	Q11271835	3.0	'human'@en	'place of death'@en	'state capital'@en
+Q5	P20	Q12031379	3.0	'human'@en	'place of death'@en	'capital of region'@en
+Q5	P20	Q123480	3.0	'human'@en	'place of death'@en	'landlocked country'@en
+Q5	P20	Q13415368	3.0	'human'@en	'place of death'@en	'county of Virginia'@en
+Q5	P20	Q1401585	3.0	'human'@en	'place of death'@en	'medium regional center'@en
+Q5	P20	Q15092344	3.0	'human'@en	'place of death'@en	'urban area in Norway'@en
+Q5	P20	Q15221373	3.0	'human'@en	'place of death'@en	'fourth-class city'@en
+Q5	P20	Q153813	3.0	'human'@en	'place of death'@en	'extermination camp'@en
+Q5	P20	Q15978299	3.0	'human'@en	'place of death'@en	'municipality with town privileges in the Czech Republic'@en
+Q5	P20	Q165	3.0	'human'@en	'place of death'@en	'sea'@en
+Q5	P20	Q1708422	3.0	'human'@en	'place of death'@en	'settlement site'@en
+Q5	P20	Q17376095	3.0	'human'@en	'place of death'@en	'cadastral municipality of Austria'@en
+Q5	P20	Q1749269	3.0	'human'@en	'place of death'@en	'city designated by government ordinance'@en
+Q5	P20	Q185145	3.0	'human'@en	'place of death'@en	'great power'@en
+Q5	P20	Q18663579	3.0	'human'@en	'place of death'@en	'former municipality of Norway'@en
+Q5	P20	Q1968403	3.0	'human'@en	'place of death'@en	'post town'@en
+Q5	P20	Q19953632	3.0	'human'@en	'place of death'@en	'former administrative territorial entity'@en
+Q5	P20	Q20181813	3.0	'human'@en	'place of death'@en	'colonial power'@en
+Q5	P20	Q2087181	3.0	'human'@en	'place of death'@en	'historic house museum'@en
+Q5	P20	Q22698	3.0	'human'@en	'place of death'@en	'park'@en
+Q5	P20	Q2616791	3.0	'human'@en	'place of death'@en	'urban municipality of Poland'@en
+Q5	P20	Q27104997	3.0	'human'@en	'place of death'@en	'civil parish with city status'@en
+Q5	P20	Q2919801	3.0	'human'@en	'place of death'@en	'municipality of Luxembourg'@en
+Q5	P20	Q38911	3.0	'human'@en	'place of death'@en	'region of the Czech Republic'@en
+Q5	P20	Q448801	3.0	'human'@en	'place of death'@en	'big district town'@en
+Q5	P20	Q50337	3.0	'human'@en	'place of death'@en	'prefecture of Japan'@en
+Q5	P20	Q5153359	3.0	'human'@en	'place of death'@en	'municipality of the Czech Republic'@en
+Q5	P20	Q548611	3.0	'human'@en	'place of death'@en	'districts of the Czech Republic'@en
+Q5	P20	Q5852411	3.0	'human'@en	'place of death'@en	'state of Australia'@en
+Q5	P20	Q61856863	3.0	'human'@en	'place of death'@en	'urban district in Schleswig-Holstein'@en
+Q5	P20	Q619610	3.0	'human'@en	'place of death'@en	'social state'@en
+Q5	P20	Q63440326	3.0	'human'@en	'place of death'@en	'city of Oregon'@en
+Q5	P20	Q719592	3.0	'human'@en	'place of death'@en	'local council of Malta'@en
+Q5	P20	Q76007695	3.0	'human'@en	'place of death'@en	'administrative district of Czech municipality with expanded powers'@en
+Q5	P20	Q76009696	3.0	'human'@en	'place of death'@en	'administrative district of Czech municipality with authorized municipal office'@en
+Q5	P20	Q7819319	3.0	'human'@en	'place of death'@en	'Czech municipality with expanded powers'@en
+Q5	P20	Q7841907	3.0	'human'@en	'place of death'@en	'municipality with authorized municipal office'@en
+Q5	P20	Q8452914	3.0	'human'@en	'place of death'@en	'district town'@en
+Q5	P20	Q85636199	3.0	'human'@en	'place of death'@en	'urban district of Hamburg'@en
+Q5	P20	Q871419	3.0	'human'@en	'place of death'@en	'district of Austria'@en
+Q20643955	P20	Q148837	2.0	'human biblical figure'@en	'place of death'@en	'polis'@en
+Q20643955	P20	Q15661340	2.0	'human biblical figure'@en	'place of death'@en	'ancient city'@en
+Q20643955	P20	Q1708422	2.0	'human biblical figure'@en	'place of death'@en	'settlement site'@en
+Q20643955	P20	Q570116	2.0	'human biblical figure'@en	'place of death'@en	'tourist attraction'@en
+Q5	P20	Q100341898	2.0	'human'@en	'place of death'@en	'market municipality of Germany'@en
+Q5	P20	Q1021711	2.0	'human'@en	'place of death'@en	'seaside resort'@en
+Q5	P20	Q1025961	2.0	'human'@en	'place of death'@en	'capital of Japan'@en
+Q5	P20	Q106646149	2.0	'human'@en	'place of death'@en	'Climate emergency declarations in New Zealand'@en
+Q5	P20	Q1138494	2.0	'human'@en	'place of death'@en	'historic county of England'@en
+Q5	P20	Q1250464	2.0	'human'@en	'place of death'@en	'realm'@en
+Q5	P20	Q13218276	2.0	'human'@en	'place of death'@en	'Freie Stadt'@en
+Q5	P20	Q13410422	2.0	'human'@en	'place of death'@en	'county of Florida'@en
+Q5	P20	Q1388464	2.0	'human'@en	'place of death'@en	'regional municipality in Canada'@en
+Q5	P20	Q14921981	2.0	'human'@en	'place of death'@en	'administrative territorial entity of Belarus'@en
+Q5	P20	Q15042037	2.0	'human'@en	'place of death'@en	'statistical territorial entity'@en
+Q5	P20	Q152081	2.0	'human'@en	'place of death'@en	'concentration camp'@en
+Q5	P20	Q15210668	2.0	'human'@en	'place of death'@en	'lower-tier municipality'@en
+Q5	P20	Q15221310	2.0	'human'@en	'place of death'@en	'second-class city'@en
+Q5	P20	Q1547289	2.0	'human'@en	'place of death'@en	'Luther city'@en
+Q5	P20	Q159438	2.0	'human'@en	'place of death'@en	'Hero City'@en
+Q5	P20	Q1620908	2.0	'human'@en	'place of death'@en	'historical region'@en
+Q5	P20	Q1780389	2.0	'human'@en	'place of death'@en	'special municipality association of Germany'@en
+Q5	P20	Q20724701	2.0	'human'@en	'place of death'@en	'city or town in Armenia'@en
+Q5	P20	Q21869758	2.0	'human'@en	'place of death'@en	'delegated commune'@en
+Q5	P20	Q23010647	2.0	'human'@en	'place of death'@en	'suburb of Perth'@en
+Q5	P20	Q2610088	2.0	'human'@en	'place of death'@en	'moraine'@en
+Q5	P20	Q2772772	2.0	'human'@en	'place of death'@en	'military museum'@en
+Q5	P20	Q29946056	2.0	'human'@en	'place of death'@en	'highly urbanized city'@en
+Q5	P20	Q3024240	2.0	'human'@en	'place of death'@en	'historical country'@en
+Q5	P20	Q3502482	2.0	'human'@en	'place of death'@en	'cultural region'@en
+Q5	P20	Q3558970	2.0	'human'@en	'place of death'@en	'village of Poland'@en
+Q5	P20	Q36784	2.0	'human'@en	'place of death'@en	'region of France'@en
+Q5	P20	Q37800986	2.0	'human'@en	'place of death'@en	'Serbian city'@en
+Q5	P20	Q3947	2.0	'human'@en	'place of death'@en	'house'@en
+Q5	P20	Q39594	2.0	'human'@en	'place of death'@en	'bay'@en
+Q5	P20	Q4167410	2.0	'human'@en	'place of death'@en	'Wikimedia disambiguation page'@en
+Q5	P20	Q44782	2.0	'human'@en	'place of death'@en	'port'@en
+Q5	P20	Q5084	2.0	'human'@en	'place of death'@en	'hamlet'@en
+Q5	P20	Q60458065	2.0	'human'@en	'place of death'@en	'city'@en
+Q5	P20	Q61793478	2.0	'human'@en	'place of death'@en	'district independent city of Brandenburg'@en
+Q5	P20	Q6266	2.0	'human'@en	'place of death'@en	'nation'@en
+Q5	P20	Q6621272	2.0	'human'@en	'place of death'@en	'former municipality of Sweden'@en
+Q5	P20	Q7543008	2.0	'human'@en	'place of death'@en	'small burgh'@en
+Q5	P20	Q755017	2.0	'human'@en	'place of death'@en	'tell'@en
+Q5	P20	Q76514543	2.0	'human'@en	'place of death'@en	'municipality of Georgia'@en
+Q5	P20	Q769603	2.0	'human'@en	'place of death'@en	'non-metropolitan county'@en
+Q5	P20	Q7829892	2.0	'human'@en	'place of death'@en	'town of New Jersey'@en
+Q5	P20	Q811979	2.0	'human'@en	'place of death'@en	'architectural structure'@en
+Q5	P20	Q814648	2.0	'human'@en	'place of death'@en	'parish of Denmark'@en
+Q5	P20	Q82794	2.0	'human'@en	'place of death'@en	'geographic region'@en
+Q5	P20	Q85635638	2.0	'human'@en	'place of death'@en	'urban district of Bremen'@en
+Q5	P20	Q85635929	2.0	'human'@en	'place of death'@en	'urban district of Lower Saxony'@en
+Q5	P20	Q96482621	2.0	'human'@en	'place of death'@en	'administrative territory in South Africa'@en
+Q5	P20	Q98449544	2.0	'human'@en	'place of death'@en	'suburban community in the United States'@en
+Q168827	P20	Q839954	1.0	'prophet of Islam'@en	'place of death'@en	'archaeological site'@en
+Q1802401	P20	Q484170	1.0		'place of death'@en	'commune of France'@en
+Q19828370	P20	Q2039348	1.0	'drawing series'@en	'place of death'@en	'municipality of the Netherlands'@en
+Q20643955	P20	Q123480	1.0	'human biblical figure'@en	'place of death'@en	'landlocked country'@en
+Q20643955	P20	Q1549591	1.0	'human biblical figure'@en	'place of death'@en	'big city'@en
+Q20643955	P20	Q2202509	1.0	'human biblical figure'@en	'place of death'@en	'Roman city'@en
+Q20643955	P20	Q3505887	1.0	'human biblical figure'@en	'place of death'@en	'city council'@en
+Q20643955	P20	Q3624078	1.0	'human biblical figure'@en	'place of death'@en	'sovereign state'@en
+Q20643955	P20	Q3685476	1.0	'human biblical figure'@en	'place of death'@en	'abolished municipality in Italy'@en
+Q20643955	P20	Q5119	1.0	'human biblical figure'@en	'place of death'@en	'capital'@en
+Q20643955	P20	Q515	1.0	'human biblical figure'@en	'place of death'@en	'city'@en
+Q20643955	P20	Q6256	1.0	'human biblical figure'@en	'place of death'@en	'country'@en
+Q20643955	P20	Q692581	1.0	'human biblical figure'@en	'place of death'@en	'holy city'@en
+Q20643955	P20	Q902814	1.0	'human biblical figure'@en	'place of death'@en	'border town'@en
+Q43412	P20	Q123480	1.0	'Apostle'@en	'place of death'@en	'landlocked country'@en
+Q43412	P20	Q3624078	1.0	'Apostle'@en	'place of death'@en	'sovereign state'@en
+Q43412	P20	Q6256	1.0	'Apostle'@en	'place of death'@en	'country'@en
+Q5	P20	Q1008803	1.0	'human'@en	'place of death'@en	'federal territory of Malaysia'@en
+Q5	P20	Q1017546	1.0	'human'@en	'place of death'@en	'list of districts and neighborhoods of Los Angeles'@en
+Q5	P20	Q102104752	1.0	'human'@en	'place of death'@en	'city of Bosnia and Herzegovina'@en
+Q5	P20	Q1048835	1.0	'human'@en	'place of death'@en	'political territorial entity'@en
+Q5	P20	Q1065118	1.0	'human'@en	'place of death'@en	'district of China'@en
+Q5	P20	Q109329953	1.0	'human'@en	'place of death'@en	'state city of Latvia'@en
+Q5	P20	Q1136601	1.0	'human'@en	'place of death'@en	'unitary authority area in England'@en
+Q5	P20	Q1137833	1.0	'human'@en	'place of death'@en	'core city of Japan'@en
+Q5	P20	Q1145012	1.0	'human'@en	'place of death'@en	'special city of Japan'@en
+Q5	P20	Q1147395	1.0	'human'@en	'place of death'@en	'district of Turkey'@en
+Q5	P20	Q1149652	1.0	'human'@en	'place of death'@en	'district of India'@en
+Q5	P20	Q11828004	1.0	'human'@en	'place of death'@en	'province of Canada'@en
+Q5	P20	Q1190554	1.0	'human'@en	'place of death'@en	'occurrence'@en
+Q5	P20	Q12134916	1.0	'human'@en	'place of death'@en	'centre of oblast'@en
+Q5	P20	Q12266391	1.0	'human'@en	'place of death'@en	'city of republican significance'@en
+Q5	P20	Q12292478	1.0	'human'@en	'place of death'@en	'estate'@en
+Q5	P20	Q12443800	1.0	'human'@en	'place of death'@en	'state of India'@en
+Q5	P20	Q125191	1.0	'human'@en	'place of death'@en	'photograph'@en
+Q5	P20	Q1267939	1.0	'human'@en	'place of death'@en	'statistical region of Serbia'@en
+Q5	P20	Q127448	1.0	'human'@en	'place of death'@en	'municipality of Sweden'@en
+Q5	P20	Q129372	1.0	'human'@en	'place of death'@en	'European Capital of Culture'@en
+Q5	P20	Q1303167	1.0	'human'@en	'place of death'@en	'barn'@en
+Q5	P20	Q13212489	1.0	'human'@en	'place of death'@en	'county of California'@en
+Q5	P20	Q1323642	1.0	'human'@en	'place of death'@en	'transcontinental country'@en
+Q5	P20	Q133156	1.0	'human'@en	'place of death'@en	'colony'@en
+Q5	P20	Q1335818	1.0	'human'@en	'place of death'@en	'supranational union'@en
+Q5	P20	Q13410400	1.0	'human'@en	'place of death'@en	'county of Alabama'@en
+Q5	P20	Q13414757	1.0	'human'@en	'place of death'@en	'county of New York'@en
+Q5	P20	Q13414763	1.0	'human'@en	'place of death'@en	'county of Pennsylvania'@en
+Q5	P20	Q1343246	1.0	'human'@en	'place of death'@en	'English country house'@en
+Q5	P20	Q1408475	1.0	'human'@en	'place of death'@en	'fortified house'@en
+Q5	P20	Q1497375	1.0	'human'@en	'place of death'@en	'architectural ensemble'@en
+Q5	P20	Q1499928	1.0	'human'@en	'place of death'@en	'Gemarkung'@en
+Q5	P20	Q15127838	1.0	'human'@en	'place of death'@en	'city under state jurisdiction in Latvia'@en
+Q5	P20	Q15149663	1.0	'human'@en	'place of death'@en	'state of Mexico'@en
+Q5	P20	Q15221304	1.0	'human'@en	'place of death'@en	'first-class city'@en
+Q5	P20	Q15243209	1.0	'human'@en	'place of death'@en	'historic district'@en
+Q5	P20	Q15334	1.0	'human'@en	'place of death'@en	'municipality of Poland'@en
+Q5	P20	Q1548525	1.0	'human'@en	'place of death'@en	'large independent city of Lower Saxony'@en
+Q5	P20	Q15634531	1.0	'human'@en	'place of death'@en	'district of Bangkok'@en
+Q5	P20	Q15634695	1.0	'human'@en	'place of death'@en	'special administrative area of Thailand'@en
+Q5	P20	Q160742	1.0	'human'@en	'place of death'@en	'abbey'@en
+Q5	P20	Q16110	1.0	'human'@en	'place of death'@en	'region of Italy'@en
+Q5	P20	Q161243	1.0	'human'@en	'place of death'@en	'dependent territory'@en
+Q5	P20	Q1695783	1.0	'human'@en	'place of death'@en	'Real Audiencia'@en
+Q5	P20	Q170156	1.0	'human'@en	'place of death'@en	'confederation'@en
+Q5	P20	Q1768043	1.0	'human'@en	'place of death'@en	'Metropolitan Statistical Area'@en
+Q5	P20	Q17715832	1.0	'human'@en	'place of death'@en	'castle ruin'@en
+Q5	P20	Q1774587	1.0	'human'@en	'place of death'@en	'hospital network'@en
+Q5	P20	Q1778235	1.0	'human'@en	'place of death'@en	'territorial abbey'@en
+Q5	P20	Q1785071	1.0	'human'@en	'place of death'@en	'fort'@en
+Q5	P20	Q179872	1.0	'human'@en	'place of death'@en	'county of Ireland'@en
+Q5	P20	Q1802801	1.0	'human'@en	'place of death'@en	'rural municipality of Austria'@en
+Q5	P20	Q185113	1.0	'human'@en	'place of death'@en	'cape'@en
+Q5	P20	Q1857731	1.0	'human'@en	'place of death'@en	'historic county of Wales'@en
+Q5	P20	Q1867820	1.0	'human'@en	'place of death'@en	'City status in the United Kingdom'@en
+Q5	P20	Q18867465	1.0	'human'@en	'place of death'@en	'uyezd of the Russian Empire'@en
+Q5	P20	Q188913	1.0	'human'@en	'place of death'@en	'plantation'@en
+Q5	P20	Q19071452	1.0	'human'@en	'place of death'@en	'Beautiful City'@en
+Q5	P20	Q191992	1.0	'human'@en	'place of death'@en	'headland'@en
+Q5	P20	Q1963041	1.0	'human'@en	'place of death'@en	'municipality of Moldova'@en
+Q5	P20	Q19691007	1.0	'human'@en	'place of death'@en	'institutional complex'@en
+Q5	P20	Q1975546	1.0	'human'@en	'place of death'@en	'royal forest'@en
+Q5	P20	Q2065736	1.0	'human'@en	'place of death'@en	'cultural property'@en
+Q5	P20	Q20738811	1.0	'human'@en	'place of death'@en	'rural district of North Rhine-Westphalia'@en
+Q5	P20	Q207520	1.0	'human'@en	'place of death'@en	'region of Japan'@en
+Q5	P20	Q208469	1.0	'human'@en	'place of death'@en	'SI derived unit'@en
+Q5	P20	Q20871353	1.0	'human'@en	'place of death'@en	'cadastral area in the Czech Republic'@en
+Q5	P20	Q211690	1.0	'human'@en	'place of death'@en	'London borough'@en
+Q5	P20	Q2177636	1.0	'human'@en	'place of death'@en	'municipality of Denmark'@en
+Q5	P20	Q2221906	1.0	'human'@en	'place of death'@en	'geographic location'@en
+Q5	P20	Q22674925	1.0	'human'@en	'place of death'@en	'former populated place'@en
+Q5	P20	Q2267870	1.0	'human'@en	'place of death'@en	'independent community'@en
+Q5	P20	Q22927616	1.0	'human'@en	'place of death'@en	'commune of France with specific status'@en
+Q5	P20	Q233324	1.0	'human'@en	'place of death'@en	'seminary'@en
+Q5	P20	Q24529780	1.0	'human'@en	'place of death'@en	'point'@en
+Q5	P20	Q250050	1.0	'human'@en	'place of death'@en	'department of Bolivia'@en
+Q5	P20	Q250811	1.0	'human'@en	'place of death'@en	'sub-province-level division'@en
+Q5	P20	Q251749	1.0	'human'@en	'place of death'@en	'pueblo'@en
+Q5	P20	Q2555896	1.0	'human'@en	'place of death'@en	'municipality of Colombia'@en
+Q5	P20	Q2556234	1.0	'human'@en	'place of death'@en	'wine producing locality'@en
+Q5	P20	Q258913	1.0	'human'@en	'place of death'@en	'kontor'@en
+Q5	P20	Q263639	1.0	'human'@en	'place of death'@en	'municipality of Puerto Rico'@en
+Q5	P20	Q2716259	1.0	'human'@en	'place of death'@en	'metropolitan municipality in Turkey'@en
+Q5	P20	Q27676420	1.0	'human'@en	'place of death'@en	'village municipality of Quebec'@en
+Q5	P20	Q27676428	1.0	'human'@en	'place of death'@en	'municipality'@en
+Q5	P20	Q27702623	1.0	'human'@en	'place of death'@en	'academic enclave'@en
+Q5	P20	Q29556224	1.0	'human'@en	'place of death'@en	'city in Cyprus'@en
+Q5	P20	Q2983893	1.0	'human'@en	'place of death'@en	'quarter'@en
+Q5	P20	Q30121	1.0	'human'@en	'place of death'@en	'pasture'@en
+Q5	P20	Q317548	1.0	'human'@en	'place of death'@en	'resort town'@en
+Q5	P20	Q3243765	1.0	'human'@en	'place of death'@en	'municipality of Argentina'@en
+Q5	P20	Q3327871	1.0	'human'@en	'place of death'@en	'district municipality'@en
+Q5	P20	Q34763	1.0	'human'@en	'place of death'@en	'peninsula'@en
+Q5	P20	Q34986717	1.0	'human'@en	'place of death'@en	'city of Malaysia'@en
+Q5	P20	Q35034452	1.0	'human'@en	'place of death'@en	'locality of Berlin'@en
+Q5	P20	Q350895	1.0	'human'@en	'place of death'@en	'abandoned village'@en
+Q5	P20	Q358	1.0	'human'@en	'place of death'@en	'heritage site'@en
+Q5	P20	Q3678424	1.0	'human'@en	'place of death'@en	'city with special status'@en
+Q5	P20	Q3685462	1.0	'human'@en	'place of death'@en	'commune of Haiti'@en
+Q5	P20	Q3764344	1.0	'human'@en	'place of death'@en	'district of the Isle of Man'@en
+Q5	P20	Q3924474	1.0	'human'@en	'place of death'@en	'former province of Italy'@en
+Q5	P20	Q3950	1.0	'human'@en	'place of death'@en	'villa'@en
+Q5	P20	Q395994	1.0	'human'@en	'place of death'@en	'capital district or territory'@en
+Q5	P20	Q4022	1.0	'human'@en	'place of death'@en	'river'@en
+Q5	P20	Q41614	1.0	'human'@en	'place of death'@en	'constitutional monarchy'@en
+Q5	P20	Q4287745	1.0	'human'@en	'place of death'@en	'medical organization'@en
+Q5	P20	Q4421	1.0	'human'@en	'place of death'@en	'forest'@en
+Q5	P20	Q4445055	1.0	'human'@en	'place of death'@en	'subregion of Portugal'@en
+Q5	P20	Q44613	1.0	'human'@en	'place of death'@en	'monastery'@en
+Q5	P20	Q467745	1.0	'human'@en	'place of death'@en	'union territory of India'@en
+Q5	P20	Q47053	1.0	'human'@en	'place of death'@en	'estuary'@en
+Q5	P20	Q48349	1.0	'human'@en	'place of death'@en	'empire'@en
+Q5	P20	Q494721	1.0	'human'@en	'place of death'@en	'city of Japan'@en
+Q5	P20	Q499073	1.0	'human'@en	'place of death'@en	'direct-controlled municipality'@en
+Q5	P20	Q5055981	1.0	'human'@en	'place of death'@en	'council of Asturies'@en
+Q5	P20	Q5123997	1.0	'human'@en	'place of death'@en	'city of federal subject significance of Russia'@en
+Q5	P20	Q52154375	1.0	'human'@en	'place of death'@en	'district or neighborhood of Los Angeles'@en
+Q5	P20	Q5327704	1.0	'human'@en	'place of death'@en	'special ward of Japan'@en
+Q5	P20	Q53536964	1.0	'human'@en	'place of death'@en	'royal palace'@en
+Q5	P20	Q55237813	1.0	'human'@en	'place of death'@en	'village of New York'@en
+Q5	P20	Q55687066	1.0	'human'@en	'place of death'@en	'local government area of Tasmania'@en
+Q5	P20	Q55998242	1.0	'human'@en	'place of death'@en	'Administrative Region of Quebec'@en
+Q5	P20	Q562061	1.0	'human'@en	'place of death'@en	'market municipality'@en
+Q5	P20	Q56242250	1.0	'human'@en	'place of death'@en	'Anglican or episcopal cathedral'@en
+Q5	P20	Q5770918	1.0	'human'@en	'place of death'@en	'city of Argentina'@en
+Q5	P20	Q57778855	1.0	'human'@en	'place of death'@en	'brewery building'@en
+Q5	P20	Q57831	1.0	'human'@en	'place of death'@en	'fortress'@en
+Q5	P20	Q61089180	1.0	'human'@en	'place of death'@en	'part of municipality in the Czech Republic'@en
+Q5	P20	Q61298209	1.0	'human'@en	'place of death'@en	'neighborhood in Staten Island'@en
+Q5	P20	Q61708053	1.0	'human'@en	'place of death'@en	'independent city of Saxony-Anhalt'@en
+Q5	P20	Q618123	1.0	'human'@en	'place of death'@en	'geographical feature'@en
+Q5	P20	Q6341928	1.0	'human'@en	'place of death'@en	'rift lake'@en
+Q5	P20	Q63791824	1.0	'human'@en	'place of death'@en	'country bordering the Baltic Sea'@en
+Q5	P20	Q648681	1.0	'human'@en	'place of death'@en	'district of Serbia'@en
+Q5	P20	Q6489113	1.0	'human'@en	'place of death'@en	'large burgh'@en
+Q5	P20	Q64995589	1.0	'human'@en	'place of death'@en	'country house hotel'@en
+Q5	P20	Q6593035	1.0	'human'@en	'place of death'@en	'separated municipality in Ontario'@en
+Q5	P20	Q677678	1.0	'human'@en	'place of death'@en	'fortified town'@en
+Q5	P20	Q683738	1.0	'human'@en	'place of death'@en	'Administrative subdivision of Wales'@en
+Q5	P20	Q685309	1.0	'human'@en	'place of death'@en	'former municipality of Switzerland'@en
+Q5	P20	Q68618328	1.0	'human'@en	'place of death'@en	'SI unit with special name'@en
+Q5	P20	Q6888356	1.0	'human'@en	'place of death'@en	'model village'@en
+Q5	P20	Q69197847	1.0	'human'@en	'place of death'@en	'coherent SI unit'@en
+Q5	P20	Q699405	1.0	'human'@en	'place of death'@en	'residence'@en
+Q5	P20	Q702875	1.0	'human'@en	'place of death'@en	'municipal arrondissement of Marseille'@en
+Q5	P20	Q71144301	1.0	'human'@en	'place of death'@en	'metropolitan region'@en
+Q5	P20	Q7275	1.0	'human'@en	'place of death'@en	'state'@en
+Q5	P20	Q745456	1.0	'human'@en	'place of death'@en	'business cluster'@en
+Q5	P20	Q748149	1.0	'human'@en	'place of death'@en	'prefecture-level city'@en
+Q5	P20	Q751708	1.0	'human'@en	'place of death'@en	'village in the United States'@en
+Q5	P20	Q756102	1.0	'human'@en	'place of death'@en	'open-air museum'@en
+Q5	P20	Q779415	1.0	'human'@en	'place of death'@en	'special administrative region of China'@en
+Q5	P20	Q7843791	1.0	'human'@en	'place of death'@en	'consulate'@en
+Q5	P20	Q7925010	1.0	'human'@en	'place of death'@en	'vice-county'@en
+Q5	P20	Q79323854	1.0	'human'@en	'place of death'@en	'city of oblast subordinance'@en
+Q5	P20	Q79324274	1.0	'human'@en	'place of death'@en	'city of raion subordinance'@en
+Q5	P20	Q817056	1.0	'human'@en	'place of death'@en	'benedictine abbey'@en
+Q5	P20	Q82047057	1.0	'human'@en	'place of death'@en	'UCUM derived unit'@en
+Q5	P20	Q83057	1.0	'human'@en	'place of death'@en	'region of Belgium'@en
+Q5	P20	Q839328	1.0	'human'@en	'place of death'@en	'Fu'@en
+Q5	P20	Q842112	1.0	'human'@en	'place of death'@en	'socialist state'@en
+Q5	P20	Q84598477	1.0	'human'@en	'place of death'@en	'commune of French Polynesia'@en
+Q5	P20	Q849866	1.0	'human'@en	'place of death'@en	'communist state'@en
+Q5	P20	Q852446	1.0	'human'@en	'place of death'@en	'administrative territorial entity of the United States'@en
+Q5	P20	Q861184	1.0	'human'@en	'place of death'@en	'region of Peru'@en
+Q5	P20	Q86442081	1.0	'human'@en	'place of death'@en	'administration municipale en France'@en
+Q5	P20	Q9035798	1.0	'human'@en	'place of death'@en	'township of Pennsylvania'@en
+Q5	P20	Q9430	1.0	'human'@en	'place of death'@en	'ocean'@en
+Q5	P20	Q98116669	1.0	'human'@en	'place of death'@en	'religious complex'@en
+Q858157	P20	Q253019	1.0	'German folklore'@en	'place of death'@en	'Ortsteil'@en
+Q5	P19	Q1549591	2038.0	'human'@en	'place of birth'@en	'big city'@en
+Q5	P19	Q515	1482.0	'human'@en	'place of birth'@en	'city'@en
+Q5	P19	Q1637706	898.0	'human'@en	'place of birth'@en	'million city'@en
+Q5	P19	Q1093829	766.0	'human'@en	'place of birth'@en	'city of the United States'@en
+Q5	P19	Q5119	634.0	'human'@en	'place of birth'@en	'capital'@en
+Q5	P19	Q62049	434.0	'human'@en	'place of birth'@en	'county seat'@en
+Q5	P19	Q200250	381.0	'human'@en	'place of birth'@en	'metropolis'@en
+Q5	P19	Q2264924	314.0	'human'@en	'place of birth'@en	'port settlement'@en
+Q5	P19	Q747074	306.0	'human'@en	'place of birth'@en	'commune of Italy'@en
+Q5	P19	Q42744322	271.0	'human'@en	'place of birth'@en	'urban municipality of Germany'@en
+Q5	P19	Q51929311	262.0	'human'@en	'place of birth'@en	'largest city'@en
+Q5	P19	Q50330360	253.0	'human'@en	'place of birth'@en	'second largest city'@en
+Q5	P19	Q3957	238.0	'human'@en	'place of birth'@en	'town'@en
+Q5	P19	Q484170	194.0	'human'@en	'place of birth'@en	'commune of France'@en
+Q5	P19	Q15063611	180.0	'human'@en	'place of birth'@en	'city in the state of New York'@en
+Q5	P19	Q208511	177.0	'human'@en	'place of birth'@en	'global city'@en
+Q5	P19	Q1187811	169.0	'human'@en	'place of birth'@en	'college town'@en
+Q5	P19	Q1066984	162.0	'human'@en	'place of birth'@en	'financial centre'@en
+Q5	P19	Q707813	151.0	'human'@en	'place of birth'@en	'Hanseatic city'@en
+Q5	P19	Q486972	134.0	'human'@en	'place of birth'@en	'human settlement'@en
+Q5	P19	Q3624078	133.0	'human'@en	'place of birth'@en	'sovereign state'@en
+Q5	P19	Q6256	133.0	'human'@en	'place of birth'@en	'country'@en
+Q5	P19	Q902814	129.0	'human'@en	'place of birth'@en	'border town'@en
+Q5	P19	Q7897276	117.0	'human'@en	'place of birth'@en	'unparished area'@en
+Q5	P19	Q13218391	107.0	'human'@en	'place of birth'@en	'charter city'@en
+Q5	P19	Q21518270	107.0	'human'@en	'place of birth'@en	'state or insular area capital of the United States'@en
+Q5	P19	Q1200957	86.0	'human'@en	'place of birth'@en	'tourist destination'@en
+Q5	P19	Q133442	85.0	'human'@en	'place of birth'@en	'city-state'@en
+Q5	P19	Q134626	84.0	'human'@en	'place of birth'@en	'district capital'@en
+Q5	P19	Q56061	82.0	'human'@en	'place of birth'@en	'administrative territorial entity'@en
+Q5	P19	Q253030	71.0	'human'@en	'place of birth'@en	'major regional center'@en
+Q5	P19	Q70208	71.0	'human'@en	'place of birth'@en	'municipality of Switzerland'@en
+Q5	P19	Q35657	70.0	'human'@en	'place of birth'@en	'U.S. state'@en
+Q5	P19	Q408804	68.0	'human'@en	'place of birth'@en	'borough of New York City'@en
+Q5	P19	Q10864048	67.0	'human'@en	'place of birth'@en	'first-level administrative country subdivision'@en
+Q5	P19	Q1115575	67.0	'human'@en	'place of birth'@en	'civil parish'@en
+Q5	P19	Q532	66.0	'human'@en	'place of birth'@en	'village'@en
+Q5	P19	Q6465	64.0	'human'@en	'place of birth'@en	'department of France'@en
+Q5	P19	Q667509	63.0	'human'@en	'place of birth'@en	'municipality of Austria'@en
+Q5	P19	Q866196	63.0	'human'@en	'place of birth'@en	'episcopal see'@en
+Q5	P19	Q22923920	62.0	'human'@en	'place of birth'@en	'territorial collectivity of France with special status'@en
+Q5	P19	Q15661340	60.0	'human'@en	'place of birth'@en	'ancient city'@en
+Q5	P19	Q7930989	57.0	'human'@en	'place of birth'@en	'city/town'@en
+Q5	P19	Q1907114	56.0	'human'@en	'place of birth'@en	'metropolitan area'@en
+Q5	P19	Q257391	55.0	'human'@en	'place of birth'@en	'federal capital'@en
+Q5	P19	Q925381	54.0	'human'@en	'place of birth'@en	'city with powiat rights'@en
+Q5	P19	Q2755753	53.0	'human'@en	'place of birth'@en	'area of London'@en
+Q5	P19	Q171441	52.0	'human'@en	'place of birth'@en	'enclave'@en
+Q5	P19	Q2202509	52.0	'human'@en	'place of birth'@en	'Roman city'@en
+Q5	P19	Q54935504	52.0	'human'@en	'place of birth'@en	'city of Switzerland'@en
+Q5	P19	Q110071194	50.0	'human'@en	'place of birth'@en	'city of Illinois'@en
+Q5	P19	Q1221156	48.0	'human'@en	'place of birth'@en	'federal state of Germany'@en
+Q5	P19	Q1357964	48.0	'human'@en	'place of birth'@en	'county town'@en
+Q5	P19	Q13539802	46.0	'human'@en	'place of birth'@en	'place with town rights and privileges'@en
+Q5	P19	Q21010817	46.0	'human'@en	'place of birth'@en	'city of Pennsylvania'@en
+Q5	P19	Q15127012	45.0	'human'@en	'place of birth'@en	'town of the United States'@en
+Q5	P19	Q1901835	45.0	'human'@en	'place of birth'@en	'seat of government'@en
+Q5	P19	Q262882	45.0	'human'@en	'place of birth'@en	'statutory city of Austria'@en
+Q5	P19	Q475050	43.0	'human'@en	'place of birth'@en	'federal district'@en
+Q5	P19	Q3301053	42.0	'human'@en	'place of birth'@en	'consolidated city-county'@en
+Q5	P19	Q493522	42.0	'human'@en	'place of birth'@en	'municipality of Belgium'@en
+Q5	P19	Q5888666	42.0	'human'@en	'place of birth'@en	'home rule municipality of Pennsylvania'@en
+Q5	P19	Q15974307	41.0	'human'@en	'place of birth'@en	'Einheitsgemeinde of Germany'@en
+Q5	P19	Q3685476	40.0	'human'@en	'place of birth'@en	'abolished municipality in Italy'@en
+Q5	P19	Q1852859	39.0	'human'@en	'place of birth'@en	'populated place in the Netherlands'@en
+Q5	P19	Q956214	39.0	'human'@en	'place of birth'@en	'chef-lieu'@en
+Q5	P19	Q14762300	37.0	'human'@en	'place of birth'@en	'single-tier municipality'@en
+Q5	P19	Q14770218	37.0	'human'@en	'place of birth'@en	'cantonal capital of Switzerland'@en
+Q5	P19	Q174844	36.0	'human'@en	'place of birth'@en	'megacity'@en
+Q5	P19	Q2039348	36.0	'human'@en	'place of birth'@en	'municipality of the Netherlands'@en
+Q5	P19	Q21507383	36.0	'human'@en	'place of birth'@en	'provincial or territorial capital city in Canada'@en
+Q5	P19	Q57318	36.0	'human'@en	'place of birth'@en	'free imperial city'@en
+Q5	P19	Q85635630	36.0	'human'@en	'place of birth'@en	'urban district of North Rhine-Westphalia'@en
+Q5	P19	Q192611	35.0	'human'@en	'place of birth'@en	'electoral district'@en
+Q5	P19	Q15273785	33.0	'human'@en	'place of birth'@en	'Belgian municipality with the title of city'@en
+Q5	P19	Q85631896	33.0	'human'@en	'place of birth'@en	'urban district of Bavaria'@en
+Q5	P19	Q1180262	32.0	'human'@en	'place of birth'@en	'residenz'@en
+Q5	P19	Q180673	32.0	'human'@en	'place of birth'@en	'ceremonial county of England'@en
+Q5	P19	Q261543	32.0	'human'@en	'place of birth'@en	'state of Austria'@en
+Q5	P19	Q1266818	31.0	'human'@en	'place of birth'@en	'independent city'@en
+Q5	P19	Q27676416	31.0	'human'@en	'place of birth'@en	'city or town'@en
+Q5	P19	Q14784328	30.0	'human'@en	'place of birth'@en	'state capital in Germany'@en
+Q5	P19	Q123705	29.0	'human'@en	'place of birth'@en	'neighborhood'@en
+Q5	P19	Q2974552	29.0	'human'@en	'place of birth'@en	'city in New Jersey'@en
+Q5	P19	Q3559093	27.0	'human'@en	'place of birth'@en	'sanctuary city'@en
+Q5	P19	Q5153359	27.0	'human'@en	'place of birth'@en	'municipality of the Czech Republic'@en
+Q5	P19	Q56557504	27.0	'human'@en	'place of birth'@en	'city of Iran'@en
+Q5	P19	Q104782082	26.0	'human'@en	'place of birth'@en	'territory outside RCM'@en
+Q5	P19	Q1520223	26.0	'human'@en	'place of birth'@en	'constitutional republic'@en
+Q5	P19	Q15978299	26.0	'human'@en	'place of birth'@en	'municipality with town privileges in the Czech Republic'@en
+Q5	P19	Q22865	26.0	'human'@en	'place of birth'@en	'independent city of Germany'@en
+Q5	P19	Q7309306	26.0	'human'@en	'place of birth'@en	'region of Victoria'@en
+Q5	P19	Q43702	25.0	'human'@en	'place of birth'@en	'federation'@en
+Q5	P19	Q67123843	25.0	'human'@en	'place of birth'@en	'town divided by border'@en
+Q5	P19	Q7270	25.0	'human'@en	'place of birth'@en	'republic'@en
+Q5	P19	Q112099	24.0	'human'@en	'place of birth'@en	'island nation'@en
+Q5	P19	Q50337	24.0	'human'@en	'place of birth'@en	'prefecture of Japan'@en
+Q5	P19	Q7819319	24.0	'human'@en	'place of birth'@en	'Czech municipality with expanded powers'@en
+Q5	P19	Q7841907	24.0	'human'@en	'place of birth'@en	'municipality with authorized municipal office'@en
+Q5	P19	Q3257686	23.0	'human'@en	'place of birth'@en	'locality'@en
+Q5	P19	Q3505887	23.0	'human'@en	'place of birth'@en	'city council'@en
+Q5	P19	Q1094397	22.0	'human'@en	'place of birth'@en	'autonomous city'@en
+Q5	P19	Q1422929	22.0	'human'@en	'place of birth'@en	'primate city'@en
+Q5	P19	Q202435	22.0	'human'@en	'place of birth'@en	'lieutenancy area of Scotland'@en
+Q5	P19	Q2327515	22.0	'human'@en	'place of birth'@en	'city district of Baden-Württemberg'@en
+Q5	P19	Q51576574	22.0	'human'@en	'place of birth'@en	'Mediterranean country'@en
+Q5	P19	Q5255892	22.0	'human'@en	'place of birth'@en	'democratic republic'@en
+Q5	P19	Q839954	22.0	'human'@en	'place of birth'@en	'archaeological site'@en
+Q5	P19	Q12131624	21.0	'human'@en	'place of birth'@en	'city ​​in Ukraine'@en
+Q5	P19	Q12813115	21.0	'human'@en	'place of birth'@en	'urban area in Sweden'@en
+Q5	P19	Q183342	21.0	'human'@en	'place of birth'@en	'federal city of Russia'@en
+Q5	P19	Q2074737	21.0	'human'@en	'place of birth'@en	'municipality of Spain'@en
+Q5	P19	Q3184121	21.0	'human'@en	'place of birth'@en	'municipality of Brazil'@en
+Q5	P19	Q43263	21.0	'human'@en	'place of birth'@en	'federal subject of Russia'@en
+Q5	P19	Q4442912	21.0	'human'@en	'place of birth'@en	'capital of Russia'@en
+Q5	P19	Q5123999	21.0	'human'@en	'place of birth'@en	'city of regional significance of Ukraine'@en
+Q5	P19	Q640364	21.0	'human'@en	'place of birth'@en	'municipiu of Romania'@en
+Q5	P19	Q512187	20.0	'human'@en	'place of birth'@en	'federal republic'@en
+Q5	P19	Q65589340	20.0	'human'@en	'place of birth'@en	'capital of a prefecture of Japan'@en
+Q5	P19	Q8452914	20.0	'human'@en	'place of birth'@en	'district town'@en
+Q5	P19	Q106517174	19.0	'human'@en	'place of birth'@en	'Option municipality'@en
+Q5	P19	Q17343829	19.0	'human'@en	'place of birth'@en	'unincorporated community in the United States'@en
+Q5	P19	Q188509	19.0	'human'@en	'place of birth'@en	'suburb'@en
+Q5	P19	Q15105893	18.0	'human'@en	'place of birth'@en	'town in Croatia'@en
+Q5	P19	Q63791824	18.0	'human'@en	'place of birth'@en	'country bordering the Baltic Sea'@en
+Q5	P19	Q702842	18.0	'human'@en	'place of birth'@en	'municipal arrondissement'@en
+Q5	P19	Q11881845	17.0	'human'@en	'place of birth'@en	'city'@en
+Q5	P19	Q12031379	17.0	'human'@en	'place of birth'@en	'capital of region'@en
+Q5	P19	Q1375749	17.0	'human'@en	'place of birth'@en	'European City'@en
+Q5	P19	Q3024240	17.0	'human'@en	'place of birth'@en	'historical country'@en
+Q5	P19	Q494721	17.0	'human'@en	'place of birth'@en	'city of Japan'@en
+Q5	P19	Q751708	17.0	'human'@en	'place of birth'@en	'village in the United States'@en
+Q5	P19	Q755707	17.0	'human'@en	'place of birth'@en	'municipality of Norway'@en
+Q5	P19	Q85636199	17.0	'human'@en	'place of birth'@en	'urban district of Hamburg'@en
+Q5	P19	Q13455645	16.0	'human'@en	'place of birth'@en	'administrative city in the Republic of Ireland'@en
+Q5	P19	Q202686	16.0	'human'@en	'place of birth'@en	'Commonwealth realm'@en
+Q5	P19	Q20528428	16.0	'human'@en	'place of birth'@en	'federative entity of Mexico'@en
+Q5	P19	Q223832	16.0	'human'@en	'place of birth'@en	'dominion of the British Empire'@en
+Q5	P19	Q23442	16.0	'human'@en	'place of birth'@en	'island'@en
+Q5	P19	Q3336843	16.0	'human'@en	'place of birth'@en	'constituent country of the United Kingdom'@en
+Q5	P19	Q619610	16.0	'human'@en	'place of birth'@en	'social state'@en
+Q5	P19	Q702492	16.0	'human'@en	'place of birth'@en	'urban area'@en
+Q5	P19	Q748149	16.0	'human'@en	'place of birth'@en	'prefecture-level city'@en
+Q5	P19	Q15284	15.0	'human'@en	'place of birth'@en	'municipality'@en
+Q5	P19	Q15303838	15.0	'human'@en	'place of birth'@en	'municipality seat'@en
+Q5	P19	Q856076	15.0	'human'@en	'place of birth'@en	'municipality of Finland'@en
+Q5	P19	Q1208802	14.0	'human'@en	'place of birth'@en	'direct-controlled municipality'@en
+Q5	P19	Q1749269	14.0	'human'@en	'place of birth'@en	'city designated by government ordinance'@en
+Q5	P19	Q179164	14.0	'human'@en	'place of birth'@en	'unitary state'@en
+Q5	P19	Q2630741	14.0	'human'@en	'place of birth'@en	'community'@en
+Q5	P19	Q61708099	14.0	'human'@en	'place of birth'@en	'urban district in Saxony'@en
+Q5	P19	Q76514543	14.0	'human'@en	'place of birth'@en	'municipality of Georgia'@en
+Q5	P19	Q1489259	13.0	'human'@en	'place of birth'@en	'superpower'@en
+Q5	P19	Q1547289	13.0	'human'@en	'place of birth'@en	'Luther city'@en
+Q5	P19	Q2154459	13.0	'human'@en	'place of birth'@en	'New England town'@en
+Q5	P19	Q448801	13.0	'human'@en	'place of birth'@en	'big district town'@en
+Q5	P19	Q581830	13.0	'human'@en	'place of birth'@en	'carfree city'@en
+Q5	P19	Q777120	13.0	'human'@en	'place of birth'@en	'borough of Pennsylvania'@en
+Q5	P19	Q85635929	13.0	'human'@en	'place of birth'@en	'urban district of Lower Saxony'@en
+Q5	P19	Q99541706	13.0	'human'@en	'place of birth'@en	'historical unrecognized state'@en
+Q5	P19	Q11271835	12.0	'human'@en	'place of birth'@en	'state capital'@en
+Q5	P19	Q13217644	12.0	'human'@en	'place of birth'@en	'municipality of Portugal'@en
+Q5	P19	Q17334923	12.0	'human'@en	'place of birth'@en	'location'@en
+Q5	P19	Q20181813	12.0	'human'@en	'place of birth'@en	'colonial power'@en
+Q5	P19	Q2616791	12.0	'human'@en	'place of birth'@en	'urban municipality of Poland'@en
+Q5	P19	Q27554677	12.0	'human'@en	'place of birth'@en	'former capital'@en
+Q5	P19	Q3558970	12.0	'human'@en	'place of birth'@en	'village of Poland'@en
+Q5	P19	Q4209223	12.0	'human'@en	'place of birth'@en	'Rechtsstaat'@en
+Q5	P19	Q6266	12.0	'human'@en	'place of birth'@en	'nation'@en
+Q5	P19	Q692581	12.0	'human'@en	'place of birth'@en	'holy city'@en
+Q5	P19	Q1025961	11.0	'human'@en	'place of birth'@en	'capital of Japan'@en
+Q5	P19	Q106071004	11.0	'human'@en	'place of birth'@en	'town of New York'@en
+Q5	P19	Q1066538	11.0	'human'@en	'place of birth'@en	'National Central City'@en
+Q5	P19	Q1780389	11.0	'human'@en	'place of birth'@en	'special municipality association of Germany'@en
+Q5	P19	Q262166	11.0	'human'@en	'place of birth'@en	'municipality of Germany'@en
+Q5	P19	Q34843301	11.0	'human'@en	'place of birth'@en	'capital of county in Romania'@en
+Q5	P19	Q615980	11.0	'human'@en	'place of birth'@en	'parish of the Church of Sweden'@en
+Q5	P19	Q61980648	11.0	'human'@en	'place of birth'@en	'urban district of Hesse'@en
+Q5	P19	Q769603	11.0	'human'@en	'place of birth'@en	'non-metropolitan county'@en
+Q5	P19	Q85632032	11.0	'human'@en	'place of birth'@en	'urban district of Rhineland-Palatinate'@en
+Q5	P19	Q89487741	11.0	'human'@en	'place of birth'@en	'city of Bulgaria'@en
+Q5	P19	Q148837	10.0	'human'@en	'place of birth'@en	'polis'@en
+Q5	P19	Q15647906	10.0	'human'@en	'place of birth'@en	'city of Portugal'@en
+Q5	P19	Q1620908	10.0	'human'@en	'place of birth'@en	'historical region'@en
+Q5	P19	Q18511725	10.0	'human'@en	'place of birth'@en	'market town'@en
+Q5	P19	Q253019	10.0	'human'@en	'place of birth'@en	'Ortsteil'@en
+Q5	P19	Q4946461	10.0	'human'@en	'place of birth'@en	'spa town'@en
+Q5	P19	Q498162	10.0	'human'@en	'place of birth'@en	'census-designated place'@en
+Q5	P19	Q518261	10.0	'human'@en	'place of birth'@en	'cultural area'@en
+Q5	P19	Q106646149	9.0	'human'@en	'place of birth'@en	'Climate emergency declarations in New Zealand'@en
+Q5	P19	Q1323642	9.0	'human'@en	'place of birth'@en	'transcontinental country'@en
+Q5	P19	Q1548518	9.0	'human'@en	'place of birth'@en	'large district town'@en
+Q5	P19	Q192287	9.0	'human'@en	'place of birth'@en	'subdivisions of Russia'@en
+Q5	P19	Q257978	9.0	'human'@en	'place of birth'@en	'statutory city'@en
+Q5	P19	Q38911	9.0	'human'@en	'place of birth'@en	'region of the Czech Republic'@en
+Q5	P19	Q48349	9.0	'human'@en	'place of birth'@en	'empire'@en
+Q5	P19	Q537250	9.0	'human'@en	'place of birth'@en	'federal city'@en
+Q5	P19	Q548611	9.0	'human'@en	'place of birth'@en	'districts of the Czech Republic'@en
+Q5	P19	Q55237813	9.0	'human'@en	'place of birth'@en	'village of New York'@en
+Q5	P19	Q76007695	9.0	'human'@en	'place of birth'@en	'administrative district of Czech municipality with expanded powers'@en
+Q5	P19	Q76009696	9.0	'human'@en	'place of birth'@en	'administrative district of Czech municipality with authorized municipal office'@en
+Q5	P19	Q105074756	8.0	'human'@en	'place of birth'@en	'Municipal Corporation of West Bengal'@en
+Q5	P19	Q123480	8.0	'human'@en	'place of birth'@en	'landlocked country'@en
+Q5	P19	Q1250464	8.0	'human'@en	'place of birth'@en	'realm'@en
+Q5	P19	Q1306755	8.0	'human'@en	'place of birth'@en	'administrative centre'@en
+Q5	P19	Q13218690	8.0	'human'@en	'place of birth'@en	'town in Hungary'@en
+Q5	P19	Q1401585	8.0	'human'@en	'place of birth'@en	'medium regional center'@en
+Q5	P19	Q15253706	8.0	'human'@en	'place of birth'@en	'like a city'@en
+Q5	P19	Q15310171	8.0	'human'@en	'place of birth'@en	'seaport'@en
+Q5	P19	Q1615742	8.0	'human'@en	'place of birth'@en	'province of the People\'s Republic of China'@en
+Q5	P19	Q185145	8.0	'human'@en	'place of birth'@en	'great power'@en
+Q5	P19	Q18663579	8.0	'human'@en	'place of birth'@en	'former municipality of Norway'@en
+Q5	P19	Q19953632	8.0	'human'@en	'place of birth'@en	'former administrative territorial entity'@en
+Q5	P19	Q20202352	8.0	'human'@en	'place of birth'@en	'locality of Mexico'@en
+Q5	P19	Q22674925	8.0	'human'@en	'place of birth'@en	'former populated place'@en
+Q5	P19	Q3243765	8.0	'human'@en	'place of birth'@en	'municipality of Argentina'@en
+Q5	P19	Q33146843	8.0	'human'@en	'place of birth'@en	'municipality of Catalonia'@en
+Q5	P19	Q562061	8.0	'human'@en	'place of birth'@en	'market municipality'@en
+Q5	P19	Q57053	8.0	'human'@en	'place of birth'@en	'county of Croatia'@en
+Q5	P19	Q61856863	8.0	'human'@en	'place of birth'@en	'urban district in Schleswig-Holstein'@en
+Q5	P19	Q7543008	8.0	'human'@en	'place of birth'@en	'small burgh'@en
+Q5	P19	Q104630835	7.0	'human'@en	'place of birth'@en	'Scottish county of city'@en
+Q5	P19	Q1137833	7.0	'human'@en	'place of birth'@en	'core city of Japan'@en
+Q5	P19	Q13218276	7.0	'human'@en	'place of birth'@en	'Freie Stadt'@en
+Q5	P19	Q1351282	7.0	'human'@en	'place of birth'@en	'crown colony'@en
+Q5	P19	Q15092344	7.0	'human'@en	'place of birth'@en	'urban area in Norway'@en
+Q5	P19	Q15210668	7.0	'human'@en	'place of birth'@en	'lower-tier municipality'@en
+Q5	P19	Q15221304	7.0	'human'@en	'place of birth'@en	'first-class city'@en
+Q5	P19	Q17364572	7.0	'human'@en	'place of birth'@en	'district of Northern Ireland'@en
+Q5	P19	Q250811	7.0	'human'@en	'place of birth'@en	'sub-province-level division'@en
+Q5	P19	Q56557664	7.0	'human'@en	'place of birth'@en	'şəhər'@en
+Q5	P19	Q61747322	7.0	'human'@en	'place of birth'@en	'urban district of Thuringia'@en
+Q5	P19	Q871419	7.0	'human'@en	'place of birth'@en	'district of Austria'@en
+Q5	P19	Q1065118	6.0	'human'@en	'place of birth'@en	'district of China'@en
+Q5	P19	Q15042037	6.0	'human'@en	'place of birth'@en	'statistical territorial entity'@en
+Q5	P19	Q15334	6.0	'human'@en	'place of birth'@en	'municipality of Poland'@en
+Q5	P19	Q20724701	6.0	'human'@en	'place of birth'@en	'city or town in Armenia'@en
+Q5	P19	Q25412763	6.0	'human'@en	'place of birth'@en	'city in Chile'@en
+Q5	P19	Q27702623	6.0	'human'@en	'place of birth'@en	'academic enclave'@en
+Q5	P19	Q2989398	6.0	'human'@en	'place of birth'@en	'commune of Algeria'@en
+Q5	P19	Q3502482	6.0	'human'@en	'place of birth'@en	'cultural region'@en
+Q5	P19	Q417175	6.0	'human'@en	'place of birth'@en	'kingdom'@en
+Q5	P19	Q5852411	6.0	'human'@en	'place of birth'@en	'state of Australia'@en
+Q5	P19	Q63440326	6.0	'human'@en	'place of birth'@en	'city of Oregon'@en
+Q5	P19	Q82794	6.0	'human'@en	'place of birth'@en	'geographic region'@en
+Q5	P19	Q96482621	6.0	'human'@en	'place of birth'@en	'administrative territory in South Africa'@en
+Q5	P19	Q102104752	5.0	'human'@en	'place of birth'@en	'city of Bosnia and Herzegovina'@en
+Q5	P19	Q1021711	5.0	'human'@en	'place of birth'@en	'seaside resort'@en
+Q5	P19	Q109329953	5.0	'human'@en	'place of birth'@en	'state city of Latvia'@en
+Q5	P19	Q1134686	5.0	'human'@en	'place of birth'@en	'frazione'@en
+Q5	P19	Q1138494	5.0	'human'@en	'place of birth'@en	'historic county of England'@en
+Q5	P19	Q13415368	5.0	'human'@en	'place of birth'@en	'county of Virginia'@en
+Q5	P19	Q15127838	5.0	'human'@en	'place of birth'@en	'city under state jurisdiction in Latvia'@en
+Q5	P19	Q15221373	5.0	'human'@en	'place of birth'@en	'fourth-class city'@en
+Q5	P19	Q15239622	5.0	'human'@en	'place of birth'@en	'disputed territory'@en
+Q5	P19	Q15344922	5.0	'human'@en	'place of birth'@en	'oblast seat'@en
+Q5	P19	Q17457753	5.0	'human'@en	'place of birth'@en	'census subdivision'@en
+Q5	P19	Q21869758	5.0	'human'@en	'place of birth'@en	'delegated commune'@en
+Q5	P19	Q2225003	5.0	'human'@en	'place of birth'@en	'special municipality'@en
+Q5	P19	Q263639	5.0	'human'@en	'place of birth'@en	'municipality of Puerto Rico'@en
+Q5	P19	Q2911266	5.0	'human'@en	'place of birth'@en	'borough of New Jersey'@en
+Q5	P19	Q2919801	5.0	'human'@en	'place of birth'@en	'municipality of Luxembourg'@en
+Q5	P19	Q37800986	5.0	'human'@en	'place of birth'@en	'Serbian city'@en
+Q5	P19	Q3788231	5.0	'human'@en	'place of birth'@en	'municipal government in Canada'@en
+Q5	P19	Q558330	5.0	'human'@en	'place of birth'@en	'municipality of Cuba'@en
+Q5	P19	Q60458065	5.0	'human'@en	'place of birth'@en	'city'@en
+Q5	P19	Q618123	5.0	'human'@en	'place of birth'@en	'geographical feature'@en
+Q5	P19	Q6593035	5.0	'human'@en	'place of birth'@en	'separated municipality in Ontario'@en
+Q5	P19	Q6784672	5.0	'human'@en	'place of birth'@en	'municipality of Slovakia'@en
+Q5	P19	Q685309	5.0	'human'@en	'place of birth'@en	'former municipality of Switzerland'@en
+Q5	P19	Q83057	5.0	'human'@en	'place of birth'@en	'region of Belgium'@en
+Q5	P19	Q831021	5.0	'human'@en	'place of birth'@en	'Armorial of the municipalities of the Empire'@en
+Q5	P19	Q849866	5.0	'human'@en	'place of birth'@en	'communist state'@en
+Q5	P19	Q859563	5.0	'human'@en	'place of birth'@en	'secular state'@en
+Q5	P19	Q1074523	4.0	'human'@en	'place of birth'@en	'planned community'@en
+Q5	P19	Q110266204	4.0	'human'@en	'place of birth'@en	'optional charter municipality of Pennsylvania'@en
+Q5	P19	Q129372	4.0	'human'@en	'place of birth'@en	'European Capital of Culture'@en
+Q5	P19	Q152732	4.0	'human'@en	'place of birth'@en	'District of Bangladesh'@en
+Q5	P19	Q15379753	4.0	'human'@en	'place of birth'@en	'British Dependent Territory'@en
+Q5	P19	Q15630849	4.0	'human'@en	'place of birth'@en	'village of Bulgaria'@en
+Q5	P19	Q15634554	4.0	'human'@en	'place of birth'@en	'state with limited recognition'@en
+Q5	P19	Q179872	4.0	'human'@en	'place of birth'@en	'county of Ireland'@en
+Q5	P19	Q2610088	4.0	'human'@en	'place of birth'@en	'moraine'@en
+Q5	P19	Q2716259	4.0	'human'@en	'place of birth'@en	'metropolitan municipality in Turkey'@en
+Q5	P19	Q55440238	4.0	'human'@en	'place of birth'@en	'city in Alberta'@en
+Q5	P19	Q570116	4.0	'human'@en	'place of birth'@en	'tourist attraction'@en
+Q5	P19	Q6005581	4.0	'human'@en	'place of birth'@en	'municipality of the Dominican Republic'@en
+Q5	P19	Q61089180	4.0	'human'@en	'place of birth'@en	'part of municipality in the Czech Republic'@en
+Q5	P19	Q677678	4.0	'human'@en	'place of birth'@en	'fortified town'@en
+Q5	P19	Q719592	4.0	'human'@en	'place of birth'@en	'local council of Malta'@en
+Q5	P19	Q748198	4.0	'human'@en	'place of birth'@en	'gay village'@en
+Q5	P19	Q7574799	4.0	'human'@en	'place of birth'@en	'special city of South Korea'@en
+Q5	P19	Q7829892	4.0	'human'@en	'place of birth'@en	'town of New Jersey'@en
+Q5	P19	Q7830213	4.0	'human'@en	'place of birth'@en	'township of New Jersey'@en
+Q5	P19	Q9035798	4.0	'human'@en	'place of birth'@en	'township of Pennsylvania'@en
+Q20643955	P19	Q515	3.0	'human biblical figure'@en	'place of birth'@en	'city'@en
+Q5	P19	Q100341898	3.0	'human'@en	'place of birth'@en	'market municipality of Germany'@en
+Q5	P19	Q10876480	3.0	'human'@en	'place of birth'@en	'Capital of Republic of China (Taiwan)'@en
+Q5	P19	Q1136601	3.0	'human'@en	'place of birth'@en	'unitary authority area in England'@en
+Q5	P19	Q1145012	3.0	'human'@en	'place of birth'@en	'special city of Japan'@en
+Q5	P19	Q11828004	3.0	'human'@en	'place of birth'@en	'province of Canada'@en
+Q5	P19	Q1267632	3.0	'human'@en	'place of birth'@en	'raion of Ukraine'@en
+Q5	P19	Q13218357	3.0	'human'@en	'place of birth'@en	'city of California'@en
+Q5	P19	Q13410464	3.0	'human'@en	'place of birth'@en	'county of Maryland'@en
+Q5	P19	Q13414763	3.0	'human'@en	'place of birth'@en	'county of Pennsylvania'@en
+Q5	P19	Q137773	3.0	'human'@en	'place of birth'@en	'ward of Japan'@en
+Q5	P19	Q14921981	3.0	'human'@en	'place of birth'@en	'administrative territorial entity of Belarus'@en
+Q5	P19	Q149621	3.0	'human'@en	'place of birth'@en	'district'@en
+Q5	P19	Q1499928	3.0	'human'@en	'place of birth'@en	'Gemarkung'@en
+Q5	P19	Q15060255	3.0	'human'@en	'place of birth'@en	'Scottish council area'@en
+Q5	P19	Q15221310	3.0	'human'@en	'place of birth'@en	'second-class city'@en
+Q5	P19	Q159438	3.0	'human'@en	'place of birth'@en	'Hero City'@en
+Q5	P19	Q161387	3.0	'human'@en	'place of birth'@en	'kibbutz'@en
+Q5	P19	Q17259945	3.0	'human'@en	'place of birth'@en	'province of the Spanish Empire'@en
+Q5	P19	Q1802801	3.0	'human'@en	'place of birth'@en	'rural municipality of Austria'@en
+Q5	P19	Q18663566	3.0	'human'@en	'place of birth'@en	'dissolved municipality of Japan'@en
+Q5	P19	Q18918041	3.0	'human'@en	'place of birth'@en	'municipality of West Bengal'@en
+Q5	P19	Q21672098	3.0	'human'@en	'place of birth'@en	'village of Ukraine'@en
+Q5	P19	Q22927616	3.0	'human'@en	'place of birth'@en	'commune of France with specific status'@en
+Q5	P19	Q23413	3.0	'human'@en	'place of birth'@en	'castle'@en
+Q5	P19	Q29946056	3.0	'human'@en	'place of birth'@en	'highly urbanized city'@en
+Q5	P19	Q34763	3.0	'human'@en	'place of birth'@en	'peninsula'@en
+Q5	P19	Q3750285	3.0	'human'@en	'place of birth'@en	'administrative territorial entity of Canada'@en
+Q5	P19	Q4224624	3.0	'human'@en	'place of birth'@en	'kmetstvo of Bulgaria'@en
+Q5	P19	Q44782	3.0	'human'@en	'place of birth'@en	'port'@en
+Q5	P19	Q45242174	3.0	'human'@en	'place of birth'@en	'gazetted locality of Victoria'@en
+Q5	P19	Q46395	3.0	'human'@en	'place of birth'@en	'British overseas territories'@en
+Q5	P19	Q54935786	3.0	'human'@en	'place of birth'@en	'medium district town'@en
+Q5	P19	Q58339717	3.0	'human'@en	'place of birth'@en	'city of India'@en
+Q5	P19	Q611214	3.0	'human'@en	'place of birth'@en	'Next Eleven'@en
+Q5	P19	Q66459606	3.0	'human'@en	'place of birth'@en	"'\""LGBT ideology\"" free zone'@en"
+Q5	P19	Q67376938	3.0	'human'@en	'place of birth'@en	'historic county of the United Kingdom'@en
+Q5	P19	Q681277	3.0	'human'@en	'place of birth'@en	'city with county rights'@en
+Q5	P19	Q779415	3.0	'human'@en	'place of birth'@en	'special administrative region of China'@en
+Q5	P19	Q79323854	3.0	'human'@en	'place of birth'@en	'city of oblast subordinance'@en
+Q5	P19	Q814648	3.0	'human'@en	'place of birth'@en	'parish of Denmark'@en
+Q5	P19	Q85635638	3.0	'human'@en	'place of birth'@en	'urban district of Bremen'@en
+Q5	P19	Q89934	3.0	'human'@en	'place of birth'@en	'community of Belgium'@en
+Q20643955	P19	Q3505887	2.0	'human biblical figure'@en	'place of birth'@en	'city council'@en
+Q20643955	P19	Q486972	2.0	'human biblical figure'@en	'place of birth'@en	'human settlement'@en
+Q20643955	P19	Q692581	2.0	'human biblical figure'@en	'place of birth'@en	'holy city'@en
+Q20643955	P19	Q839954	2.0	'human biblical figure'@en	'place of birth'@en	'archaeological site'@en
+Q5	P19	Q102496	2.0	'human'@en	'place of birth'@en	'parish'@en
+Q5	P19	Q1057504	2.0	'human'@en	'place of birth'@en	'region of Ethiopia'@en
+Q5	P19	Q1062710	2.0	'human'@en	'place of birth'@en	'municipality of Bolivia'@en
+Q5	P19	Q1093720	2.0	'human'@en	'place of birth'@en	'real union'@en
+Q5	P19	Q1149652	2.0	'human'@en	'place of birth'@en	'district of India'@en
+Q5	P19	Q1210300	2.0	'human'@en	'place of birth'@en	'mkhare'@en
+Q5	P19	Q12134916	2.0	'human'@en	'place of birth'@en	'centre of oblast'@en
+Q5	P19	Q1230132	2.0	'human'@en	'place of birth'@en	'District of the Bahamas'@en
+Q5	P19	Q12443800	2.0	'human'@en	'place of birth'@en	'state of India'@en
+Q5	P19	Q1267939	2.0	'human'@en	'place of birth'@en	'statistical region of Serbia'@en
+Q5	P19	Q1289426	2.0	'human'@en	'place of birth'@en	'county of China'@en
+Q5	P19	Q1317848	2.0	'human'@en	'place of birth'@en	'county of Northern Ireland'@en
+Q5	P19	Q133156	2.0	'human'@en	'place of birth'@en	'colony'@en
+Q5	P19	Q1336152	2.0	'human'@en	'place of birth'@en	'princely state'@en
+Q5	P19	Q13411064	2.0	'human'@en	'place of birth'@en	'pastoral lease'@en
+Q5	P19	Q13414759	2.0	'human'@en	'place of birth'@en	'county of Ohio'@en
+Q5	P19	Q15089	2.0	'human'@en	'place of birth'@en	'province of Italy'@en
+Q5	P19	Q15149663	2.0	'human'@en	'place of birth'@en	'state of Mexico'@en
+Q5	P19	Q1523821	2.0	'human'@en	'place of birth'@en	'socken'@en
+Q5	P19	Q1548525	2.0	'human'@en	'place of birth'@en	'large independent city of Lower Saxony'@en
+Q5	P19	Q15623950	2.0	'human'@en	'place of birth'@en	'prefecture of Morocco'@en
+Q5	P19	Q15634695	2.0	'human'@en	'place of birth'@en	'special administrative area of Thailand'@en
+Q5	P19	Q15979307	2.0	'human'@en	'place of birth'@en	'principal area of Wales'@en
+Q5	P19	Q16110	2.0	'human'@en	'place of birth'@en	'region of Italy'@en
+Q5	P19	Q170156	2.0	'human'@en	'place of birth'@en	'confederation'@en
+Q5	P19	Q185441	2.0	'human'@en	'place of birth'@en	'member state of the european union'@en
+Q5	P19	Q1952852	2.0	'human'@en	'place of birth'@en	'municipality of Mexico'@en
+Q5	P19	Q20871353	2.0	'human'@en	'place of birth'@en	'cadastral area in the Czech Republic'@en
+Q5	P19	Q2087181	2.0	'human'@en	'place of birth'@en	'historic house museum'@en
+Q5	P19	Q211690	2.0	'human'@en	'place of birth'@en	'London borough'@en
+Q5	P19	Q2138167	2.0	'human'@en	'place of birth'@en	'Scottish region'@en
+Q5	P19	Q2177636	2.0	'human'@en	'place of birth'@en	'municipality of Denmark'@en
+Q5	P19	Q23397	2.0	'human'@en	'place of birth'@en	'lake'@en
+Q5	P19	Q24764	2.0	'human'@en	'place of birth'@en	'municipality of the Philippines'@en
+Q5	P19	Q25466816	2.0	'human'@en	'place of birth'@en	'capital of Indonesia'@en
+Q5	P19	Q2555896	2.0	'human'@en	'place of birth'@en	'municipality of Colombia'@en
+Q5	P19	Q2661988	2.0	'human'@en	'place of birth'@en	'urban settlement in Russia'@en
+Q5	P19	Q2785216	2.0	'human'@en	'place of birth'@en	'municipality section'@en
+Q5	P19	Q28122896	2.0	'human'@en	'place of birth'@en	'rural municipality of Estonia'@en
+Q5	P19	Q28942344	2.0	'human'@en	'place of birth'@en	'Indigenous Australian community'@en
+Q5	P19	Q2989457	2.0	'human'@en	'place of birth'@en	'urban-type settlement'@en
+Q5	P19	Q3327862	2.0	'human'@en	'place of birth'@en	'urban commune of Morocco'@en
+Q5	P19	Q33837	2.0	'human'@en	'place of birth'@en	'archipelago'@en
+Q5	P19	Q34986717	2.0	'human'@en	'place of birth'@en	'city of Malaysia'@en
+Q5	P19	Q35034452	2.0	'human'@en	'place of birth'@en	'locality of Berlin'@en
+Q5	P19	Q36784	2.0	'human'@en	'place of birth'@en	'region of France'@en
+Q5	P19	Q3678424	2.0	'human'@en	'place of birth'@en	'city with special status'@en
+Q5	P19	Q3744870	2.0	'human'@en	'place of birth'@en	'township'@en
+Q5	P19	Q39816	2.0	'human'@en	'place of birth'@en	'valley'@en
+Q5	P19	Q4167410	2.0	'human'@en	'place of birth'@en	'Wikimedia disambiguation page'@en
+Q5	P19	Q4286337	2.0	'human'@en	'place of birth'@en	'city district'@en
+Q5	P19	Q44753	2.0	'human'@en	'place of birth'@en	'province of Argentina'@en
+Q5	P19	Q465613	2.0	'human'@en	'place of birth'@en	'people\'s republic'@en
+Q5	P19	Q482821	2.0	'human'@en	'place of birth'@en	'metropolitan city of South Korea'@en
+Q5	P19	Q5055981	2.0	'human'@en	'place of birth'@en	'council of Asturies'@en
+Q5	P19	Q5098	2.0	'human'@en	'place of birth'@en	'province of Indonesia'@en
+Q5	P19	Q519630	2.0	'human'@en	'place of birth'@en	'South African township'@en
+Q5	P19	Q5327704	2.0	'human'@en	'place of birth'@en	'special ward of Japan'@en
+Q5	P19	Q55998242	2.0	'human'@en	'place of birth'@en	'Administrative Region of Quebec'@en
+Q5	P19	Q57058	2.0	'human'@en	'place of birth'@en	'municipality of Croatia'@en
+Q5	P19	Q5770918	2.0	'human'@en	'place of birth'@en	'city of Argentina'@en
+Q5	P19	Q57831	2.0	'human'@en	'place of birth'@en	'fortress'@en
+Q5	P19	Q587089	2.0	'human'@en	'place of birth'@en	'city with municipal rights'@en
+Q5	P19	Q60297	2.0	'human'@en	'place of birth'@en	'Regions of Western Australia'@en
+Q5	P19	Q61763947	2.0	'human'@en	'place of birth'@en	'municipality of Aragon'@en
+Q5	P19	Q648681	2.0	'human'@en	'place of birth'@en	'district of Serbia'@en
+Q5	P19	Q655593	2.0	'human'@en	'place of birth'@en	'emporia'@en
+Q5	P19	Q6609748	2.0	'human'@en	'place of birth'@en	'city of New Brunswick'@en
+Q5	P19	Q6882870	2.0	'human'@en	'place of birth'@en	'designated spa town'@en
+Q5	P19	Q6936404	2.0	'human'@en	'place of birth'@en	'Municipalities of the State of Palestine'@en
+Q5	P19	Q7275	2.0	'human'@en	'place of birth'@en	'state'@en
+Q5	P19	Q74047	2.0	'human'@en	'place of birth'@en	'ghost town'@en
+Q5	P19	Q839328	2.0	'human'@en	'place of birth'@en	'Fu'@en
+Q5	P19	Q8502	2.0	'human'@en	'place of birth'@en	'mountain'@en
+Q5	P19	Q851517	2.0	'human'@en	'place of birth'@en	'Neighborhoods of Buenos Aires'@en
+Q5	P19	Q86622	2.0	'human'@en	'place of birth'@en	'governorate'@en
+Q5	P19	Q900119	2.0	'human'@en	'place of birth'@en	'United Nations list of Non-Self-Governing Territories'@en
+Q5	P19	Q91733160	2.0	'human'@en	'place of birth'@en	'urban settlement in Belarus'@en
+Q1062083	P19	Q3624078	1.0	'billionaire'@en	'place of birth'@en	'sovereign state'@en
+Q1062083	P19	Q3957	1.0	'billionaire'@en	'place of birth'@en	'town'@en
+Q1062083	P19	Q6256	1.0	'billionaire'@en	'place of birth'@en	'country'@en
+Q1062083	P19	Q672729	1.0	'billionaire'@en	'place of birth'@en	'Islamic Republic'@en
+Q168827	P19	Q123705	1.0	'prophet of Islam'@en	'place of birth'@en	'neighborhood'@en
+Q1802401	P19	Q13218690	1.0		'place of birth'@en	'town in Hungary'@en
+Q1802401	P19	Q587089	1.0		'place of birth'@en	'city with municipal rights'@en
+Q1802401	P19	Q681277	1.0		'place of birth'@en	'city with county rights'@en
+Q19828370	P19	Q2039348	1.0	'drawing series'@en	'place of birth'@en	'municipality of the Netherlands'@en
+Q20643955	P19	Q123705	1.0	'human biblical figure'@en	'place of birth'@en	'neighborhood'@en
+Q20643955	P19	Q15239622	1.0	'human biblical figure'@en	'place of birth'@en	'disputed territory'@en
+Q20643955	P19	Q1549591	1.0	'human biblical figure'@en	'place of birth'@en	'big city'@en
+Q20643955	P19	Q15661340	1.0	'human biblical figure'@en	'place of birth'@en	'ancient city'@en
+Q20643955	P19	Q1620908	1.0	'human biblical figure'@en	'place of birth'@en	'historical region'@en
+Q20643955	P19	Q182547	1.0	'human biblical figure'@en	'place of birth'@en	'Roman province'@en
+Q20643955	P19	Q3257686	1.0	'human biblical figure'@en	'place of birth'@en	'locality'@en
+Q20643955	P19	Q3624078	1.0	'human biblical figure'@en	'place of birth'@en	'sovereign state'@en
+Q20643955	P19	Q46169	1.0	'human biblical figure'@en	'place of birth'@en	'national park'@en
+Q20643955	P19	Q51576574	1.0	'human biblical figure'@en	'place of birth'@en	'Mediterranean country'@en
+Q20643955	P19	Q56061	1.0	'human biblical figure'@en	'place of birth'@en	'administrative territorial entity'@en
+Q20643955	P19	Q6256	1.0	'human biblical figure'@en	'place of birth'@en	'country'@en
+Q20643955	P19	Q6936404	1.0	'human biblical figure'@en	'place of birth'@en	'Municipalities of the State of Palestine'@en
+Q20643955	P19	Q82794	1.0	'human biblical figure'@en	'place of birth'@en	'geographic region'@en
+Q43412	P19	Q3624078	1.0	'Apostle'@en	'place of birth'@en	'sovereign state'@en
+Q43412	P19	Q51576574	1.0	'Apostle'@en	'place of birth'@en	'Mediterranean country'@en
+Q43412	P19	Q6256	1.0	'Apostle'@en	'place of birth'@en	'country'@en
+Q5	P19	Q100503226	1.0	'human'@en	'place of birth'@en	'town of the United Kingdom'@en
+Q5	P19	Q1006876	1.0	'human'@en	'place of birth'@en	'borough in the United Kingdom'@en
+Q5	P19	Q1017546	1.0	'human'@en	'place of birth'@en	'list of districts and neighborhoods of Los Angeles'@en
+Q5	P19	Q102126612	1.0	'human'@en	'place of birth'@en	'Category:Rural municipalities in the United States'@en
+Q5	P19	Q103910177	1.0	'human'@en	'place of birth'@en	'city or town or population centre'@en
+Q5	P19	Q1054813	1.0	'human'@en	'place of birth'@en	'municipality of Japan'@en
+Q5	P19	Q1059324	1.0	'human'@en	'place of birth'@en	'university hospital'@en
+Q5	P19	Q1059478	1.0	'human'@en	'place of birth'@en	'town of Japan'@en
+Q5	P19	Q106071744	1.0	'human'@en	'place of birth'@en	'former town'@en
+Q5	P19	Q1070990	1.0	'human'@en	'place of birth'@en	'county-level city'@en
+Q5	P19	Q107390	1.0	'human'@en	'place of birth'@en	'federated state'@en
+Q5	P19	Q108454666	1.0	'human'@en	'place of birth'@en	'big city of South Korea'@en
+Q5	P19	Q108454687	1.0	'human'@en	'place of birth'@en	'half million city'@en
+Q5	P19	Q10904438	1.0	'human'@en	'place of birth'@en	'Twelve Vassals'@en
+Q5	P19	Q1092661	1.0	'human'@en	'place of birth'@en	'moorland'@en
+Q5	P19	Q109392731	1.0	'human'@en	'place of birth'@en	'city quarter of Copenhagen'@en
+Q5	P19	Q109607	1.0	'human'@en	'place of birth'@en	'ruins'@en
+Q5	P19	Q109838242	1.0	'human'@en	'place of birth'@en	'thatched farmhouse'@en
+Q5	P19	Q110266206	1.0	'human'@en	'place of birth'@en	'optional plan municipality of Pennsylvania'@en
+Q5	P19	Q110977456	1.0	'human'@en	'place of birth'@en	'municipality of Uganda'@en
+Q5	P19	Q1130491	1.0	'human'@en	'place of birth'@en	'Sloboda'@en
+Q5	P19	Q1137272	1.0	'human'@en	'place of birth'@en	'county borough'@en
+Q5	P19	Q11514315	1.0	'human'@en	'place of birth'@en	'historical period'@en
+Q5	P19	Q1151616	1.0	'human'@en	'place of birth'@en	'stateless nation'@en
+Q5	P19	Q115291	1.0	'human'@en	'place of birth'@en	'province of Cuba'@en
+Q5	P19	Q11687019	1.0	'human'@en	'place of birth'@en	'external territory of Australia'@en
+Q5	P19	Q1175512	1.0	'human'@en	'place of birth'@en	'county town'@en
+Q5	P19	Q1175522	1.0	'human'@en	'place of birth'@en	'County city (council system)'@en
+Q5	P19	Q11774149	1.0	'human'@en	'place of birth'@en	'county of Iowa'@en
+Q5	P19	Q118365	1.0	'human'@en	'place of birth'@en	'dictatorship of the proletariat'@en
+Q5	P19	Q1195098	1.0	'human'@en	'place of birth'@en	'ward'@en
+Q5	P19	Q12054099	1.0	'human'@en	'place of birth'@en	'neighborhood of Jerusalem'@en
+Q5	P19	Q12262532	1.0	'human'@en	'place of birth'@en	'county of Minnesota'@en
+Q5	P19	Q12266391	1.0	'human'@en	'place of birth'@en	'city of republican significance'@en
+Q5	P19	Q127448	1.0	'human'@en	'place of birth'@en	'municipality of Sweden'@en
+Q5	P19	Q1291195	1.0	'human'@en	'place of birth'@en	'find spot'@en
+Q5	P19	Q13107770	1.0	'human'@en	'place of birth'@en	'archipelagic state'@en
+Q5	P19	Q13212489	1.0	'human'@en	'place of birth'@en	'county of California'@en
+Q5	P19	Q1336099	1.0	'human'@en	'place of birth'@en	'autonomous county'@en
+Q5	P19	Q13410400	1.0	'human'@en	'place of birth'@en	'county of Alabama'@en
+Q5	P19	Q13410447	1.0	'human'@en	'place of birth'@en	'county of Kentucky'@en
+Q5	P19	Q13410454	1.0	'human'@en	'place of birth'@en	'county of Maine'@en
+Q5	P19	Q13410485	1.0	'human'@en	'place of birth'@en	'county of Massachusetts'@en
+Q5	P19	Q13410508	1.0	'human'@en	'place of birth'@en	'county of Mississippi'@en
+Q5	P19	Q13414354	1.0	'human'@en	'place of birth'@en	'county of Connecticut'@en
+Q5	P19	Q13414754	1.0	'human'@en	'place of birth'@en	'county of New Jersey'@en
+Q5	P19	Q13415370	1.0	'human'@en	'place of birth'@en	'county of West Virginia'@en
+Q5	P19	Q1350181	1.0	'human'@en	'place of birth'@en	'shire of Scotland'@en
+Q5	P19	Q13626398	1.0	'human'@en	'place of birth'@en	'urban okrug in Russia'@en
+Q5	P19	Q1371288	1.0	'human'@en	'place of birth'@en	'vassal state'@en
+Q5	P19	Q1381899	1.0	'human'@en	'place of birth'@en	'municipality of Vietnam'@en
+Q5	P19	Q1388464	1.0	'human'@en	'place of birth'@en	'regional municipality in Canada'@en
+Q5	P19	Q13997861	1.0	'human'@en	'place of birth'@en	'partido of Buenos Aires'@en
+Q5	P19	Q1402592	1.0	'human'@en	'place of birth'@en	'island group'@en
+Q5	P19	Q1414991	1.0	'human'@en	'place of birth'@en	'area'@en
+Q5	P19	Q14192199	1.0	'human'@en	'place of birth'@en	'territory of Australia'@en
+Q5	P19	Q14192234	1.0	'human'@en	'place of birth'@en	'mainland territory of Australia'@en
+Q5	P19	Q14839548	1.0	'human'@en	'place of birth'@en	'minor locality in Sweden'@en
+Q5	P19	Q14846916	1.0	'human'@en	'place of birth'@en	'provincial municipality of Cambodia'@en
+Q5	P19	Q1496967	1.0	'human'@en	'place of birth'@en	'territorial entity'@en
+Q5	P19	Q15221242	1.0	'human'@en	'place of birth'@en	'village of Wisconsin'@en
+Q5	P19	Q15221370	1.0	'human'@en	'place of birth'@en	'third-class city'@en
+Q5	P19	Q15243209	1.0	'human'@en	'place of birth'@en	'historic district'@en
+Q5	P19	Q154547	1.0	'human'@en	'place of birth'@en	'duchy'@en
+Q5	P19	Q15632133	1.0	'human'@en	'place of birth'@en	'city district of Cologne'@en
+Q5	P19	Q15632166	1.0	'human'@en	'place of birth'@en	'city part of Cologne'@en
+Q5	P19	Q15634883	1.0	'human'@en	'place of birth'@en	'district of Manila'@en
+Q5	P19	Q1595408	1.0	'human'@en	'place of birth'@en	'climatic health resort'@en
+Q5	P19	Q16085106	1.0	'human'@en	'place of birth'@en	'local administrative entity'@en
+Q5	P19	Q16155707	1.0	'human'@en	'place of birth'@en	'městys'@en
+Q5	P19	Q162620	1.0	'human'@en	'place of birth'@en	'province of Spain'@en
+Q5	P19	Q1631888	1.0	'human'@en	'place of birth'@en	'parish of Barbados'@en
+Q5	P19	Q163301	1.0	'human'@en	'place of birth'@en	'Ortsbezirk of Germany'@en
+Q5	P19	Q163359	1.0	'human'@en	'place of birth'@en	'local administrative unit in the NUTS system'@en
+Q5	P19	Q16355778	1.0	'human'@en	'place of birth'@en	'average size village in Latvia'@en
+Q5	P19	Q165116	1.0	'human'@en	'place of birth'@en	'grand duchy'@en
+Q5	P19	Q16560	1.0	'human'@en	'place of birth'@en	'palace'@en
+Q5	P19	Q16884952	1.0	'human'@en	'place of birth'@en	'country house'@en
+Q5	P19	Q16917	1.0	'human'@en	'place of birth'@en	'hospital'@en
+Q5	P19	Q1695783	1.0	'human'@en	'place of birth'@en	'Real Audiencia'@en
+Q5	P19	Q17054562	1.0	'human'@en	'place of birth'@en	'region of the Northern Territory'@en
+Q5	P19	Q17301072	1.0	'human'@en	'place of birth'@en	'district municipality of Lithuania'@en
+Q5	P19	Q17308006	1.0	'human'@en	'place of birth'@en	'island of Japan'@en
+Q5	P19	Q17376095	1.0	'human'@en	'place of birth'@en	'cadastral municipality of Austria'@en
+Q5	P19	Q17468533	1.0	'human'@en	'place of birth'@en	'former municipality of Finland'@en
+Q5	P19	Q17601336	1.0	'human'@en	'place of birth'@en	'district of the United Kingdom'@en
+Q5	P19	Q1768043	1.0	'human'@en	'place of birth'@en	'Metropolitan Statistical Area'@en
+Q5	P19	Q182547	1.0	'human'@en	'place of birth'@en	'Roman province'@en
+Q5	P19	Q1840161	1.0	'human'@en	'place of birth'@en	'commune of Chile'@en
+Q5	P19	Q1852178	1.0	'human'@en	'place of birth'@en	'locality of Düsseldorf'@en
+Q5	P19	Q18810091	1.0	'human'@en	'place of birth'@en	'census division of Canada'@en
+Q5	P19	Q18867465	1.0	'human'@en	'place of birth'@en	'uyezd of the Russian Empire'@en
+Q5	P19	Q19071452	1.0	'human'@en	'place of birth'@en	'Beautiful City'@en
+Q5	P19	Q193560	1.0	'human'@en	'place of birth'@en	'district of Israel'@en
+Q5	P19	Q19413015	1.0	'human'@en	'place of birth'@en	'kitesurf spot'@en
+Q5	P19	Q19644586	1.0	'human'@en	'place of birth'@en	'statistical neighborhood of Zürich'@en
+Q5	P19	Q19816359	1.0	'human'@en	'place of birth'@en	'doubled population centers'@en
+Q5	P19	Q19833170	1.0	'human'@en	'place of birth'@en	'town of Portugal'@en
+Q5	P19	Q1989945	1.0	'human'@en	'place of birth'@en	'agrotown'@en
+Q5	P19	Q20019082	1.0	'human'@en	'place of birth'@en	'work settlement of Russia'@en
+Q5	P19	Q2008050	1.0	'human'@en	'place of birth'@en	'municipalities of Albania'@en
+Q5	P19	Q2065736	1.0	'human'@en	'place of birth'@en	'cultural property'@en
+Q5	P19	Q207299	1.0	'human'@en	'place of birth'@en	'administrative region of Greece'@en
+Q5	P19	Q207520	1.0	'human'@en	'place of birth'@en	'region of Japan'@en
+Q5	P19	Q208164	1.0	'human'@en	'place of birth'@en	'puppet state'@en
+Q5	P19	Q208500	1.0	'human'@en	'place of birth'@en	'principality'@en
+Q5	P19	Q20856087	1.0	'human'@en	'place of birth'@en	'NRHP district'@en
+Q5	P19	Q2138558	1.0	'human'@en	'place of birth'@en	'regiopolis'@en
+Q5	P19	Q2140214	1.0	'human'@en	'place of birth'@en	'parish of Jersey'@en
+Q5	P19	Q21503295	1.0	'human'@en	'place of birth'@en	'district with city status'@en
+Q5	P19	Q2151232	1.0	'human'@en	'place of birth'@en	'townland'@en
+Q5	P19	Q215655	1.0	'human'@en	'place of birth'@en	'department of Colombia'@en
+Q5	P19	Q21851888	1.0	'human'@en	'place of birth'@en	'district of a city in the Czech Republic'@en
+Q5	P19	Q2221906	1.0	'human'@en	'place of birth'@en	'geographic location'@en
+Q5	P19	Q2225692	1.0	'human'@en	'place of birth'@en	'fourth-level administrative division in Indonesia'@en
+Q5	P19	Q225467	1.0	'human'@en	'place of birth'@en	'compact city'@en
+Q5	P19	Q22580836	1.0	'human'@en	'place of birth'@en	'village in Latvia'@en
+Q5	P19	Q236036	1.0	'human'@en	'place of birth'@en	'republics of the Soviet Union'@en
+Q5	P19	Q2368508	1.0	'human'@en	'place of birth'@en	'surf spot'@en
+Q5	P19	Q2379075	1.0	'human'@en	'place of birth'@en	'district of Pakistan'@en
+Q5	P19	Q244381	1.0	'human'@en	'place of birth'@en	'microstate'@en
+Q5	P19	Q24746	1.0	'human'@en	'place of birth'@en	'province of the Philippines'@en
+Q5	P19	Q2543447	1.0	'human'@en	'place of birth'@en	'region of Nunavut'@en
+Q5	P19	Q2556234	1.0	'human'@en	'place of birth'@en	'wine producing locality'@en
+Q5	P19	Q2577184	1.0	'human'@en	'place of birth'@en	'parish of Latvia'@en
+Q5	P19	Q26262476	1.0	'human'@en	'place of birth'@en	'third-level administrative country subdivision in Indonesia'@en
+Q5	P19	Q26742250	1.0	'human'@en	'place of birth'@en	'former municipality of Estonia'@en
+Q5	P19	Q26830017	1.0	'human'@en	'place of birth'@en	'state in the Holy Roman Empire'@en
+Q5	P19	Q26879769	1.0	'human'@en	'place of birth'@en	'state in the Confederation of the Rhine'@en
+Q5	P19	Q269218	1.0	'human'@en	'place of birth'@en	'county of Kenya'@en
+Q5	P19	Q26934845	1.0	'human'@en	'place of birth'@en	'integral overseas territory'@en
+Q5	P19	Q269770	1.0	'human'@en	'place of birth'@en	'boarding school'@en
+Q5	P19	Q27104997	1.0	'human'@en	'place of birth'@en	'civil parish with city status'@en
+Q5	P19	Q2740635	1.0	'human'@en	'place of birth'@en	'Stadtbezirk'@en
+Q5	P19	Q27676428	1.0	'human'@en	'place of birth'@en	'municipality'@en
+Q5	P19	Q2779745	1.0	'human'@en	'place of birth'@en	'urban district of the Netherlands'@en
+Q5	P19	Q28017630	1.0	'human'@en	'place of birth'@en	'Administrative unit'@en
+Q5	P19	Q28171280	1.0	'human'@en	'place of birth'@en	'ancient civilization'@en
+Q5	P19	Q28464789	1.0	'human'@en	'place of birth'@en	'Populated place in Nepal'@en
+Q5	P19	Q2882257	1.0	'human'@en	'place of birth'@en	'First Nation band'@en
+Q5	P19	Q29045252	1.0	'human'@en	'place of birth'@en	'city of South Korea'@en
+Q5	P19	Q29414133	1.0	'human'@en	'place of birth'@en	'Communities of Cyprus Republic'@en
+Q5	P19	Q2983893	1.0	'human'@en	'place of birth'@en	'quarter'@en
+Q5	P19	Q31566	1.0	'human'@en	'place of birth'@en	'coastal plain'@en
+Q5	P19	Q3191695	1.0	'human'@en	'place of birth'@en	'regency of Indonesia'@en
+Q5	P19	Q3241965	1.0	'human'@en	'place of birth'@en	'tributary state'@en
+Q5	P19	Q3327871	1.0	'human'@en	'place of birth'@en	'district municipality'@en
+Q5	P19	Q3374262	1.0	'human'@en	'place of birth'@en	'market town'@en
+Q5	P19	Q34442	1.0	'human'@en	'place of birth'@en	'road'@en
+Q5	P19	Q3455524	1.0	'human'@en	'place of birth'@en	'administrative region'@en
+Q5	P19	Q3518817	1.0	'human'@en	'place of birth'@en	'equivalent territory'@en
+Q5	P19	Q3685462	1.0	'human'@en	'place of birth'@en	'commune of Haiti'@en
+Q5	P19	Q3685477	1.0	'human'@en	'place of birth'@en	'former Italian municipality of Lombardy'@en
+Q5	P19	Q368716	1.0	'human'@en	'place of birth'@en	'Ukrainian historical regions'@en
+Q5	P19	Q3700011	1.0	'human'@en	'place of birth'@en	'kecamatan'@en
+Q5	P19	Q3947	1.0	'human'@en	'place of birth'@en	'house'@en
+Q5	P19	Q39594	1.0	'human'@en	'place of birth'@en	'bay'@en
+Q5	P19	Q395994	1.0	'human'@en	'place of birth'@en	'capital district or territory'@en
+Q5	P19	Q3976641	1.0	'human'@en	'place of birth'@en	'administrative territorial entity of Kenya'@en
+Q5	P19	Q40131033	1.0	'human'@en	'place of birth'@en	'member city of Eurotowns'@en
+Q5	P19	Q4057683	1.0	'human'@en	'place of birth'@en	'states of the German Empire'@en
+Q5	P19	Q406957	1.0	'human'@en	'place of birth'@en	'first-level NUTS of the European Union'@en
+Q5	P19	Q41067667	1.0	'human'@en	'place of birth'@en	'municipality of Tunisia'@en
+Q5	P19	Q41614	1.0	'human'@en	'place of birth'@en	'constitutional monarchy'@en
+Q5	P19	Q4204491	1.0	'human'@en	'place of birth'@en	'administrative territorial entity of the Soviet Union'@en
+Q5	P19	Q42723927	1.0	'human'@en	'place of birth'@en	'bydel'@en
+Q5	P19	Q42961155	1.0	'human'@en	'place of birth'@en	'quarter of Milan'@en
+Q5	P19	Q44529188	1.0	'human'@en	'place of birth'@en	'town'@en
+Q5	P19	Q46169	1.0	'human'@en	'place of birth'@en	'national park'@en
+Q5	P19	Q47530375	1.0	'human'@en	'place of birth'@en	'governorate of the Russian Empire'@en
+Q5	P19	Q485258	1.0	'human'@en	'place of birth'@en	'federative unit of Brazil'@en
+Q5	P19	Q499073	1.0	'human'@en	'place of birth'@en	'direct-controlled municipality'@en
+Q5	P19	Q501094	1.0	'human'@en	'place of birth'@en	'state of Venezuela'@en
+Q5	P19	Q50198	1.0	'human'@en	'place of birth'@en	'province of Thailand'@en
+Q5	P19	Q5084	1.0	'human'@en	'place of birth'@en	'hamlet'@en
+Q5	P19	Q5162904	1.0	'human'@en	'place of birth'@en	'conservation area'@en
+Q5	P19	Q52154375	1.0	'human'@en	'place of birth'@en	'district or neighborhood of Los Angeles'@en
+Q5	P19	Q53536964	1.0	'human'@en	'place of birth'@en	'royal palace'@en
+Q5	P19	Q5398059	1.0	'human'@en	'place of birth'@en	'Indian reservation of the United States'@en
+Q5	P19	Q56242250	1.0	'human'@en	'place of birth'@en	'Anglican or episcopal cathedral'@en
+Q5	P19	Q56580032	1.0	'human'@en	'place of birth'@en	'city of republic significance'@en
+Q5	P19	Q574299	1.0	'human'@en	'place of birth'@en	'provinces of Prussia'@en
+Q5	P19	Q578	1.0	'human'@en	'place of birth'@en	'century'@en
+Q5	P19	Q58339518	1.0	'human'@en	'place of birth'@en	'Town  in India'@en
+Q5	P19	Q61297932	1.0	'human'@en	'place of birth'@en	'neighborhood in Manhattan'@en
+Q5	P19	Q61708053	1.0	'human'@en	'place of birth'@en	'independent city of Saxony-Anhalt'@en
+Q5	P19	Q61793478	1.0	'human'@en	'place of birth'@en	'district independent city of Brandenburg'@en
+Q5	P19	Q620471	1.0	'human'@en	'place of birth'@en	'upazila of Bangladesh'@en
+Q5	P19	Q63438000	1.0	'human'@en	'place of birth'@en	'climate emergency declaration'@en
+Q5	P19	Q64578911	1.0	'human'@en	'place of birth'@en	'former hospital'@en
+Q5	P19	Q6489113	1.0	'human'@en	'place of birth'@en	'large burgh'@en
+Q5	P19	Q659103	1.0	'human'@en	'place of birth'@en	'commune of Romania'@en
+Q5	P19	Q672490	1.0	'human'@en	'place of birth'@en	'deme'@en
+Q5	P19	Q672729	1.0	'human'@en	'place of birth'@en	'Islamic Republic'@en
+Q5	P19	Q6754979	1.0	'human'@en	'place of birth'@en	'Special-level city in North Korea'@en
+Q5	P19	Q676050	1.0	'human'@en	'place of birth'@en	'old town'@en
+Q5	P19	Q685320	1.0	'human'@en	'place of birth'@en	'municipality of Qatar'@en
+Q5	P19	Q691960	1.0	'human'@en	'place of birth'@en	'satellite city'@en
+Q5	P19	Q71144301	1.0	'human'@en	'place of birth'@en	'metropolitan region'@en
+Q5	P19	Q713146	1.0	'human'@en	'place of birth'@en	'county-administered city'@en
+Q5	P19	Q7216840	1.0	'human'@en	'place of birth'@en	'urban-type settlement in Ukraine'@en
+Q5	P19	Q7309443	1.0	'human'@en	'place of birth'@en	'registration county'@en
+Q5	P19	Q738570	1.0	'human'@en	'place of birth'@en	'central business district'@en
+Q5	P19	Q745456	1.0	'human'@en	'place of birth'@en	'business cluster'@en
+Q5	P19	Q751876	1.0	'human'@en	'place of birth'@en	'château'@en
+Q5	P19	Q7631958	1.0	'human'@en	'place of birth'@en	'subregion'@en
+Q5	P19	Q7688	1.0	'human'@en	'place of birth'@en	'raion'@en
+Q5	P19	Q7830262	1.0	'human'@en	'place of birth'@en	'township of Myanmar'@en
+Q5	P19	Q788104	1.0	'human'@en	'place of birth'@en	'autonomous prefecture'@en
+Q5	P19	Q7881897	1.0	'human'@en	'place of birth'@en	'populated riverside place'@en
+Q5	P19	Q79007	1.0	'human'@en	'place of birth'@en	'street'@en
+Q5	P19	Q79324274	1.0	'human'@en	'place of birth'@en	'city of raion subordinance'@en
+Q5	P19	Q79424059	1.0	'human'@en	'place of birth'@en	'district of Chemnitz'@en
+Q5	P19	Q821435	1.0	'human'@en	'place of birth'@en	'borough of Berlin'@en
+Q5	P19	Q836688	1.0	'human'@en	'place of birth'@en	'ancient Chinese state'@en
+Q5	P19	Q836915	1.0	'human'@en	'place of birth'@en	'free state'@en
+Q5	P19	Q842112	1.0	'human'@en	'place of birth'@en	'socialist state'@en
+Q5	P19	Q8425	1.0	'human'@en	'place of birth'@en	'society'@en
+Q5	P19	Q85635301	1.0	'human'@en	'place of birth'@en	'urban district of Mecklenburg-Vorpommern'@en
+Q5	P19	Q860290	1.0	'human'@en	'place of birth'@en	'province of Japan'@en
+Q5	P19	Q861184	1.0	'human'@en	'place of birth'@en	'region of Peru'@en
+Q5	P19	Q909458	1.0	'human'@en	'place of birth'@en	'Jōkamachi'@en
+Q5	P19	Q917146	1.0	'human'@en	'place of birth'@en	'moshav'@en
+Q5	P19	Q921061	1.0	'human'@en	'place of birth'@en	'Book town'@en
+Q5	P19	Q933394	1.0	'human'@en	'place of birth'@en	'exclave'@en
+Q5	P19	Q93342462	1.0	'human'@en	'place of birth'@en	'Ancient Greek archaeological site'@en
+Q5	P19	Q936955	1.0	'human'@en	'place of birth'@en	'parish of Jamaica'@en
+Q5	P19	Q971831	1.0	'human'@en	'place of birth'@en	'region of Madagascar'@en
+Q5	P19	Q98433835	1.0	'human'@en	'place of birth'@en	'suburb/locality of Tasmania'@en
+Q61002	P19	Q15042037	1.0	'pseudonym'@en	'place of birth'@en	'statistical territorial entity'@en
+Q61002	P19	Q1549591	1.0	'pseudonym'@en	'place of birth'@en	'big city'@en
+Q61002	P19	Q2264924	1.0	'pseudonym'@en	'place of birth'@en	'port settlement'@en
+Q61002	P19	Q5119	1.0	'pseudonym'@en	'place of birth'@en	'capital'@en
+Q61002	P19	Q96482621	1.0	'pseudonym'@en	'place of birth'@en	'administrative territory in South Africa'@en
+Q5	P18	commonsMedia	2401.0	'human'@en	'image'@en	
+Q20643955	P18	commonsMedia	10.0	'human biblical figure'@en	'image'@en	
+Q1062083	P18	commonsMedia	1.0	'billionaire'@en	'image'@en	
+Q110550976	P18	commonsMedia	1.0	'Saqqara king'@en	'image'@en	
+Q110556685	P18	commonsMedia	1.0		'image'@en	
+Q168827	P18	commonsMedia	1.0	'prophet of Islam'@en	'image'@en	
+Q1802401	P18	commonsMedia	1.0		'image'@en	
+Q19828370	P18	commonsMedia	1.0	'drawing series'@en	'image'@en	
+Q25377923	P18	commonsMedia	1.0		'image'@en	
+Q43412	P18	commonsMedia	1.0	'Apostle'@en	'image'@en	
+Q858157	P18	commonsMedia	1.0	'German folklore'@en	'image'@en	
+Q5	P166	Q618779	414.0	'human'@en	'award received'@en	'award'@en
+Q5	P166	Q60754876	262.0	'human'@en	'award received'@en	'grade of an order'@en
+Q5	P166	Q1792571	226.0	'human'@en	'award received'@en	'art prize'@en
+Q5	P166	Q188823	186.0	'human'@en	'award received'@en	'scholarship'@en
+Q5	P166	Q11483816	159.0	'human'@en	'award received'@en	'annual event'@en
+Q5	P166	Q20006438	123.0	'human'@en	'award received'@en	'fellowship'@en
+Q5	P166	Q193622	89.0	'human'@en	'award received'@en	'order'@en
+Q5	P166	Q131647	87.0	'human'@en	'award received'@en	'medal'@en
+Q5	P166	Q1829324	75.0	'human'@en	'award received'@en	'architecture award'@en
+Q5	P166	Q38033430	56.0	'human'@en	'award received'@en	'class of award'@en
+Q5	P166	Q4002659	56.0	'human'@en	'award received'@en	'chevalier'@en
+Q5	P166	Q11448906	52.0	'human'@en	'award received'@en	'science award'@en
+Q5	P166	Q378427	43.0	'human'@en	'award received'@en	'literary award'@en
+Q5	P166	Q3320743	38.0	'human'@en	'award received'@en	'title of honor'@en
+Q5	P166	Q15383322	36.0	'human'@en	'award received'@en	'cultural prize'@en
+Q5	P166	Q5124642	30.0	'human'@en	'award received'@en	'civil decoration'@en
+Q5	P166	Q1404101	27.0	'human'@en	'award received'@en	'fellow'@en
+Q5	P166	Q22222786	25.0	'human'@en	'award received'@en	'government program'@en
+Q5	P166	Q18328097	24.0	'human'@en	'award received'@en	'courage award'@en
+Q5	P166	Q768855	19.0	'human'@en	'award received'@en	'orders, decorations, and medals of the United Kingdom'@en
+Q5	P166	Q105727509	18.0	'human'@en	'award received'@en	'lifetime achievement award'@en
+Q5	P166	Q1788716	18.0	'human'@en	'award received'@en	'military decoration'@en
+Q5	P166	Q2003221	18.0	'human'@en	'award received'@en	'order of chivalry'@en
+Q5	P166	Q355567	17.0	'human'@en	'award received'@en	'noble title'@en
+Q5	P166	Q107655869	16.0	'human'@en	'award received'@en	'group of awards'@en
+Q5	P166	Q5257307	16.0	'human'@en	'award received'@en	'prize'@en
+Q5	P166	Q1046088	14.0	'human'@en	'award received'@en	'hall of fame'@en
+Q5	P166	Q11796413	12.0	'human'@en	'award received'@en	'decoration'@en
+Q5	P166	Q28869447	12.0	'human'@en	'award received'@en	'comics award'@en
+Q5	P166	Q4240305	12.0	'human'@en	'award received'@en	'cross'@en
+Q5	P166	Q1123481	11.0	'human'@en	'award received'@en	'design award'@en
+Q5	P166	Q2546327	11.0	'human'@en	'award received'@en	'socialist order of merit'@en
+Q5	P166	Q1364556	10.0	'human'@en	'award received'@en	'music award'@en
+Q5	P166	Q19020	10.0	'human'@en	'award received'@en	'Academy Awards'@en
+Q5	P166	Q101251494	9.0	'human'@en	'award received'@en	'star'@en
+Q5	P166	Q15229229	9.0	'human'@en	'award received'@en	'theatre award'@en
+Q5	P166	Q56291528	9.0	'human'@en	'award received'@en	'state order'@en
+Q5	P166	Q18328106	8.0	'human'@en	'award received'@en	'religion-related award'@en
+Q5	P166	Q3302125	8.0	'human'@en	'award received'@en	'state decoration'@en
+Q5	P166	Q721747	8.0	'human'@en	'award received'@en	'commemorative plaque'@en
+Q5	P166	Q1709894	7.0	'human'@en	'award received'@en	'journalism prize'@en
+Q5	P166	Q56116950	7.0	'human'@en	'award received'@en	'film award category'@en
+Q5	P166	Q973011	7.0	'human'@en	'award received'@en	'campaign medal'@en
+Q5	P166	Q1407225	6.0	'human'@en	'award received'@en	'television award'@en
+Q5	P166	Q4220917	6.0	'human'@en	'award received'@en	'film award'@en
+Q5	P166	Q110414982	5.0	'human'@en	'award received'@en	'wound decoration'@en
+Q5	P166	Q13406463	5.0	'human'@en	'award received'@en	'Wikimedia list article'@en
+Q5	P166	Q4129802	5.0	'human'@en	'award received'@en	'highest honors of the USSR'@en
+Q5	P166	Q42245028	5.0	'human'@en	'award received'@en	'sports hall of fame'@en
+Q5	P166	Q842614	5.0	'human'@en	'award received'@en	'Eisner Award'@en
+Q5	P166	Q1011547	4.0	'human'@en	'award received'@en	'Golden Globe Award'@en
+Q5	P166	Q110047597	4.0	'human'@en	'award received'@en	'cabaret prize'@en
+Q5	P166	Q2693624	4.0	'human'@en	'award received'@en	'jubilee medal'@en
+Q5	P166	Q4375509	4.0	'human'@en	'award received'@en	'official honorary titles of the Soviet Russia'@en
+Q5	P166	Q96474603	4.0	'human'@en	'award received'@en	'award for best supporting actor'@en
+Q5	P166	Q96474707	4.0	'human'@en	'award received'@en	'honorary award'@en
+Q5	P166	Q13257647	3.0	'human'@en	'award received'@en	'service award'@en
+Q5	P166	Q1393480	3.0	'human'@en	'award received'@en	'Papal Order of Chivalry'@en
+Q5	P166	Q15229207	3.0	'human'@en	'award received'@en	'sports award'@en
+Q5	P166	Q17566318	3.0	'human'@en	'award received'@en	'human rights award'@en
+Q5	P166	Q268200	3.0	'human'@en	'award received'@en	'Screen Actors Guild Award'@en
+Q5	P166	Q41254	3.0	'human'@en	'award received'@en	'Grammy Award'@en
+Q5	P166	Q4164871	3.0	'human'@en	'award received'@en	'position'@en
+Q5	P166	Q4192699	3.0	'human'@en	'award received'@en	'badge of distinction'@en
+Q5	P166	Q512814	3.0	'human'@en	'award received'@en	'Harvey Award'@en
+Q5	P166	Q96474678	3.0	'human'@en	'award received'@en	'award for best original song'@en
+Q5	P166	Q1044427	2.0	'human'@en	'award received'@en	'Primetime Emmy Award'@en
+Q5	P166	Q105593003	2.0	'human'@en	'award received'@en	'performing arts award'@en
+Q5	P166	Q107467117	2.0	'human'@en	'award received'@en	'type of award'@en
+Q5	P166	Q107471043	2.0	'human'@en	'award received'@en	'statistics award'@en
+Q5	P166	Q107471279	2.0	'human'@en	'award received'@en	'chemistry award'@en
+Q5	P166	Q107580332	2.0	'human'@en	'award received'@en	'photojournalism award'@en
+Q5	P166	Q1391128	2.0	'human'@en	'award received'@en	'dynastic order of knighthood'@en
+Q5	P166	Q157031	2.0	'human'@en	'award received'@en	'foundation'@en
+Q5	P166	Q16948252	2.0	'human'@en	'award received'@en	'radio award'@en
+Q5	P166	Q17455058	2.0	'human'@en	'award received'@en	'music museum'@en
+Q5	P166	Q18328084	2.0	'human'@en	'award received'@en	'politics award'@en
+Q5	P166	Q1896989	2.0	'human'@en	'award received'@en	'subject of international law'@en
+Q5	P166	Q21358050	2.0	'human'@en	'award received'@en	'lecture series'@en
+Q5	P166	Q23719064	2.0	'human'@en	'award received'@en	'yearly prize'@en
+Q5	P166	Q24699794	2.0	'human'@en	'award received'@en	'museum building'@en
+Q5	P166	Q28739778	2.0	'human'@en	'award received'@en	'hall of fame of a state or province'@en
+Q5	P166	Q28928544	2.0	'human'@en	'award received'@en	'fashion award'@en
+Q5	P166	Q3252795	2.0	'human'@en	'award received'@en	'hospitaller order'@en
+Q5	P166	Q3332417	2.0	'human'@en	'award received'@en	'United States service medals of the World Wars'@en
+Q5	P166	Q33506	2.0	'human'@en	'award received'@en	'museum'@en
+Q5	P166	Q38888551	2.0	'human'@en	'award received'@en	'award honoring women'@en
+Q5	P166	Q4375520	2.0	'human'@en	'award received'@en	'official honorary titles of Russia'@en
+Q5	P166	Q474717	2.0	'human'@en	'award received'@en	'religious military order'@en
+Q5	P166	Q476300	2.0	'human'@en	'award received'@en	'competition'@en
+Q5	P166	Q741118	2.0	'human'@en	'award received'@en	'tennis court'@en
+Q5	P166	Q81075961	2.0	'human'@en	'award received'@en	'annual list'@en
+Q5	P166	Q90520984	2.0	'human'@en	'award received'@en	
+Q5	P166	Q9639292	2.0	'human'@en	'award received'@en	'peace award'@en
+Q5	P166	Q96474685	2.0	'human'@en	'award received'@en	'award for best original music'@en
+Q5	P166	Q96474691	2.0	'human'@en	'award received'@en	'award for best leading actor'@en
+Q1062083	P166	Q355567	1.0	'billionaire'@en	'award received'@en	'noble title'@en
+Q1062083	P166	Q618779	1.0	'billionaire'@en	'award received'@en	'award'@en
+Q1062083	P166	Q768855	1.0	'billionaire'@en	'award received'@en	'orders, decorations, and medals of the United Kingdom'@en
+Q5	P166	Q1011572	1.0	'human'@en	'award received'@en	'Golden Rooster Awards'@en
+Q5	P166	Q106592862	1.0	'human'@en	'award received'@en	'annual music awards ceremony'@en
+Q5	P166	Q107471280	1.0	'human'@en	'award received'@en	'biochemistry award'@en
+Q5	P166	Q108300140	1.0	'human'@en	'award received'@en	'occupation group according to ISCO'@en
+Q5	P166	Q11415564	1.0	'human'@en	'award received'@en	'honorary doctorate'@en
+Q5	P166	Q1186171	1.0	'human'@en	'award received'@en	'Blue Ribbon Awards'@en
+Q5	P166	Q11942657	1.0	'human'@en	'award received'@en	'National Culture Award of Catalonia'@en
+Q5	P166	Q12361363	1.0	'human'@en	'award received'@en	'honorary title of the Estonian SSR'@en
+Q5	P166	Q12737077	1.0	'human'@en	'award received'@en	'occupation'@en
+Q5	P166	Q1318578	1.0	'human'@en	'award received'@en	'appointment'@en
+Q5	P166	Q13406554	1.0	'human'@en	'award received'@en	'sports competition'@en
+Q5	P166	Q1549416	1.0	'human'@en	'award received'@en	'grand cross'@en
+Q5	P166	Q16023913	1.0	'human'@en	'award received'@en	'professional certification'@en
+Q5	P166	Q162633	1.0	'human'@en	'award received'@en	'academy'@en
+Q5	P166	Q163740	1.0	'human'@en	'award received'@en	'nonprofit organization'@en
+Q5	P166	Q1656682	1.0	'human'@en	'award received'@en	'event'@en
+Q5	P166	Q16976589	1.0	'human'@en	'award received'@en	'service medal'@en
+Q5	P166	Q17701409	1.0	'human'@en	'award received'@en	'economics award'@en
+Q5	P166	Q1807498	1.0	'human'@en	'award received'@en	'social position'@en
+Q5	P166	Q18325436	1.0	'human'@en	'award received'@en	'501(c)(3) organization'@en
+Q5	P166	Q189533	1.0	'human'@en	'award received'@en	'academic degree'@en
+Q5	P166	Q192581	1.0	'human'@en	'award received'@en	'job'@en
+Q5	P166	Q1937663	1.0	'human'@en	'award received'@en	'commemorative medal'@en
+Q5	P166	Q19823984	1.0	'human'@en	'award received'@en	'art biennial'@en
+Q5	P166	Q217577	1.0	'human'@en	'award received'@en	'diploma'@en
+Q5	P166	Q230788	1.0	'human'@en	'award received'@en	'grant'@en
+Q5	P166	Q2658935	1.0	'human'@en	'award received'@en	'beauty contest'@en
+Q5	P166	Q28054019	1.0	'human'@en	'award received'@en	'Golden Horse Awards'@en
+Q5	P166	Q28640	1.0	'human'@en	'award received'@en	'profession'@en
+Q5	P166	Q3046190	1.0	'human'@en	'award received'@en	'ESPY Award'@en
+Q5	P166	Q311836	1.0	'human'@en	'award received'@en	'Independent Spirit Awards'@en
+Q5	P166	Q31579	1.0	'human'@en	'award received'@en	'David di Donatello'@en
+Q5	P166	Q319676	1.0	'human'@en	'award received'@en	'competition'@en
+Q5	P166	Q337330	1.0	'human'@en	'award received'@en	'Sportsperson of the Year'@en
+Q5	P166	Q3408368	1.0	'human'@en	'award received'@en	'form of address in the United Kingdom'@en
+Q5	P166	Q369606	1.0	'human'@en	'award received'@en	'Hundred Flowers Awards'@en
+Q5	P166	Q40237	1.0	'human'@en	'award received'@en	'Golden Raspberry Awards'@en
+Q5	P166	Q40843	1.0	'human'@en	'award received'@en	'cross'@en
+Q5	P166	Q43229	1.0	'human'@en	'award received'@en	'organization'@en
+Q5	P166	Q4504495	1.0	'human'@en	'award received'@en	'award ceremony'@en
+Q5	P166	Q4686372	1.0	'human'@en	'award received'@en	'Advancement and recognition in the Boy Scouts of America'@en
+Q5	P166	Q4828724	1.0	'human'@en	'award received'@en	'aviation museum'@en
+Q5	P166	Q488651	1.0	'human'@en	'award received'@en	'Academy Award for Best Original Score'@en
+Q5	P166	Q507057	1.0	'human'@en	'award received'@en	'Juno Awards'@en
+Q5	P166	Q55134479	1.0	'human'@en	'award received'@en	'Radio drama award'@en
+Q5	P166	Q55992286	1.0	'human'@en	'award received'@en	'translation award'@en
+Q5	P166	Q5737899	1.0	'human'@en	'award received'@en	'hereditary title'@en
+Q5	P166	Q6034714	1.0	'human'@en	'award received'@en	'Inkwell Awards'@en
+Q5	P166	Q622601	1.0	'human'@en	'award received'@en	'Grand Master'@en
+Q5	P166	Q708135	1.0	'human'@en	'award received'@en	'Silver Bear'@en
+Q5	P166	Q732997	1.0	'human'@en	'award received'@en	'British Academy Film Awards'@en
+Q5	P166	Q7810129	1.0	'human'@en	'award received'@en	'title of authority'@en
+Q5	P166	Q795848	1.0	'human'@en	'award received'@en	'BET Awards'@en
+Q5	P166	Q81565646	1.0	'human'@en	'award received'@en	'National Board of Review Awards'@en
+Q5	P166	Q849697	1.0	'human'@en	'award received'@en	'doctorate'@en
+Q5	P166	Q8513	1.0	'human'@en	'award received'@en	'database'@en
+Q5	P166	Q868557	1.0	'human'@en	'award received'@en	'music festival'@en
+Q5	P166	Q901407	1.0	'human'@en	'award received'@en	'Dame'@en
+Q5	P166	Q919525	1.0	'human'@en	'award received'@en	'British Independent Film Awards'@en
+Q5	P166	Q96474676	1.0	'human'@en	'award received'@en	'award for best leading actress'@en
+Q5	P166	Q96474698	1.0	'human'@en	'award received'@en	'award for best production design'@en
+Q5	P166	Q96474699	1.0	'human'@en	'award received'@en	'award for best costume design'@en
+Q5	P166	Q96474704	1.0	'human'@en	'award received'@en	'award for best makeup and hairdressing'@en
+Q5	P166	Q96474709	1.0	'human'@en	'award received'@en	'award for best visual effects'@en
+Q5	P1412	Q34770	2777.0	'human'@en	'languages spoken, written or signed'@en	'language'@en
+Q5	P1412	Q1288568	2743.0	'human'@en	'languages spoken, written or signed'@en	'modern language'@en
+Q5	P1412	Q33742	1773.0	'human'@en	'languages spoken, written or signed'@en	'natural language'@en
+Q5	P1412	Q661936	259.0	'human'@en	'languages spoken, written or signed'@en	'pro-drop language'@en
+Q5	P1412	Q152559	56.0	'human'@en	'languages spoken, written or signed'@en	'macrolanguage'@en
+Q5	P1412	Q2315359	33.0	'human'@en	'languages spoken, written or signed'@en	'historical language'@en
+Q5	P1412	Q45762	24.0	'human'@en	'languages spoken, written or signed'@en	'dead language'@en
+Q5	P1412	Q839470	20.0	'human'@en	'languages spoken, written or signed'@en	'sacred language'@en
+Q5	P1412	Q436240	18.0	'human'@en	'languages spoken, written or signed'@en	'ancient language'@en
+Q5	P1412	Q4536543	18.0	'human'@en	'languages spoken, written or signed'@en	'pluricentric language variant'@en
+Q5	P1412	Q33384	16.0	'human'@en	'languages spoken, written or signed'@en	'dialect'@en
+Q5	P1412	Q25295	13.0	'human'@en	'languages spoken, written or signed'@en	'language family'@en
+Q5	P1412	Q399495	8.0	'human'@en	'languages spoken, written or signed'@en	'standard language'@en
+Q5	P1412	Q1097949	7.0	'human'@en	'languages spoken, written or signed'@en	'literary language'@en
+Q1747829	P1412	Q2315359	6.0	'notname'@en	'languages spoken, written or signed'@en	'historical language'@en
+Q1747829	P1412	Q34770	6.0	'notname'@en	'languages spoken, written or signed'@en	'language'@en
+Q20643955	P1412	Q34770	4.0	'human biblical figure'@en	'languages spoken, written or signed'@en	'language'@en
+Q5	P1412	Q171263	4.0	'human'@en	'languages spoken, written or signed'@en	'agglutinative language'@en
+Q5	P1412	Q3329375	4.0	'human'@en	'languages spoken, written or signed'@en	'language variety'@en
+Q5	P1412	Q38058796	4.0	'human'@en	'languages spoken, written or signed'@en	'extinct language'@en
+Q5	P1412	Q951873	3.0	'human'@en	'languages spoken, written or signed'@en	'ethnolect'@en
+Q20643955	P1412	Q2315359	2.0	'human biblical figure'@en	'languages spoken, written or signed'@en	'historical language'@en
+Q5	P1412	Q13418005	2.0	'human'@en	'languages spoken, written or signed'@en	'languages of Occitania'@en
+Q1062083	P1412	Q1288568	1.0	'billionaire'@en	'languages spoken, written or signed'@en	'modern language'@en
+Q1062083	P1412	Q33742	1.0	'billionaire'@en	'languages spoken, written or signed'@en	'natural language'@en
+Q1062083	P1412	Q34770	1.0	'billionaire'@en	'languages spoken, written or signed'@en	'language'@en
+Q168827	P1412	Q34770	1.0	'prophet of Islam'@en	'languages spoken, written or signed'@en	'language'@en
+Q1802401	P1412	Q34770	1.0		'languages spoken, written or signed'@en	'language'@en
+Q1802401	P1412	Q436240	1.0		'languages spoken, written or signed'@en	'ancient language'@en
+Q1802401	P1412	Q45762	1.0		'languages spoken, written or signed'@en	'dead language'@en
+Q1802401	P1412	Q839470	1.0		'languages spoken, written or signed'@en	'sacred language'@en
+Q20643955	P1412	Q839470	1.0	'human biblical figure'@en	'languages spoken, written or signed'@en	'sacred language'@en
+Q5	P1412	Q33430	1.0	'human'@en	'languages spoken, written or signed'@en	'Kwa'@en
+Q5	P1412	Q337657	1.0	'human'@en	'languages spoken, written or signed'@en	'Mon-Khmer'@en
+Q5	P1412	Q33831	1.0	'human'@en	'languages spoken, written or signed'@en	'pidgin'@en
+Q5	P1412	Q3624078	1.0	'human'@en	'languages spoken, written or signed'@en	'sovereign state'@en
+Q5	P1412	Q4209223	1.0	'human'@en	'languages spoken, written or signed'@en	'Rechtsstaat'@en
+Q5	P1412	Q43702	1.0	'human'@en	'languages spoken, written or signed'@en	'federation'@en
+Q5	P1412	Q619610	1.0	'human'@en	'languages spoken, written or signed'@en	'social state'@en
+Q5	P1412	Q6256	1.0	'human'@en	'languages spoken, written or signed'@en	'country'@en
+Q5	P1412	Q63791824	1.0	'human'@en	'languages spoken, written or signed'@en	'country bordering the Baltic Sea'@en
+Q5	P1412	Q7270	1.0	'human'@en	'languages spoken, written or signed'@en	'republic'@en
+Q5	P1412	Q83365347	1.0	'human'@en	'languages spoken, written or signed'@en	'definitely endangered language'@en
+Q61002	P1412	Q1288568	1.0	'pseudonym'@en	'languages spoken, written or signed'@en	'modern language'@en
+Q61002	P1412	Q33742	1.0	'pseudonym'@en	'languages spoken, written or signed'@en	'natural language'@en
+Q61002	P1412	Q34770	1.0	'pseudonym'@en	'languages spoken, written or signed'@en	'language'@en
+Q858157	P1412	Q1288568	1.0	'German folklore'@en	'languages spoken, written or signed'@en	'modern language'@en
+Q858157	P1412	Q34770	1.0	'German folklore'@en	'languages spoken, written or signed'@en	'language'@en
+Q5	P106	Q12737077	6350.0	'human'@en	'occupation'@en	'occupation'@en
+Q5	P106	Q28640	4988.0	'human'@en	'occupation'@en	'profession'@en
+Q5	P106	Q88789639	3488.0	'human'@en	'occupation'@en	'artistic profession'@en
+Q5	P106	Q11488158	1367.0	'human'@en	'occupation'@en	'corporate title'@en
+Q5	P106	Q4164871	1351.0	'human'@en	'occupation'@en	'position'@en
+Q5	P106	Q108300140	1041.0	'human'@en	'occupation'@en	'occupation group according to ISCO'@en
+Q5	P106	Q66715801	229.0	'human'@en	'occupation'@en	'musical profession'@en
+Q5	P106	Q4220920	225.0	'human'@en	'occupation'@en	'filmmaking occupation'@en
+Q5	P106	Q66666607	177.0	'human'@en	'occupation'@en	'academic profession'@en
+Q5	P106	Q2207288	100.0	'human'@en	'occupation'@en	'craft'@en
+Q5	P106	Q15839299	75.0	'human'@en	'occupation'@en	'theatrical occupation'@en
+Q5	P106	Q155076	65.0	'human'@en	'occupation'@en	'juridical person'@en
+Q5	P106	Q29028649	65.0	'human'@en	'occupation'@en	'economic concept'@en
+Q5	P106	Q15987302	51.0	'human'@en	'occupation'@en	'legal profession'@en
+Q5	P106	Q189533	50.0	'human'@en	'occupation'@en	'academic degree'@en
+Q5	P106	Q1047113	48.0	'human'@en	'occupation'@en	'specialty'@en
+Q5	P106	Q58635633	44.0	'human'@en	'occupation'@en	'media profession'@en
+Q5	P106	Q16335296	37.0	'human'@en	'occupation'@en	'historical profession'@en
+Q5	P106	Q187588	33.0	'human'@en	'occupation'@en	'social class'@en
+Q5	P106	Q6857706	31.0	'human'@en	'occupation'@en	'military profession'@en
+Q5	P106	Q63188808	29.0	'human'@en	'occupation'@en	'Catholic religious occupation'@en
+Q5	P106	Q56604560	28.0	'human'@en	'occupation'@en	'wood working profession'@en
+Q5	P106	Q47728	25.0	'human'@en	'occupation'@en	'hobby'@en
+Q5	P106	Q63187345	22.0	'human'@en	'occupation'@en	'religious occupation'@en
+Q5	P106	Q778000	22.0	'human'@en	'occupation'@en	'Ausbildungsberuf'@en
+Q5	P106	Q486983	19.0	'human'@en	'occupation'@en	'academic rank'@en
+Q5	P106	Q7810129	19.0	'human'@en	'occupation'@en	'title of authority'@en
+Q5	P106	Q355567	18.0	'human'@en	'occupation'@en	'noble title'@en
+Q5	P106	Q83856136	17.0	'human'@en	'occupation'@en	'legal position'@en
+Q5	P106	Q3922583	15.0	'human'@en	'occupation'@en	'health profession'@en
+Q5	P106	Q5767753	15.0	'human'@en	'occupation'@en	'style'@en
+Q5	P106	Q63188683	14.0	'human'@en	'occupation'@en	'Christian religious occupation'@en
+Q5	P106	Q66811410	12.0	'human'@en	'occupation'@en	'medical profession'@en
+Q5	P106	Q6958747	11.0	'human'@en	'occupation'@en	'work'@en
+Q1747829	P106	Q28640	7.0	'notname'@en	'occupation'@en	'profession'@en
+Q20643955	P106	Q28640	7.0	'human biblical figure'@en	'occupation'@en	'profession'@en
+Q5	P106	Q268592	7.0	'human'@en	'occupation'@en	'industry'@en
+Q5	P106	Q56019	7.0	'human'@en	'occupation'@en	'military rank'@en
+Q20643955	P106	Q12737077	6.0	'human biblical figure'@en	'occupation'@en	'occupation'@en
+Q5	P106	Q1969448	6.0	'human'@en	'occupation'@en	'term'@en
+Q5	P106	Q1792379	5.0	'human'@en	'occupation'@en	'art genre'@en
+Q5	P106	Q3529618	5.0	'human'@en	'occupation'@en	'academic title'@en
+Q20643955	P106	Q4164871	4.0	'human biblical figure'@en	'occupation'@en	'position'@en
+Q5	P106	Q11773926	4.0	'human'@en	'occupation'@en	'ecclesiastical occupation'@en
+Q5	P106	Q1914636	4.0	'human'@en	'occupation'@en	'activity'@en
+Q5	P106	Q216353	4.0	'human'@en	'occupation'@en	'title'@en
+Q5	P106	Q3320743	4.0	'human'@en	'occupation'@en	'title of honor'@en
+Q5	P106	Q103810966	3.0	'human'@en	'occupation'@en	'circus profession'@en
+Q5	P106	Q11862829	3.0	'human'@en	'occupation'@en	'academic discipline'@en
+Q5	P106	Q12303319	3.0	'human'@en	'occupation'@en	'protected academic title'@en
+Q5	P106	Q1474521	3.0	'human'@en	'occupation'@en	'function'@en
+Q5	P106	Q184872	3.0	'human'@en	'occupation'@en	'recreation'@en
+Q5	P106	Q294414	3.0	'human'@en	'occupation'@en	'public office'@en
+Q5	P106	Q63187384	3.0	'human'@en	'occupation'@en	'Jewish religious occupation'@en
+Q1062083	P106	Q28640	2.0	'billionaire'@en	'occupation'@en	'profession'@en
+Q1062083	P106	Q4164871	2.0	'billionaire'@en	'occupation'@en	'position'@en
+Q20643955	P106	Q355567	2.0	'human biblical figure'@en	'occupation'@en	'noble title'@en
+Q20643955	P106	Q63188683	2.0	'human biblical figure'@en	'occupation'@en	'Christian religious occupation'@en
+Q5	P106	Q192581	2.0	'human'@en	'occupation'@en	'job'@en
+Q5	P106	Q1986639	2.0	'human'@en	'occupation'@en	'centerfold'@en
+Q5	P106	Q2135465	2.0	'human'@en	'occupation'@en	'legal concept'@en
+Q5	P106	Q2312410	2.0	'human'@en	'occupation'@en	'sports discipline'@en
+Q5	P106	Q36180	2.0	'human'@en	'occupation'@en	'writer'@en
+Q5	P106	Q4897819	2.0	'human'@en	'occupation'@en	'role'@en
+Q5	P106	Q60754876	2.0	'human'@en	'occupation'@en	'grade of an order'@en
+Q5	P106	Q627436	2.0	'human'@en	'occupation'@en	'field of work'@en
+Q5	P106	Q7234072	2.0	'human'@en	'occupation'@en	'postal worker'@en
+Q5	P106	Q829183	2.0	'human'@en	'occupation'@en	'vocation'@en
+Q1062083	P106	Q12737077	1.0	'billionaire'@en	'occupation'@en	'occupation'@en
+Q1062083	P106	Q155076	1.0	'billionaire'@en	'occupation'@en	'juridical person'@en
+Q1062083	P106	Q29028649	1.0	'billionaire'@en	'occupation'@en	'economic concept'@en
+Q110550976	P106	Q28640	1.0	'Saqqara king'@en	'occupation'@en	'profession'@en
+Q110556685	P106	Q28640	1.0		'occupation'@en	'profession'@en
+Q16334295	P106	Q12737077	1.0	'group of humans'@en	'occupation'@en	'occupation'@en
+Q16334295	P106	Q88789639	1.0	'group of humans'@en	'occupation'@en	'artistic profession'@en
+Q168827	P106	Q12737077	1.0	'prophet of Islam'@en	'occupation'@en	'occupation'@en
+Q168827	P106	Q829183	1.0	'prophet of Islam'@en	'occupation'@en	'vocation'@en
+Q1802401	P106	Q4164871	1.0		'occupation'@en	'position'@en
+Q1802401	P106	Q56019	1.0		'occupation'@en	'military rank'@en
+Q1802401	P106	Q63187345	1.0		'occupation'@en	'religious occupation'@en
+Q1802401	P106	Q63188808	1.0		'occupation'@en	'Catholic religious occupation'@en
+Q1802401	P106	Q6857706	1.0		'occupation'@en	'military profession'@en
+Q19828370	P106	Q28640	1.0	'drawing series'@en	'occupation'@en	'profession'@en
+Q20643955	P106	Q107120393	1.0	'human biblical figure'@en	'occupation'@en	'Slavic titles'@en
+Q20643955	P106	Q11773926	1.0	'human biblical figure'@en	'occupation'@en	'ecclesiastical occupation'@en
+Q20643955	P106	Q16335296	1.0	'human biblical figure'@en	'occupation'@en	'historical profession'@en
+Q20643955	P106	Q192581	1.0	'human biblical figure'@en	'occupation'@en	'job'@en
+Q20643955	P106	Q3320743	1.0	'human biblical figure'@en	'occupation'@en	'title of honor'@en
+Q20643955	P106	Q3922583	1.0	'human biblical figure'@en	'occupation'@en	'health profession'@en
+Q20643955	P106	Q63187384	1.0	'human biblical figure'@en	'occupation'@en	'Jewish religious occupation'@en
+Q20643955	P106	Q829183	1.0	'human biblical figure'@en	'occupation'@en	'vocation'@en
+Q25377923	P106	Q28640	1.0		'occupation'@en	'profession'@en
+Q43412	P106	Q16335296	1.0	'Apostle'@en	'occupation'@en	'historical profession'@en
+Q43412	P106	Q28640	1.0	'Apostle'@en	'occupation'@en	'profession'@en
+Q43412	P106	Q4164871	1.0	'Apostle'@en	'occupation'@en	'position'@en
+Q43412	P106	Q63188683	1.0	'Apostle'@en	'occupation'@en	'Christian religious occupation'@en
+Q5	P106	Q107120393	1.0	'human'@en	'occupation'@en	'Slavic titles'@en
+Q5	P106	Q110749524	1.0	'human'@en	'occupation'@en	'show business profession'@en
+Q5	P106	Q12015335	1.0	'human'@en	'occupation'@en	'branch of engineering'@en
+Q5	P106	Q13414953	1.0	'human'@en	'occupation'@en	'religious denomination'@en
+Q5	P106	Q1423891	1.0	'human'@en	'occupation'@en	'Christian minister'@en
+Q5	P106	Q16631188	1.0	'human'@en	'occupation'@en	'military position'@en
+Q5	P106	Q16874643	1.0	'human'@en	'occupation'@en	'legal term'@en
+Q5	P106	Q17279032	1.0	'human'@en	'occupation'@en	'elective office'@en
+Q5	P106	Q17342249	1.0	'human'@en	'occupation'@en	'ethical attitude'@en
+Q5	P106	Q210918	1.0	'human'@en	'occupation'@en	'political spectrum'@en
+Q5	P106	Q21114371	1.0	'human'@en	'occupation'@en	'episcopal function'@en
+Q5	P106	Q2393196	1.0	'human'@en	'occupation'@en	'personality trait'@en
+Q5	P106	Q2588761	1.0	'human'@en	'occupation'@en	'tradesperson'@en
+Q5	P106	Q2642184	1.0	'human'@en	'occupation'@en	'Eastern Orthodox saint titles'@en
+Q5	P106	Q27943370	1.0	'human'@en	'occupation'@en	'fashion person'@en
+Q5	P106	Q303618	1.0	'human'@en	'occupation'@en	'diplomatic rank'@en
+Q5	P106	Q31629	1.0	'human'@en	'occupation'@en	'type of sport'@en
+Q5	P106	Q349843	1.0	'human'@en	'occupation'@en	'allied health profession'@en
+Q5	P106	Q4162444	1.0	'human'@en	'occupation'@en	'branch of physics'@en
+Q5	P106	Q43229	1.0	'human'@en	'occupation'@en	'organization'@en
+Q5	P106	Q4671286	1.0	'human'@en	'occupation'@en	'academic major'@en
+Q5	P106	Q49148153	1.0	'human'@en	'occupation'@en	'pornography genre'@en
+Q5	P106	Q56055944	1.0	'human'@en	'occupation'@en	'arts form'@en
+Q5	P106	Q811930	1.0	'human'@en	'occupation'@en	'construction business'@en
+Q5	P106	Q8148	1.0	'human'@en	'occupation'@en	'industry'@en
+Q5	P106	Q8187769	1.0	'human'@en	'occupation'@en	'economic activity'@en
+Q5	P106	Q828721	1.0	'human'@en	'occupation'@en	'job function'@en
+Q5	P106	Q844569	1.0	'human'@en	'occupation'@en	'identity'@en
+Q5	P106	Q937228	1.0	'human'@en	'occupation'@en	'property'@en
+Q5	P106	Q968159	1.0	'human'@en	'occupation'@en	'art movement'@en
+Q61002	P106	Q12737077	1.0	'pseudonym'@en	'occupation'@en	'occupation'@en
+Q61002	P106	Q88789639	1.0	'pseudonym'@en	'occupation'@en	'artistic profession'@en
+Q7881	P106	Q16335296	1.0	'skeleton'@en	'occupation'@en	'historical profession'@en
+Q858157	P106	Q12737077	1.0	'German folklore'@en	'occupation'@en	'occupation'@en
+Q858157	P106	Q187588	1.0	'German folklore'@en	'occupation'@en	'social class'@en
+Q5	P1006	external-id	1322.0	'human'@en	'Nationale Thesaurus voor Auteurs ID'@en	
+Q20643955	P1006	external-id	2.0	'human biblical figure'@en	'Nationale Thesaurus voor Auteurs ID'@en	
+Q1802401	P1006	external-id	1.0		'Nationale Thesaurus voor Auteurs ID'@en	
+Q858157	P1006	external-id	1.0	'German folklore'@en	'Nationale Thesaurus voor Auteurs ID'@en	

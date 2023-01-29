@@ -1,0 +1,33 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q3305213	P195	Q207694	386.0	'painting'@en	'collection'@en	'art museum'@en	68.44%
+Q3305213	P571	time	560.0	'painting'@en	'inception'@en		99.29%
+Q3305213	P135	Q968159	198.0	'painting'@en	'movement'@en	'art movement'@en	35.11%
+Q3305213	P135	Q32880	106.0	'painting'@en	'movement'@en	'architectural style'@en	18.79%
+Q3305213	P276	Q207694	395.0	'painting'@en	'location'@en	'art museum'@en	70.04%
+Q3305213	P646	external-id	562.0	'painting'@en	'Freebase ID'@en		99.65%
+Q3305213	P1476	monolingualtext	263.0	'painting'@en	'title'@en		46.63%
+Q3305213	P2581	external-id	226.0	'painting'@en	'BabelNet ID'@en		40.07%
+Q3305213	P18	commonsMedia	416.0	'painting'@en	'image'@en		73.76%
+Q3305213	P170	Q5	552.0	'painting'@en	'creator'@en	'human'@en	97.87%
+Q3305213	P973	url	295.0	'painting'@en	'described at URL'@en		52.3%
+Q3305213	P127	Q5	75.0	'painting'@en	'owned by'@en	'human'@en	13.3%
+Q3305213	P373	string	230.0	'painting'@en	'Commons category'@en		40.78%
+Q3305213	P2048	quantity	439.0	'painting'@en	'height'@en		77.84%
+Q3305213	P921	Q1406161	41.0	'painting'@en	'main subject'@en	'artistic theme'@en	7.27%
+Q3305213	P921	Q5	38.0	'painting'@en	'main subject'@en	'human'@en	6.74%
+Q3305213	P921	Q22813672	21.0	'painting'@en	'main subject'@en	'two biblical humans'@en	3.72%
+Q3305213	P2049	quantity	437.0	'painting'@en	'width'@en		77.48%
+Q3305213	P4701	external-id	97.0	'painting'@en	'Google Arts & Culture asset ID'@en		17.2%
+Q3305213	P186	Q3300034	464.0	'painting'@en	'made from material'@en	'painting material'@en	82.27%
+Q3305213	P6216	Q50424085	410.0	'painting'@en	'copyright status'@en	'copyright status'@en	72.7%
+Q3305213	P180	Q5	146.0	'painting'@en	'depicts'@en	'human'@en	25.89%
+Q3305213	P495	Q6256	144.0	'painting'@en	'country of origin'@en	'country'@en	25.53%
+Q3305213	P495	Q3624078	139.0	'painting'@en	'country of origin'@en	'sovereign state'@en	24.65%
+Q3305213	P495	Q1489259	91.0	'painting'@en	'country of origin'@en	'superpower'@en	16.13%
+Q3305213	P495	Q1520223	91.0	'painting'@en	'country of origin'@en	'constitutional republic'@en	16.13%
+Q3305213	P495	Q512187	91.0	'painting'@en	'country of origin'@en	'federal republic'@en	16.13%
+Q3305213	P495	Q5255892	91.0	'painting'@en	'country of origin'@en	'democratic republic'@en	16.13%
+Q3305213	P495	Q99541706	91.0	'painting'@en	'country of origin'@en	'historical unrecognized state'@en	16.13%
+Q3305213	P217	string	396.0	'painting'@en	'inventory number'@en		70.21%
+Q3305213	P528	string	172.0	'painting'@en	'catalog code'@en		30.5%
+Q3305213	P136	Q1792379	305.0	'painting'@en	'genre'@en	'art genre'@en	54.08%

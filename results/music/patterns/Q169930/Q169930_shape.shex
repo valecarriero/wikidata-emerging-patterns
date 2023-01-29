@@ -1,0 +1,70 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_music_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<extended play> 
+
+<extended play> { wdt:P31 [wd:Q169930] ; 
+
+# 'extended play' 'performer' 'entity'
+wdt:P175 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 98.47% 
+
+# 'extended play' 'followed by' 'entity'
+wdt:P156 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 75.97% 
+
+# 'extended play' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 75.65% 
+
+# 'extended play' 'follows' 'entity'
+wdt:P155 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 62.46% 
+
+# 'extended play' 'record label' 'entity'
+wdt:P264 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 48.96% 
+
+# 'extended play' 'language of work or name' 'entity'
+wdt:P407 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 16.96% 
+
+# 'extended play' 'followed by' 'album'
+wdt:P156 { wdt:P31 [wd:Q482994] } ;   # probability of constraint: 55.79% 
+
+# 'extended play' 'language of work or name' 'modern language'
+wdt:P407 { wdt:P31 [wd:Q1288568] } ;   # probability of constraint: 16.91% 
+
+# 'extended play' 'language of work or name' 'language'
+wdt:P407 { wdt:P31 [wd:Q34770] } ;   # probability of constraint: 16.91% 
+
+# 'extended play' 'language of work or name' 'natural language'
+wdt:P407 { wdt:P31 [wd:Q33742] } ;   # probability of constraint: 13.14% 
+
+# 'extended play' 'MusicBrainz release group ID' external-id
+wdt:P436 xsd:string ;   # probability of constraint: 70.19% 
+
+# 'extended play' 'performer' 'musical group'
+wdt:P175 { wdt:P31 [wd:Q215380] } ;   # probability of constraint: 60.51% 
+
+# 'extended play' 'follows' 'album'
+wdt:P155 { wdt:P31 [wd:Q482994] } ;   # probability of constraint: 42.02% 
+
+# 'extended play' 'genre' 'music genre'
+wdt:P136 { wdt:P31 [wd:Q188451] } ;   # probability of constraint: 75.47% 
+
+# 'extended play' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 94.22% 
+
+# 'extended play' 'Discogs master ID' external-id
+wdt:P1954 xsd:string ;   # probability of constraint: 40.12% 
+
+# 'extended play' 'publication date' time
+wdt:P577 xsd:dateTime ;   # probability of constraint: 99.45% 
+
+# 'extended play' 'record label' 'record label'
+wdt:P264 { wdt:P31 [wd:Q18127] } ;   # probability of constraint: 46.29% 
+
+
+ }

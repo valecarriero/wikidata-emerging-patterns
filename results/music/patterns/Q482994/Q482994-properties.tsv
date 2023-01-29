@@ -1,0 +1,370 @@
+property	count	property;label	percentage
+P175	61744	'performer'@en	97.72%
+P577	60723	'publication date'@en	96.1%
+P646	59757	'Freebase ID'@en	94.57%
+P136	54596	'genre'@en	86.41%
+P264	49033	'record label'@en	77.6%
+P436	49031	'MusicBrainz release group ID'@en	77.6%
+P156	44269	'followed by'@en	70.06%
+P155	43302	'follows'@en	68.53%
+P1954	38301	'Discogs master ID'@en	60.62%
+P7937	19770	'form of creative work'@en	31.29%
+P162	18357	'producer'@en	29.05%
+P407	17560	'language of work or name'@en	27.79%
+P1729	13607	'AllMusic album ID'@en	21.54%
+P437	11734	'distribution format'@en	18.57%
+P1476	9004	'title'@en	14.25%
+P2205	8252	'Spotify album ID'@en	13.06%
+P5749	7850	'Amazon Standard Identification Number'@en	12.42%
+P495	5992	'country of origin'@en	9.48%
+P361	5367	'part of'@en	8.49%
+P1712	5225	'Metacritic ID'@en	8.27%
+P291	4021	'place of publication'@en	6.36%
+P2635	3808	'number of parts of this work'@en	6.03%
+P2047	3623	'duration'@en	5.73%
+P658	2714	'tracklist'@en	4.3%
+P2581	2376	'BabelNet ID'@en	3.76%
+P1889	2173	'different from'@en	3.44%
+P1552	1778	'has quality'@en	2.81%
+P4300	1135	'YouTube playlist ID'@en	1.8%
+P2721	1100	'Encyclopaedia Metallum release ID'@en	1.74%
+P8411	1025	'set in environment'@en	1.62%
+P2206	897	'Discogs release ID'@en	1.42%
+P8856	872	'British Phonographic Industry ID'@en	1.38%
+P856	826	'official website'@en	1.31%
+P483	786	'recorded at studio or venue'@en	1.24%
+P2671	737	'Google Knowledge Graph ID'@en	1.17%
+P444	722	'review score'@en	1.14%
+P179	684	'part of the series'@en	1.08%
+P1417	654	'Encyclopædia Britannica Online ID'@en	1.04%
+P3417	583	'Quora topic ID'@en	0.92%
+P10262	410	'Offizielle Deutsche Charts album ID'@en	0.65%
+P1680	378	'subtitle'@en	0.6%
+P8392	362	'Rate Your Music release ID'@en	0.57%
+P1259	356	'coordinates of the point of view'@en	0.56%
+P2291	306	'charted in'@en	0.48%
+P750	299	'distributed by'@en	0.47%
+P2723	243	'Deezer album ID'@en	0.38%
+P3192	242	'Last.fm ID'@en	0.38%
+P1316	229	'Swedish Media Database ID'@en	0.36%
+P6217	221	'Genius album ID'@en	0.35%
+P2819	219	'Yandex Music release ID'@en	0.35%
+P18	216	'image'@en	0.34%
+P2281	201	'Apple Music album ID (U.S. version)'@en	0.32%
+P1411	193	'nominated for'@en	0.31%
+P736	192	'cover art by'@en	0.3%
+P86	186	'composer'@en	0.29%
+P676	184	'lyrics by'@en	0.29%
+P166	174	'award received'@en	0.28%
+P17	140	'country'@en	0.22%
+P345	132	'IMDb ID'@en	0.21%
+P4839	117	'Wolfram Language entity code'@en	0.19%
+P4199	110	'Google Play Music album ID (former scheme)'@en	0.17%
+P7067	108	'Album of the Year album ID'@en	0.17%
+P8435	107	'AnyDecentMusic album ID'@en	0.17%
+P825	105	'dedicated to'@en	0.17%
+P527	101	'has part or parts'@en	0.16%
+P8345	99	'media franchise'@en	0.16%
+P138	98	'named after'@en	0.16%
+P571	85	'inception'@en	0.13%
+P154	85	'logo image'@en	0.13%
+P435	83	'MusicBrainz work ID'@en	0.13%
+P4577	81	'Tidal album ID'@en	0.13%
+P373	73	'Commons category'@en	0.12%
+P3962	72	'Global Trade Item Number'@en	0.11%
+P214	71	'VIAF ID'@en	0.11%
+P2603	68	'Kinopoisk film ID'@en	0.11%
+P2014	62	'Museum of Modern Art work ID'@en	0.1%
+P767	50	'contributor to the creative work or subject'@en	0.08%
+P3040	50	'SoundCloud ID'@en	0.08%
+P3300	49	'musical conductor'@en	0.08%
+P170	49	'creator'@en	0.08%
+P6262	47	'Fandom article ID'@en	0.07%
+P1449	47	'nickname'@en	0.07%
+P161	44	'cast member'@en	0.07%
+P1874	43	'Netflix ID'@en	0.07%
+P7055	42	'Jaxsta release ID'@en	0.07%
+P8663	41	'Maniadb album ID'@en	0.06%
+P243	41	'OCLC control number'@en	0.06%
+P195	41	'collection'@en	0.06%
+P4947	40	'TMDb movie ID'@en	0.06%
+P1651	40	'YouTube video ID'@en	0.06%
+P57	39	'director'@en	0.06%
+P4027	39	'National Discography of Italian Song work ID'@en	0.06%
+P5144	38	'Bugs! album ID'@en	0.06%
+P144	38	'based on'@en	0.06%
+P747	37	'has edition or translation'@en	0.06%
+P5153	37	'KKBox album ID'@en	0.06%
+P4518	35	'Melon album ID'@en	0.06%
+P3931	35	'copyright holder'@en	0.06%
+P2754	34	'production date'@en	0.05%
+P227	34	'GND ID'@en	0.05%
+P7274	33	'Naver VIBE album ID'@en	0.05%
+P2002	33	'Twitter username'@en	0.05%
+P6127	32	'Letterboxd film ID'@en	0.05%
+P268	31	'Bibliothèque nationale de France ID'@en	0.05%
+P8687	29	'social media followers'@en	0.05%
+P6398	29	'iTunes movie ID'@en	0.05%
+P4529	28	'Douban film ID'@en	0.04%
+P1407	28	'MusicBrainz series ID'@en	0.04%
+P7936	26	'business model'@en	0.04%
+P7143	26	'Acharts.co album ID'@en	0.04%
+P6839	24	'TV Tropes identifier'@en	0.04%
+P580	24	'start time'@en	0.04%
+P244	24	'Library of Congress authority ID'@en	0.04%
+P2013	24	'Facebook ID'@en	0.04%
+P5171	23	'Rockipedia release ID'@en	0.04%
+P2624	23	'MetroLyrics ID'@en	0.04%
+P972	22	'catalog'@en	0.03%
+P2031	22	'work period (start)'@en	0.03%
+P10135	22	'recording date'@en	0.03%
+P8546	20	'recording location'@en	0.03%
+P7212	19	'LyricsTranslate ID'@en	0.03%
+P4330	19	'contains'@en	0.03%
+P1814	19	'name in kana'@en	0.03%
+P582	18	'end time'@en	0.03%
+P50	18	'author'@en	0.03%
+P1424	18	'topic\'s main template'@en	0.03%
+P973	17	'described at URL'@en	0.03%
+P1562	17	'AllMovie title ID'@en	0.03%
+P1292	17	'DNB editions'@en	0.03%
+P910	16	'topic\'s main category'@en	0.03%
+P691	16	'NKCR AUT ID'@en	0.03%
+P1953	16	'Discogs artist ID'@en	0.03%
+P793	15	'significant event'@en	0.02%
+P5008	15	'on focus list of Wikimedia project'@en	0.02%
+P3265	15	'Myspace ID'@en	0.02%
+P276	15	'location'@en	0.02%
+P6216	14	'copyright status'@en	0.02%
+P4969	14	'derivative work'@en	0.02%
+P1343	14	'described by source'@en	0.02%
+P8313	13	'Den Store Danske ID'@en	0.02%
+P528	13	'catalog code'@en	0.02%
+P1431	13	'executive producer'@en	0.02%
+P98	12	'editor'@en	0.02%
+P921	12	'main subject'@en	0.02%
+P641	12	'sport'@en	0.02%
+P462	12	'color'@en	0.02%
+P364	12	'original language of film or TV show'@en	0.02%
+P8408	11	'KBpedia ID'@en	0.02%
+P4748	11	'Line Music album ID'@en	0.02%
+P3138	11	'OFDb film ID'@en	0.02%
+P9965	10	'Musik-Sammler.de artist ID'@en	0.02%
+P7704	10	'Europeana entity'@en	0.02%
+P6360	10	'Genius album numeric ID'@en	0.02%
+P5680	10	'Hoopla title ID'@en	0.02%
+P480	10	'FilmAffinity ID'@en	0.02%
+P2687	10	'NDL JPNO'@en	0.02%
+P1444	10	'destination point'@en	0.02%
+P9215	9	'set during recurring event'@en	0.01%
+P5813	9	'MusicBrainz release ID'@en	0.01%
+P5202	9	'adapted by'@en	0.01%
+P4983	9	'TMDb TV series ID'@en	0.01%
+P2529	9	'ČSFD film ID'@en	0.01%
+P176	8	'manufacturer'@en	0.01%
+P1705	8	'native label'@en	0.01%
+P941	7	'inspired by'@en	0.01%
+P625	7	'coordinate location'@en	0.01%
+P3143	7	'elFilm film ID'@en	0.01%
+P2704	7	'EIDR content ID'@en	0.01%
+P1258	7	'Rotten Tomatoes ID'@en	0.01%
+P9237	6	'reissue of'@en	0.01%
+P840	6	'narrative location'@en	0.01%
+P6802	6	'related image'@en	0.01%
+P269	6	'IdRef ID'@en	0.01%
+P2664	6	'units sold'@en	0.01%
+P1433	6	'published in'@en	0.01%
+P10291	6	'Wikisimpsons ID'@en	0.01%
+P10178	6	'Genie album ID'@en	0.01%
+P989	5	'spoken text audio'@en	0.01%
+P870	5	'instrumentation'@en	0.01%
+P7859	5	'WorldCat Identities ID'@en	0.01%
+P740	5	'location of formation'@en	0.01%
+P7327	5	'OFLC classification'@en	0.01%
+P710	5	'participant'@en	0.01%
+P5027	5	'number of representations'@en	0.01%
+P449	5	'original broadcaster'@en	0.01%
+P3553	5	'Zhihu topic ID'@en	0.01%
+P3219	5	'Encyclopædia Universalis ID'@en	0.01%
+P272	5	'production company'@en	0.01%
+P2093	5	'author name string'@en	0.01%
+P180	5	'depicts'@en	0.01%
+P135	5	'movement'@en	0.01%
+P123	5	'publisher'@en	0.01%
+P9813	4	'container'@en	0.01%
+P966	4	'MusicBrainz label ID'@en	0.01%
+P9068	4	'IFPI Danmark work ID'@en	0.01%
+P905	4	'PORT film ID'@en	0.01%
+P8294	4	'AusStage work ID'@en	0.01%
+P8189	4	'National Library of Israel J9U ID'@en	0.01%
+P737	4	'influenced by'@en	0.01%
+P3827	4	'JSTOR topic ID'@en	0.01%
+P3478	4	'Songkick artist ID'@en	0.01%
+P2684	4	'Kijkwijzer rating'@en	0.01%
+P1389	4	'product certification'@en	0.01%
+P1144	4	'Library of Congress Control Number (LCCN) (bibliographic)'@en	0.01%
+P9586	3	'Apple TV movie ID'@en	0.0%
+P935	3	'Commons gallery'@en	0.0%
+P8680	3	'FVLB work ID'@en	0.0%
+P826	3	'tonality'@en	0.0%
+P7818	3	'French Vikidia ID'@en	0.0%
+P7091	3	'Common Sense Media ID'@en	0.0%
+P6760	3	'Know Your Meme ID'@en	0.0%
+P6461	3	'Rock\'s Backpages artist ID'@en	0.0%
+P5331	3	'OCLC work ID'@en	0.0%
+P434	3	'MusicBrainz artist ID'@en	0.0%
+P344	3	'director of photography'@en	0.0%
+P2513	3	'Jamendo album ID'@en	0.0%
+P1448	3	'official name'@en	0.0%
+P1434	3	'takes place in fictional universe'@en	0.0%
+P1269	3	'facet of'@en	0.0%
+P1219	3	'Internet Broadway Database show ID'@en	0.0%
+P1040	3	'film editor'@en	0.0%
+P9883	2	'created for'@en	0.0%
+P957	2	'ISBN-10'@en	0.0%
+P949	2	'National Library of Israel ID (old)'@en	0.0%
+P915	2	'filming location'@en	0.0%
+P8298	2	'HBO Max ID'@en	0.0%
+P7334	2	'Vudu video ID'@en	0.0%
+P7194	2	'AZLyrics.com artist ID'@en	0.0%
+P7175	2	'Gaana.com album ID'@en	0.0%
+P674	2	'characters'@en	0.0%
+P648	2	'Open Library ID'@en	0.0%
+P6445	2	'Douban music ID'@en	0.0%
+P629	2	'edition or translation of'@en	0.0%
+P5882	2	'Muziekweb performer ID'@en	0.0%
+P58	2	'screenwriter'@en	0.0%
+P5707	2	'samples from work'@en	0.0%
+P5059	2	'modified version of'@en	0.0%
+P5032	2	'Filmweb.pl film ID'@en	0.0%
+P478	2	'volume'@en	0.0%
+P4665	2	'CineMagia title ID'@en	0.0%
+P460	2	'said to be the same as'@en	0.0%
+P443	2	'pronunciation audio'@en	0.0%
+P3929	2	'V&A item ID'@en	0.0%
+P3414	2	'Yle Areena item ID'@en	0.0%
+P3402	2	'CNC film rating (Romania)'@en	0.0%
+P2769	2	'budget'@en	0.0%
+P2722	2	'Deezer artist ID'@en	0.0%
+P2638	2	'TV.com ID'@en	0.0%
+P2550	2	'recording or performance of'@en	0.0%
+P2373	2	'Genius artist ID'@en	0.0%
+P2363	2	'NMHH film rating'@en	0.0%
+P2207	2	'Spotify track ID'@en	0.0%
+P213	2	'ISNI'@en	0.0%
+P1994	2	'AllMusic composition ID'@en	0.0%
+P1955	2	'Discogs label ID'@en	0.0%
+P1728	2	'AllMusic artist ID'@en	0.0%
+P1638	2	'working title'@en	0.0%
+P1365	2	'replaces'@en	0.0%
+P1265	2	'AlloCiné film ID'@en	0.0%
+P1191	2	'date of first performance'@en	0.0%
+P1113	2	'number of episodes'@en	0.0%
+P106	2	'occupation'@en	0.0%
+P10283	2	'OpenAlex ID'@en	0.0%
+P9899	1	'music created for'@en	0.0%
+P9767	1	'edition/version'@en	0.0%
+P963	1	'streaming media URL'@en	0.0%
+P950	1	'Biblioteca Nacional de España ID'@en	0.0%
+P8958	1	'ClassInd audiovisual work ID'@en	0.0%
+P8885	1	'Namuwiki ID'@en	0.0%
+P8813	1	'IMMuB album ID'@en	0.0%
+P87	1	'librettist'@en	0.0%
+P859	1	'sponsor'@en	0.0%
+P8419	1	'Archive of Our Own tag'@en	0.0%
+P8309	1	'Yle topic ID'@en	0.0%
+P827	1	'BBC programme ID'@en	0.0%
+P8179	1	'Canadiana Name Authority ID'@en	0.0%
+P8033	1	'Movie Review Query Engine ID'@en	0.0%
+P800	1	'notable work'@en	0.0%
+P7975	1	'Filmfront film ID'@en	0.0%
+P7970	1	'FandangoNow ID'@en	0.0%
+P7760	1	'Tubi movie ID'@en	0.0%
+P7418	1	'image of frontside'@en	0.0%
+P725	1	'voice actor'@en	0.0%
+P724	1	'Internet Archive ID'@en	0.0%
+P7109	1	'Acharts.co artist ID'@en	0.0%
+P683	1	'ChEBI ID'@en	0.0%
+P6500	1	'non-free artwork image URL'@en	0.0%
+P6351	1	'Genius artist numeric ID'@en	0.0%
+P6166	1	'quotes work'@en	0.0%
+P6104	1	'maintained by WikiProject'@en	0.0%
+P5987	1	'Indiancine.ma film ID'@en	0.0%
+P5829	1	'Television Academy Foundation show ID'@en	0.0%
+P5786	1	'Moviepilot.de film ID'@en	0.0%
+P569	1	'date of birth'@en	0.0%
+P5485	1	'SBN books ID'@en	0.0%
+P5395	1	'Canadian Encyclopedia article ID'@en	0.0%
+P5241	1	'Songfacts song ID'@en	0.0%
+P5028	1	'sound designer'@en	0.0%
+P4965	1	'Behind The Voice Actors video game ID'@en	0.0%
+P4933	1	'Big Cartoon Database ID'@en	0.0%
+P4806	1	'Gaming-History ID'@en	0.0%
+P4783	1	'Movieplayer film ID'@en	0.0%
+P4765	1	'Commons compatible image available at URL'@en	0.0%
+P4527	1	'UK Parliament thesaurus ID'@en	0.0%
+P451	1	'unmarried partner'@en	0.0%
+P447	1	'review score by'@en	0.0%
+P4438	1	'BFI Films, TV and people ID'@en	0.0%
+P4342	1	'Store norske leksikon ID'@en	0.0%
+P4277	1	'Daum movie ID'@en	0.0%
+P4276	1	'Cinémathèque québécoise work identifier'@en	0.0%
+P4208	1	'Billboard artist ID'@en	0.0%
+P409	1	'Libraries Australia ID'@en	0.0%
+P4077	1	'Pizmonet ID'@en	0.0%
+P406	1	'soundtrack release'@en	0.0%
+P404	1	'game mode'@en	0.0%
+P4013	1	'Giphy username'@en	0.0%
+P400	1	'platform'@en	0.0%
+P3854	1	'Soundtrack Collector ID'@en	0.0%
+P3851	1	'Cinenacional.com movie ID'@en	0.0%
+P3844	1	'Deutsche Synchronkartei film ID'@en	0.0%
+P3808	1	'The Numbers movie ID'@en	0.0%
+P3673	1	'film-documentaire.fr film ID'@en	0.0%
+P3579	1	'Sina Weibo user ID'@en	0.0%
+P3569	1	'Cultureel Woordenboek ID'@en	0.0%
+P3338	1	'Encyclopedia of Surfing ID'@en	0.0%
+P3216	1	'ClassInd rating'@en	0.0%
+P3212	1	'ISAN'@en	0.0%
+P3135	1	'elCinema film ID'@en	0.0%
+P3129	1	'cine.gr film ID'@en	0.0%
+P3113	1	'does not have part'@en	0.0%
+P3077	1	'Cineplex Germany film ID'@en	0.0%
+P2959	1	'permanent duplicated item'@en	0.0%
+P2888	1	'exact match'@en	0.0%
+P2850	1	'Apple Music artist ID (U.S. version)'@en	0.0%
+P275	1	'copyright license'@en	0.0%
+P2631	1	'TCM Movie Database film ID'@en	0.0%
+P2465	1	'Allcinema film ID'@en	0.0%
+P2437	1	'number of seasons'@en	0.0%
+P2354	1	'has list'@en	0.0%
+P2347	1	'YSO ID'@en	0.0%
+P2284	1	'price'@en	0.0%
+P2163	1	'FAST ID'@en	0.0%
+P212	1	'ISBN-13'@en	0.0%
+P2061	1	'aspect ratio (W:H)'@en	0.0%
+P2003	1	'Instagram username'@en	0.0%
+P2001	1	'Revised Romanization'@en	0.0%
+P1978	1	'USDA NDB number'@en	0.0%
+P1970	1	'MovieMeter film ID'@en	0.0%
+P1942	1	'McCune-Reischauer romanization'@en	0.0%
+P1902	1	'Spotify artist ID'@en	0.0%
+P1875	1	'represented by'@en	0.0%
+P186	1	'made from material'@en	0.0%
+P183	1	'endemic to'@en	0.0%
+P1813	1	'short name'@en	0.0%
+P1810	1	'named as'@en	0.0%
+P1617	1	'BBC Things ID'@en	0.0%
+P1451	1	'motto text'@en	0.0%
+P1441	1	'present in work'@en	0.0%
+P1430	1	'OpenPlaques subject ID'@en	0.0%
+P1296	1	'Gran Enciclopèdia Catalana ID'@en	0.0%
+P1256	1	'Iconclass notation'@en	0.0%
+P1236	1	'Parsons code'@en	0.0%
+P1225	1	'U.S. National Archives Identifier'@en	0.0%
+P1114	1	'quantity'@en	0.0%
+P110	1	'illustrator'@en	0.0%
+P1054	1	'NDL bib ID'@en	0.0%
+P10138	1	'Pandora album ID'@en	0.0%
+P10100	1	'SensCritique work ID'@en	0.0%
+P10030	1	'StopGame ID'@en	0.0%

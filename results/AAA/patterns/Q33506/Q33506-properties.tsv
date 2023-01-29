@@ -1,0 +1,393 @@
+property	count	property;label	percentage
+P17	632	'country'@en	99.37%
+P625	581	'coordinate location'@en	91.35%
+P646	558	'Freebase ID'@en	87.74%
+P131	554	'located in the administrative territorial entity'@en	87.11%
+P18	482	'image'@en	75.79%
+P856	424	'official website'@en	66.67%
+P571	422	'inception'@en	66.35%
+P373	342	'Commons category'@en	53.77%
+P214	272	'VIAF ID'@en	42.77%
+P7859	242	'WorldCat Identities ID'@en	38.05%
+P276	217	'location'@en	34.12%
+P244	186	'Library of Congress authority ID'@en	29.25%
+P6375	116	'street address'@en	18.24%
+P1435	105	'heritage designation'@en	16.51%
+P1619	99	'date of official opening'@en	15.57%
+P213	91	'ISNI'@en	14.31%
+P1566	87	'GeoNames ID'@en	13.68%
+P227	68	'GND ID'@en	10.69%
+P281	63	'postal code'@en	9.91%
+P1612	53	'Commons Institution page'@en	8.33%
+P2002	51	'Twitter username'@en	8.02%
+P159	50	'headquarters location'@en	7.86%
+P1329	50	'phone number'@en	7.86%
+P361	47	'part of'@en	7.39%
+P7959	43	'historic county'@en	6.76%
+P2013	41	'Facebook ID'@en	6.45%
+P8687	36	'social media followers'@en	5.66%
+P3500	33	'Ringgold ID'@en	5.19%
+P968	32	'email address'@en	5.03%
+P84	32	'architect'@en	5.03%
+P4146	32	'Athenaeum museum ID'@en	5.03%
+P1174	32	'visitors per year'@en	5.03%
+P791	31	'ISIL'@en	4.87%
+P669	31	'located on street'@en	4.87%
+P2003	31	'Instagram username'@en	4.87%
+P6782	29	'ROR ID'@en	4.56%
+P269	29	'IdRef ID'@en	4.56%
+P2427	29	'GRID ID'@en	4.56%
+P149	28	'architectural style'@en	4.4%
+P127	28	'owned by'@en	4.4%
+P973	27	'described at URL'@en	4.25%
+P6155	27	'Sotheby\'s Museum Network ID'@en	4.25%
+P7772	26	'Atlas Obscura identifier'@en	4.09%
+P910	25	'topic\'s main category'@en	3.93%
+P5383	25	'archINFORM project ID'@en	3.93%
+P268	25	'Bibliothèque nationale de France ID'@en	3.93%
+P1705	25	'native label'@en	3.93%
+P138	25	'named after'@en	3.93%
+P2671	24	'Google Knowledge Graph ID'@en	3.77%
+P691	22	'NKCR AUT ID'@en	3.46%
+P166	20	'award received'@en	3.14%
+P112	20	'founded by'@en	3.14%
+P7561	19	'category for the interior of the item'@en	2.99%
+P2817	19	'appears in the heritage monument list'@en	2.99%
+P245	19	'Union List of Artist Names ID'@en	2.99%
+P1602	19	'Art UK venue ID'@en	2.99%
+P1454	19	'legal form'@en	2.99%
+P2851	18	'payment types accepted'@en	2.83%
+P1343	18	'described by source'@en	2.83%
+P9154	16	'Heritage Information System ID in the database of cultural heritage in Austria'@en	2.52%
+P649	16	'NRHP reference number'@en	2.52%
+P4702	16	'Google Arts & Culture partner ID'@en	2.52%
+P463	16	'member of'@en	2.52%
+P3417	16	'Quora topic ID'@en	2.52%
+P2951	16	'Cultural heritage database in Austria ObjektID'@en	2.52%
+P8189	15	'National Library of Israel J9U ID'@en	2.36%
+P576	14	'dissolved, abolished or demolished date'@en	2.2%
+P3642	14	'ARCHON code'@en	2.2%
+P1448	14	'official name'@en	2.2%
+P1417	14	'Encyclopædia Britannica Online ID'@en	2.2%
+P2900	13	'fax number'@en	2.04%
+P2397	13	'YouTube channel ID'@en	2.04%
+P1037	13	'director / manager'@en	2.04%
+P8093	12	'donations'@en	1.89%
+P527	12	'has part or parts'@en	1.89%
+P4839	12	'Wolfram Language entity code'@en	1.89%
+P3065	12	'RERO ID'@en	1.89%
+P2139	12	'total revenue'@en	1.89%
+P1207	12	'NUKAT ID'@en	1.89%
+P1015	12	'NORAF ID'@en	1.89%
+P101	12	'field of work'@en	1.89%
+P950	11	'Biblioteca Nacional de España ID'@en	1.73%
+P4861	11	'Charity Navigator ID'@en	1.73%
+P749	10	'parent organization'@en	1.57%
+P6698	10	'Japan Search name ID'@en	1.57%
+P6366	10	'Microsoft Academic ID'@en	1.57%
+P5008	10	'on focus list of Wikimedia project'@en	1.57%
+P154	10	'logo image'@en	1.57%
+P1297	10	'IRS Employer Identification Number'@en	1.57%
+P88	9	'commissioned by'@en	1.42%
+P5782	9	'DBUnico MIBACT ID'@en	1.42%
+P271	9	'CiNii author ID (books)'@en	1.42%
+P2581	9	'BabelNet ID'@en	1.42%
+P137	9	'operator'@en	1.42%
+P935	8	'Commons gallery'@en	1.26%
+P7014	8	'terms of service URL'@en	1.26%
+P5775	8	'image of interior'@en	1.26%
+P3134	8	'TripAdvisor ID'@en	1.26%
+P1004	8	'MusicBrainz place ID'@en	1.26%
+P8227	7	'Lower Austrian Castle ID'@en	1.1%
+P7296	7	'Lower Austrian Museum ID'@en	1.1%
+P706	7	'located in/on physical feature'@en	1.1%
+P5763	7	'Directorio de Museos y Colecciones de España ID'@en	1.1%
+P454	7	'Structurae structure ID'@en	1.1%
+P409	7	'Libraries Australia ID'@en	1.1%
+P402	7	'OpenStreetMap relation ID'@en	1.1%
+P3987	7	'SHARE Catalogue author ID'@en	1.1%
+P359	7	'Rijksmonument ID'@en	1.1%
+P2652	7	'partnership with'@en	1.1%
+P2186	7	'Wiki Loves Monuments ID'@en	1.1%
+P2046	7	'area'@en	1.1%
+P1889	7	'different from'@en	1.1%
+P921	6	'main subject'@en	0.94%
+P8596	6	'category for the exterior of the item'@en	0.94%
+P5909	6	'HKCAN ID'@en	0.94%
+P466	6	'occupant'@en	0.94%
+P3749	6	'Google Maps Customer ID'@en	0.94%
+P366	6	'has use'@en	0.94%
+P2001	6	'Revised Romanization'@en	0.94%
+P9984	5	'CANTIC ID'@en	0.79%
+P9936	5	'Indonesian Museum National Registration System ID'@en	0.79%
+P9918	5	'Kallías ID'@en	0.79%
+P8179	5	'Canadiana Name Authority ID'@en	0.79%
+P7699	5	'National Library of Lithuania ID'@en	0.79%
+P7293	5	'PLWABN ID'@en	0.79%
+P613	5	'OS grid reference'@en	0.79%
+P5764	5	'IMA museum ID'@en	0.79%
+P5504	5	'RISM ID'@en	0.79%
+P528	5	'catalog code'@en	0.79%
+P2795	5	'directions'@en	0.79%
+P2044	5	'elevation above sea level'@en	0.79%
+P1942	5	'McCune-Reischauer romanization'@en	0.79%
+P1476	5	'title'@en	0.79%
+P1368	5	'LNB ID'@en	0.79%
+P1273	5	'CANTIC ID (old)'@en	0.79%
+P1216	5	'National Heritage List for England number'@en	0.79%
+P1101	5	'floors above ground'@en	0.79%
+P9434	4	'Proveana ID'@en	0.63%
+P8313	4	'Den Store Danske ID'@en	0.63%
+P825	4	'dedicated to'@en	0.63%
+P8034	4	'Vatican Library VcBA ID'@en	0.63%
+P7917	4	'Museums in Austria Code'@en	0.63%
+P718	4	'Canmore ID'@en	0.63%
+P709	4	'Historic Scotland ID'@en	0.63%
+P6379	4	'has works in the collection'@en	0.63%
+P6006	4	'Museum Universe Data File ID'@en	0.63%
+P590	4	'GNIS ID'@en	0.63%
+P443	4	'pronunciation audio'@en	0.63%
+P4342	4	'Store norske leksikon ID'@en	0.63%
+P3820	4	'Flanders Arts Institute venue ID'@en	0.63%
+P381	4	'PCP reference number'@en	0.63%
+P3025	4	'open days'@en	0.63%
+P2924	4	'Great Russian Encyclopedia Online ID'@en	0.63%
+P2283	4	'uses'@en	0.63%
+P140	4	'religion or worldview'@en	0.63%
+P1296	4	'Gran Enciclopèdia Catalana ID'@en	0.63%
+P10283	4	'OpenAlex ID'@en	0.63%
+P9477	3	'Trap Danmark ID'@en	0.47%
+P8464	3	'content partnership category'@en	0.47%
+P793	3	'significant event'@en	0.47%
+P757	3	'World Heritage Site ID'@en	0.47%
+P708	3	'diocese'@en	0.47%
+P6228	3	'RegiowikiAT ID'@en	0.47%
+P5652	3	'Carthalia ID'@en	0.47%
+P5432	3	'setlist.fm venue ID'@en	0.47%
+P539	3	'Museofile'@en	0.47%
+P5266	3	'Finnish national bibliography corporate name ID'@en	0.47%
+P5050	3	'UMAC ID'@en	0.47%
+P488	3	'chairperson'@en	0.47%
+P4401	3	'Museus Brazil ID'@en	0.47%
+P4173	3	'Instagram location ID'@en	0.47%
+P4088	3	'Irish National Inventory of Architectural Heritage ID'@en	0.47%
+P3999	3	'date of official closure'@en	0.47%
+P3977	3	'Songkick venue ID'@en	0.47%
+P3018	3	'located in protected area'@en	0.47%
+P2971	3	'GCatholic church ID'@en	0.47%
+P2847	3	'Google+ ID'@en	0.47%
+P2163	3	'FAST ID'@en	0.47%
+P2048	3	'height'@en	0.47%
+P1968	3	'Foursquare venue ID'@en	0.47%
+P1700	3	'SIPA ID'@en	0.47%
+P1483	3	'kulturnoe-nasledie.ru ID'@en	0.47%
+P1320	3	'OpenCorporates ID'@en	0.47%
+P1315	3	'NLA Trove people ID'@en	0.47%
+P10217	3	'Oslo Byleksikon ID'@en	0.47%
+P1005	3	'Portuguese National Library ID'@en	0.47%
+P9725	2	'EBIDAT ID'@en	0.31%
+P9637	2	'Erfgoedkaart ID'@en	0.31%
+P9493	2	'artist files at'@en	0.31%
+P949	2	'National Library of Israel ID (old)'@en	0.31%
+P9321	2	'Inforegister ID'@en	0.31%
+P9152	2	'CollectieGelderland creator ID'@en	0.31%
+P8989	2	'category for the view of the item'@en	0.31%
+P8980	2	'KANTO ID'@en	0.31%
+P8897	2	'Reliwiki page ID'@en	0.31%
+P8831	2	'Museum Day ID'@en	0.31%
+P8723	2	'American Heritage place ID'@en	0.31%
+P8655	2	'LoC HABS/HAER/HALS place ID'@en	0.31%
+P8592	2	'aerial view'@en	0.31%
+P8132	2	'Texas Historic Sites Atlas ID'@en	0.31%
+P7858	2	'Upper Austria Museum ID'@en	0.31%
+P7831	2	'NMVW ID'@en	0.31%
+P7818	2	'French Vikidia ID'@en	0.31%
+P7630	2	'Dictionary of Scottish Architects building ID'@en	0.31%
+P758	2	'Kulturminne ID'@en	0.31%
+P6766	2	'Who\'s on First ID'@en	0.31%
+P6751	2	'Heritage Gazetteer of Libya ID'@en	0.31%
+P6518	2	'Business Registry code (Estonia)'@en	0.31%
+P6264	2	'Harvard Index of Botanists ID'@en	0.31%
+P6015	2	'Handbook of Texas ID'@en	0.31%
+P5827	2	'National Trust for Historic Preservation ID'@en	0.31%
+P5818	2	'BGCI garden ID'@en	0.31%
+P5587	2	'Libris-URI'@en	0.31%
+P5508	2	'archINFORM person or group ID'@en	0.31%
+P5381	2	'EGROKN ID'@en	0.31%
+P5282	2	'ground level 360 degree view'@en	0.31%
+P5208	2	'BAG building ID'@en	0.31%
+P5021	2	'assessment'@en	0.31%
+P4854	2	'Uppslagsverket Finland ID'@en	0.31%
+P477	2	'Canadian Register of Historic Places ID'@en	0.31%
+P4672	2	'EMLO location ID'@en	0.31%
+P4399	2	'Itaú Cultural ID'@en	0.31%
+P421	2	'located in time zone'@en	0.31%
+P4120	2	'Ontario Heritage Act Register ID'@en	0.31%
+P4081	2	'BHL creator ID'@en	0.31%
+P3836	2	'Pinterest username'@en	0.31%
+P380	2	'Mérimée ID'@en	0.31%
+P3714	2	'Recreation.gov point of interest ID'@en	0.31%
+P3608	2	'EU VAT number'@en	0.31%
+P3544	2	'Te Papa agent ID'@en	0.31%
+P3501	2	'Christian liturgical rite'@en	0.31%
+P349	2	'National Diet Library ID'@en	0.31%
+P3451	2	'nighttime view'@en	0.31%
+P3348	2	'National Library of Greece ID'@en	0.31%
+P3066	2	'GLAM Identifier'@en	0.31%
+P2888	2	'exact match'@en	0.31%
+P2783	2	'Danish listed buildings case ID'@en	0.31%
+P2614	2	'World Heritage criteria'@en	0.31%
+P242	2	'locator map image'@en	0.31%
+P206	2	'located in or next to body of water'@en	0.31%
+P2037	2	'GitHub username'@en	0.31%
+P1949	2	'CulturaItalia ID'@en	0.31%
+P1936	2	'Digital Atlas of the Roman Empire ID'@en	0.31%
+P186	2	'made from material'@en	0.31%
+P1842	2	'Global Anabaptist Mennonite Encyclopedia Online ID'@en	0.31%
+P1838	2	'PSS-archi ID'@en	0.31%
+P1813	2	'short name'@en	0.31%
+P1711	2	'British Museum person or institution ID'@en	0.31%
+P1708	2	'LfDS object ID'@en	0.31%
+P1436	2	'collection or exhibition size'@en	0.31%
+P1416	2	'affiliation'@en	0.31%
+P135	2	'movement'@en	0.31%
+P1017	2	'Vatican Library ID (former scheme)'@en	0.31%
+P9916	1	'Journées européennes du patrimoine ID'@en	0.16%
+P989	1	'spoken text audio'@en	0.16%
+P9756	1	'Schoenberg Database of Manuscripts name ID'@en	0.16%
+P9679	1	'Companies Registration Office (Ireland) Registration Number'@en	0.16%
+P9673	1	'museumPASSmusées ID'@en	0.16%
+P9629	1	'Armeniapedia ID'@en	0.16%
+P9536	1	'SAIA authority ID'@en	0.16%
+P9495	1	'National Historical Museums of Sweden agent ID'@en	0.16%
+P9475	1	'Encyclopedia of Korean Culture ID'@en	0.16%
+P9339	1	'Bavarian Monument Map object ID (architectural monument)'@en	0.16%
+P9284	1	'GB1900 ID'@en	0.16%
+P9201	1	'Norwegian State Administration Database ID'@en	0.16%
+P9074	1	'NZ Museums ID'@en	0.16%
+P906	1	'SELIBR ID'@en	0.16%
+P9042	1	'DiCamillo Database Country House ID'@en	0.16%
+P9037	1	'BHCL UUID'@en	0.16%
+P8933	1	'category for the view from the item'@en	0.16%
+P8703	1	'entry in abbreviations table'@en	0.16%
+P8449	1	'Churches in Limburg ID'@en	0.16%
+P8425	1	'IAPH code'@en	0.16%
+P8406	1	'Grove Art Online ID'@en	0.16%
+P8272	1	'BaGLAMa GID'@en	0.16%
+P8246	1	'Natural Atlas ID'@en	0.16%
+P808	1	'Bien de Interés Cultural (BIC) code'@en	0.16%
+P800	1	'notable work'@en	0.16%
+P7867	1	'category for maps'@en	0.16%
+P7856	1	'Salzburg Museums ID'@en	0.16%
+P7846	1	'Beta maṣāḥǝft ID'@en	0.16%
+P7842	1	'Vienna History Wiki ID'@en	0.16%
+P7763	1	'copyright status as a creator'@en	0.16%
+P7700	1	'Slovak National Library ID (VIAF)'@en	0.16%
+P7685	1	'CALS Encyclopedia of Arkansas ID'@en	0.16%
+P7659	1	'POWiS ID'@en	0.16%
+P729	1	'service entry'@en	0.16%
+P724	1	'Internet Archive ID'@en	0.16%
+P7102	1	'Grand Canyon Trust ID'@en	0.16%
+P7004	1	'AtlasFor ID'@en	0.16%
+P6744	1	'FragDenStaat public body ID'@en	0.16%
+P6706	1	'De Agostini ID'@en	0.16%
+P6683	1	'Alexander Turnbull Library ID'@en	0.16%
+P6645	1	'Stedelijk Museum Amsterdam ID'@en	0.16%
+P6566	1	'Indonesian Cultural Heritage Registration System ID'@en	0.16%
+P641	1	'sport'@en	0.16%
+P629	1	'edition or translation of'@en	0.16%
+P6287	1	'ICCD ID - CF form'@en	0.16%
+P6286	1	'ICCD ID - S form'@en	0.16%
+P6269	1	'API endpoint'@en	0.16%
+P6251	1	'catchphrase'@en	0.16%
+P611	1	'religious order'@en	0.16%
+P6016	1	'Tennessee Encyclopedia ID'@en	0.16%
+P6010	1	'Encyclopedia of Alabama ID'@en	0.16%
+P580	1	'start time'@en	0.16%
+P5785	1	'EU Research participant ID'@en	0.16%
+P577	1	'publication date'@en	0.16%
+P5760	1	'Petit Futé site ID'@en	0.16%
+P5601	1	'TCI destination ID'@en	0.16%
+P560	1	'direction'@en	0.16%
+P5490	1	'artist-info location ID'@en	0.16%
+P5489	1	'artist-info artist ID'@en	0.16%
+P5395	1	'Canadian Encyclopedia article ID'@en	0.16%
+P5361	1	'BNB person ID'@en	0.16%
+P5164	1	'Flanders Arts Institute organisation ID'@en	0.16%
+P5034	1	'National Library of Korea ID'@en	0.16%
+P495	1	'country of origin'@en	0.16%
+P4903	1	'New Georgia Encyclopedia ID'@en	0.16%
+P460	1	'said to be the same as'@en	0.16%
+P4535	1	'EUTA theatre ID'@en	0.16%
+P4527	1	'UK Parliament thesaurus ID'@en	0.16%
+P4389	1	'Science Museum people ID'@en	0.16%
+P4372	1	'iPatrimônio ID'@en	0.16%
+P4300	1	'YouTube playlist ID'@en	0.16%
+P4246	1	'LfD-HB object ID'@en	0.16%
+P4244	1	'Bavarian monument authority ID'@en	0.16%
+P4219	1	'Tyrolean Art Cadastre inventory ID'@en	0.16%
+P4171	1	'World Heritage Tentative List ID'@en	0.16%
+P4119	1	'NLS Geographic Names Register Place ID'@en	0.16%
+P4015	1	'Vimeo identifier'@en	0.16%
+P3630	1	'Babelio author ID'@en	0.16%
+P3616	1	'Vision of Britain place ID'@en	0.16%
+P3600	1	'protected heritage site in Brussels ID'@en	0.16%
+P3426	1	'ArbetSam ID'@en	0.16%
+P3390	1	'NLB authority ID'@en	0.16%
+P3338	1	'Encyclopedia of Surfing ID'@en	0.16%
+P3318	1	'Guía Digital del Patrimonio Cultural de Andalucía identifier'@en	0.16%
+P3311	1	'plan view image'@en	0.16%
+P3225	1	'Corporate Number (Japan)'@en	0.16%
+P3221	1	'New York Times topic ID'@en	0.16%
+P3219	1	'Encyclopædia Universalis ID'@en	0.16%
+P3185	1	'VK ID'@en	0.16%
+P3153	1	'Crossref funder ID'@en	0.16%
+P3108	1	'Yelp ID'@en	0.16%
+P3040	1	'SoundCloud ID'@en	0.16%
+P3032	1	'adjacent building'@en	0.16%
+P30	1	'continent'@en	0.16%
+P287	1	'designed by'@en	0.16%
+P2846	1	'wheelchair accessibility'@en	0.16%
+P2814	1	'P-number'@en	0.16%
+P2789	1	'connects with'@en	0.16%
+P2770	1	'source of income'@en	0.16%
+P2669	1	'discontinued date'@en	0.16%
+P2596	1	'culture'@en	0.16%
+P2561	1	'name'@en	0.16%
+P2555	1	'fee'@en	0.16%
+P2526	1	'National Historic Sites of Canada ID'@en	0.16%
+P2347	1	'YSO ID'@en	0.16%
+P2333	1	'Norwegian organisation number'@en	0.16%
+P2326	1	'GNS Unique Feature ID'@en	0.16%
+P2025	1	'Find A Grave cemetery ID'@en	0.16%
+P2011	1	'Cooper-Hewitt Person ID'@en	0.16%
+P1947	1	'Mapillary ID'@en	0.16%
+P193	1	'main building contractor'@en	0.16%
+P1850	1	'SSR place name number'@en	0.16%
+P1830	1	'owner of'@en	0.16%
+P1822	1	'Denkmalschutzamt Hamburg object ID'@en	0.16%
+P1791	1	'category of people buried here'@en	0.16%
+P1770	1	'Romania LMI code'@en	0.16%
+P1764	1	'Flemish Heritage Object ID'@en	0.16%
+P1667	1	'Getty Thesaurus of Geographic Names ID'@en	0.16%
+P1640	1	'curator'@en	0.16%
+P1626	1	'Thai cultural heritage ID'@en	0.16%
+P1621	1	'detail map'@en	0.16%
+P1600	1	'Inventari del Patrimoni Arquitectònic de Catalunya code'@en	0.16%
+P1580	1	'University of Barcelona authority ID (obsolete)'@en	0.16%
+P1481	1	'vici.org ID'@en	0.16%
+P1430	1	'OpenPlaques subject ID'@en	0.16%
+P1371	1	'ASI Monument ID'@en	0.16%
+P1366	1	'replaced by'@en	0.16%
+P1365	1	'replaces'@en	0.16%
+P1301	1	'number of elevators'@en	0.16%
+P1225	1	'U.S. National Archives Identifier'@en	0.16%
+P121	1	'item operated'@en	0.16%
+P1139	1	'floors below ground'@en	0.16%
+P1059	1	'CVR number'@en	0.16%
+P10510	1	'Arachne entity ID'@en	0.16%
+P10419	1	'LastDodo-area-identifier'@en	0.16%
+P10378	1	'CHY Number'@en	0.16%
+P10377	1	'Irish Registered Charity Number (RCN)'@en	0.16%
+P10323	1	'Bergen byleksikon ID'@en	0.16%
+P10106	1	'Sceneweb organization ID'@en	0.16%

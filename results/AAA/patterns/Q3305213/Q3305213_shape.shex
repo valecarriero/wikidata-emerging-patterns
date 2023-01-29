@@ -1,0 +1,145 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<painting> 
+
+<painting> { wdt:P31 [wd:Q3305213] ; 
+
+# 'painting' 'creator' 'entity'
+wdt:P170 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 98.05% 
+
+# 'painting' 'collection' 'entity'
+wdt:P195 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 86.17% 
+
+# 'painting' 'location' 'entity'
+wdt:P276 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 85.82% 
+
+# 'painting' 'made from material' 'entity'
+wdt:P186 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 83.33% 
+
+# 'painting' 'copyright status' 'entity'
+wdt:P6216 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 72.7% 
+
+# 'painting' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 68.97% 
+
+# 'painting' 'depicts' 'entity'
+wdt:P180 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 65.78% 
+
+# 'painting' 'movement' 'entity'
+wdt:P135 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 42.02% 
+
+# 'painting' 'country of origin' 'entity'
+wdt:P495 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 25.71% 
+
+# 'painting' 'main subject' 'entity'
+wdt:P921 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 19.5% 
+
+# 'painting' 'owned by' 'entity'
+wdt:P127 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 16.13% 
+
+# 'painting' 'collection' 'art museum'
+wdt:P195 { wdt:P31 [wd:Q207694] } ;   # probability of constraint: 68.44% 
+
+# 'painting' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 99.29% 
+
+# 'painting' 'movement' 'art movement'
+wdt:P135 { wdt:P31 [wd:Q968159] } ;   # probability of constraint: 35.11% 
+
+# 'painting' 'movement' 'architectural style'
+wdt:P135 { wdt:P31 [wd:Q32880] } ;   # probability of constraint: 18.79% 
+
+# 'painting' 'location' 'art museum'
+wdt:P276 { wdt:P31 [wd:Q207694] } ;   # probability of constraint: 70.04% 
+
+# 'painting' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 99.65% 
+
+# 'painting' 'title' monolingualtext
+wdt:P1476 rdf:langString ;   # probability of constraint: 46.63% 
+
+# 'painting' 'BabelNet ID' external-id
+wdt:P2581 xsd:string ;   # probability of constraint: 40.07% 
+
+# 'painting' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 73.76% 
+
+# 'painting' 'creator' 'human'
+wdt:P170 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 97.87% 
+
+# 'painting' 'described at URL' url
+wdt:P973 xsd:string ;   # probability of constraint: 52.3% 
+
+# 'painting' 'owned by' 'human'
+wdt:P127 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 13.3% 
+
+# 'painting' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 40.78% 
+
+# 'painting' 'height' quantity
+wdt:P2048 xsd:decimal ;   # probability of constraint: 77.84% 
+
+# 'painting' 'main subject' 'artistic theme'
+wdt:P921 { wdt:P31 [wd:Q1406161] } ;   # probability of constraint: 7.27% 
+
+# 'painting' 'main subject' 'human'
+wdt:P921 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 6.74% 
+
+# 'painting' 'main subject' 'two biblical humans'
+wdt:P921 { wdt:P31 [wd:Q22813672] } ;   # probability of constraint: 3.72% 
+
+# 'painting' 'width' quantity
+wdt:P2049 xsd:decimal ;   # probability of constraint: 77.48% 
+
+# 'painting' 'Google Arts & Culture asset ID' external-id
+wdt:P4701 xsd:string ;   # probability of constraint: 17.2% 
+
+# 'painting' 'made from material' 'painting material'
+wdt:P186 { wdt:P31 [wd:Q3300034] } ;   # probability of constraint: 82.27% 
+
+# 'painting' 'copyright status' 'copyright status'
+wdt:P6216 { wdt:P31 [wd:Q50424085] } ;   # probability of constraint: 72.7% 
+
+# 'painting' 'depicts' 'human'
+wdt:P180 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 25.89% 
+
+# 'painting' 'country of origin' 'country'
+wdt:P495 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 25.53% 
+
+# 'painting' 'country of origin' 'sovereign state'
+wdt:P495 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 24.65% 
+
+# 'painting' 'country of origin' 'superpower'
+wdt:P495 { wdt:P31 [wd:Q1489259] } ;   # probability of constraint: 16.13% 
+
+# 'painting' 'country of origin' 'constitutional republic'
+wdt:P495 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 16.13% 
+
+# 'painting' 'country of origin' 'federal republic'
+wdt:P495 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 16.13% 
+
+# 'painting' 'country of origin' 'democratic republic'
+wdt:P495 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 16.13% 
+
+# 'painting' 'country of origin' 'historical unrecognized state'
+wdt:P495 { wdt:P31 [wd:Q99541706] } ;   # probability of constraint: 16.13% 
+
+# 'painting' 'inventory number' string
+wdt:P217 xsd:string ;   # probability of constraint: 70.21% 
+
+# 'painting' 'catalog code' string
+wdt:P528 xsd:string ;   # probability of constraint: 30.5% 
+
+# 'painting' 'genre' 'art genre'
+wdt:P136 { wdt:P31 [wd:Q1792379] } ;   # probability of constraint: 54.08% 
+
+
+ }

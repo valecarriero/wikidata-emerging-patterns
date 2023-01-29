@@ -1,0 +1,197 @@
+property	count	property;label	percentage
+P646	562	'Freebase ID'@en	99.65%
+P571	560	'inception'@en	99.29%
+P170	553	'creator'@en	98.05%
+P195	486	'collection'@en	86.17%
+P276	484	'location'@en	85.82%
+P186	470	'made from material'@en	83.33%
+P2048	439	'height'@en	77.84%
+P2049	437	'width'@en	77.48%
+P18	416	'image'@en	73.76%
+P6216	410	'copyright status'@en	72.7%
+P217	396	'inventory number'@en	70.21%
+P136	389	'genre'@en	68.97%
+P180	371	'depicts'@en	65.78%
+P973	295	'described at URL'@en	52.3%
+P1476	263	'title'@en	46.63%
+P135	237	'movement'@en	42.02%
+P373	230	'Commons category'@en	40.78%
+P2581	226	'BabelNet ID'@en	40.07%
+P528	172	'catalog code'@en	30.5%
+P495	145	'country of origin'@en	25.71%
+P921	110	'main subject'@en	19.5%
+P4701	97	'Google Arts & Culture asset ID'@en	17.2%
+P127	91	'owned by'@en	16.13%
+P350	80	'RKDimages ID'@en	14.18%
+P1257	72	'depicts Iconclass notation'@en	12.77%
+P1679	69	'Art UK artwork ID'@en	12.23%
+P17	67	'country'@en	11.88%
+P1071	63	'location of creation'@en	11.17%
+P608	51	'exhibition history'@en	9.04%
+P140	45	'religion or worldview'@en	7.98%
+P1417	37	'Encyclopædia Britannica Online ID'@en	6.56%
+P1705	35	'native label'@en	6.21%
+P1343	34	'described by source'@en	6.03%
+P6108	32	'IIIF manifest'@en	5.67%
+P6002	29	'WikiArt ID'@en	5.14%
+P4683	25	'National Gallery of Art artwork ID'@en	4.43%
+P347	25	'Joconde work ID'@en	4.43%
+P144	23	'based on'@en	4.08%
+P793	21	'significant event'@en	3.72%
+P6595	18	'Paintings by Salvador Dalí ID'@en	3.19%
+P3634	18	'The Met object ID'@en	3.19%
+P9394	17	'Louvre Museum ARK ID'@en	3.01%
+P7420	17	'image with frame'@en	3.01%
+P1212	17	'Atlas ID'@en	3.01%
+P2242	16	'Florentine musea catalogue ID'@en	2.84%
+P8905	15	'Museo del Prado artwork ID'@en	2.66%
+P2348	15	'time period'@en	2.66%
+P941	14	'inspired by'@en	2.48%
+P4674	14	'Indianapolis Museum of Art artwork ID'@en	2.48%
+P10187	14	'JSTOR artwork ID'@en	2.48%
+P856	13	'official website'@en	2.3%
+P361	13	'part of'@en	2.3%
+P131	13	'located in the administrative territorial entity'@en	2.3%
+P9092	12	'Art in the Christian Tradition ID'@en	2.13%
+P268	12	'Bibliothèque nationale de France ID'@en	2.13%
+P2079	12	'fabrication method'@en	2.13%
+P2014	12	'Museum of Modern Art work ID'@en	2.13%
+P1684	12	'inscription'@en	2.13%
+P227	11	'GND ID'@en	1.95%
+P214	11	'VIAF ID'@en	1.95%
+P2092	11	'Bildindex der Kunst und Architektur ID'@en	1.95%
+P88	10	'commissioned by'@en	1.77%
+P6625	10	'Salvador Dali Museum ID'@en	1.77%
+P4144	10	'Athenaeum artwork ID'@en	1.77%
+P8923	9	'SMB-digital ID'@en	1.6%
+P1889	9	'different from'@en	1.6%
+P8960	8	'Kunsthistorisches Museum Wien ID'@en	1.42%
+P6007	8	'Salons ID'@en	1.42%
+P4839	8	'Wolfram Language entity code'@en	1.42%
+P3931	8	'copyright holder'@en	1.42%
+P244	8	'Library of Congress authority ID'@en	1.42%
+P7851	7	'Smithsonian resource ID'@en	1.24%
+P625	7	'coordinate location'@en	1.24%
+P179	7	'part of the series'@en	1.24%
+P1726	7	'Florentine musea Inventario 1890 ID'@en	1.24%
+P9473	6	'Smithsonian ARK ID'@en	1.06%
+P527	6	'has part or parts'@en	1.06%
+P4704	6	'Smithsonian American Art Museum artwork ID'@en	1.06%
+P4625	6	'Museum of Fine Arts, Boston object ID'@en	1.06%
+P4610	6	'ARTIC artwork ID'@en	1.06%
+P3783	6	'Christie\'s object ID'@en	1.06%
+P2108	6	'Kunstindeks Danmark artwork ID'@en	1.06%
+P8335	5	'Uffizi artwork ID'@en	0.89%
+P6738	5	'Whitney Museum of American Art artwork ID'@en	0.89%
+P6500	5	'non-free artwork image URL'@en	0.89%
+P6355	5	'MNAM artwork ID'@en	0.89%
+P5008	5	'on focus list of Wikimedia project'@en	0.89%
+P269	5	'IdRef ID'@en	0.89%
+P1639	5	'pendant of'@en	0.89%
+P1028	5	'donated by'@en	0.89%
+P8948	4	'Pinakothek artwork ID'@en	0.71%
+P7818	4	'French Vikidia ID'@en	0.71%
+P6323	4	'Centre Pompidou ID'@en	0.71%
+P4659	4	'Musée d\'Orsay artwork ID'@en	0.71%
+P3417	4	'Quora topic ID'@en	0.71%
+P2043	4	'length'@en	0.71%
+P156	4	'followed by'@en	0.71%
+P8946	3	'National Galleries of Scotland ID'@en	0.53%
+P8916	3	'DIA ID'@en	0.53%
+P6489	3	'Joan Miró Online Image Bank ID'@en	0.53%
+P4969	3	'derivative work'@en	0.53%
+P4765	3	'Commons compatible image available at URL'@en	0.53%
+P4713	3	'Walters Art Museum ID'@en	0.53%
+P4673	3	'Museum of Fine Arts, Houston object ID'@en	0.53%
+P2386	3	'diameter'@en	0.53%
+P1435	3	'heritage designation'@en	0.53%
+P138	3	'named after'@en	0.53%
+P9144	2	'National Portrait Gallery (London) artwork ID'@en	0.35%
+P8909	2	'National Gallery of Australia ID'@en	0.35%
+P8906	2	'National Gallery of Ireland ID'@en	0.35%
+P840	2	'narrative location'@en	0.35%
+P825	2	'dedicated to'@en	0.35%
+P8189	2	'National Library of Israel J9U ID'@en	0.35%
+P7984	2	'depicted format'@en	0.35%
+P7457	2	'creator\'s signature'@en	0.35%
+P6802	2	'related image'@en	0.35%
+P641	2	'sport'@en	0.35%
+P6372	2	'Interpol WOA artwork ID (OBSOLETE)'@en	0.35%
+P6358	2	'Musée Picasso artwork ID'@en	0.35%
+P6332	2	'Panorama de l\'art ID'@en	0.35%
+P6058	2	'Larousse ID'@en	0.35%
+P6020	2	'd\'Art d\'Art ! ID'@en	0.35%
+P5891	2	'Bpk-ID'@en	0.35%
+P577	2	'publication date'@en	0.35%
+P551	2	'residence'@en	0.35%
+P4905	2	'KMSKA work PID'@en	0.35%
+P4709	2	'Barnes Foundation ID'@en	0.35%
+P4684	2	'National Gallery of Victoria artwork ID'@en	0.35%
+P4643	2	'Philadelphia Museum of Art work ID'@en	0.35%
+P3272	2	'Zeri image ID'@en	0.35%
+P3219	2	'Encyclopædia Universalis ID'@en	0.35%
+P2671	2	'Google Knowledge Graph ID'@en	0.35%
+P2634	2	'sitter'@en	0.35%
+P2344	2	'AGORHA work ID'@en	0.35%
+P155	2	'follows'@en	0.35%
+P1441	2	'present in work'@en	0.35%
+P1419	2	'shape'@en	0.35%
+P1296	2	'Gran Enciclopèdia Catalana ID'@en	0.35%
+P1184	2	'Handle ID'@en	0.35%
+P9942	1	'National Gallery Prague work ID'@en	0.18%
+P989	1	'spoken text audio'@en	0.18%
+P9834	1	'Finnish National Gallery artwork ID'@en	0.18%
+P9545	1	'Encyclopedia of China Online Database ID (Second Edition)'@en	0.18%
+P953	1	'full work available at URL'@en	0.18%
+P949	1	'National Library of Israel ID (old)'@en	0.18%
+P935	1	'Commons gallery'@en	0.18%
+P9149	1	'coordinates of depicted place'@en	0.18%
+P9132	1	'Saint Louis Art Museum artwork ID'@en	0.18%
+P9131	1	'Royal Museums Greenwich artwork ID'@en	0.18%
+P910	1	'topic\'s main category'@en	0.18%
+P9061	1	'National Museum in Warsaw ID'@en	0.18%
+P8917	1	'SKD ID'@en	0.18%
+P8910	1	'Fitzwilliam Museum ID'@en	0.18%
+P888	1	'JSTOR article ID'@en	0.18%
+P8411	1	'set in environment'@en	0.18%
+P7827	1	'Spanish Vikidia ID'@en	0.18%
+P7417	1	'image of backside'@en	0.18%
+P737	1	'influenced by'@en	0.18%
+P7305	1	'Online PWN Encyclopedia ID'@en	0.18%
+P710	1	'participant'@en	0.18%
+P6839	1	'TV Tropes identifier'@en	0.18%
+P6663	1	'Utpictura18 artwork ID'@en	0.18%
+P6610	1	'Ashmolean museum ID'@en	0.18%
+P6375	1	'street address'@en	0.18%
+P6301	1	'The Armory Show at 100 ID'@en	0.18%
+P5816	1	'state of conservation'@en	0.18%
+P4761	1	'Images d\'Art artwork ID'@en	0.18%
+P4737	1	'Solomon R. Guggenheim Foundation artwork ID'@en	0.18%
+P4712	1	'Minneapolis Institute of Art artwork ID'@en	0.18%
+P4692	1	'American Art Collaborative object ID'@en	0.18%
+P462	1	'color'@en	0.18%
+P4582	1	'Kulturelles Erbe Köln object ID'@en	0.18%
+P443	1	'pronunciation audio'@en	0.18%
+P4275	1	'Japanese Database of National important cultural properties'@en	0.18%
+P3855	1	'LombardiaBeniCulturali artwork ID'@en	0.18%
+P366	1	'has use'@en	0.18%
+P3553	1	'Zhihu topic ID'@en	0.18%
+P3504	1	'Florentine Inventario Palatina art ID'@en	0.18%
+P3342	1	'significant person'@en	0.18%
+P3293	1	'BALaT object ID'@en	0.18%
+P2699	1	'URL'@en	0.18%
+P2682	1	'is verso of'@en	0.18%
+P2610	1	'thickness'@en	0.18%
+P2596	1	'culture'@en	0.18%
+P2582	1	'J. Paul Getty Museum object ID'@en	0.18%
+P2561	1	'name'@en	0.18%
+P2284	1	'price'@en	0.18%
+P2163	1	'FAST ID'@en	0.18%
+P1814	1	'name in kana'@en	0.18%
+P1695	1	'NLP ID (old)'@en	0.18%
+P1669	1	'Cultural Objects Names Authority ID'@en	0.18%
+P166	1	'award received'@en	0.18%
+P1448	1	'official name'@en	0.18%
+P1375	1	'NSK ID'@en	0.18%
+P1299	1	'depicted by'@en	0.18%
+P1259	1	'coordinates of the point of view'@en	0.18%

@@ -1,0 +1,100 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q23413_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q23413 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'castle' 'country' 'entity'
+<< << wd:Q23413 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q23413 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "88.02%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'historic county' 'entity'
+<< << wd:Q23413 wdt:P7959 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "65.0%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'heritage designation' 'entity'
+<< << wd:Q23413 wdt:P1435 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "58.29%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'coordinate location' globe-coordinate
+<< << wd:Q23413 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.04%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'image' commonsMedia
+<< << wd:Q23413 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "85.91%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'located in the administrative territorial entity' 'Scottish council area'
+<< << wd:Q23413 wdt:P131 wd:Q15060255 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.71%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'located in the administrative territorial entity' 'civil parish'
+<< << wd:Q23413 wdt:P131 wd:Q1115575 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.08%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'located in the administrative territorial entity' 'village'
+<< << wd:Q23413 wdt:P131 wd:Q532 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "13.52%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'located in the administrative territorial entity' 'Scottish civil parish'
+<< << wd:Q23413 wdt:P131 wd:Q5124673 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "11.7%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'GeoNames ID' external-id
+<< << wd:Q23413 wdt:P1566 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.38%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'historic county' 'historic county of the United Kingdom'
+<< << wd:Q23413 wdt:P7959 wd:Q67376938 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.19%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'historic county' 'historic county of England'
+<< << wd:Q23413 wdt:P7959 wd:Q1138494 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.8%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'historic county' 'shire of Scotland'
+<< << wd:Q23413 wdt:P7959 wd:Q1350181 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.61%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'Gatehouse Gazetteer place ID' external-id
+<< << wd:Q23413 wdt:P4141 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.2%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'Freebase ID' external-id
+<< << wd:Q23413 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "94.63%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'heritage designation' 'heritage designation'
+<< << wd:Q23413 wdt:P1435 wd:Q30634609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.55%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'country' 'country'
+<< << wd:Q23413 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.9%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'country' 'sovereign state'
+<< << wd:Q23413 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.52%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'country' 'island nation'
+<< << wd:Q23413 wdt:P17 wd:Q112099 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "67.02%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'country' 'realm'
+<< << wd:Q23413 wdt:P17 wd:Q1250464 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "60.12%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'country' 'colonial power'
+<< << wd:Q23413 wdt:P17 wd:Q20181813 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "59.73%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'country' 'Commonwealth realm'
+<< << wd:Q23413 wdt:P17 wd:Q202686 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "56.95%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'Commons category' string
+<< << wd:Q23413 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "68.46%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'National Heritage List for England number' external-id
+<< << wd:Q23413 wdt:P1216 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.44%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+
+# 'castle' 'inception' time
+<< << wd:Q23413 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "21.0%" ; oplax:isNativeTo weps:AAA_Q23413_09508505 .
+

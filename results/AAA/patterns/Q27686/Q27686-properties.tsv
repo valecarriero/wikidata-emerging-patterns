@@ -1,0 +1,184 @@
+property	count	property;label	percentage
+P17	427	'country'@en	100.0%
+P625	402	'coordinate location'@en	94.15%
+P131	360	'located in the administrative territorial entity'@en	84.31%
+P18	316	'image'@en	74.0%
+P1435	183	'heritage designation'@en	42.86%
+P646	178	'Freebase ID'@en	41.69%
+P373	166	'Commons category'@en	38.88%
+P571	152	'inception'@en	35.6%
+P649	151	'NRHP reference number'@en	35.36%
+P856	137	'official website'@en	32.08%
+P5383	116	'archINFORM project ID'@en	27.17%
+P1619	92	'date of official opening'@en	21.55%
+P1101	79	'floors above ground'@en	18.5%
+P10290	63	'hotel rating'@en	14.75%
+P10487	61	'skyscanner hotel ID'@en	14.29%
+P7959	57	'historic county'@en	13.35%
+P149	57	'architectural style'@en	13.35%
+P84	54	'architect'@en	12.65%
+P10533	54	'Agoda hotel numeric ID'@en	12.65%
+P1566	52	'GeoNames ID'@en	12.18%
+P10532	50	'Booking.com numeric ID'@en	11.71%
+P127	45	'owned by'@en	10.54%
+P137	28	'operator'@en	6.56%
+P10425	28	'Trip.com hotel ID'@en	6.56%
+P3417	26	'Quora topic ID'@en	6.09%
+P214	26	'VIAF ID'@en	6.09%
+P276	25	'location'@en	5.85%
+P1305	25	'CTBUH Skyscraper Center building ID'@en	5.85%
+P7859	23	'WorldCat Identities ID'@en	5.39%
+P6375	22	'street address'@en	5.15%
+P244	18	'Library of Congress authority ID'@en	4.22%
+P613	16	'OS grid reference'@en	3.75%
+P2013	16	'Facebook ID'@en	3.75%
+P1216	16	'National Heritage List for England number'@en	3.75%
+P463	15	'member of'@en	3.51%
+P669	14	'located on street'@en	3.28%
+P281	13	'postal code'@en	3.04%
+P7561	12	'category for the interior of the item'@en	2.81%
+P5734	10	'Historic Hotels of America ID'@en	2.34%
+P3607	10	'Booking.com hotel ID'@en	2.34%
+P2003	10	'Instagram username'@en	2.34%
+P1301	10	'number of elevators'@en	2.34%
+P455	9	'Emporis building ID'@en	2.11%
+P454	9	'Structurae structure ID'@en	2.11%
+P3898	9	'Hotels.com hotel ID'@en	2.11%
+P3134	9	'TripAdvisor ID'@en	2.11%
+P3749	8	'Google Maps Customer ID'@en	1.87%
+P9042	7	'DiCamillo Database Country House ID'@en	1.64%
+P366	7	'has use'@en	1.64%
+P361	7	'part of'@en	1.64%
+P2002	7	'Twitter username'@en	1.64%
+P8687	6	'social media followers'@en	1.41%
+P6012	6	'California Office of Historic Preservation ID'@en	1.41%
+P2581	6	'BabelNet ID'@en	1.41%
+P8596	5	'category for the exterior of the item'@en	1.17%
+P5834	5	'Leading Hotels of the World hotel ID'@en	1.17%
+P5735	5	'Historic Hotels Worldwide ID'@en	1.17%
+P2671	5	'Google Knowledge Graph ID'@en	1.17%
+P2397	5	'YouTube channel ID'@en	1.17%
+P2048	5	'height'@en	1.17%
+P968	4	'email address'@en	0.94%
+P935	4	'Commons gallery'@en	0.94%
+P718	4	'Canmore ID'@en	0.94%
+P1705	4	'native label'@en	0.94%
+P910	3	'topic\'s main category'@en	0.7%
+P8655	3	'LoC HABS/HAER/HALS place ID'@en	0.7%
+P793	3	'significant event'@en	0.7%
+P7772	3	'Atlas Obscura identifier'@en	0.7%
+P709	3	'Historic Scotland ID'@en	0.7%
+P706	3	'located in/on physical feature'@en	0.7%
+P6181	3	'Disney A to Z ID'@en	0.7%
+P5775	3	'image of interior'@en	0.7%
+P576	3	'dissolved, abolished or demolished date'@en	0.7%
+P4264	3	'LinkedIn company ID'@en	0.7%
+P4088	3	'Irish National Inventory of Architectural Heritage ID'@en	0.7%
+P3481	3	'Parks & Gardens UK record ID'@en	0.7%
+P1968	3	'Foursquare venue ID'@en	0.7%
+P159	3	'headquarters location'@en	0.7%
+P154	3	'logo image'@en	0.7%
+P1329	3	'phone number'@en	0.7%
+P10426	3	'tiket.com hotel ID'@en	0.7%
+P973	2	'described at URL'@en	0.47%
+P8933	2	'category for the view from the item'@en	0.47%
+P8587	2	'Legacies of British Slave-ownership place ID'@en	0.47%
+P8132	2	'Texas Historic Sites Atlas ID'@en	0.47%
+P7630	2	'Dictionary of Scottish Architects building ID'@en	0.47%
+P7618	2	'Virginia Landmarks Register ID'@en	0.47%
+P6008	2	'Agoda hotel ID'@en	0.47%
+P5816	2	'state of conservation'@en	0.47%
+P5651	2	'Expedia hotel ID'@en	0.47%
+P527	2	'has part or parts'@en	0.47%
+P5008	2	'on focus list of Wikimedia project'@en	0.47%
+P495	2	'country of origin'@en	0.47%
+P4573	2	'Merchant Category Code'@en	0.47%
+P452	2	'industry'@en	0.47%
+P444	2	'review score'@en	0.47%
+P4173	2	'Instagram location ID'@en	0.47%
+P402	2	'OpenStreetMap relation ID'@en	0.47%
+P3836	2	'Pinterest username'@en	0.47%
+P381	2	'PCP reference number'@en	0.47%
+P359	2	'Rijksmonument ID'@en	0.47%
+P3225	2	'Corporate Number (Japan)'@en	0.47%
+P3108	2	'Yelp ID'@en	0.47%
+P30	2	'continent'@en	0.47%
+P2186	2	'Wiki Loves Monuments ID'@en	0.47%
+P2044	2	'elevation above sea level'@en	0.47%
+P186	2	'made from material'@en	0.47%
+P1801	2	'commemorative plaque image'@en	0.47%
+P1699	2	'SkyscraperPage building ID'@en	0.47%
+P1459	2	'Cadw Building ID'@en	0.47%
+P1454	2	'legal form'@en	0.47%
+P1448	2	'official name'@en	0.47%
+P1430	2	'OpenPlaques subject ID'@en	0.47%
+P1417	2	'Encyclopædia Britannica Online ID'@en	0.47%
+P138	2	'named after'@en	0.47%
+P1004	2	'MusicBrainz place ID'@en	0.47%
+P9721	1	'image of entrance'@en	0.23%
+P966	1	'MusicBrainz label ID'@en	0.23%
+P88	1	'commissioned by'@en	0.23%
+P8733	1	'number of rooms'@en	0.23%
+P8649	1	'National Park Service place ID'@en	0.23%
+P8592	1	'aerial view'@en	0.23%
+P859	1	'sponsor'@en	0.23%
+P8567	1	'The Living New Deal ID'@en	0.23%
+P8350	1	'Singapore Infopedia ID'@en	0.23%
+P8246	1	'Natural Atlas ID'@en	0.23%
+P8226	1	'Wyoming SHPO ID'@en	0.23%
+P8189	1	'National Library of Israel J9U ID'@en	0.23%
+P7831	1	'NMVW ID'@en	0.23%
+P7695	1	'e-WV: The West Virginia Encyclopedia ID'@en	0.23%
+P7690	1	'South Carolina Encyclopedia ID'@en	0.23%
+P749	1	'parent organization'@en	0.23%
+P7350	1	'Gazetteer for Scotland place ID'@en	0.23%
+P7084	1	'related category'@en	0.23%
+P6766	1	'Who\'s on First ID'@en	0.23%
+P6486	1	'Pacific Coast Architecture Database building ID'@en	0.23%
+P6379	1	'has works in the collection'@en	0.23%
+P631	1	'structural engineer'@en	0.23%
+P6283	1	'MNopedia ID'@en	0.23%
+P5904	1	'ASCE Historical Civil Engineering Landmark ID'@en	0.23%
+P5835	1	'World Travel Awards ID'@en	0.23%
+P5652	1	'Carthalia ID'@en	0.23%
+P485	1	'archives at'@en	0.23%
+P4697	1	'Historic Place Names of Wales ID'@en	0.23%
+P466	1	'occupant'@en	0.23%
+P4658	1	'Coflein ID'@en	0.23%
+P443	1	'pronunciation audio'@en	0.23%
+P4291	1	'panoramic view'@en	0.23%
+P4273	1	'New York City Landmarks Preservation Commission ID'@en	0.23%
+P421	1	'located in time zone'@en	0.23%
+P4171	1	'World Heritage Tentative List ID'@en	0.23%
+P4166	1	'Georgian National Register of Monuments ID'@en	0.23%
+P4146	1	'Athenaeum museum ID'@en	0.23%
+P4117	1	'National Record of the Historic Environment ID'@en	0.23%
+P3999	1	'date of official closure'@en	0.23%
+P3988	1	'National Library Board Singapore ID'@en	0.23%
+P3794	1	'Dictionary of Sydney ID'@en	0.23%
+P3793	1	'IPv6 routing prefix'@en	0.23%
+P3616	1	'Vision of Britain place ID'@en	0.23%
+P3518	1	'Smithsonian trinomial'@en	0.23%
+P349	1	'National Diet Library ID'@en	0.23%
+P3451	1	'nighttime view'@en	0.23%
+P2851	1	'payment types accepted'@en	0.23%
+P2847	1	'Google+ ID'@en	0.23%
+P2814	1	'P-number'@en	0.23%
+P2783	1	'Danish listed buildings case ID'@en	0.23%
+P227	1	'GND ID'@en	0.23%
+P2001	1	'Revised Romanization'@en	0.23%
+P1942	1	'McCune-Reischauer romanization'@en	0.23%
+P193	1	'main building contractor'@en	0.23%
+P1893	1	'OpenPlaques plaque ID'@en	0.23%
+P1716	1	'brand'@en	0.23%
+P1669	1	'Cultural Objects Names Authority ID'@en	0.23%
+P1667	1	'Getty Thesaurus of Geographic Names ID'@en	0.23%
+P1602	1	'Art UK venue ID'@en	0.23%
+P1581	1	'official blog'@en	0.23%
+P1398	1	'structure replaces'@en	0.23%
+P1343	1	'described by source'@en	0.23%
+P1299	1	'depicted by'@en	0.23%
+P1278	1	'Legal Entity Identifier'@en	0.23%
+P126	1	'maintained by'@en	0.23%
+P1139	1	'floors below ground'@en	0.23%
+P1056	1	'product or material produced'@en	0.23%

@@ -1,0 +1,340 @@
+property	count	property;label	percentage
+P646	3480	'Freebase ID'@en	98.28%
+P17	3036	'country'@en	85.74%
+P571	2831	'inception'@en	79.95%
+P966	2520	'MusicBrainz label ID'@en	71.17%
+P856	1767	'official website'@en	49.9%
+P1955	1014	'Discogs label ID'@en	28.64%
+P159	975	'headquarters location'@en	27.53%
+P136	943	'genre'@en	26.63%
+P112	685	'founded by'@en	19.34%
+P214	641	'VIAF ID'@en	18.1%
+P7859	606	'WorldCat Identities ID'@en	17.11%
+P2561	371	'name'@en	10.48%
+P7313	367	'Rate Your Music label ID'@en	10.36%
+P2002	366	'Twitter username'@en	10.34%
+P1889	355	'different from'@en	10.03%
+P8687	349	'social media followers'@en	9.86%
+P910	341	'topic\'s main category'@en	9.63%
+P358	315	'discography'@en	8.9%
+P749	312	'parent organization'@en	8.81%
+P2013	303	'Facebook ID'@en	8.56%
+P154	301	'logo image'@en	8.5%
+P244	264	'Library of Congress authority ID'@en	7.46%
+P1448	251	'official name'@en	7.09%
+P3417	241	'Quora topic ID'@en	6.81%
+P576	228	'dissolved, abolished or demolished date'@en	6.44%
+P2003	220	'Instagram username'@en	6.21%
+P2397	194	'YouTube channel ID'@en	5.48%
+P268	189	'Bibliothèque nationale de France ID'@en	5.34%
+P452	156	'industry'@en	4.41%
+P127	155	'owned by'@en	4.38%
+P740	145	'location of formation'@en	4.09%
+P1552	145	'has quality'@en	4.09%
+P373	132	'Commons category'@en	3.73%
+P213	121	'ISNI'@en	3.42%
+P137	120	'operator'@en	3.39%
+P3040	113	'SoundCloud ID'@en	3.19%
+P750	97	'distributed by'@en	2.74%
+P1454	94	'legal form'@en	2.65%
+P1813	92	'short name'@en	2.6%
+P355	88	'subsidiary'@en	2.49%
+P7320	82	'Labelcode'@en	2.32%
+P495	81	'country of origin'@en	2.29%
+P18	81	'image'@en	2.29%
+P3265	63	'Myspace ID'@en	1.78%
+P2088	62	'Crunchbase organization ID'@en	1.75%
+P3283	55	'Bandcamp ID'@en	1.55%
+P2671	42	'Google Knowledge Graph ID'@en	1.19%
+P1417	42	'Encyclopædia Britannica Online ID'@en	1.19%
+P6601	41	'Resident Advisor label ID'@en	1.16%
+P1056	40	'product or material produced'@en	1.13%
+P8166	39	'Encyclopaedia Metallum label ID'@en	1.1%
+P227	38	'GND ID'@en	1.07%
+P131	38	'located in the administrative territorial entity'@en	1.07%
+P199	37	'business division'@en	1.04%
+P4013	36	'Giphy username'@en	1.02%
+P1728	32	'AllMusic artist ID'@en	0.9%
+P6262	31	'Fandom article ID'@en	0.88%
+P138	30	'named after'@en	0.85%
+P1365	30	'replaces'@en	0.85%
+P1953	28	'Discogs artist ID'@en	0.79%
+P2354	26	'has list'@en	0.73%
+P1320	26	'OpenCorporates ID'@en	0.73%
+P7084	25	'related category'@en	0.71%
+P2847	25	'Google+ ID'@en	0.71%
+P1366	25	'replaced by'@en	0.71%
+P6869	24	'Hoopla publisher ID'@en	0.68%
+P973	23	'described at URL'@en	0.65%
+P1343	23	'described by source'@en	0.65%
+P101	23	'field of work'@en	0.65%
+P5882	22	'Muziekweb performer ID'@en	0.62%
+P3219	22	'Encyclopædia Universalis ID'@en	0.62%
+P1830	22	'owner of'@en	0.62%
+P434	21	'MusicBrainz artist ID'@en	0.59%
+P269	21	'IdRef ID'@en	0.59%
+P2174	19	'Museum of Modern Art artist ID'@en	0.54%
+P625	18	'coordinate location'@en	0.51%
+P361	18	'part of'@en	0.51%
+P276	18	'location'@en	0.51%
+P8863	17	'Qobuz label ID'@en	0.48%
+P407	17	'language of work or name'@en	0.48%
+P3225	16	'Corporate Number (Japan)'@en	0.45%
+P3511	15	'VGMDb organization ID'@en	0.42%
+P2373	14	'Genius artist ID'@en	0.4%
+P2031	14	'work period (start)'@en	0.4%
+P8189	13	'National Library of Israel J9U ID'@en	0.37%
+P6375	13	'street address'@en	0.37%
+P527	13	'has part or parts'@en	0.37%
+P3553	13	'Zhihu topic ID'@en	0.37%
+P5266	12	'Finnish national bibliography corporate name ID'@en	0.34%
+P5174	12	'Rockipedia label ID'@en	0.34%
+P3347	12	'PermID'@en	0.34%
+P7371	11	'Beatport label ID'@en	0.31%
+P7109	11	'Acharts.co artist ID'@en	0.31%
+P414	10	'stock exchange'@en	0.28%
+P3943	10	'Tumblr username'@en	0.28%
+P3192	10	'Last.fm ID'@en	0.28%
+P1705	10	'native label'@en	0.28%
+P169	10	'chief executive officer'@en	0.28%
+P1207	10	'NUKAT ID'@en	0.28%
+P1128	10	'employees'@en	0.28%
+P9509	9	'Mixcloud ID'@en	0.25%
+P7704	9	'Europeana entity'@en	0.25%
+P5008	9	'on focus list of Wikimedia project'@en	0.25%
+P4773	9	'MobyGames company ID'@en	0.25%
+P409	9	'Libraries Australia ID'@en	0.25%
+P691	8	'NKCR AUT ID'@en	0.23%
+P6427	8	'trading name'@en	0.23%
+P1037	8	'director / manager'@en	0.23%
+P950	7	'Biblioteca Nacional de España ID'@en	0.2%
+P7886	7	'Media Arts Database ID'@en	0.2%
+P6379	7	'has works in the collection'@en	0.2%
+P5395	7	'Canadian Encyclopedia article ID'@en	0.2%
+P463	7	'member of'@en	0.2%
+P3500	7	'Ringgold ID'@en	0.2%
+P3478	7	'Songkick artist ID'@en	0.2%
+P1329	7	'phone number'@en	0.2%
+P1004	7	'MusicBrainz place ID'@en	0.2%
+P7085	6	'TikTok username'@en	0.17%
+P580	6	'start time'@en	0.17%
+P345	6	'IMDb ID'@en	0.17%
+P2541	6	'operating area'@en	0.17%
+P1315	6	'NLA Trove people ID'@en	0.17%
+P1220	6	'Internet Broadway Database person ID'@en	0.17%
+P9965	5	'Musik-Sammler.de artist ID'@en	0.14%
+P968	5	'email address'@en	0.14%
+P9152	5	'CollectieGelderland creator ID'@en	0.14%
+P7729	5	'GUI number'@en	0.14%
+P6802	5	'related image'@en	0.14%
+P6723	5	'BlackPast.org ID'@en	0.14%
+P4527	5	'UK Parliament thesaurus ID'@en	0.14%
+P3579	5	'Sina Weibo user ID'@en	0.14%
+P3185	5	'VK ID'@en	0.14%
+P2622	5	'Companies House company ID'@en	0.14%
+P1814	5	'name in kana'@en	0.14%
+P166	5	'award received'@en	0.14%
+P1616	5	'SIREN number'@en	0.14%
+P1451	5	'motto text'@en	0.14%
+P1424	5	'topic\'s main template'@en	0.14%
+P9550	4	'Apple Music label ID'@en	0.11%
+P921	4	'main subject'@en	0.11%
+P7212	4	'LyricsTranslate ID'@en	0.11%
+P7052	4	'Jaxsta profile ID'@en	0.11%
+P6698	4	'Japan Search name ID'@en	0.11%
+P6181	4	'Disney A to Z ID'@en	0.11%
+P4342	4	'Store norske leksikon ID'@en	0.11%
+P4264	4	'LinkedIn company ID'@en	0.11%
+P349	4	'National Diet Library ID'@en	0.11%
+P3393	4	'LittleSis organization ID'@en	0.11%
+P2581	4	'BabelNet ID'@en	0.11%
+P2333	4	'Norwegian organisation number'@en	0.11%
+P1476	4	'title'@en	0.11%
+P946	3	'ISIN'@en	0.08%
+P935	3	'Commons gallery'@en	0.08%
+P9345	3	'Discord server numeric ID'@en	0.08%
+P8179	3	'Canadiana Name Authority ID'@en	0.08%
+P6821	3	'Uppsala University Alvin ID'@en	0.08%
+P6298	3	'bgm.tv person ID'@en	0.08%
+P5909	3	'HKCAN ID'@en	0.08%
+P4756	3	'V Live channel ID'@en	0.08%
+P4104	3	'Carnegie Hall agent ID'@en	0.08%
+P4015	3	'Vimeo identifier'@en	0.08%
+P4003	3	'Facebook page ID'@en	0.08%
+P2900	3	'fax number'@en	0.08%
+P2888	3	'exact match'@en	0.08%
+P281	3	'postal code'@en	0.08%
+P1983	3	'Anime News Network company ID'@en	0.08%
+P1902	3	'Spotify artist ID'@en	0.08%
+P1581	3	'official blog'@en	0.08%
+P156	3	'followed by'@en	0.08%
+P1416	3	'affiliation'@en	0.08%
+P1407	3	'MusicBrainz series ID'@en	0.08%
+P135	3	'movement'@en	0.08%
+P1278	3	'Legal Entity Identifier'@en	0.08%
+P106	3	'occupation'@en	0.08%
+P1015	3	'NORAF ID'@en	0.08%
+P989	2	'spoken text audio'@en	0.06%
+P9321	2	'Inforegister ID'@en	0.06%
+P8432	2	'Österreichisches Musiklexikon Online ID'@en	0.06%
+P8408	2	'KBpedia ID'@en	0.06%
+P8317	2	'Philadelphia Museum of Art entity ID'@en	0.06%
+P793	2	'significant event'@en	0.06%
+P7502	2	'Golden ID'@en	0.06%
+P7194	2	'AZLyrics.com artist ID'@en	0.06%
+P7140	2	'München Wiki article ID'@en	0.06%
+P6839	2	'TV Tropes identifier'@en	0.06%
+P6683	2	'Alexander Turnbull Library ID'@en	0.06%
+P6538	2	'Yandex Music label ID'@en	0.06%
+P6518	2	'Business Registry code (Estonia)'@en	0.06%
+P6160	2	'BoardGameGeek game publisher ID'@en	0.06%
+P582	2	'end time'@en	0.06%
+P5531	2	'Central Index Key'@en	0.06%
+P553	2	'website account on'@en	0.06%
+P4903	2	'New Georgia Encyclopedia ID'@en	0.06%
+P485	2	'archives at'@en	0.06%
+P4839	2	'Wolfram Language entity code'@en	0.06%
+P4293	2	'PM20 folder ID'@en	0.06%
+P4208	2	'Billboard artist ID'@en	0.06%
+P4073	2	'Fandom wiki ID'@en	0.06%
+P3984	2	'subreddit'@en	0.06%
+P3827	2	'JSTOR topic ID'@en	0.06%
+P3789	2	'Telegram username'@en	0.06%
+P3608	2	'EU VAT number'@en	0.06%
+P3544	2	'Te Papa agent ID'@en	0.06%
+P3435	2	'VGMdb artist ID'@en	0.06%
+P3215	2	'SIRET number'@en	0.06%
+P3057	2	'Charity Commission no.'@en	0.06%
+P3035	2	'ISBN publisher prefix'@en	0.06%
+P3017	2	'Rolling Stone artist ID'@en	0.06%
+P2984	2	'Snapchat username'@en	0.06%
+P2699	2	'URL'@en	0.06%
+P2650	2	'interested in'@en	0.06%
+P2139	2	'total revenue'@en	0.06%
+P1792	2	'category of associated people'@en	0.06%
+P1687	2	'Wikidata property'@en	0.06%
+P1553	2	'Yandex Music artist ID'@en	0.06%
+P155	2	'follows'@en	0.06%
+P1430	2	'OpenPlaques subject ID'@en	0.06%
+P1412	2	'languages spoken, written or signed'@en	0.06%
+P1411	2	'nominated for'@en	0.06%
+P1297	2	'IRS Employer Identification Number'@en	0.06%
+P10550	2	'ACE Repertory publisher ID'@en	0.06%
+P10291	2	'Wikisimpsons ID'@en	0.06%
+P9918	1	'Kallías ID'@en	0.03%
+P9893	1	'Naver Post member ID'@en	0.03%
+P98	1	'editor'@en	0.03%
+P9743	1	'Podchaser creator ID'@en	0.03%
+P9545	1	'Encyclopedia of China Online Database ID (Second Edition)'@en	0.03%
+P8704	1	'Spotify playlist ID'@en	0.03%
+P8653	1	'Museen Dresden article ID'@en	0.03%
+P8525	1	'ToS;DR service numerical identifier'@en	0.03%
+P8501	1	'Gateway to Research organisation ID'@en	0.03%
+P8313	1	'Den Store Danske ID'@en	0.03%
+P8309	1	'Yle topic ID'@en	0.03%
+P8290	1	'Archivio Storico Ricordi person ID'@en	0.03%
+P8272	1	'BaGLAMa GID'@en	0.03%
+P822	1	'mascot'@en	0.03%
+P8093	1	'donations'@en	0.03%
+P8053	1	'Latvian unified registration number'@en	0.03%
+P800	1	'notable work'@en	0.03%
+P7959	1	'historic county'@en	0.03%
+P7958	1	'Chicago Landmarks ID'@en	0.03%
+P7901	1	'Encyclopedia of Chicago ID'@en	0.03%
+P7842	1	'Vienna History Wiki ID'@en	0.03%
+P7818	1	'French Vikidia ID'@en	0.03%
+P7695	1	'e-WV: The West Virginia Encyclopedia ID'@en	0.03%
+P7644	1	'Encyclopedia of Cleveland History ID'@en	0.03%
+P7641	1	'MTV Germany artist ID'@en	0.03%
+P7632	1	'MPPDA Digital Archive organisation ID'@en	0.03%
+P7425	1	'Rotterdam City Archives actor ID'@en	0.03%
+P7363	1	'ISSN-L'@en	0.03%
+P7305	1	'Online PWN Encyclopedia ID'@en	0.03%
+P7293	1	'PLWABN ID'@en	0.03%
+P7192	1	'TuneIn artist ID'@en	0.03%
+P7014	1	'terms of service URL'@en	0.03%
+P6960	1	'IMVDb artist ID'@en	0.03%
+P6905	1	'Bebo profile ID'@en	0.03%
+P6782	1	'ROR ID'@en	0.03%
+P669	1	'located on street'@en	0.03%
+P6645	1	'Stedelijk Museum Amsterdam ID'@en	0.03%
+P6460	1	'Swedish Organization Number'@en	0.03%
+P6412	1	'Gran Enciclopèdia de la Música ID'@en	0.03%
+P641	1	'sport'@en	0.03%
+P6351	1	'Genius artist numeric ID'@en	0.03%
+P6016	1	'Tennessee Encyclopedia ID'@en	0.03%
+P5842	1	'Apple Podcasts podcast ID'@en	0.03%
+P5797	1	'Twitch channel ID'@en	0.03%
+P577	1	'publication date'@en	0.03%
+P569	1	'date of birth'@en	0.03%
+P5587	1	'Libris-URI'@en	0.03%
+P5404	1	'Rate Your Music artist ID'@en	0.03%
+P535	1	'Find a Grave memorial ID'@en	0.03%
+P5337	1	'Google News topics ID'@en	0.03%
+P5172	1	'Rockipedia artist ID'@en	0.03%
+P4829	1	'Swiss Enterprise Identification Number'@en	0.03%
+P4702	1	'Google Arts & Culture partner ID'@en	0.03%
+P4629	1	'Online Books Page author ID'@en	0.03%
+P460	1	'said to be the same as'@en	0.03%
+P437	1	'distribution format'@en	0.03%
+P4300	1	'YouTube playlist ID'@en	0.03%
+P4226	1	'Cyworld ID'@en	0.03%
+P4198	1	'Google Play Music artist ID (former scheme)'@en	0.03%
+P4167	1	'Dagens Næringsliv topic ID'@en	0.03%
+P3989	1	'members have occupation'@en	0.03%
+P396	1	'SBN author ID'@en	0.03%
+P3836	1	'Pinterest username'@en	0.03%
+P3794	1	'Dictionary of Sydney ID'@en	0.03%
+P3793	1	'IPv6 routing prefix'@en	0.03%
+P3762	1	'openMLOL author ID'@en	0.03%
+P3569	1	'Cultureel Woordenboek ID'@en	0.03%
+P3479	1	'Omni topic ID'@en	0.03%
+P3430	1	'SNAC ARK ID'@en	0.03%
+P3377	1	'Bloomberg company ID'@en	0.03%
+P3342	1	'significant person'@en	0.03%
+P3280	1	'BAnQ author ID'@en	0.03%
+P3224	1	'NAICS code'@en	0.03%
+P3222	1	'NE.se ID'@en	0.03%
+P3153	1	'Crossref funder ID'@en	0.03%
+P2942	1	'Dailymotion channel ID'@en	0.03%
+P2936	1	'language used'@en	0.03%
+P2910	1	'icon'@en	0.03%
+P2850	1	'Apple Music artist ID (U.S. version)'@en	0.03%
+P2722	1	'Deezer artist ID'@en	0.03%
+P271	1	'CiNii author ID (books)'@en	0.03%
+P27	1	'country of citizenship'@en	0.03%
+P2652	1	'partnership with'@en	0.03%
+P264	1	'record label'@en	0.03%
+P2619	1	'Hungarian company ID'@en	0.03%
+P2596	1	'culture'@en	0.03%
+P2572	1	'hashtag'@en	0.03%
+P2531	1	'Box Office Mojo studio ID'@en	0.03%
+P243	1	'OCLC control number'@en	0.03%
+P2427	1	'GRID ID'@en	0.03%
+P236	1	'ISSN'@en	0.03%
+P2184	1	'history of topic'@en	0.03%
+P2163	1	'FAST ID'@en	0.03%
+P2125	1	'Revised Hepburn romanization'@en	0.03%
+P2001	1	'Revised Romanization'@en	0.03%
+P1942	1	'McCune-Reischauer romanization'@en	0.03%
+P1828	1	'IPI name number'@en	0.03%
+P1816	1	'National Portrait Gallery (London) person ID'@en	0.03%
+P175	1	'performer'@en	0.03%
+P172	1	'ethnic group'@en	0.03%
+P170	1	'creator'@en	0.03%
+P1695	1	'NLP ID (old)'@en	0.03%
+P1670	1	'Canadiana Authorities ID (former scheme)'@en	0.03%
+P1640	1	'curator'@en	0.03%
+P1612	1	'Commons Institution page'@en	0.03%
+P1327	1	'partner in business or sport'@en	0.03%
+P1317	1	'floruit'@en	0.03%
+P1296	1	'Gran Enciclopèdia Catalana ID'@en	0.03%
+P1292	1	'DNB editions'@en	0.03%
+P1268	1	'represents'@en	0.03%
+P123	1	'publisher'@en	0.03%
+P121	1	'item operated'@en	0.03%
+P1167	1	'USB vendor ID'@en	0.03%
+P1059	1	'CVR number'@en	0.03%
+P10352	1	'Naver TV ID'@en	0.03%
+P10301	1	'German Lobbyregister ID'@en	0.03%
+P10283	1	'OpenAlex ID'@en	0.03%

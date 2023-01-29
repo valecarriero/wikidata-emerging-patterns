@@ -1,0 +1,166 @@
+property	count	property;label	percentage
+P17	600	'country'@en	99.83%
+P625	584	'coordinate location'@en	97.17%
+P131	556	'located in the administrative territorial entity'@en	92.51%
+P646	542	'Freebase ID'@en	90.18%
+P18	504	'image'@en	83.86%
+P1101	488	'floors above ground'@en	81.2%
+P571	440	'inception'@en	73.21%
+P1305	424	'CTBUH Skyscraper Center building ID'@en	70.55%
+P373	353	'Commons category'@en	58.74%
+P84	278	'architect'@en	46.26%
+P455	214	'Emporis building ID'@en	35.61%
+P454	174	'Structurae structure ID'@en	28.95%
+P1619	167	'date of official opening'@en	27.79%
+P149	133	'architectural style'@en	22.13%
+P1301	125	'number of elevators'@en	20.8%
+P2048	122	'height'@en	20.3%
+P1699	120	'SkyscraperPage building ID'@en	19.97%
+P856	108	'official website'@en	17.97%
+P127	106	'owned by'@en	17.64%
+P6375	67	'street address'@en	11.15%
+P669	49	'located on street'@en	8.15%
+P193	48	'main building contractor'@en	7.99%
+P5383	40	'archINFORM project ID'@en	6.66%
+P1435	36	'heritage designation'@en	5.99%
+P1139	36	'floors below ground'@en	5.99%
+P1566	35	'GeoNames ID'@en	5.82%
+P276	29	'location'@en	4.83%
+P2581	29	'BabelNet ID'@en	4.83%
+P8933	28	'category for the view from the item'@en	4.66%
+P631	27	'structural engineer'@en	4.49%
+P649	26	'NRHP reference number'@en	4.33%
+P466	26	'occupant'@en	4.33%
+P366	25	'has use'@en	4.16%
+P793	24	'significant event'@en	3.99%
+P281	24	'postal code'@en	3.99%
+P138	22	'named after'@en	3.66%
+P7959	21	'historic county'@en	3.49%
+P2046	19	'area'@en	3.16%
+P1838	16	'PSS-archi ID'@en	2.66%
+P3417	15	'Quora topic ID'@en	2.5%
+P214	15	'VIAF ID'@en	2.5%
+P7561	13	'category for the interior of the item'@en	2.16%
+P88	12	'commissioned by'@en	2.0%
+P3451	12	'nighttime view'@en	2.0%
+P3134	12	'TripAdvisor ID'@en	2.0%
+P186	11	'made from material'@en	1.83%
+P1705	11	'native label'@en	1.83%
+P1417	11	'Encyclopædia Britannica Online ID'@en	1.83%
+P935	9	'Commons gallery'@en	1.5%
+P910	9	'topic\'s main category'@en	1.5%
+P8596	9	'category for the exterior of the item'@en	1.5%
+P7859	9	'WorldCat Identities ID'@en	1.5%
+P5775	9	'image of interior'@en	1.5%
+P166	9	'award received'@en	1.5%
+P8517	7	'view'@en	1.16%
+P10533	7	'Agoda hotel numeric ID'@en	1.16%
+P10532	7	'Booking.com numeric ID'@en	1.16%
+P10487	7	'skyscanner hotel ID'@en	1.16%
+P10290	7	'hotel rating'@en	1.16%
+P7772	6	'Atlas Obscura identifier'@en	1.0%
+P244	6	'Library of Congress authority ID'@en	1.0%
+P2013	6	'Facebook ID'@en	1.0%
+P137	6	'operator'@en	1.0%
+P527	5	'has part or parts'@en	0.83%
+P4839	5	'Wolfram Language entity code'@en	0.83%
+P47	5	'shares border with'@en	0.83%
+P3988	5	'National Library Board Singapore ID'@en	0.83%
+P2671	5	'Google Knowledge Graph ID'@en	0.83%
+P227	5	'GND ID'@en	0.83%
+P1837	5	'Gaoloumi ID'@en	0.83%
+P973	4	'described at URL'@en	0.67%
+P402	4	'OpenStreetMap relation ID'@en	0.67%
+P3749	4	'Google Maps Customer ID'@en	0.67%
+P361	4	'part of'@en	0.67%
+P2765	4	'blue-style.com ID'@en	0.67%
+P1889	4	'different from'@en	0.67%
+P167	4	'structure replaced by'@en	0.67%
+P135	4	'movement'@en	0.67%
+P1216	4	'National Heritage List for England number'@en	0.67%
+P8989	3	'category for the view of the item'@en	0.5%
+P8988	3	'Mapy.cz ID'@en	0.5%
+P613	3	'OS grid reference'@en	0.5%
+P6012	3	'California Office of Historic Preservation ID'@en	0.5%
+P5817	3	'state of use'@en	0.5%
+P576	3	'dissolved, abolished or demolished date'@en	0.5%
+P443	3	'pronunciation audio'@en	0.5%
+P4173	3	'Instagram location ID'@en	0.5%
+P3607	3	'Booking.com hotel ID'@en	0.5%
+P3032	3	'adjacent building'@en	0.5%
+P2762	3	'CTBUH Skyscraper Center building complex ID'@en	0.5%
+P1398	3	'structure replaces'@en	0.5%
+P1329	3	'phone number'@en	0.5%
+P8189	2	'National Library of Israel J9U ID'@en	0.33%
+P8132	2	'Texas Historic Sites Atlas ID'@en	0.33%
+P6776	2	'IMTL.org ID'@en	0.33%
+P6766	2	'Who\'s on First ID'@en	0.33%
+P582	2	'end time'@en	0.33%
+P4856	2	'conscription number'@en	0.33%
+P3898	2	'Hotels.com hotel ID'@en	0.33%
+P2270	2	'Emporis building complex ID'@en	0.33%
+P2130	2	'cost'@en	0.33%
+P206	2	'located in or next to body of water'@en	0.33%
+P178	2	'developer'@en	0.33%
+P154	2	'logo image'@en	0.33%
+P1343	2	'described by source'@en	0.33%
+P989	1	'spoken text audio'@en	0.17%
+P9721	1	'image of entrance'@en	0.17%
+P9339	1	'Bavarian Monument Map object ID (architectural monument)'@en	0.17%
+P8655	1	'LoC HABS/HAER/HALS place ID'@en	0.17%
+P8350	1	'Singapore Infopedia ID'@en	0.17%
+P7818	1	'French Vikidia ID'@en	0.17%
+P7514	1	'landscape architect'@en	0.17%
+P7084	1	'related category'@en	0.17%
+P706	1	'located in/on physical feature'@en	0.17%
+P6237	1	'real estate developer'@en	0.17%
+P6008	1	'Agoda hotel ID'@en	0.17%
+P5904	1	'ASCE Historical Civil Engineering Landmark ID'@en	0.17%
+P5835	1	'World Travel Awards ID'@en	0.17%
+P5816	1	'state of conservation'@en	0.17%
+P580	1	'start time'@en	0.17%
+P5734	1	'Historic Hotels of America ID'@en	0.17%
+P5652	1	'Carthalia ID'@en	0.17%
+P528	1	'catalog code'@en	0.17%
+P5208	1	'BAG building ID'@en	0.17%
+P4896	1	'3D model'@en	0.17%
+P485	1	'archives at'@en	0.17%
+P4694	1	'Arquivo Arq ID'@en	0.17%
+P4672	1	'EMLO location ID'@en	0.17%
+P463	1	'member of'@en	0.17%
+P462	1	'color'@en	0.17%
+P4291	1	'panoramic view'@en	0.17%
+P4273	1	'New York City Landmarks Preservation Commission ID'@en	0.17%
+P4264	1	'LinkedIn company ID'@en	0.17%
+P4244	1	'Bavarian monument authority ID'@en	0.17%
+P421	1	'located in time zone'@en	0.17%
+P414	1	'stock exchange'@en	0.17%
+P4129	1	'Cinema Treasures ID'@en	0.17%
+P4088	1	'Irish National Inventory of Architectural Heritage ID'@en	0.17%
+P3987	1	'SHARE Catalogue author ID'@en	0.17%
+P3977	1	'Songkick venue ID'@en	0.17%
+P3794	1	'Dictionary of Sydney ID'@en	0.17%
+P3758	1	'DOCOMOMO Ibérico ID'@en	0.17%
+P3579	1	'Sina Weibo user ID'@en	0.17%
+P3225	1	'Corporate Number (Japan)'@en	0.17%
+P3222	1	'NE.se ID'@en	0.17%
+P3173	1	'offers view on'@en	0.17%
+P3059	1	'Architectuurgids building ID'@en	0.17%
+P2917	1	'COAM structure ID'@en	0.17%
+P2817	1	'appears in the heritage monument list'@en	0.17%
+P2441	1	'literal translation'@en	0.17%
+P2284	1	'price'@en	0.17%
+P2186	1	'Wiki Loves Monuments ID'@en	0.17%
+P213	1	'ISNI'@en	0.17%
+P2049	1	'width'@en	0.17%
+P2043	1	'length'@en	0.17%
+P2003	1	'Instagram username'@en	0.17%
+P2001	1	'Revised Romanization'@en	0.17%
+P1942	1	'McCune-Reischauer romanization'@en	0.17%
+P1814	1	'name in kana'@en	0.17%
+P1813	1	'short name'@en	0.17%
+P177	1	'crosses'@en	0.17%
+P144	1	'based on'@en	0.17%
+P126	1	'maintained by'@en	0.17%
+P10425	1	'Trip.com hotel ID'@en	0.17%
+P1004	1	'MusicBrainz place ID'@en	0.17%

@@ -1,0 +1,32 @@
+property	count	property;label	percentage
+P646	20332	'Freebase ID'@en	89.21%
+P495	19897	'country of origin'@en	87.3%
+P136	19202	'genre'@en	84.25%
+P434	19005	'MusicBrainz artist ID'@en	83.39%
+P1953	18582	'Discogs artist ID'@en	81.53%
+P2031	17936	'work period (start)'@en	78.7%
+P571	15245	'inception'@en	66.89%
+P3478	14336	'Songkick artist ID'@en	62.9%
+P213	12377	'ISNI'@en	54.31%
+P214	12215	'VIAF ID'@en	53.6%
+P856	11750	'official website'@en	51.56%
+P7859	11670	'WorldCat Identities ID'@en	51.2%
+P740	11564	'location of formation'@en	50.74%
+P264	11094	'record label'@en	48.68%
+P5882	10905	'Muziekweb performer ID'@en	47.85%
+P1728	9293	'AllMusic artist ID'@en	40.77%
+P2013	8601	'Facebook ID'@en	37.74%
+P18	8390	'image'@en	36.81%
+P5404	8361	'Rate Your Music artist ID'@en	36.69%
+P3265	8252	'Myspace ID'@en	36.21%
+P244	7246	'Library of Congress authority ID'@en	31.79%
+P527	6955	'has part or parts'@en	30.52%
+P3192	6137	'Last.fm ID'@en	26.93%
+P1902	5558	'Spotify artist ID'@en	24.39%
+P2002	5473	'Twitter username'@en	24.01%
+P4208	5338	'Billboard artist ID'@en	23.42%
+P7212	4696	'LyricsTranslate ID'@en	20.6%
+P373	4277	'Commons category'@en	18.77%
+P2722	4027	'Deezer artist ID'@en	17.67%
+P8687	3683	'social media followers'@en	16.16%
+P7109	3212	'Acharts.co artist ID'@en	14.09%

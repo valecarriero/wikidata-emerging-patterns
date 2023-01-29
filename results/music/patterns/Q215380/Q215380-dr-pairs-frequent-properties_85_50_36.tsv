@@ -1,0 +1,37 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q215380	P2013	external-id	8601.0	'musical group'@en	'Facebook ID'@en		37.74%
+Q215380	P434	external-id	19005.0	'musical group'@en	'MusicBrainz artist ID'@en		83.39%
+Q215380	P2031	time	17936.0	'musical group'@en	'work period (start)'@en		78.7%
+Q215380	P213	external-id	12377.0	'musical group'@en	'ISNI'@en		54.31%
+Q215380	P2722	external-id	4027.0	'musical group'@en	'Deezer artist ID'@en		17.67%
+Q215380	P5404	external-id	8361.0	'musical group'@en	'Rate Your Music artist ID'@en		36.69%
+Q215380	P740	Q1549591	6329.0	'musical group'@en	'location of formation'@en	'big city'@en	27.77%
+Q215380	P740	Q515	4502.0	'musical group'@en	'location of formation'@en	'city'@en	19.75%
+Q215380	P740	Q1093829	3746.0	'musical group'@en	'location of formation'@en	'city of the United States'@en	16.44%
+Q215380	P1953	external-id	18582.0	'musical group'@en	'Discogs artist ID'@en		81.53%
+Q215380	P856	url	11750.0	'musical group'@en	'official website'@en		51.56%
+Q215380	P7109	external-id	3212.0	'musical group'@en	'Acharts.co artist ID'@en		14.09%
+Q215380	P571	time	15245.0	'musical group'@en	'inception'@en		66.89%
+Q215380	P495	Q6256	19847.0	'musical group'@en	'country of origin'@en	'country'@en	87.08%
+Q215380	P495	Q3624078	19491.0	'musical group'@en	'country of origin'@en	'sovereign state'@en	85.52%
+Q215380	P495	Q512187	10138.0	'musical group'@en	'country of origin'@en	'federal republic'@en	44.48%
+Q215380	P495	Q1520223	9983.0	'musical group'@en	'country of origin'@en	'constitutional republic'@en	43.8%
+Q215380	P4208	external-id	5338.0	'musical group'@en	'Billboard artist ID'@en		23.42%
+Q215380	P2002	external-id	5473.0	'musical group'@en	'Twitter username'@en		24.01%
+Q215380	P373	string	4277.0	'musical group'@en	'Commons category'@en		18.77%
+Q215380	P3265	external-id	8252.0	'musical group'@en	'Myspace ID'@en		36.21%
+Q215380	P7859	external-id	11670.0	'musical group'@en	'WorldCat Identities ID'@en		51.2%
+Q215380	P244	external-id	7246.0	'musical group'@en	'Library of Congress authority ID'@en		31.79%
+Q215380	P8687	quantity	3683.0	'musical group'@en	'social media followers'@en		16.16%
+Q215380	P3192	external-id	6137.0	'musical group'@en	'Last.fm ID'@en		26.93%
+Q215380	P136	Q188451	19165.0	'musical group'@en	'genre'@en	'music genre'@en	84.09%
+Q215380	P527	Q5	6840.0	'musical group'@en	'has part or parts'@en	'human'@en	30.01%
+Q215380	P3478	external-id	14336.0	'musical group'@en	'Songkick artist ID'@en		62.9%
+Q215380	P1728	external-id	9293.0	'musical group'@en	'AllMusic artist ID'@en		40.77%
+Q215380	P7212	external-id	4696.0	'musical group'@en	'LyricsTranslate ID'@en		20.6%
+Q215380	P5882	external-id	10905.0	'musical group'@en	'Muziekweb performer ID'@en		47.85%
+Q215380	P264	Q18127	10586.0	'musical group'@en	'record label'@en	'record label'@en	46.45%
+Q215380	P1902	external-id	5558.0	'musical group'@en	'Spotify artist ID'@en		24.39%
+Q215380	P214	external-id	12215.0	'musical group'@en	'VIAF ID'@en		53.6%
+Q215380	P646	external-id	20332.0	'musical group'@en	'Freebase ID'@en		89.21%
+Q215380	P18	commonsMedia	8390.0	'musical group'@en	'image'@en		36.81%

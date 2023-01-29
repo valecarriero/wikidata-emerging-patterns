@@ -1,0 +1,91 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q33506_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q33506 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'museum' 'country' 'entity'
+<< << wd:Q33506 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.37%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q33506 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.11%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'location' 'entity'
+<< << wd:Q33506 wdt:P276 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "34.12%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'heritage designation' 'entity'
+<< << wd:Q33506 wdt:P1435 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.51%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'date of official opening' time
+<< << wd:Q33506 wdt:P1619 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.57%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'coordinate location' globe-coordinate
+<< << wd:Q33506 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.35%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'country' 'country'
+<< << wd:Q33506 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.21%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'country' 'sovereign state'
+<< << wd:Q33506 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "94.5%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'inception' time
+<< << wd:Q33506 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "66.35%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'Commons category' string
+<< << wd:Q33506 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "53.77%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'Library of Congress authority ID' external-id
+<< << wd:Q33506 wdt:P244 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "29.25%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'image' commonsMedia
+<< << wd:Q33506 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "75.79%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'heritage designation' 'heritage designation'
+<< << wd:Q33506 wdt:P1435 wd:Q30634609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "5.66%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'located in the administrative territorial entity' 'big city'
+<< << wd:Q33506 wdt:P131 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.91%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'located in the administrative territorial entity' 'U.S. state'
+<< << wd:Q33506 wdt:P131 wd:Q35657 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.94%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'located in the administrative territorial entity' 'city'
+<< << wd:Q33506 wdt:P131 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.62%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'VIAF ID' external-id
+<< << wd:Q33506 wdt:P214 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "42.77%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'location' 'big city'
+<< << wd:Q33506 wdt:P276 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "8.65%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'location' 'city'
+<< << wd:Q33506 wdt:P276 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "8.33%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'official website' url
+<< << wd:Q33506 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "66.67%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'street address' monolingualtext
+<< << wd:Q33506 wdt:P6375 wikibase:Monolingualtext >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.24%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'WorldCat Identities ID' external-id
+<< << wd:Q33506 wdt:P7859 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "38.05%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+
+# 'museum' 'Freebase ID' external-id
+<< << wd:Q33506 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.74%" ; oplax:isNativeTo weps:AAA_Q33506_09508505 .
+

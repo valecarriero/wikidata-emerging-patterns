@@ -1,0 +1,112 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:music_Q134556_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_music_subkg_20220404 ; 
+ dcterms:references wd:Q134556 . 
+
+weps:wikidata_music_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_music_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'single' 'performer' 'entity'
+<< << wd:Q134556 wdt:P175 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.21%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'record label' 'entity'
+<< << wd:Q134556 wdt:P264 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.52%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'genre' 'entity'
+<< << wd:Q134556 wdt:P136 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.0%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'part of' 'entity'
+<< << wd:Q134556 wdt:P361 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "84.75%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'followed by' 'entity'
+<< << wd:Q134556 wdt:P156 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "74.37%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'follows' 'entity'
+<< << wd:Q134556 wdt:P155 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "71.8%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'entity'
+<< << wd:Q134556 wdt:P495 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "39.16%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'producer' 'entity'
+<< << wd:Q134556 wdt:P162 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "24.18%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'part of' 'album'
+<< << wd:Q134556 wdt:P361 wd:Q482994 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "81.45%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'Freebase ID' external-id
+<< << wd:Q134556 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "96.26%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'follows' 'single'
+<< << wd:Q134556 wdt:P155 wd:Q134556 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "64.38%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'Discogs master ID' external-id
+<< << wd:Q134556 wdt:P1954 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "37.38%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'performer' 'human'
+<< << wd:Q134556 wdt:P175 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "54.44%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'performer' 'musical group'
+<< << wd:Q134556 wdt:P175 wd:Q215380 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "33.06%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'publication date' time
+<< << wd:Q134556 wdt:P577 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.45%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'YouTube video ID' external-id
+<< << wd:Q134556 wdt:P1651 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.82%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'MetroLyrics ID' external-id
+<< << wd:Q134556 wdt:P2624 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "42.2%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'producer' 'human'
+<< << wd:Q134556 wdt:P162 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.15%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'genre' 'music genre'
+<< << wd:Q134556 wdt:P136 wd:Q188451 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "90.77%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'country'
+<< << wd:Q134556 wdt:P495 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "39.15%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'sovereign state'
+<< << wd:Q134556 wdt:P495 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "39.12%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'federal republic'
+<< << wd:Q134556 wdt:P495 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.87%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'constitutional republic'
+<< << wd:Q134556 wdt:P495 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.82%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'democratic republic'
+<< << wd:Q134556 wdt:P495 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.79%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'superpower'
+<< << wd:Q134556 wdt:P495 wd:Q1489259 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.72%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'country of origin' 'historical unrecognized state'
+<< << wd:Q134556 wdt:P495 wd:Q99541706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.72%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'MusicBrainz work ID' external-id
+<< << wd:Q134556 wdt:P435 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.45%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'followed by' 'single'
+<< << wd:Q134556 wdt:P156 wd:Q134556 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "66.48%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'record label' 'record label'
+<< << wd:Q134556 wdt:P264 wd:Q18127 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.91%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+
+# 'single' 'MusicBrainz release group ID' external-id
+<< << wd:Q134556 wdt:P436 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "37.87%" ; oplax:isNativeTo weps:music_Q134556_09508505 .
+

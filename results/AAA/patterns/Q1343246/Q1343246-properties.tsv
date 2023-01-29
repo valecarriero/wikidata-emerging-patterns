@@ -1,0 +1,127 @@
+property	count	property;label	percentage
+P17	596	'country'@en	100.0%
+P7959	560	'historic county'@en	93.96%
+P625	551	'coordinate location'@en	92.45%
+P131	528	'located in the administrative territorial entity'@en	88.59%
+P646	506	'Freebase ID'@en	84.9%
+P1435	470	'heritage designation'@en	78.86%
+P1216	468	'National Heritage List for England number'@en	78.52%
+P613	461	'OS grid reference'@en	77.35%
+P18	451	'image'@en	75.67%
+P373	293	'Commons category'@en	49.16%
+P3481	110	'Parks & Gardens UK record ID'@en	18.46%
+P856	76	'official website'@en	12.75%
+P571	73	'inception'@en	12.25%
+P276	66	'location'@en	11.07%
+P9042	60	'DiCamillo Database Country House ID'@en	10.07%
+P1566	58	'GeoNames ID'@en	9.73%
+P127	57	'owned by'@en	9.56%
+P149	55	'architectural style'@en	9.23%
+P84	53	'architect'@en	8.89%
+P5008	36	'on focus list of Wikimedia project'@en	6.04%
+P88	32	'commissioned by'@en	5.37%
+P1602	29	'Art UK venue ID'@en	4.87%
+P214	28	'VIAF ID'@en	4.7%
+P186	25	'made from material'@en	4.19%
+P2581	22	'BabelNet ID'@en	3.69%
+P7859	21	'WorldCat Identities ID'@en	3.52%
+P9284	19	'GB1900 ID'@en	3.19%
+P126	19	'maintained by'@en	3.19%
+P973	18	'described at URL'@en	3.02%
+P3642	18	'ARCHON code'@en	3.02%
+P8587	17	'Legacies of British Slave-ownership place ID'@en	2.85%
+P7561	17	'category for the interior of the item'@en	2.85%
+P466	17	'occupant'@en	2.85%
+P361	17	'part of'@en	2.85%
+P4672	15	'EMLO location ID'@en	2.52%
+P4146	13	'Athenaeum museum ID'@en	2.18%
+P244	13	'Library of Congress authority ID'@en	2.18%
+P4141	12	'Gatehouse Gazetteer place ID'@en	2.01%
+P3616	12	'Vision of Britain place ID'@en	2.01%
+P793	11	'significant event'@en	1.85%
+P5816	11	'state of conservation'@en	1.85%
+P527	11	'has part or parts'@en	1.85%
+P3032	10	'adjacent building'@en	1.68%
+P3417	8	'Quora topic ID'@en	1.34%
+P1004	8	'MusicBrainz place ID'@en	1.34%
+P1889	7	'different from'@en	1.17%
+P1667	7	'Getty Thesaurus of Geographic Names ID'@en	1.17%
+P1612	7	'Commons Institution page'@en	1.17%
+P1705	6	'native label'@en	1.01%
+P1101	6	'floors above ground'@en	1.01%
+P4839	5	'Wolfram Language entity code'@en	0.84%
+P1417	5	'Encyclopædia Britannica Online ID'@en	0.84%
+P576	4	'dissolved, abolished or demolished date'@en	0.67%
+P5383	4	'archINFORM project ID'@en	0.67%
+P4117	4	'National Record of the Historic Environment ID'@en	0.67%
+P402	4	'OpenStreetMap relation ID'@en	0.67%
+P3311	4	'plan view image'@en	0.67%
+P2468	4	'Theatricalia theatre ID'@en	0.67%
+P1619	4	'date of official opening'@en	0.67%
+P137	4	'operator'@en	0.67%
+P10533	4	'Agoda hotel numeric ID'@en	0.67%
+P10532	4	'Booking.com numeric ID'@en	0.67%
+P10487	4	'skyscanner hotel ID'@en	0.67%
+P10290	4	'hotel rating'@en	0.67%
+P910	3	'topic\'s main category'@en	0.5%
+P6766	3	'Who\'s on First ID'@en	0.5%
+P6375	3	'street address'@en	0.5%
+P2013	3	'Facebook ID'@en	0.5%
+P2002	3	'Twitter username'@en	0.5%
+P1343	3	'described by source'@en	0.5%
+P8687	2	'social media followers'@en	0.34%
+P718	2	'Canmore ID'@en	0.34%
+P6821	2	'Uppsala University Alvin ID'@en	0.34%
+P611	2	'religious order'@en	0.34%
+P5775	2	'image of interior'@en	0.34%
+P5432	2	'setlist.fm venue ID'@en	0.34%
+P4079	2	'Theatres Trust Database ID'@en	0.34%
+P366	2	'has use'@en	0.34%
+P3134	2	'TripAdvisor ID'@en	0.34%
+P242	2	'locator map image'@en	0.34%
+P213	2	'ISNI'@en	0.34%
+P206	2	'located in or next to body of water'@en	0.34%
+P2003	2	'Instagram username'@en	0.34%
+P140	2	'religion or worldview'@en	0.34%
+P1299	2	'depicted by'@en	0.34%
+P10425	2	'Trip.com hotel ID'@en	0.34%
+P9756	1	'Schoenberg Database of Manuscripts name ID'@en	0.17%
+P968	1	'email address'@en	0.17%
+P941	1	'inspired by'@en	0.17%
+P935	1	'Commons gallery'@en	0.17%
+P825	1	'dedicated to'@en	0.17%
+P7772	1	'Atlas Obscura identifier'@en	0.17%
+P7630	1	'Dictionary of Scottish Architects building ID'@en	0.17%
+P7502	1	'Golden ID'@en	0.17%
+P749	1	'parent organization'@en	0.17%
+P7411	1	'Pubs Galore ID'@en	0.17%
+P709	1	'Historic Scotland ID'@en	0.17%
+P669	1	'located on street'@en	0.17%
+P612	1	'mother house'@en	0.17%
+P607	1	'conflict'@en	0.17%
+P5818	1	'BGCI garden ID'@en	0.17%
+P580	1	'start time'@en	0.17%
+P4291	1	'panoramic view'@en	0.17%
+P4173	1	'Instagram location ID'@en	0.17%
+P3749	1	'Google Maps Customer ID'@en	0.17%
+P3500	1	'Ringgold ID'@en	0.17%
+P3057	1	'Charity Commission no.'@en	0.17%
+P3018	1	'located in protected area'@en	0.17%
+P2966	1	'National Library of Wales Authority ID'@en	0.17%
+P281	1	'postal code'@en	0.17%
+P2789	1	'connects with'@en	0.17%
+P2670	1	'instance has part(s) of the class'@en	0.17%
+P2622	1	'Companies House company ID'@en	0.17%
+P245	1	'Union List of Artist Names ID'@en	0.17%
+P2397	1	'YouTube channel ID'@en	0.17%
+P2348	1	'time period'@en	0.17%
+P2284	1	'price'@en	0.17%
+P227	1	'GND ID'@en	0.17%
+P2046	1	'area'@en	0.17%
+P2044	1	'elevation above sea level'@en	0.17%
+P1465	1	'category for people who died here'@en	0.17%
+P1459	1	'Cadw Building ID'@en	0.17%
+P1448	1	'official name'@en	0.17%
+P1329	1	'phone number'@en	0.17%
+P1301	1	'number of elevators'@en	0.17%
+P112	1	'founded by'@en	0.17%

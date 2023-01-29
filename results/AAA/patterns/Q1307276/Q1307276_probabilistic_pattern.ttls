@@ -1,0 +1,88 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q1307276_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q1307276 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'single-family detached home' 'country' 'entity'
+<< << wd:Q1307276 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q1307276 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.35%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'heritage designation' 'entity'
+<< << wd:Q1307276 wdt:P1435 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "97.6%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'architect' 'entity'
+<< << wd:Q1307276 wdt:P84 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "42.05%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'architectural style' 'entity'
+<< << wd:Q1307276 wdt:P149 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "37.69%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'image' commonsMedia
+<< << wd:Q1307276 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "91.94%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'heritage designation' 'heritage designation'
+<< << wd:Q1307276 wdt:P1435 wd:Q30634609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "96.3%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'coordinate location' globe-coordinate
+<< << wd:Q1307276 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.35%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'Commons category' string
+<< << wd:Q1307276 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.53%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'architect' 'human'
+<< << wd:Q1307276 wdt:P84 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.82%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'archINFORM project ID' external-id
+<< << wd:Q1307276 wdt:P5383 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.78%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'located in the administrative territorial entity' 'U.S. state'
+<< << wd:Q1307276 wdt:P131 wd:Q35657 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "64.49%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'Freebase ID' external-id
+<< << wd:Q1307276 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.47%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'sovereign state'
+<< << wd:Q1307276 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'country'
+<< << wd:Q1307276 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'superpower'
+<< << wd:Q1307276 wdt:P17 wd:Q1489259 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.13%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'constitutional republic'
+<< << wd:Q1307276 wdt:P17 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.13%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'federal republic'
+<< << wd:Q1307276 wdt:P17 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.13%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'democratic republic'
+<< << wd:Q1307276 wdt:P17 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.13%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'country' 'historical unrecognized state'
+<< << wd:Q1307276 wdt:P17 wd:Q99541706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.13%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'NRHP reference number' external-id
+<< << wd:Q1307276 wdt:P649 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "96.3%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+
+# 'single-family detached home' 'architectural style' 'architectural style'
+<< << wd:Q1307276 wdt:P149 wd:Q32880 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "37.69%" ; oplax:isNativeTo weps:AAA_Q1307276_09508505 .
+

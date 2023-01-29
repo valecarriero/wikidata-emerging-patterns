@@ -1,0 +1,64 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q5	P20	Q1549591	7913.0	'human'@en	'place of death'@en	'big city'@en	12.44%
+Q5	P20	Q515	5486.0	'human'@en	'place of death'@en	'city'@en	8.63%
+Q5	P20	Q1093829	4249.0	'human'@en	'place of death'@en	'city of the United States'@en	6.68%
+Q5	P20	Q1637706	4190.0	'human'@en	'place of death'@en	'million city'@en	6.59%
+Q5	P2013	external-id	10658.0	'human'@en	'Facebook ID'@en		16.76%
+Q5	P7704	external-id	48393.0	'human'@en	'Europeana entity'@en		76.11%
+Q5	P214	external-id	43534.0	'human'@en	'VIAF ID'@en		68.47%
+Q5	P5404	external-id	12649.0	'human'@en	'Rate Your Music artist ID'@en		19.89%
+Q5	P1953	external-id	41729.0	'human'@en	'Discogs artist ID'@en		65.63%
+Q5	P269	external-id	13245.0	'human'@en	'IdRef ID'@en		20.83%
+Q5	P264	Q18127	15895.0	'human'@en	'record label'@en	'record label'@en	25.0%
+Q5	P691	external-id	14414.0	'human'@en	'NKCR AUT ID'@en		22.67%
+Q5	P734	Q101352	40483.0	'human'@en	'family name'@en	'family name'@en	63.67%
+Q5	P3368	external-id	15231.0	'human'@en	'Prabook ID'@en		23.95%
+Q5	P227	external-id	24664.0	'human'@en	'GND ID'@en		38.79%
+Q5	P5882	external-id	26005.0	'human'@en	'Muziekweb performer ID'@en		40.9%
+Q5	P1728	external-id	22089.0	'human'@en	'AllMusic artist ID'@en		34.74%
+Q5	P69	Q3918	6147.0	'human'@en	'educated at'@en	'university'@en	9.67%
+Q5	P69	Q184644	5252.0	'human'@en	'educated at'@en	'conservatory'@en	8.26%
+Q5	P69	Q23002054	4744.0	'human'@en	'educated at'@en	'private not-for-profit educational institution'@en	7.46%
+Q5	P69	Q9826	4154.0	'human'@en	'educated at'@en	'high school'@en	6.53%
+Q5	P3478	external-id	17774.0	'human'@en	'Songkick artist ID'@en		27.95%
+Q5	P1207	external-id	10296.0	'human'@en	'NUKAT ID'@en		16.19%
+Q5	P1902	external-id	9940.0	'human'@en	'Spotify artist ID'@en		15.63%
+Q5	P735	Q12308941	40807.0	'human'@en	'given name'@en	'male given name'@en	64.18%
+Q5	P1412	Q34770	29096.0	'human'@en	'languages spoken, written or signed'@en	'language'@en	45.76%
+Q5	P1412	Q1288568	29054.0	'human'@en	'languages spoken, written or signed'@en	'modern language'@en	45.69%
+Q5	P1412	Q33742	20335.0	'human'@en	'languages spoken, written or signed'@en	'natural language'@en	31.98%
+Q5	P345	external-id	25361.0	'human'@en	'IMDb ID'@en		39.89%
+Q5	P2163	external-id	15072.0	'human'@en	'FAST ID'@en		23.7%
+Q5	P244	external-id	35507.0	'human'@en	'Library of Congress authority ID'@en		55.84%
+Q5	P106	Q12737077	55840.0	'human'@en	'occupation'@en	'occupation'@en	87.82%
+Q5	P106	Q66715801	53274.0	'human'@en	'occupation'@en	'musical profession'@en	83.78%
+Q5	P106	Q28640	31988.0	'human'@en	'occupation'@en	'profession'@en	50.31%
+Q5	P268	external-id	23511.0	'human'@en	'Bibliothèque nationale de France ID'@en		36.98%
+Q5	P4985	external-id	11709.0	'human'@en	'TMDb person ID'@en		18.41%
+Q5	P569	time	58759.0	'human'@en	'date of birth'@en		92.41%
+Q5	P3430	external-id	12311.0	'human'@en	'SNAC ARK ID'@en		19.36%
+Q5	P136	Q188451	31935.0	'human'@en	'genre'@en	'music genre'@en	50.22%
+Q5	P18	commonsMedia	31658.0	'human'@en	'image'@en		49.79%
+Q5	P434	external-id	44848.0	'human'@en	'MusicBrainz artist ID'@en		70.53%
+Q5	P213	external-id	36169.0	'human'@en	'ISNI'@en		56.88%
+Q5	P1559	monolingualtext	9634.0	'human'@en	'name in native language'@en		15.15%
+Q5	P856	url	18946.0	'human'@en	'official website'@en		29.8%
+Q5	P1343	Q12038942	6360.0	'human'@en	'described by source'@en	'multimedia database'@en	10.0%
+Q5	P1343	Q186165	6360.0	'human'@en	'described by source'@en	'web portal'@en	10.0%
+Q5	P19	Q1549591	20850.0	'human'@en	'place of birth'@en	'big city'@en	32.79%
+Q5	P19	Q515	13865.0	'human'@en	'place of birth'@en	'city'@en	21.81%
+Q5	P19	Q1093829	11007.0	'human'@en	'place of birth'@en	'city of the United States'@en	17.31%
+Q5	P373	string	20006.0	'human'@en	'Commons category'@en		31.46%
+Q5	P21	Q48264	63581.0	'human'@en	'sex or gender'@en	'gender identity'@en	99.99%
+Q5	P21	Q4369513	63516.0	'human'@en	'sex or gender'@en	'sex of humans'@en	99.89%
+Q5	P2002	external-id	10330.0	'human'@en	'Twitter username'@en		16.25%
+Q5	P27	Q3624078	59718.0	'human'@en	'country of citizenship'@en	'sovereign state'@en	93.92%
+Q5	P27	Q6256	58701.0	'human'@en	'country of citizenship'@en	'country'@en	92.32%
+Q5	P2031	time	27375.0	'human'@en	'work period (start)'@en		43.05%
+Q5	P570	time	22719.0	'human'@en	'date of death'@en		35.73%
+Q5	P646	external-id	62770.0	'human'@en	'Freebase ID'@en		98.72%
+Q5	P1303	Q110295396	10586.0	'human'@en	'instrument'@en	'type of musical instrument'@en	16.65%
+Q5	P7293	external-id	12097.0	'human'@en	'PLWABN ID'@en		19.02%
+Q5	P950	external-id	10610.0	'human'@en	'Biblioteca Nacional de España ID'@en		16.69%
+Q5	P7859	external-id	42115.0	'human'@en	'WorldCat Identities ID'@en		66.23%
+Q5	P1006	external-id	13094.0	'human'@en	'Nationale Thesaurus voor Auteurs ID'@en		20.59%

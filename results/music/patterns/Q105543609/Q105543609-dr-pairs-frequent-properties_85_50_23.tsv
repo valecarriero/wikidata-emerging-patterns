@@ -1,0 +1,24 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q105543609	P156	Q134556	813.0	'musical work/composition'@en	'followed by'@en	'single'@en	7.72%
+Q105543609	P156	Q105543609	635.0	'musical work/composition'@en	'followed by'@en	'musical work/composition'@en	6.03%
+Q105543609	P175	Q5	4518.0	'musical work/composition'@en	'performer'@en	'human'@en	42.91%
+Q105543609	P435	external-id	6153.0	'musical work/composition'@en	'MusicBrainz work ID'@en		58.43%
+Q105543609	P577	time	7549.0	'musical work/composition'@en	'publication date'@en		71.69%
+Q105543609	P136	Q188451	5779.0	'musical work/composition'@en	'genre'@en	'music genre'@en	54.88%
+Q105543609	P7937	Q107487333	9697.0	'musical work/composition'@en	'form of creative work'@en	'type of musical work/composition'@en	92.09%
+Q105543609	P7937	Q11921029	8515.0	'musical work/composition'@en	'form of creative work'@en	'musical style'@en	80.86%
+Q105543609	P7937	Q4263830	8475.0	'musical work/composition'@en	'form of creative work'@en	'literary form'@en	80.48%
+Q105543609	P2908	external-id	1620.0	'musical work/composition'@en	'SecondHandSongs work ID'@en		15.38%
+Q105543609	P162	Q5	1436.0	'musical work/composition'@en	'producer'@en	'human'@en	13.64%
+Q105543609	P1827	external-id	2110.0	'musical work/composition'@en	'ISWC'@en		20.04%
+Q105543609	P407	Q34770	3523.0	'musical work/composition'@en	'language of work or name'@en	'language'@en	33.46%
+Q105543609	P407	Q1288568	3504.0	'musical work/composition'@en	'language of work or name'@en	'modern language'@en	33.28%
+Q105543609	P407	Q33742	2970.0	'musical work/composition'@en	'language of work or name'@en	'natural language'@en	28.21%
+Q105543609	P264	Q18127	2993.0	'musical work/composition'@en	'record label'@en	'record label'@en	28.42%
+Q105543609	P676	Q5	3063.0	'musical work/composition'@en	'lyrics by'@en	'human'@en	29.09%
+Q105543609	P86	Q5	5173.0	'musical work/composition'@en	'composer'@en	'human'@en	49.13%
+Q105543609	P155	Q134556	853.0	'musical work/composition'@en	'follows'@en	'single'@en	8.1%
+Q105543609	P155	Q105543609	649.0	'musical work/composition'@en	'follows'@en	'musical work/composition'@en	6.16%
+Q105543609	P646	external-id	9975.0	'musical work/composition'@en	'Freebase ID'@en		94.73%
+Q105543609	P361	Q482994	3524.0	'musical work/composition'@en	'part of'@en	'album'@en	33.47%
+Q105543609	P1476	monolingualtext	3239.0	'musical work/composition'@en	'title'@en		30.76%

@@ -1,0 +1,85 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q1343246_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q1343246 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'English country house' 'country' 'entity'
+<< << wd:Q1343246 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'historic county' 'entity'
+<< << wd:Q1343246 wdt:P7959 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "93.96%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q1343246 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "88.59%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'heritage designation' 'entity'
+<< << wd:Q1343246 wdt:P1435 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "78.86%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'located in the administrative territorial entity' 'civil parish'
+<< << wd:Q1343246 wdt:P131 wd:Q1115575 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "79.87%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'located in the administrative territorial entity' 'village'
+<< << wd:Q1343246 wdt:P131 wd:Q532 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "52.85%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'National Heritage List for England number' external-id
+<< << wd:Q1343246 wdt:P1216 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "78.52%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'historic county' 'historic county of England'
+<< << wd:Q1343246 wdt:P7959 wd:Q1138494 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "93.62%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'Freebase ID' external-id
+<< << wd:Q1343246 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "84.9%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'country' 'island nation'
+<< << wd:Q1343246 wdt:P17 wd:Q112099 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'country' 'realm'
+<< << wd:Q1343246 wdt:P17 wd:Q1250464 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'country' 'colonial power'
+<< << wd:Q1343246 wdt:P17 wd:Q20181813 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'country' 'Commonwealth realm'
+<< << wd:Q1343246 wdt:P17 wd:Q202686 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'country' 'sovereign state'
+<< << wd:Q1343246 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'country' 'country'
+<< << wd:Q1343246 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'coordinate location' globe-coordinate
+<< << wd:Q1343246 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "92.45%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'image' commonsMedia
+<< << wd:Q1343246 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "75.67%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'heritage designation' 'heritage designation'
+<< << wd:Q1343246 wdt:P1435 wd:Q30634609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "77.68%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'Commons category' string
+<< << wd:Q1343246 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "49.16%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'OS grid reference' string
+<< << wd:Q1343246 wdt:P613 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "77.35%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+
+# 'English country house' 'Parks & Gardens UK record ID' external-id
+<< << wd:Q1343246 wdt:P3481 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.46%" ; oplax:isNativeTo weps:AAA_Q1343246_09508505 .
+

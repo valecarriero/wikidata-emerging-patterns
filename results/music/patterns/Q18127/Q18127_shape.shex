@@ -1,0 +1,88 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_music_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<record label> 
+
+<record label> { wdt:P31 [wd:Q18127] ; 
+
+# 'record label' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 85.74% 
+
+# 'record label' 'headquarters location' 'entity'
+wdt:P159 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 27.53% 
+
+# 'record label' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 26.63% 
+
+# 'record label' 'founded by' 'entity'
+wdt:P112 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 19.34% 
+
+# 'record label' 'MusicBrainz label ID' external-id
+wdt:P966 xsd:string ;   # probability of constraint: 71.17% 
+
+# 'record label' 'Discogs label ID' external-id
+wdt:P1955 xsd:string ;   # probability of constraint: 28.64% 
+
+# 'record label' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 85.31% 
+
+# 'record label' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 84.04% 
+
+# 'record label' 'country' 'constitutional republic'
+wdt:P17 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 47.75% 
+
+# 'record label' 'country' 'federal republic'
+wdt:P17 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 47.64% 
+
+# 'record label' 'country' 'democratic republic'
+wdt:P17 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 46.96% 
+
+# 'record label' 'country' 'historical unrecognized state'
+wdt:P17 { wdt:P31 [wd:Q99541706] } ;   # probability of constraint: 46.63% 
+
+# 'record label' 'country' 'superpower'
+wdt:P17 { wdt:P31 [wd:Q1489259] } ;   # probability of constraint: 46.57% 
+
+# 'record label' 'official website' url
+wdt:P856 xsd:string ;   # probability of constraint: 49.9% 
+
+# 'record label' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 79.95% 
+
+# 'record label' 'founded by' 'human'
+wdt:P112 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 17.57% 
+
+# 'record label' 'WorldCat Identities ID' external-id
+wdt:P7859 xsd:string ;   # probability of constraint: 17.11% 
+
+# 'record label' 'headquarters location' 'big city'
+wdt:P159 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 15.9% 
+
+# 'record label' 'headquarters location' 'city'
+wdt:P159 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 12.99% 
+
+# 'record label' 'headquarters location' 'city of the United States'
+wdt:P159 { wdt:P31 [wd:Q1093829] } ;   # probability of constraint: 10.31% 
+
+# 'record label' 'headquarters location' 'million city'
+wdt:P159 { wdt:P31 [wd:Q1637706] } ;   # probability of constraint: 9.07% 
+
+# 'record label' 'genre' 'music genre'
+wdt:P136 { wdt:P31 [wd:Q188451] } ;   # probability of constraint: 26.52% 
+
+# 'record label' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 98.28% 
+
+# 'record label' 'VIAF ID' external-id
+wdt:P214 xsd:string ;   # probability of constraint: 18.1% 
+
+
+ }

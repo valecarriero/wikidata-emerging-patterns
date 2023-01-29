@@ -1,0 +1,12 @@
+property	count	property;label	percentage
+P646	3480	'Freebase ID'@en	98.28%
+P17	3036	'country'@en	85.74%
+P571	2831	'inception'@en	79.95%
+P966	2520	'MusicBrainz label ID'@en	71.17%
+P856	1767	'official website'@en	49.9%
+P1955	1014	'Discogs label ID'@en	28.64%
+P159	975	'headquarters location'@en	27.53%
+P136	943	'genre'@en	26.63%
+P112	685	'founded by'@en	19.34%
+P214	641	'VIAF ID'@en	18.1%
+P7859	606	'WorldCat Identities ID'@en	17.11%

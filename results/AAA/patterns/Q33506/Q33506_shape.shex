@@ -1,0 +1,85 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<museum> 
+
+<museum> { wdt:P31 [wd:Q33506] ; 
+
+# 'museum' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 99.37% 
+
+# 'museum' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 87.11% 
+
+# 'museum' 'location' 'entity'
+wdt:P276 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 34.12% 
+
+# 'museum' 'heritage designation' 'entity'
+wdt:P1435 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 16.51% 
+
+# 'museum' 'date of official opening' time
+wdt:P1619 xsd:dateTime ;   # probability of constraint: 15.57% 
+
+# 'museum' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 91.35% 
+
+# 'museum' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 99.21% 
+
+# 'museum' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 94.5% 
+
+# 'museum' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 66.35% 
+
+# 'museum' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 53.77% 
+
+# 'museum' 'Library of Congress authority ID' external-id
+wdt:P244 xsd:string ;   # probability of constraint: 29.25% 
+
+# 'museum' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 75.79% 
+
+# 'museum' 'heritage designation' 'heritage designation'
+wdt:P1435 { wdt:P31 [wd:Q30634609] } ;   # probability of constraint: 5.66% 
+
+# 'museum' 'located in the administrative territorial entity' 'big city'
+wdt:P131 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 20.91% 
+
+# 'museum' 'located in the administrative territorial entity' 'U.S. state'
+wdt:P131 { wdt:P31 [wd:Q35657] } ;   # probability of constraint: 14.94% 
+
+# 'museum' 'located in the administrative territorial entity' 'city'
+wdt:P131 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 14.62% 
+
+# 'museum' 'VIAF ID' external-id
+wdt:P214 xsd:string ;   # probability of constraint: 42.77% 
+
+# 'museum' 'location' 'big city'
+wdt:P276 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 8.65% 
+
+# 'museum' 'location' 'city'
+wdt:P276 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 8.33% 
+
+# 'museum' 'official website' url
+wdt:P856 xsd:string ;   # probability of constraint: 66.67% 
+
+# 'museum' 'street address' monolingualtext
+wdt:P6375 rdf:langString ;   # probability of constraint: 18.24% 
+
+# 'museum' 'WorldCat Identities ID' external-id
+wdt:P7859 xsd:string ;   # probability of constraint: 38.05% 
+
+# 'museum' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 87.74% 
+
+
+ }

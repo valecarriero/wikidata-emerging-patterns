@@ -1,0 +1,11 @@
+property	count	property;label	percentage
+P577	3770	'publication date'@en	99.45%
+P175	3733	'performer'@en	98.47%
+P646	3572	'Freebase ID'@en	94.22%
+P156	2880	'followed by'@en	75.97%
+P136	2868	'genre'@en	75.65%
+P436	2661	'MusicBrainz release group ID'@en	70.19%
+P155	2368	'follows'@en	62.46%
+P264	1856	'record label'@en	48.96%
+P1954	1521	'Discogs master ID'@en	40.12%
+P407	643	'language of work or name'@en	16.96%

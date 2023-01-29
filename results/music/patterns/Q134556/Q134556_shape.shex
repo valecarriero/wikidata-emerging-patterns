@@ -1,0 +1,106 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_music_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<single> 
+
+<single> { wdt:P31 [wd:Q134556] ; 
+
+# 'single' 'performer' 'entity'
+wdt:P175 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 99.21% 
+
+# 'single' 'record label' 'entity'
+wdt:P264 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 91.52% 
+
+# 'single' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 91.0% 
+
+# 'single' 'part of' 'entity'
+wdt:P361 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 84.75% 
+
+# 'single' 'followed by' 'entity'
+wdt:P156 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 74.37% 
+
+# 'single' 'follows' 'entity'
+wdt:P155 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 71.8% 
+
+# 'single' 'country of origin' 'entity'
+wdt:P495 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 39.16% 
+
+# 'single' 'producer' 'entity'
+wdt:P162 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 24.18% 
+
+# 'single' 'part of' 'album'
+wdt:P361 { wdt:P31 [wd:Q482994] } ;   # probability of constraint: 81.45% 
+
+# 'single' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 96.26% 
+
+# 'single' 'follows' 'single'
+wdt:P155 { wdt:P31 [wd:Q134556] } ;   # probability of constraint: 64.38% 
+
+# 'single' 'Discogs master ID' external-id
+wdt:P1954 xsd:string ;   # probability of constraint: 37.38% 
+
+# 'single' 'performer' 'human'
+wdt:P175 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 54.44% 
+
+# 'single' 'performer' 'musical group'
+wdt:P175 { wdt:P31 [wd:Q215380] } ;   # probability of constraint: 33.06% 
+
+# 'single' 'publication date' time
+wdt:P577 xsd:dateTime ;   # probability of constraint: 99.45% 
+
+# 'single' 'YouTube video ID' external-id
+wdt:P1651 xsd:string ;   # probability of constraint: 27.82% 
+
+# 'single' 'MetroLyrics ID' external-id
+wdt:P2624 xsd:string ;   # probability of constraint: 42.2% 
+
+# 'single' 'producer' 'human'
+wdt:P162 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 23.15% 
+
+# 'single' 'genre' 'music genre'
+wdt:P136 { wdt:P31 [wd:Q188451] } ;   # probability of constraint: 90.77% 
+
+# 'single' 'country of origin' 'country'
+wdt:P495 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 39.15% 
+
+# 'single' 'country of origin' 'sovereign state'
+wdt:P495 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 39.12% 
+
+# 'single' 'country of origin' 'federal republic'
+wdt:P495 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 36.87% 
+
+# 'single' 'country of origin' 'constitutional republic'
+wdt:P495 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 36.82% 
+
+# 'single' 'country of origin' 'democratic republic'
+wdt:P495 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 36.79% 
+
+# 'single' 'country of origin' 'superpower'
+wdt:P495 { wdt:P31 [wd:Q1489259] } ;   # probability of constraint: 36.72% 
+
+# 'single' 'country of origin' 'historical unrecognized state'
+wdt:P495 { wdt:P31 [wd:Q99541706] } ;   # probability of constraint: 36.72% 
+
+# 'single' 'MusicBrainz work ID' external-id
+wdt:P435 xsd:string ;   # probability of constraint: 26.45% 
+
+# 'single' 'followed by' 'single'
+wdt:P156 { wdt:P31 [wd:Q134556] } ;   # probability of constraint: 66.48% 
+
+# 'single' 'record label' 'record label'
+wdt:P264 { wdt:P31 [wd:Q18127] } ;   # probability of constraint: 87.91% 
+
+# 'single' 'MusicBrainz release group ID' external-id
+wdt:P436 xsd:string ;   # probability of constraint: 37.87% 
+
+
+ }

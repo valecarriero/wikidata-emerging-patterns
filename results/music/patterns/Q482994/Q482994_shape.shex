@@ -1,0 +1,97 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_music_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<album> 
+
+<album> { wdt:P31 [wd:Q482994] ; 
+
+# 'album' 'performer' 'entity'
+wdt:P175 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 97.72% 
+
+# 'album' 'genre' 'entity'
+wdt:P136 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 86.41% 
+
+# 'album' 'record label' 'entity'
+wdt:P264 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 77.6% 
+
+# 'album' 'followed by' 'entity'
+wdt:P156 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 70.06% 
+
+# 'album' 'follows' 'entity'
+wdt:P155 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 68.53% 
+
+# 'album' 'form of creative work' 'entity'
+wdt:P7937 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 31.29% 
+
+# 'album' 'producer' 'entity'
+wdt:P162 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 29.05% 
+
+# 'album' 'language of work or name' 'entity'
+wdt:P407 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 27.79% 
+
+# 'album' 'distribution format' 'entity'
+wdt:P437 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 18.57% 
+
+# 'album' 'MusicBrainz release group ID' external-id
+wdt:P436 xsd:string ;   # probability of constraint: 77.6% 
+
+# 'album' 'form of creative work' 'album type'
+wdt:P7937 { wdt:P31 [wd:Q81947509] } ;   # probability of constraint: 31.18% 
+
+# 'album' 'form of creative work' 'recording industry term'
+wdt:P7937 { wdt:P31 [wd:Q59913930] } ;   # probability of constraint: 31.07% 
+
+# 'album' 'followed by' 'album'
+wdt:P156 { wdt:P31 [wd:Q482994] } ;   # probability of constraint: 66.58% 
+
+# 'album' 'publication date' time
+wdt:P577 xsd:dateTime ;   # probability of constraint: 96.1% 
+
+# 'album' 'record label' 'record label'
+wdt:P264 { wdt:P31 [wd:Q18127] } ;   # probability of constraint: 73.68% 
+
+# 'album' 'genre' 'music genre'
+wdt:P136 { wdt:P31 [wd:Q188451] } ;   # probability of constraint: 85.66% 
+
+# 'album' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 94.57% 
+
+# 'album' 'producer' 'human'
+wdt:P162 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 26.92% 
+
+# 'album' 'distribution format' 'product distribution method'
+wdt:P437 { wdt:P31 [wd:Q81941037] } ;   # probability of constraint: 15.33% 
+
+# 'album' 'language of work or name' 'language'
+wdt:P407 { wdt:P31 [wd:Q34770] } ;   # probability of constraint: 27.66% 
+
+# 'album' 'language of work or name' 'modern language'
+wdt:P407 { wdt:P31 [wd:Q1288568] } ;   # probability of constraint: 27.62% 
+
+# 'album' 'language of work or name' 'natural language'
+wdt:P407 { wdt:P31 [wd:Q33742] } ;   # probability of constraint: 24.65% 
+
+# 'album' 'AllMusic album ID' external-id
+wdt:P1729 xsd:string ;   # probability of constraint: 21.54% 
+
+# 'album' 'Discogs master ID' external-id
+wdt:P1954 xsd:string ;   # probability of constraint: 60.62% 
+
+# 'album' 'performer' 'human'
+wdt:P175 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 44.62% 
+
+# 'album' 'performer' 'musical group'
+wdt:P175 { wdt:P31 [wd:Q215380] } ;   # probability of constraint: 40.39% 
+
+# 'album' 'follows' 'album'
+wdt:P155 { wdt:P31 [wd:Q482994] } ;   # probability of constraint: 64.16% 
+
+
+ }

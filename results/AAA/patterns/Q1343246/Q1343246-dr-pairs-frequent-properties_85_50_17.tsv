@@ -1,0 +1,18 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q1343246	P131	Q1115575	476.0	'English country house'@en	'located in the administrative territorial entity'@en	'civil parish'@en	79.87%
+Q1343246	P131	Q532	315.0	'English country house'@en	'located in the administrative territorial entity'@en	'village'@en	52.85%
+Q1343246	P1216	external-id	468.0	'English country house'@en	'National Heritage List for England number'@en		78.52%
+Q1343246	P7959	Q1138494	558.0	'English country house'@en	'historic county'@en	'historic county of England'@en	93.62%
+Q1343246	P646	external-id	506.0	'English country house'@en	'Freebase ID'@en		84.9%
+Q1343246	P17	Q112099	596.0	'English country house'@en	'country'@en	'island nation'@en	100.0%
+Q1343246	P17	Q1250464	596.0	'English country house'@en	'country'@en	'realm'@en	100.0%
+Q1343246	P17	Q20181813	596.0	'English country house'@en	'country'@en	'colonial power'@en	100.0%
+Q1343246	P17	Q202686	596.0	'English country house'@en	'country'@en	'Commonwealth realm'@en	100.0%
+Q1343246	P17	Q3624078	596.0	'English country house'@en	'country'@en	'sovereign state'@en	100.0%
+Q1343246	P17	Q6256	596.0	'English country house'@en	'country'@en	'country'@en	100.0%
+Q1343246	P625	globe-coordinate	551.0	'English country house'@en	'coordinate location'@en		92.45%
+Q1343246	P18	commonsMedia	451.0	'English country house'@en	'image'@en		75.67%
+Q1343246	P1435	Q30634609	463.0	'English country house'@en	'heritage designation'@en	'heritage designation'@en	77.68%
+Q1343246	P373	string	293.0	'English country house'@en	'Commons category'@en		49.16%
+Q1343246	P613	string	461.0	'English country house'@en	'OS grid reference'@en		77.35%
+Q1343246	P3481	external-id	110.0	'English country house'@en	'Parks & Gardens UK record ID'@en		18.46%

@@ -1,0 +1,16 @@
+property	count	property;label	percentage
+P577	20852	'publication date'@en	99.45%
+P175	20802	'performer'@en	99.21%
+P646	20183	'Freebase ID'@en	96.26%
+P264	19189	'record label'@en	91.52%
+P136	19080	'genre'@en	91.0%
+P361	17770	'part of'@en	84.75%
+P156	15594	'followed by'@en	74.37%
+P155	15055	'follows'@en	71.8%
+P2624	8849	'MetroLyrics ID'@en	42.2%
+P495	8212	'country of origin'@en	39.16%
+P436	7941	'MusicBrainz release group ID'@en	37.87%
+P1954	7838	'Discogs master ID'@en	37.38%
+P1651	5833	'YouTube video ID'@en	27.82%
+P435	5545	'MusicBrainz work ID'@en	26.45%
+P162	5071	'producer'@en	24.18%

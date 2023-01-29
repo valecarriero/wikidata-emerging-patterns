@@ -1,0 +1,121 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q11303_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q11303 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'skyscraper' 'country' 'entity'
+<< << wd:Q11303 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.83%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q11303 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "92.51%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'architect' 'entity'
+<< << wd:Q11303 wdt:P84 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.26%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'architectural style' 'entity'
+<< << wd:Q11303 wdt:P149 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "22.13%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'owned by' 'entity'
+<< << wd:Q11303 wdt:P127 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.64%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'Structurae structure ID' external-id
+<< << wd:Q11303 wdt:P454 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.95%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'floors above ground' quantity
+<< << wd:Q11303 wdt:P1101 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "81.2%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'number of elevators' quantity
+<< << wd:Q11303 wdt:P1301 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.8%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'Commons category' string
+<< << wd:Q11303 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "58.74%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'architectural style' 'architectural style'
+<< << wd:Q11303 wdt:P149 wd:Q32880 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.13%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'image' commonsMedia
+<< << wd:Q11303 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "83.86%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'Freebase ID' external-id
+<< << wd:Q11303 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "90.18%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'official website' url
+<< << wd:Q11303 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.97%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'coordinate location' globe-coordinate
+<< << wd:Q11303 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "97.17%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'SkyscraperPage building ID' external-id
+<< << wd:Q11303 wdt:P1699 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.97%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'height' quantity
+<< << wd:Q11303 wdt:P2048 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.3%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'Emporis building ID' external-id
+<< << wd:Q11303 wdt:P455 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.61%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'country' 'country'
+<< << wd:Q11303 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.67%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'country' 'sovereign state'
+<< << wd:Q11303 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.17%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'country' 'constitutional republic'
+<< << wd:Q11303 wdt:P17 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "59.73%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'country' 'federal republic'
+<< << wd:Q11303 wdt:P17 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "53.08%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'country' 'democratic republic'
+<< << wd:Q11303 wdt:P17 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "51.41%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'CTBUH Skyscraper Center building ID' external-id
+<< << wd:Q11303 wdt:P1305 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "70.55%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'owned by' 'business'
+<< << wd:Q11303 wdt:P127 wd:Q4830453 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "10.65%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'owned by' 'public company'
+<< << wd:Q11303 wdt:P127 wd:Q891723 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.16%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'architect' 'architectural firm'
+<< << wd:Q11303 wdt:P84 wd:Q4387609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.13%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'architect' 'human'
+<< << wd:Q11303 wdt:P84 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.64%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'inception' time
+<< << wd:Q11303 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "73.21%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'date of official opening' time
+<< << wd:Q11303 wdt:P1619 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.79%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'located in the administrative territorial entity' 'big city'
+<< << wd:Q11303 wdt:P131 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.61%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'located in the administrative territorial entity' 'city'
+<< << wd:Q11303 wdt:P131 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "25.29%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'located in the administrative territorial entity' 'U.S. state'
+<< << wd:Q11303 wdt:P131 wd:Q35657 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.13%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+
+# 'skyscraper' 'located in the administrative territorial entity' 'million city'
+<< << wd:Q11303 wdt:P131 wd:Q1637706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.14%" ; oplax:isNativeTo weps:AAA_Q11303_09508505 .
+

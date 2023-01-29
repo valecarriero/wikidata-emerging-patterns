@@ -1,0 +1,86 @@
+property	count	property;label	percentage
+P17	459	'country'@en	100.0%
+P5383	458	'archINFORM project ID'@en	99.78%
+P625	456	'coordinate location'@en	99.35%
+P131	456	'located in the administrative territorial entity'@en	99.35%
+P646	452	'Freebase ID'@en	98.47%
+P1435	448	'heritage designation'@en	97.6%
+P649	442	'NRHP reference number'@en	96.3%
+P18	422	'image'@en	91.94%
+P84	193	'architect'@en	42.05%
+P149	173	'architectural style'@en	37.69%
+P373	108	'Commons category'@en	23.53%
+P571	45	'inception'@en	9.8%
+P2581	27	'BabelNet ID'@en	5.88%
+P6012	25	'California Office of Historic Preservation ID'@en	5.45%
+P6375	22	'street address'@en	4.79%
+P8655	17	'LoC HABS/HAER/HALS place ID'@en	3.7%
+P186	11	'made from material'@en	2.4%
+P214	10	'VIAF ID'@en	2.18%
+P7859	7	'WorldCat Identities ID'@en	1.53%
+P669	7	'located on street'@en	1.53%
+P856	6	'official website'@en	1.31%
+P8588	5	'Wisconsin National or State Registers Record ID'@en	1.09%
+P8177	5	'Oregon Historic Sites Database ID'@en	1.09%
+P7618	5	'Virginia Landmarks Register ID'@en	1.09%
+P361	5	'part of'@en	1.09%
+P127	5	'owned by'@en	1.09%
+P8132	4	'Texas Historic Sites Atlas ID'@en	0.87%
+P7772	4	'Atlas Obscura identifier'@en	0.87%
+P30	4	'continent'@en	0.87%
+P276	4	'location'@en	0.87%
+P244	4	'Library of Congress authority ID'@en	0.87%
+P1101	4	'floors above ground'@en	0.87%
+P9211	3	'Wisconsin Architecture and History Inventory ID'@en	0.65%
+P793	3	'significant event'@en	0.65%
+P7561	3	'category for the interior of the item'@en	0.65%
+P463	3	'member of'@en	0.65%
+P3417	3	'Quora topic ID'@en	0.65%
+P1705	3	'native label'@en	0.65%
+P1619	3	'date of official opening'@en	0.65%
+P1566	3	'GeoNames ID'@en	0.65%
+P935	2	'Commons gallery'@en	0.44%
+P8596	2	'category for the exterior of the item'@en	0.44%
+P7958	2	'Chicago Landmarks ID'@en	0.44%
+P281	2	'postal code'@en	0.44%
+P227	2	'GND ID'@en	0.44%
+P1889	2	'different from'@en	0.44%
+P138	2	'named after'@en	0.44%
+P973	1	'described at URL'@en	0.22%
+P968	1	'email address'@en	0.22%
+P910	1	'topic\'s main category'@en	0.22%
+P88	1	'commissioned by'@en	0.22%
+P8747	1	'DC Historic Sites place ID'@en	0.22%
+P8617	1	'Historic Montana ID'@en	0.22%
+P8463	1	'SAH Archipedia building ID'@en	0.22%
+P8239	1	'MACRIS ID'@en	0.22%
+P8226	1	'Wyoming SHPO ID'@en	0.22%
+P7959	1	'historic county'@en	0.22%
+P706	1	'located in/on physical feature'@en	0.22%
+P6006	1	'Museum Universe Data File ID'@en	0.22%
+P590	1	'GNIS ID'@en	0.22%
+P5827	1	'National Trust for Historic Preservation ID'@en	0.22%
+P5775	1	'image of interior'@en	0.22%
+P576	1	'dissolved, abolished or demolished date'@en	0.22%
+P4839	1	'Wolfram Language entity code'@en	0.22%
+P466	1	'occupant'@en	0.22%
+P460	1	'said to be the same as'@en	0.22%
+P402	1	'OpenStreetMap relation ID'@en	0.22%
+P3827	1	'JSTOR topic ID'@en	0.22%
+P380	1	'Mérimée ID'@en	0.22%
+P366	1	'has use'@en	0.22%
+P3518	1	'Smithsonian trinomial'@en	0.22%
+P3449	1	'NSW Heritage database ID'@en	0.22%
+P2817	1	'appears in the heritage monument list'@en	0.22%
+P245	1	'Union List of Artist Names ID'@en	0.22%
+P242	1	'locator map image'@en	0.22%
+P2014	1	'Museum of Modern Art work ID'@en	0.22%
+P170	1	'creator'@en	0.22%
+P166	1	'award received'@en	0.22%
+P1621	1	'detail map'@en	0.22%
+P1448	1	'official name'@en	0.22%
+P1417	1	'Encyclopædia Britannica Online ID'@en	0.22%
+P137	1	'operator'@en	0.22%
+P1343	1	'described by source'@en	0.22%
+P1315	1	'NLA Trove people ID'@en	0.22%
+P1004	1	'MusicBrainz place ID'@en	0.22%

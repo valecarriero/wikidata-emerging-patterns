@@ -1,0 +1,1301 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q3305213	P973	url	295.0	'painting'@en	'described at URL'@en	
+Q46686	P973	url	2.0	'reredos'@en	'described at URL'@en	
+Q79218	P973	url	2.0	'triptych'@en	'described at URL'@en	
+Q1278452	P973	url	1.0	'polyptych'@en	'described at URL'@en	
+Q1411766	P973	url	1.0	'predella'@en	'described at URL'@en	
+Q15711026	P973	url	1.0	'altarpiece'@en	'described at URL'@en	
+Q17152495	P973	url	1.0	'prime version'@en	'described at URL'@en	
+Q18761202	P973	url	1.0	'watercolor painting'@en	'described at URL'@en	
+Q192425	P973	url	1.0	'postcard'@en	'described at URL'@en	
+Q219423	P973	url	1.0	'mural'@en	'described at URL'@en	
+Q2647254	P973	url	1.0	'study'@en	'described at URL'@en	
+Q370665	P973	url	1.0	'sacra conversazione'@en	'described at URL'@en	
+Q836950	P973	url	1.0	'derivative work'@en	'described at URL'@en	
+Q848330	P973	url	1.0	'tondo'@en	'described at URL'@en	
+Q93184	P973	url	1.0	'drawing'@en	'described at URL'@en	
+Q3305213	P921	Q1406161	41.0	'painting'@en	'main subject'@en	'artistic theme'@en
+Q3305213	P921	Q5	38.0	'painting'@en	'main subject'@en	'human'@en
+Q3305213	P921	Q22813672	21.0	'painting'@en	'main subject'@en	'two biblical humans'@en
+Q3305213	P921	Q856663	8.0	'painting'@en	'main subject'@en	'Bible story'@en
+Q3305213	P921	Q567303	5.0	'painting'@en	'main subject'@en	'announcement'@en
+Q3305213	P921	Q20643955	3.0	'painting'@en	'main subject'@en	'human biblical figure'@en
+Q3305213	P921	Q12827256	2.0	'painting'@en	'main subject'@en	'myth'@en
+Q3305213	P921	Q15773347	2.0	'painting'@en	'main subject'@en	'film character'@en
+Q3305213	P921	Q16521	2.0	'painting'@en	'main subject'@en	'taxon'@en
+Q3305213	P921	Q178885	2.0	'painting'@en	'main subject'@en	'deity'@en
+Q3305213	P921	Q1792379	2.0	'painting'@en	'main subject'@en	'art genre'@en
+Q3305213	P921	Q18563360	2.0	'painting'@en	'main subject'@en	'Quranic character'@en
+Q3305213	P921	Q21070568	2.0	'painting'@en	'main subject'@en	'human who may be fictional'@en
+Q3305213	P921	Q24336466	2.0	'painting'@en	'main subject'@en	'mythical event'@en
+Q3305213	P921	Q4271324	2.0	'painting'@en	'main subject'@en	'mythical character'@en
+Q3305213	P921	Q51625	2.0	'painting'@en	'main subject'@en	'Salvator Mundi'@en
+Q3305213	P921	Q825	2.0	'painting'@en	'main subject'@en	'God in Christianity'@en
+Q1278452	P921	Q1406161	1.0	'polyptych'@en	'main subject'@en	'artistic theme'@en
+Q1278452	P921	Q22813672	1.0	'polyptych'@en	'main subject'@en	'two biblical humans'@en
+Q1411766	P921	Q1406161	1.0	'predella'@en	'main subject'@en	'artistic theme'@en
+Q1411766	P921	Q22813672	1.0	'predella'@en	'main subject'@en	'two biblical humans'@en
+Q15711026	P921	Q1406161	1.0	'altarpiece'@en	'main subject'@en	'artistic theme'@en
+Q15711026	P921	Q22813672	1.0	'altarpiece'@en	'main subject'@en	'two biblical humans'@en
+Q17152495	P921	Q5	1.0	'prime version'@en	'main subject'@en	'human'@en
+Q2910675	P921	Q5	1.0	'unfinished creative work'@en	'main subject'@en	'human'@en
+Q3305213	P921	Q1077064	1.0	'painting'@en	'main subject'@en	'charity'@en
+Q3305213	P921	Q1128340	1.0	'painting'@en	'main subject'@en	'index term'@en
+Q3305213	P921	Q135010	1.0	'painting'@en	'main subject'@en	'war crime'@en
+Q3305213	P921	Q1799072	1.0	'painting'@en	'main subject'@en	'method'@en
+Q3305213	P921	Q1914636	1.0	'painting'@en	'main subject'@en	'activity'@en
+Q3305213	P921	Q198	1.0	'painting'@en	'main subject'@en	'war'@en
+Q3305213	P921	Q20127274	1.0	'painting'@en	'main subject'@en	'certain aspects of a person\'s life'@en
+Q3305213	P921	Q207869	1.0	'painting'@en	'main subject'@en	'epithet'@en
+Q3305213	P921	Q2634521	1.0	'painting'@en	'main subject'@en	'title of Jesus'@en
+Q3305213	P921	Q2665156	1.0	'painting'@en	'main subject'@en	'Christian ethics'@en
+Q3305213	P921	Q27955379	1.0	'painting'@en	'main subject'@en	'road transport infrastructure'@en
+Q3305213	P921	Q29154430	1.0	'painting'@en	'main subject'@en	'book of the Bible'@en
+Q3305213	P921	Q3199915	1.0	'painting'@en	'main subject'@en	'massacre'@en
+Q3305213	P921	Q3249551	1.0	'painting'@en	'main subject'@en	'process'@en
+Q3305213	P921	Q330284	1.0	'painting'@en	'main subject'@en	'marketplace'@en
+Q3305213	P921	Q4430243	1.0	'painting'@en	'main subject'@en	'social organization'@en
+Q3305213	P921	Q47092	1.0	'painting'@en	'main subject'@en	'rape'@en
+Q3305213	P921	Q47461344	1.0	'painting'@en	'main subject'@en	'written work'@en
+Q3305213	P921	Q4774340	1.0	'painting'@en	'main subject'@en	'Anti-communist mass killings'@en
+Q3305213	P921	Q55983715	1.0	'painting'@en	'main subject'@en	'organisms known by a particular common name'@en
+Q3305213	P921	Q7860962	1.0	'painting'@en	'main subject'@en	'road type'@en
+Q370665	P921	Q1406161	1.0	'sacra conversazione'@en	'main subject'@en	'artistic theme'@en
+Q79218	P921	Q1406161	1.0	'triptych'@en	'main subject'@en	'artistic theme'@en
+Q79218	P921	Q22813672	1.0	'triptych'@en	'main subject'@en	'two biblical humans'@en
+Q836950	P921	Q5	1.0	'derivative work'@en	'main subject'@en	'human'@en
+Q3305213	P646	external-id	562.0	'painting'@en	'Freebase ID'@en	
+Q79218	P646	external-id	4.0	'triptych'@en	'Freebase ID'@en	
+Q1278452	P646	external-id	2.0	'polyptych'@en	'Freebase ID'@en	
+Q219423	P646	external-id	2.0	'mural'@en	'Freebase ID'@en	
+Q46686	P646	external-id	2.0	'reredos'@en	'Freebase ID'@en	
+Q93184	P646	external-id	2.0	'drawing'@en	'Freebase ID'@en	
+Q10827799	P646	external-id	1.0	'silk painting'@en	'Freebase ID'@en	
+Q1411766	P646	external-id	1.0	'predella'@en	'Freebase ID'@en	
+Q15711026	P646	external-id	1.0	'altarpiece'@en	'Freebase ID'@en	
+Q15727816	P646	external-id	1.0	'painting series'@en	'Freebase ID'@en	
+Q17152495	P646	external-id	1.0	'prime version'@en	'Freebase ID'@en	
+Q18761202	P646	external-id	1.0	'watercolor painting'@en	'Freebase ID'@en	
+Q192425	P646	external-id	1.0	'postcard'@en	'Freebase ID'@en	
+Q21745157	P646	external-id	1.0	'destroyed artwork'@en	'Freebase ID'@en	
+Q22669139	P646	external-id	1.0	'fresco'@en	'Freebase ID'@en	
+Q2647254	P646	external-id	1.0	'study'@en	'Freebase ID'@en	
+Q2910675	P646	external-id	1.0	'unfinished creative work'@en	'Freebase ID'@en	
+Q370665	P646	external-id	1.0	'sacra conversazione'@en	'Freebase ID'@en	
+Q475476	P646	external-id	1.0	'diptych'@en	'Freebase ID'@en	
+Q832266	P646	external-id	1.0	'intarsia'@en	'Freebase ID'@en	
+Q836950	P646	external-id	1.0	'derivative work'@en	'Freebase ID'@en	
+Q848330	P646	external-id	1.0	'tondo'@en	'Freebase ID'@en	
+Q3305213	P6216	Q50424085	410.0	'painting'@en	'copyright status'@en	'copyright status'@en
+Q1278452	P6216	Q50424085	2.0	'polyptych'@en	'copyright status'@en	'copyright status'@en
+Q46686	P6216	Q50424085	2.0	'reredos'@en	'copyright status'@en	'copyright status'@en
+Q79218	P6216	Q50424085	2.0	'triptych'@en	'copyright status'@en	'copyright status'@en
+Q93184	P6216	Q50424085	2.0	'drawing'@en	'copyright status'@en	'copyright status'@en
+Q1411766	P6216	Q50424085	1.0	'predella'@en	'copyright status'@en	'copyright status'@en
+Q15711026	P6216	Q50424085	1.0	'altarpiece'@en	'copyright status'@en	'copyright status'@en
+Q17152495	P6216	Q50424085	1.0	'prime version'@en	'copyright status'@en	'copyright status'@en
+Q18761202	P6216	Q50424085	1.0	'watercolor painting'@en	'copyright status'@en	'copyright status'@en
+Q2647254	P6216	Q50424085	1.0	'study'@en	'copyright status'@en	'copyright status'@en
+Q370665	P6216	Q50424085	1.0	'sacra conversazione'@en	'copyright status'@en	'copyright status'@en
+Q475476	P6216	Q50424085	1.0	'diptych'@en	'copyright status'@en	'copyright status'@en
+Q836950	P6216	Q50424085	1.0	'derivative work'@en	'copyright status'@en	'copyright status'@en
+Q848330	P6216	Q50424085	1.0	'tondo'@en	'copyright status'@en	'copyright status'@en
+Q3305213	P571	time	560.0	'painting'@en	'inception'@en	
+Q79218	P571	time	4.0	'triptych'@en	'inception'@en	
+Q1278452	P571	time	2.0	'polyptych'@en	'inception'@en	
+Q219423	P571	time	2.0	'mural'@en	'inception'@en	
+Q46686	P571	time	2.0	'reredos'@en	'inception'@en	
+Q93184	P571	time	2.0	'drawing'@en	'inception'@en	
+Q1411766	P571	time	1.0	'predella'@en	'inception'@en	
+Q15711026	P571	time	1.0	'altarpiece'@en	'inception'@en	
+Q15727816	P571	time	1.0	'painting series'@en	'inception'@en	
+Q17152495	P571	time	1.0	'prime version'@en	'inception'@en	
+Q18761202	P571	time	1.0	'watercolor painting'@en	'inception'@en	
+Q192425	P571	time	1.0	'postcard'@en	'inception'@en	
+Q21745157	P571	time	1.0	'destroyed artwork'@en	'inception'@en	
+Q22669139	P571	time	1.0	'fresco'@en	'inception'@en	
+Q2647254	P571	time	1.0	'study'@en	'inception'@en	
+Q2910675	P571	time	1.0	'unfinished creative work'@en	'inception'@en	
+Q370665	P571	time	1.0	'sacra conversazione'@en	'inception'@en	
+Q475476	P571	time	1.0	'diptych'@en	'inception'@en	
+Q832266	P571	time	1.0	'intarsia'@en	'inception'@en	
+Q836950	P571	time	1.0	'derivative work'@en	'inception'@en	
+Q848330	P571	time	1.0	'tondo'@en	'inception'@en	
+Q3305213	P528	string	172.0	'painting'@en	'catalog code'@en	
+Q192425	P528	string	1.0	'postcard'@en	'catalog code'@en	
+Q2647254	P528	string	1.0	'study'@en	'catalog code'@en	
+Q848330	P528	string	1.0	'tondo'@en	'catalog code'@en	
+Q93184	P528	string	1.0	'drawing'@en	'catalog code'@en	
+Q3305213	P495	Q6256	144.0	'painting'@en	'country of origin'@en	'country'@en
+Q3305213	P495	Q3624078	139.0	'painting'@en	'country of origin'@en	'sovereign state'@en
+Q3305213	P495	Q1489259	91.0	'painting'@en	'country of origin'@en	'superpower'@en
+Q3305213	P495	Q1520223	91.0	'painting'@en	'country of origin'@en	'constitutional republic'@en
+Q3305213	P495	Q512187	91.0	'painting'@en	'country of origin'@en	'federal republic'@en
+Q3305213	P495	Q5255892	91.0	'painting'@en	'country of origin'@en	'democratic republic'@en
+Q3305213	P495	Q99541706	91.0	'painting'@en	'country of origin'@en	'historical unrecognized state'@en
+Q3305213	P495	Q51576574	43.0	'painting'@en	'country of origin'@en	'Mediterranean country'@en
+Q3305213	P495	Q7270	27.0	'painting'@en	'country of origin'@en	'republic'@en
+Q3305213	P495	Q1250464	20.0	'painting'@en	'country of origin'@en	'realm'@en
+Q3305213	P495	Q20181813	18.0	'painting'@en	'country of origin'@en	'colonial power'@en
+Q3305213	P495	Q619610	12.0	'painting'@en	'country of origin'@en	'social state'@en
+Q3305213	P495	Q179164	11.0	'painting'@en	'country of origin'@en	'unitary state'@en
+Q3305213	P495	Q185145	11.0	'painting'@en	'country of origin'@en	'great power'@en
+Q3305213	P495	Q15304003	5.0	'painting'@en	'country of origin'@en	'country of the Kingdom of the Netherlands'@en
+Q3305213	P495	Q112099	4.0	'painting'@en	'country of origin'@en	'island nation'@en
+Q3305213	P495	Q202686	3.0	'painting'@en	'country of origin'@en	'Commonwealth realm'@en
+Q219423	P495	Q1489259	2.0	'mural'@en	'country of origin'@en	'superpower'@en
+Q219423	P495	Q1520223	2.0	'mural'@en	'country of origin'@en	'constitutional republic'@en
+Q219423	P495	Q3624078	2.0	'mural'@en	'country of origin'@en	'sovereign state'@en
+Q219423	P495	Q512187	2.0	'mural'@en	'country of origin'@en	'federal republic'@en
+Q219423	P495	Q5255892	2.0	'mural'@en	'country of origin'@en	'democratic republic'@en
+Q219423	P495	Q6256	2.0	'mural'@en	'country of origin'@en	'country'@en
+Q219423	P495	Q99541706	2.0	'mural'@en	'country of origin'@en	'historical unrecognized state'@en
+Q15727816	P495	Q112099	1.0	'painting series'@en	'country of origin'@en	'island nation'@en
+Q15727816	P495	Q3624078	1.0	'painting series'@en	'country of origin'@en	'sovereign state'@en
+Q15727816	P495	Q6256	1.0	'painting series'@en	'country of origin'@en	'country'@en
+Q192425	P495	Q1250464	1.0	'postcard'@en	'country of origin'@en	'realm'@en
+Q192425	P495	Q3624078	1.0	'postcard'@en	'country of origin'@en	'sovereign state'@en
+Q192425	P495	Q51576574	1.0	'postcard'@en	'country of origin'@en	'Mediterranean country'@en
+Q192425	P495	Q6256	1.0	'postcard'@en	'country of origin'@en	'country'@en
+Q2647254	P495	Q15304003	1.0	'study'@en	'country of origin'@en	'country of the Kingdom of the Netherlands'@en
+Q2647254	P495	Q6256	1.0	'study'@en	'country of origin'@en	'country'@en
+Q2910675	P495	Q1489259	1.0	'unfinished creative work'@en	'country of origin'@en	'superpower'@en
+Q2910675	P495	Q1520223	1.0	'unfinished creative work'@en	'country of origin'@en	'constitutional republic'@en
+Q2910675	P495	Q3624078	1.0	'unfinished creative work'@en	'country of origin'@en	'sovereign state'@en
+Q2910675	P495	Q512187	1.0	'unfinished creative work'@en	'country of origin'@en	'federal republic'@en
+Q2910675	P495	Q5255892	1.0	'unfinished creative work'@en	'country of origin'@en	'democratic republic'@en
+Q2910675	P495	Q6256	1.0	'unfinished creative work'@en	'country of origin'@en	'country'@en
+Q2910675	P495	Q99541706	1.0	'unfinished creative work'@en	'country of origin'@en	'historical unrecognized state'@en
+Q3305213	P495	Q3336843	1.0	'painting'@en	'country of origin'@en	'constituent country of the United Kingdom'@en
+Q3305213	P495	Q4209223	1.0	'painting'@en	'country of origin'@en	'Rechtsstaat'@en
+Q3305213	P495	Q43702	1.0	'painting'@en	'country of origin'@en	'federation'@en
+Q3305213	P495	Q6266	1.0	'painting'@en	'country of origin'@en	'nation'@en
+Q3305213	P495	Q63791824	1.0	'painting'@en	'country of origin'@en	'country bordering the Baltic Sea'@en
+Q79218	P495	Q179164	1.0	'triptych'@en	'country of origin'@en	'unitary state'@en
+Q79218	P495	Q185145	1.0	'triptych'@en	'country of origin'@en	'great power'@en
+Q79218	P495	Q3624078	1.0	'triptych'@en	'country of origin'@en	'sovereign state'@en
+Q79218	P495	Q51576574	1.0	'triptych'@en	'country of origin'@en	'Mediterranean country'@en
+Q79218	P495	Q619610	1.0	'triptych'@en	'country of origin'@en	'social state'@en
+Q79218	P495	Q6256	1.0	'triptych'@en	'country of origin'@en	'country'@en
+Q79218	P495	Q7270	1.0	'triptych'@en	'country of origin'@en	'republic'@en
+Q3305213	P4701	external-id	97.0	'painting'@en	'Google Arts & Culture asset ID'@en	
+Q1278452	P4701	external-id	1.0	'polyptych'@en	'Google Arts & Culture asset ID'@en	
+Q3305213	P373	string	230.0	'painting'@en	'Commons category'@en	
+Q1278452	P373	string	2.0	'polyptych'@en	'Commons category'@en	
+Q46686	P373	string	2.0	'reredos'@en	'Commons category'@en	
+Q79218	P373	string	2.0	'triptych'@en	'Commons category'@en	
+Q1411766	P373	string	1.0	'predella'@en	'Commons category'@en	
+Q15711026	P373	string	1.0	'altarpiece'@en	'Commons category'@en	
+Q15727816	P373	string	1.0	'painting series'@en	'Commons category'@en	
+Q17152495	P373	string	1.0	'prime version'@en	'Commons category'@en	
+Q22669139	P373	string	1.0	'fresco'@en	'Commons category'@en	
+Q2647254	P373	string	1.0	'study'@en	'Commons category'@en	
+Q370665	P373	string	1.0	'sacra conversazione'@en	'Commons category'@en	
+Q836950	P373	string	1.0	'derivative work'@en	'Commons category'@en	
+Q848330	P373	string	1.0	'tondo'@en	'Commons category'@en	
+Q93184	P373	string	1.0	'drawing'@en	'Commons category'@en	
+Q3305213	P276	Q207694	395.0	'painting'@en	'location'@en	'art museum'@en
+Q3305213	P276	Q17431399	91.0	'painting'@en	'location'@en	'national museum'@en
+Q3305213	P276	Q33506	35.0	'painting'@en	'location'@en	'museum'@en
+Q3305213	P276	Q2085381	30.0	'painting'@en	'location'@en	'publisher'@en
+Q3305213	P276	Q24699794	22.0	'painting'@en	'location'@en	'museum building'@en
+Q3305213	P276	Q43229	18.0	'painting'@en	'location'@en	'organization'@en
+Q3305213	P276	Q570116	18.0	'painting'@en	'location'@en	'tourist attraction'@en
+Q3305213	P276	Q180516	16.0	'painting'@en	'location'@en	'room'@en
+Q3305213	P276	Q16560	15.0	'painting'@en	'location'@en	'palace'@en
+Q3305213	P276	Q45400320	15.0	'painting'@en	'location'@en	'open-access publisher'@en
+Q3305213	P276	Q1047437	14.0	'painting'@en	'location'@en	'copyright collective'@en
+Q3305213	P276	Q6256	14.0	'painting'@en	'location'@en	'country'@en
+Q3305213	P276	Q88667167	14.0	'painting'@en	'location'@en	'museum network'@en
+Q3305213	P276	Q1595639	13.0	'painting'@en	'location'@en	'local museum'@en
+Q3305213	P276	Q53536964	13.0	'painting'@en	'location'@en	'royal palace'@en
+Q3305213	P276	Q3624078	12.0	'painting'@en	'location'@en	'sovereign state'@en
+Q3305213	P276	Q4989906	12.0	'painting'@en	'location'@en	'monument'@en
+Q3305213	P276	Q108860593	11.0	'painting'@en	'location'@en	'museum of modern art'@en
+Q3305213	P276	Q751876	11.0	'painting'@en	'location'@en	'château'@en
+Q3305213	P276	Q2385804	9.0	'painting'@en	'location'@en	'educational institution'@en
+Q3305213	P276	Q20181813	8.0	'painting'@en	'location'@en	'colonial power'@en
+Q3305213	P276	Q383092	8.0	'painting'@en	'location'@en	'Art school'@en
+Q3305213	P276	Q16735822	7.0	'painting'@en	'location'@en	'history museum'@en
+Q3305213	P276	Q2772772	7.0	'painting'@en	'location'@en	'military museum'@en
+Q3305213	P276	Q5119	7.0	'painting'@en	'location'@en	'capital'@en
+Q3305213	P276	Q2087181	6.0	'painting'@en	'location'@en	'historic house museum'@en
+Q3305213	P276	Q51576574	6.0	'painting'@en	'location'@en	'Mediterranean country'@en
+Q3305213	P276	Q7328910	6.0	'painting'@en	'location'@en	'art collection'@en
+Q3305213	P276	Q1250464	5.0	'painting'@en	'location'@en	'realm'@en
+Q3305213	P276	Q15090615	5.0	'painting'@en	'location'@en	'arts venue'@en
+Q3305213	P276	Q1759852	5.0	'painting'@en	'location'@en	'sculpture garden'@en
+Q3305213	P276	Q28737012	5.0	'painting'@en	'location'@en	'museum of culture'@en
+Q3305213	P276	Q41176	5.0	'painting'@en	'location'@en	'building'@en
+Q3305213	P276	Q41253	5.0	'painting'@en	'location'@en	'movie theater'@en
+Q3305213	P276	Q684740	5.0	'painting'@en	'location'@en	'real property'@en
+Q3305213	P276	Q7270	5.0	'painting'@en	'location'@en	'republic'@en
+Q3305213	P276	Q1007870	4.0	'painting'@en	'location'@en	'art gallery'@en
+Q3305213	P276	Q1497364	4.0	'painting'@en	'location'@en	'building complex'@en
+Q3305213	P276	Q15206795	4.0	'painting'@en	'location'@en	'exhibition room'@en
+Q3305213	P276	Q1549591	4.0	'painting'@en	'location'@en	'big city'@en
+Q3305213	P276	Q1970365	4.0	'painting'@en	'location'@en	'natural history museum'@en
+Q3305213	P276	Q2264924	4.0	'painting'@en	'location'@en	'port settlement'@en
+Q3305213	P276	Q28496624	4.0	'painting'@en	'location'@en	'national museum'@en
+Q3305213	P276	Q515	4.0	'painting'@en	'location'@en	'city'@en
+Q3305213	P276	Q16970	3.0	'painting'@en	'location'@en	'church building'@en
+Q3305213	P276	Q1966910	3.0	'painting'@en	'location'@en	'national academy'@en
+Q3305213	P276	Q24354	3.0	'painting'@en	'location'@en	'theatre'@en
+Q3305213	P276	Q2651004	3.0	'painting'@en	'location'@en	'palazzo'@en
+Q3305213	P276	Q3469910	3.0	'painting'@en	'location'@en	'performing arts center'@en
+Q3305213	P276	Q44613	3.0	'painting'@en	'location'@en	'monastery'@en
+Q3305213	P276	Q581830	3.0	'painting'@en	'location'@en	'carfree city'@en
+Q3305213	P276	Q740437	3.0	'painting'@en	'location'@en	'picture gallery'@en
+Q3305213	P276	Q747074	3.0	'painting'@en	'location'@en	'commune of Italy'@en
+Q3305213	P276	Q856584	3.0	'painting'@en	'location'@en	'library building'@en
+Q3305213	P276	Q866133	3.0	'painting'@en	'location'@en	'university museum'@en
+Q1278452	P276	Q207694	2.0	'polyptych'@en	'location'@en	'art museum'@en
+Q1278452	P276	Q33506	2.0	'polyptych'@en	'location'@en	'museum'@en
+Q3305213	P276	Q108325	2.0	'painting'@en	'location'@en	'chapel'@en
+Q3305213	P276	Q112099	2.0	'painting'@en	'location'@en	'island nation'@en
+Q3305213	P276	Q12493	2.0	'painting'@en	'location'@en	'dome'@en
+Q3305213	P276	Q1329623	2.0	'painting'@en	'location'@en	'cultural center'@en
+Q3305213	P276	Q1497649	2.0	'painting'@en	'location'@en	'memory institution'@en
+Q3305213	P276	Q15304003	2.0	'painting'@en	'location'@en	'country of the Kingdom of the Netherlands'@en
+Q3305213	P276	Q1792630	2.0	'painting'@en	'location'@en	'arts foundation'@en
+Q3305213	P276	Q185441	2.0	'painting'@en	'location'@en	'member state of the european union'@en
+Q3305213	P276	Q190249	2.0	'painting'@en	'location'@en	'central building'@en
+Q3305213	P276	Q200250	2.0	'painting'@en	'location'@en	'metropolis'@en
+Q3305213	P276	Q202686	2.0	'painting'@en	'location'@en	'Commonwealth realm'@en
+Q3305213	P276	Q2288140	2.0	'painting'@en	'location'@en	'Federal Scientific Institute'@en
+Q3305213	P276	Q23002054	2.0	'painting'@en	'location'@en	'private not-for-profit educational institution'@en
+Q3305213	P276	Q2945282	2.0	'painting'@en	'location'@en	'documentation centre'@en
+Q3305213	P276	Q358	2.0	'painting'@en	'location'@en	'heritage site'@en
+Q3305213	P276	Q3918	2.0	'painting'@en	'location'@en	'university'@en
+Q3305213	P276	Q3950	2.0	'painting'@en	'location'@en	'villa'@en
+Q3305213	P276	Q43702	2.0	'painting'@en	'location'@en	'federation'@en
+Q3305213	P276	Q484170	2.0	'painting'@en	'location'@en	'commune of France'@en
+Q3305213	P276	Q708676	2.0	'painting'@en	'location'@en	'charitable organization'@en
+Q3305213	P276	Q907116	2.0	'painting'@en	'location'@en	'National monument of Spain'@en
+Q46686	P276	Q207694	2.0	'reredos'@en	'location'@en	'art museum'@en
+Q10827799	P276	Q33506	1.0	'silk painting'@en	'location'@en	'museum'@en
+Q1278452	P276	Q16560	1.0	'polyptych'@en	'location'@en	'palace'@en
+Q1278452	P276	Q44613	1.0	'polyptych'@en	'location'@en	'monastery'@en
+Q1411766	P276	Q207694	1.0	'predella'@en	'location'@en	'art museum'@en
+Q1411766	P276	Q33506	1.0	'predella'@en	'location'@en	'museum'@en
+Q1411766	P276	Q44613	1.0	'predella'@en	'location'@en	'monastery'@en
+Q15711026	P276	Q207694	1.0	'altarpiece'@en	'location'@en	'art museum'@en
+Q15711026	P276	Q33506	1.0	'altarpiece'@en	'location'@en	'museum'@en
+Q15711026	P276	Q44613	1.0	'altarpiece'@en	'location'@en	'monastery'@en
+Q15727816	P276	Q17431399	1.0	'painting series'@en	'location'@en	'national museum'@en
+Q17152495	P276	Q16560	1.0	'prime version'@en	'location'@en	'palace'@en
+Q17152495	P276	Q207694	1.0	'prime version'@en	'location'@en	'art museum'@en
+Q17152495	P276	Q33506	1.0	'prime version'@en	'location'@en	'museum'@en
+Q18761202	P276	Q1595639	1.0	'watercolor painting'@en	'location'@en	'local museum'@en
+Q18761202	P276	Q207694	1.0	'watercolor painting'@en	'location'@en	'art museum'@en
+Q192425	P276	Q207694	1.0	'postcard'@en	'location'@en	'art museum'@en
+Q219423	P276	Q1093829	1.0	'mural'@en	'location'@en	'city of the United States'@en
+Q219423	P276	Q11303	1.0	'mural'@en	'location'@en	'skyscraper'@en
+Q22669139	P276	Q108325	1.0	'fresco'@en	'location'@en	'chapel'@en
+Q22669139	P276	Q570116	1.0	'fresco'@en	'location'@en	'tourist attraction'@en
+Q2647254	P276	Q17431399	1.0	'study'@en	'location'@en	'national museum'@en
+Q2647254	P276	Q1759852	1.0	'study'@en	'location'@en	'sculpture garden'@en
+Q2647254	P276	Q207694	1.0	'study'@en	'location'@en	'art museum'@en
+Q2910675	P276	Q2087181	1.0	'unfinished creative work'@en	'location'@en	'historic house museum'@en
+Q3305213	P276	Q1066984	1.0	'painting'@en	'location'@en	'financial centre'@en
+Q3305213	P276	Q107	1.0	'painting'@en	'location'@en	'space'@en
+Q3305213	P276	Q108860927	1.0	'painting'@en	'location'@en	'contemporary art museum'@en
+Q3305213	P276	Q1093829	1.0	'painting'@en	'location'@en	'city of the United States'@en
+Q3305213	P276	Q11303	1.0	'painting'@en	'location'@en	'skyscraper'@en
+Q3305213	P276	Q11707	1.0	'painting'@en	'location'@en	'restaurant'@en
+Q3305213	P276	Q1187811	1.0	'painting'@en	'location'@en	'college town'@en
+Q3305213	P276	Q1200957	1.0	'painting'@en	'location'@en	'tourist destination'@en
+Q3305213	P276	Q120560	1.0	'painting'@en	'location'@en	'minor basilica'@en
+Q3305213	P276	Q1236680	1.0	'painting'@en	'location'@en	'gentlemen\'s club'@en
+Q3305213	P276	Q1307560	1.0	'painting'@en	'location'@en	'Jewish museum'@en
+Q3305213	P276	Q131734	1.0	'painting'@en	'location'@en	'brewery'@en
+Q3305213	P276	Q13539802	1.0	'painting'@en	'location'@en	'place with town rights and privileges'@en
+Q3305213	P276	Q14770218	1.0	'painting'@en	'location'@en	'cantonal capital of Switzerland'@en
+Q3305213	P276	Q1489259	1.0	'painting'@en	'location'@en	'superpower'@en
+Q3305213	P276	Q1497375	1.0	'painting'@en	'location'@en	'architectural ensemble'@en
+Q3305213	P276	Q1520223	1.0	'painting'@en	'location'@en	'constitutional republic'@en
+Q3305213	P276	Q1546583	1.0	'painting'@en	'location'@en	'presidential library'@en
+Q3305213	P276	Q1587716	1.0	'painting'@en	'location'@en	'tourism office'@en
+Q3305213	P276	Q163740	1.0	'painting'@en	'location'@en	'nonprofit organization'@en
+Q3305213	P276	Q1637706	1.0	'painting'@en	'location'@en	'million city'@en
+Q3305213	P276	Q166118	1.0	'painting'@en	'location'@en	'archive'@en
+Q3305213	P276	Q1662089	1.0	'painting'@en	'location'@en	'industry museum'@en
+Q3305213	P276	Q173387	1.0	'painting'@en	'location'@en	'grave'@en
+Q3305213	P276	Q1743327	1.0	'painting'@en	'location'@en	'сhurch college'@en
+Q3305213	P276	Q174782	1.0	'painting'@en	'location'@en	'square'@en
+Q3305213	P276	Q179164	1.0	'painting'@en	'location'@en	'unitary state'@en
+Q3305213	P276	Q1802963	1.0	'painting'@en	'location'@en	'mansion'@en
+Q3305213	P276	Q185145	1.0	'painting'@en	'location'@en	'great power'@en
+Q3305213	P276	Q1852859	1.0	'painting'@en	'location'@en	'populated place in the Netherlands'@en
+Q3305213	P276	Q1863818	1.0	'painting'@en	'location'@en	'maritime museum'@en
+Q3305213	P276	Q189004	1.0	'painting'@en	'location'@en	'college'@en
+Q3305213	P276	Q2039348	1.0	'painting'@en	'location'@en	'municipality of the Netherlands'@en
+Q3305213	P276	Q2065736	1.0	'painting'@en	'location'@en	'cultural property'@en
+Q3305213	P276	Q20897549	1.0	'painting'@en	'location'@en	'art institution'@en
+Q3305213	P276	Q2140214	1.0	'painting'@en	'location'@en	'parish of Jersey'@en
+Q3305213	P276	Q22923920	1.0	'painting'@en	'location'@en	'territorial collectivity of France with special status'@en
+Q3305213	P276	Q23413	1.0	'painting'@en	'location'@en	'castle'@en
+Q3305213	P276	Q2398990	1.0	'painting'@en	'location'@en	'technology museum'@en
+Q3305213	P276	Q2466889	1.0	'painting'@en	'location'@en	'hydraulic structure'@en
+Q3305213	P276	Q2668072	1.0	'painting'@en	'location'@en	'collection'@en
+Q3305213	P276	Q30124446	1.0	'painting'@en	'location'@en	'legislative building'@en
+Q3305213	P276	Q31855	1.0	'painting'@en	'location'@en	'research institute'@en
+Q3305213	P276	Q3284499	1.0	'painting'@en	'location'@en	'capitol building'@en
+Q3305213	P276	Q3329412	1.0	'painting'@en	'location'@en	'archaeological museum'@en
+Q3305213	P276	Q3336843	1.0	'painting'@en	'location'@en	'constituent country of the United Kingdom'@en
+Q3305213	P276	Q38723	1.0	'painting'@en	'location'@en	'higher education institution'@en
+Q3305213	P276	Q3947	1.0	'painting'@en	'location'@en	'house'@en
+Q3305213	P276	Q41614	1.0	'painting'@en	'location'@en	'constitutional monarchy'@en
+Q3305213	P276	Q4409567	1.0	'painting'@en	'location'@en	'prefectural museum'@en
+Q3305213	P276	Q512187	1.0	'painting'@en	'location'@en	'federal republic'@en
+Q3305213	P276	Q518261	1.0	'painting'@en	'location'@en	'cultural area'@en
+Q3305213	P276	Q5185052	1.0	'painting'@en	'location'@en	'cricket pavilion'@en
+Q3305213	P276	Q5255892	1.0	'painting'@en	'location'@en	'democratic republic'@en
+Q3305213	P276	Q5341295	1.0	'painting'@en	'location'@en	'educational organization'@en
+Q3305213	P276	Q5393308	1.0	'painting'@en	'location'@en	'Buddhist temple'@en
+Q3305213	P276	Q54935504	1.0	'painting'@en	'location'@en	'city of Switzerland'@en
+Q3305213	P276	Q56242215	1.0	'painting'@en	'location'@en	'Catholic cathedral'@en
+Q3305213	P276	Q588140	1.0	'painting'@en	'location'@en	'science museum'@en
+Q3305213	P276	Q613611	1.0	'painting'@en	'location'@en	'alcázar'@en
+Q3305213	P276	Q619610	1.0	'painting'@en	'location'@en	'social state'@en
+Q3305213	P276	Q6465	1.0	'painting'@en	'location'@en	'department of France'@en
+Q3305213	P276	Q70208	1.0	'painting'@en	'location'@en	'municipality of Switzerland'@en
+Q3305213	P276	Q7075	1.0	'painting'@en	'location'@en	'library'@en
+Q3305213	P276	Q742421	1.0	'painting'@en	'location'@en	'theatrical troupe'@en
+Q3305213	P276	Q756102	1.0	'painting'@en	'location'@en	'open-air museum'@en
+Q3305213	P276	Q811979	1.0	'painting'@en	'location'@en	'architectural structure'@en
+Q3305213	P276	Q82673	1.0	'painting'@en	'location'@en	'conservation status'@en
+Q3305213	P276	Q839954	1.0	'painting'@en	'location'@en	'archaeological site'@en
+Q3305213	P276	Q847027	1.0	'painting'@en	'location'@en	'grande école'@en
+Q3305213	P276	Q866196	1.0	'painting'@en	'location'@en	'episcopal see'@en
+Q3305213	P276	Q94701740	1.0	'painting'@en	'location'@en	'didactic museum'@en
+Q3305213	P276	Q98675100	1.0	'painting'@en	'location'@en	'vice-ministerial level institution'@en
+Q3305213	P276	Q99541706	1.0	'painting'@en	'location'@en	'historical unrecognized state'@en
+Q370665	P276	Q1549591	1.0	'sacra conversazione'@en	'location'@en	'big city'@en
+Q370665	P276	Q16970	1.0	'sacra conversazione'@en	'location'@en	'church building'@en
+Q370665	P276	Q2264924	1.0	'sacra conversazione'@en	'location'@en	'port settlement'@en
+Q370665	P276	Q5119	1.0	'sacra conversazione'@en	'location'@en	'capital'@en
+Q370665	P276	Q515	1.0	'sacra conversazione'@en	'location'@en	'city'@en
+Q370665	P276	Q581830	1.0	'sacra conversazione'@en	'location'@en	'carfree city'@en
+Q370665	P276	Q747074	1.0	'sacra conversazione'@en	'location'@en	'commune of Italy'@en
+Q46686	P276	Q17431399	1.0	'reredos'@en	'location'@en	'national museum'@en
+Q46686	P276	Q740437	1.0	'reredos'@en	'location'@en	'picture gallery'@en
+Q475476	P276	Q17431399	1.0	'diptych'@en	'location'@en	'national museum'@en
+Q475476	P276	Q207694	1.0	'diptych'@en	'location'@en	'art museum'@en
+Q475476	P276	Q43229	1.0	'diptych'@en	'location'@en	'organization'@en
+Q79218	P276	Q1047437	1.0	'triptych'@en	'location'@en	'copyright collective'@en
+Q79218	P276	Q112099	1.0	'triptych'@en	'location'@en	'island nation'@en
+Q79218	P276	Q1250464	1.0	'triptych'@en	'location'@en	'realm'@en
+Q79218	P276	Q180516	1.0	'triptych'@en	'location'@en	'room'@en
+Q79218	P276	Q20181813	1.0	'triptych'@en	'location'@en	'colonial power'@en
+Q79218	P276	Q202686	1.0	'triptych'@en	'location'@en	'Commonwealth realm'@en
+Q79218	P276	Q207694	1.0	'triptych'@en	'location'@en	'art museum'@en
+Q79218	P276	Q33506	1.0	'triptych'@en	'location'@en	'museum'@en
+Q79218	P276	Q3624078	1.0	'triptych'@en	'location'@en	'sovereign state'@en
+Q79218	P276	Q45400320	1.0	'triptych'@en	'location'@en	'open-access publisher'@en
+Q79218	P276	Q6256	1.0	'triptych'@en	'location'@en	'country'@en
+Q79218	P276	Q88667167	1.0	'triptych'@en	'location'@en	'museum network'@en
+Q832266	P276	Q207694	1.0	'intarsia'@en	'location'@en	'art museum'@en
+Q836950	P276	Q207694	1.0	'derivative work'@en	'location'@en	'art museum'@en
+Q848330	P276	Q180516	1.0	'tondo'@en	'location'@en	'room'@en
+Q848330	P276	Q20181813	1.0	'tondo'@en	'location'@en	'colonial power'@en
+Q848330	P276	Q3624078	1.0	'tondo'@en	'location'@en	'sovereign state'@en
+Q848330	P276	Q51576574	1.0	'tondo'@en	'location'@en	'Mediterranean country'@en
+Q848330	P276	Q6256	1.0	'tondo'@en	'location'@en	'country'@en
+Q848330	P276	Q7270	1.0	'tondo'@en	'location'@en	'republic'@en
+Q93184	P276	Q1595639	1.0	'drawing'@en	'location'@en	'local museum'@en
+Q93184	P276	Q207694	1.0	'drawing'@en	'location'@en	'art museum'@en
+Q93184	P276	Q2772772	1.0	'drawing'@en	'location'@en	'military museum'@en
+Q3305213	P2581	external-id	226.0	'painting'@en	'BabelNet ID'@en	
+Q18761202	P2581	external-id	1.0	'watercolor painting'@en	'BabelNet ID'@en	
+Q219423	P2581	external-id	1.0	'mural'@en	'BabelNet ID'@en	
+Q22669139	P2581	external-id	1.0	'fresco'@en	'BabelNet ID'@en	
+Q2647254	P2581	external-id	1.0	'study'@en	'BabelNet ID'@en	
+Q370665	P2581	external-id	1.0	'sacra conversazione'@en	'BabelNet ID'@en	
+Q46686	P2581	external-id	1.0	'reredos'@en	'BabelNet ID'@en	
+Q79218	P2581	external-id	1.0	'triptych'@en	'BabelNet ID'@en	
+Q836950	P2581	external-id	1.0	'derivative work'@en	'BabelNet ID'@en	
+Q848330	P2581	external-id	1.0	'tondo'@en	'BabelNet ID'@en	
+Q3305213	P217	string	396.0	'painting'@en	'inventory number'@en	
+Q46686	P217	string	2.0	'reredos'@en	'inventory number'@en	
+Q79218	P217	string	2.0	'triptych'@en	'inventory number'@en	
+Q1278452	P217	string	1.0	'polyptych'@en	'inventory number'@en	
+Q17152495	P217	string	1.0	'prime version'@en	'inventory number'@en	
+Q18761202	P217	string	1.0	'watercolor painting'@en	'inventory number'@en	
+Q192425	P217	string	1.0	'postcard'@en	'inventory number'@en	
+Q2647254	P217	string	1.0	'study'@en	'inventory number'@en	
+Q832266	P217	string	1.0	'intarsia'@en	'inventory number'@en	
+Q848330	P217	string	1.0	'tondo'@en	'inventory number'@en	
+Q3305213	P2049	quantity	437.0	'painting'@en	'width'@en	
+Q1278452	P2049	quantity	2.0	'polyptych'@en	'width'@en	
+Q46686	P2049	quantity	2.0	'reredos'@en	'width'@en	
+Q79218	P2049	quantity	2.0	'triptych'@en	'width'@en	
+Q10827799	P2049	quantity	1.0	'silk painting'@en	'width'@en	
+Q1411766	P2049	quantity	1.0	'predella'@en	'width'@en	
+Q15711026	P2049	quantity	1.0	'altarpiece'@en	'width'@en	
+Q17152495	P2049	quantity	1.0	'prime version'@en	'width'@en	
+Q18761202	P2049	quantity	1.0	'watercolor painting'@en	'width'@en	
+Q192425	P2049	quantity	1.0	'postcard'@en	'width'@en	
+Q22669139	P2049	quantity	1.0	'fresco'@en	'width'@en	
+Q2647254	P2049	quantity	1.0	'study'@en	'width'@en	
+Q370665	P2049	quantity	1.0	'sacra conversazione'@en	'width'@en	
+Q475476	P2049	quantity	1.0	'diptych'@en	'width'@en	
+Q836950	P2049	quantity	1.0	'derivative work'@en	'width'@en	
+Q848330	P2049	quantity	1.0	'tondo'@en	'width'@en	
+Q93184	P2049	quantity	1.0	'drawing'@en	'width'@en	
+Q3305213	P2048	quantity	439.0	'painting'@en	'height'@en	
+Q79218	P2048	quantity	3.0	'triptych'@en	'height'@en	
+Q1278452	P2048	quantity	2.0	'polyptych'@en	'height'@en	
+Q46686	P2048	quantity	2.0	'reredos'@en	'height'@en	
+Q10827799	P2048	quantity	1.0	'silk painting'@en	'height'@en	
+Q1411766	P2048	quantity	1.0	'predella'@en	'height'@en	
+Q15711026	P2048	quantity	1.0	'altarpiece'@en	'height'@en	
+Q17152495	P2048	quantity	1.0	'prime version'@en	'height'@en	
+Q18761202	P2048	quantity	1.0	'watercolor painting'@en	'height'@en	
+Q192425	P2048	quantity	1.0	'postcard'@en	'height'@en	
+Q22669139	P2048	quantity	1.0	'fresco'@en	'height'@en	
+Q2647254	P2048	quantity	1.0	'study'@en	'height'@en	
+Q370665	P2048	quantity	1.0	'sacra conversazione'@en	'height'@en	
+Q475476	P2048	quantity	1.0	'diptych'@en	'height'@en	
+Q836950	P2048	quantity	1.0	'derivative work'@en	'height'@en	
+Q848330	P2048	quantity	1.0	'tondo'@en	'height'@en	
+Q93184	P2048	quantity	1.0	'drawing'@en	'height'@en	
+Q3305213	P195	Q207694	386.0	'painting'@en	'collection'@en	'art museum'@en
+Q3305213	P195	Q17431399	89.0	'painting'@en	'collection'@en	'national museum'@en
+Q3305213	P195	Q7328910	45.0	'painting'@en	'collection'@en	'art collection'@en
+Q3305213	P195	Q33506	40.0	'painting'@en	'collection'@en	'museum'@en
+Q3305213	P195	Q2085381	31.0	'painting'@en	'collection'@en	'publisher'@en
+Q3305213	P195	Q88667167	30.0	'painting'@en	'collection'@en	'museum network'@en
+Q3305213	P195	Q45400320	28.0	'painting'@en	'collection'@en	'open-access publisher'@en
+Q3305213	P195	Q1047437	27.0	'painting'@en	'collection'@en	'copyright collective'@en
+Q3305213	P195	Q43229	22.0	'painting'@en	'collection'@en	'organization'@en
+Q3305213	P195	Q11681271	17.0	'painting'@en	'collection'@en	'curatorial department of the Louvre'@en
+Q3305213	P195	Q16560	17.0	'painting'@en	'collection'@en	'palace'@en
+Q3305213	P195	Q24699794	15.0	'painting'@en	'collection'@en	'museum building'@en
+Q3305213	P195	Q108860593	11.0	'painting'@en	'collection'@en	'museum of modern art'@en
+Q3305213	P195	Q2385804	9.0	'painting'@en	'collection'@en	'educational institution'@en
+Q3305213	P195	Q383092	9.0	'painting'@en	'collection'@en	'Art school'@en
+Q3305213	P195	Q1595639	7.0	'painting'@en	'collection'@en	'local museum'@en
+Q3305213	P195	Q2772772	7.0	'painting'@en	'collection'@en	'military museum'@en
+Q3305213	P195	Q570116	7.0	'painting'@en	'collection'@en	'tourist attraction'@en
+Q3305213	P195	Q16735822	6.0	'painting'@en	'collection'@en	'history museum'@en
+Q3305213	P195	Q28737012	6.0	'painting'@en	'collection'@en	'museum of culture'@en
+Q3305213	P195	Q5	6.0	'painting'@en	'collection'@en	'human'@en
+Q3305213	P195	Q708676	6.0	'painting'@en	'collection'@en	'charitable organization'@en
+Q3305213	P195	Q1497364	5.0	'painting'@en	'collection'@en	'building complex'@en
+Q3305213	P195	Q1759852	5.0	'painting'@en	'collection'@en	'sculpture garden'@en
+Q3305213	P195	Q41253	5.0	'painting'@en	'collection'@en	'movie theater'@en
+Q3305213	P195	Q1007870	4.0	'painting'@en	'collection'@en	'art gallery'@en
+Q3305213	P195	Q15090615	4.0	'painting'@en	'collection'@en	'arts venue'@en
+Q3305213	P195	Q16970	4.0	'painting'@en	'collection'@en	'church building'@en
+Q3305213	P195	Q2087181	4.0	'painting'@en	'collection'@en	'historic house museum'@en
+Q3305213	P195	Q28496624	4.0	'painting'@en	'collection'@en	'national museum'@en
+Q3305213	P195	Q684740	4.0	'painting'@en	'collection'@en	'real property'@en
+Q3305213	P195	Q163740	3.0	'painting'@en	'collection'@en	'nonprofit organization'@en
+Q3305213	P195	Q1966910	3.0	'painting'@en	'collection'@en	'national academy'@en
+Q3305213	P195	Q3343298	3.0	'painting'@en	'collection'@en	'non-departmental public body'@en
+Q3305213	P195	Q3469910	3.0	'painting'@en	'collection'@en	'performing arts center'@en
+Q3305213	P195	Q44613	3.0	'painting'@en	'collection'@en	'monastery'@en
+Q3305213	P195	Q856584	3.0	'painting'@en	'collection'@en	'library building'@en
+Q1278452	P195	Q207694	2.0	'polyptych'@en	'collection'@en	'art museum'@en
+Q1278452	P195	Q33506	2.0	'polyptych'@en	'collection'@en	'museum'@en
+Q3305213	P195	Q108860927	2.0	'painting'@en	'collection'@en	'contemporary art museum'@en
+Q3305213	P195	Q12493	2.0	'painting'@en	'collection'@en	'dome'@en
+Q3305213	P195	Q1329623	2.0	'painting'@en	'collection'@en	'cultural center'@en
+Q3305213	P195	Q1497649	2.0	'painting'@en	'collection'@en	'memory institution'@en
+Q3305213	P195	Q157031	2.0	'painting'@en	'collection'@en	'foundation'@en
+Q3305213	P195	Q1792630	2.0	'painting'@en	'collection'@en	'arts foundation'@en
+Q3305213	P195	Q190249	2.0	'painting'@en	'collection'@en	'central building'@en
+Q3305213	P195	Q1970365	2.0	'painting'@en	'collection'@en	'natural history museum'@en
+Q3305213	P195	Q2288140	2.0	'painting'@en	'collection'@en	'Federal Scientific Institute'@en
+Q3305213	P195	Q23002054	2.0	'painting'@en	'collection'@en	'private not-for-profit educational institution'@en
+Q3305213	P195	Q2651004	2.0	'painting'@en	'collection'@en	'palazzo'@en
+Q3305213	P195	Q2945282	2.0	'painting'@en	'collection'@en	'documentation centre'@en
+Q3305213	P195	Q2982955	2.0	'painting'@en	'collection'@en	'public collection'@en
+Q3305213	P195	Q358	2.0	'painting'@en	'collection'@en	'heritage site'@en
+Q3305213	P195	Q38723	2.0	'painting'@en	'collection'@en	'higher education institution'@en
+Q3305213	P195	Q3918	2.0	'painting'@en	'collection'@en	'university'@en
+Q3305213	P195	Q41176	2.0	'painting'@en	'collection'@en	'building'@en
+Q3305213	P195	Q5341295	2.0	'painting'@en	'collection'@en	'educational organization'@en
+Q3305213	P195	Q53536964	2.0	'painting'@en	'collection'@en	'royal palace'@en
+Q3305213	P195	Q847027	2.0	'painting'@en	'collection'@en	'grande école'@en
+Q3305213	P195	Q866133	2.0	'painting'@en	'collection'@en	'university museum'@en
+Q3305213	P195	Q907116	2.0	'painting'@en	'collection'@en	'National monument of Spain'@en
+Q79218	P195	Q207694	2.0	'triptych'@en	'collection'@en	'art museum'@en
+Q10827799	P195	Q33506	1.0	'silk painting'@en	'collection'@en	'museum'@en
+Q1278452	P195	Q16560	1.0	'polyptych'@en	'collection'@en	'palace'@en
+Q1278452	P195	Q44613	1.0	'polyptych'@en	'collection'@en	'monastery'@en
+Q1411766	P195	Q207694	1.0	'predella'@en	'collection'@en	'art museum'@en
+Q1411766	P195	Q33506	1.0	'predella'@en	'collection'@en	'museum'@en
+Q1411766	P195	Q44613	1.0	'predella'@en	'collection'@en	'monastery'@en
+Q15711026	P195	Q207694	1.0	'altarpiece'@en	'collection'@en	'art museum'@en
+Q15711026	P195	Q33506	1.0	'altarpiece'@en	'collection'@en	'museum'@en
+Q15711026	P195	Q44613	1.0	'altarpiece'@en	'collection'@en	'monastery'@en
+Q15727816	P195	Q17431399	1.0	'painting series'@en	'collection'@en	'national museum'@en
+Q17152495	P195	Q16560	1.0	'prime version'@en	'collection'@en	'palace'@en
+Q17152495	P195	Q207694	1.0	'prime version'@en	'collection'@en	'art museum'@en
+Q17152495	P195	Q33506	1.0	'prime version'@en	'collection'@en	'museum'@en
+Q18761202	P195	Q708676	1.0	'watercolor painting'@en	'collection'@en	'charitable organization'@en
+Q192425	P195	Q207694	1.0	'postcard'@en	'collection'@en	'art museum'@en
+Q219423	P195	Q1093829	1.0	'mural'@en	'collection'@en	'city of the United States'@en
+Q219423	P195	Q11303	1.0	'mural'@en	'collection'@en	'skyscraper'@en
+Q22669139	P195	Q17431399	1.0	'fresco'@en	'collection'@en	'national museum'@en
+Q22669139	P195	Q207694	1.0	'fresco'@en	'collection'@en	'art museum'@en
+Q2647254	P195	Q17431399	1.0	'study'@en	'collection'@en	'national museum'@en
+Q2647254	P195	Q1759852	1.0	'study'@en	'collection'@en	'sculpture garden'@en
+Q2647254	P195	Q207694	1.0	'study'@en	'collection'@en	'art museum'@en
+Q2910675	P195	Q2087181	1.0	'unfinished creative work'@en	'collection'@en	'historic house museum'@en
+Q3305213	P195	Q108325	1.0	'painting'@en	'collection'@en	'chapel'@en
+Q3305213	P195	Q1093829	1.0	'painting'@en	'collection'@en	'city of the United States'@en
+Q3305213	P195	Q11303	1.0	'painting'@en	'collection'@en	'skyscraper'@en
+Q3305213	P195	Q120560	1.0	'painting'@en	'collection'@en	'minor basilica'@en
+Q3305213	P195	Q1210008	1.0	'painting'@en	'collection'@en	'kennel club'@en
+Q3305213	P195	Q1307560	1.0	'painting'@en	'collection'@en	'Jewish museum'@en
+Q3305213	P195	Q1459186	1.0	'painting'@en	'collection'@en	'college'@en
+Q3305213	P195	Q1546583	1.0	'painting'@en	'collection'@en	'presidential library'@en
+Q3305213	P195	Q166118	1.0	'painting'@en	'collection'@en	'archive'@en
+Q3305213	P195	Q1662089	1.0	'painting'@en	'collection'@en	'industry museum'@en
+Q3305213	P195	Q173387	1.0	'painting'@en	'collection'@en	'grave'@en
+Q3305213	P195	Q1743327	1.0	'painting'@en	'collection'@en	'сhurch college'@en
+Q3305213	P195	Q18398654	1.0	'painting'@en	'collection'@en	
+Q3305213	P195	Q189004	1.0	'painting'@en	'collection'@en	'college'@en
+Q3305213	P195	Q2065736	1.0	'painting'@en	'collection'@en	'cultural property'@en
+Q3305213	P195	Q20897549	1.0	'painting'@en	'collection'@en	'art institution'@en
+Q3305213	P195	Q2169973	1.0	'painting'@en	'collection'@en	'service provider'@en
+Q3305213	P195	Q2398990	1.0	'painting'@en	'collection'@en	'technology museum'@en
+Q3305213	P195	Q24354	1.0	'painting'@en	'collection'@en	'theatre'@en
+Q3305213	P195	Q2466889	1.0	'painting'@en	'collection'@en	'hydraulic structure'@en
+Q3305213	P195	Q2668072	1.0	'painting'@en	'collection'@en	'collection'@en
+Q3305213	P195	Q27032435	1.0	'painting'@en	'collection'@en	'academic archive'@en
+Q3305213	P195	Q30124446	1.0	'painting'@en	'collection'@en	'legislative building'@en
+Q3305213	P195	Q31855	1.0	'painting'@en	'collection'@en	'research institute'@en
+Q3305213	P195	Q3284499	1.0	'painting'@en	'collection'@en	'capitol building'@en
+Q3305213	P195	Q3947	1.0	'painting'@en	'collection'@en	'house'@en
+Q3305213	P195	Q4167836	1.0	'painting'@en	'collection'@en	'Wikimedia category'@en
+Q3305213	P195	Q4830453	1.0	'painting'@en	'collection'@en	'business'@en
+Q3305213	P195	Q484170	1.0	'painting'@en	'collection'@en	'commune of France'@en
+Q3305213	P195	Q4989906	1.0	'painting'@en	'collection'@en	'monument'@en
+Q3305213	P195	Q5185052	1.0	'painting'@en	'collection'@en	'cricket pavilion'@en
+Q3305213	P195	Q5393308	1.0	'painting'@en	'collection'@en	'Buddhist temple'@en
+Q3305213	P195	Q56242215	1.0	'painting'@en	'collection'@en	'Catholic cathedral'@en
+Q3305213	P195	Q588140	1.0	'painting'@en	'collection'@en	'science museum'@en
+Q3305213	P195	Q613611	1.0	'painting'@en	'collection'@en	'alcázar'@en
+Q3305213	P195	Q61781831	1.0	'painting'@en	'collection'@en	'curatorial department'@en
+Q3305213	P195	Q66742026	1.0	'painting'@en	'collection'@en	'scout association'@en
+Q3305213	P195	Q6881511	1.0	'painting'@en	'collection'@en	'enterprise'@en
+Q3305213	P195	Q7075	1.0	'painting'@en	'collection'@en	'library'@en
+Q3305213	P195	Q73278267	1.0	'painting'@en	'collection'@en	'copyright holding organisation'@en
+Q3305213	P195	Q740437	1.0	'painting'@en	'collection'@en	'picture gallery'@en
+Q3305213	P195	Q742421	1.0	'painting'@en	'collection'@en	'theatrical troupe'@en
+Q3305213	P195	Q756102	1.0	'painting'@en	'collection'@en	'open-air museum'@en
+Q3305213	P195	Q768717	1.0	'painting'@en	'collection'@en	'private collection'@en
+Q3305213	P195	Q7981903	1.0	'painting'@en	'collection'@en	'Welsh Government sponsored body'@en
+Q3305213	P195	Q811979	1.0	'painting'@en	'collection'@en	'architectural structure'@en
+Q3305213	P195	Q839954	1.0	'painting'@en	'collection'@en	'archaeological site'@en
+Q3305213	P195	Q875538	1.0	'painting'@en	'collection'@en	'public university'@en
+Q3305213	P195	Q94701740	1.0	'painting'@en	'collection'@en	'didactic museum'@en
+Q3305213	P195	Q957433	1.0	'painting'@en	'collection'@en	'glyptotheque'@en
+Q370665	P195	Q16970	1.0	'sacra conversazione'@en	'collection'@en	'church building'@en
+Q46686	P195	Q207694	1.0	'reredos'@en	'collection'@en	'art museum'@en
+Q46686	P195	Q7328910	1.0	'reredos'@en	'collection'@en	'art collection'@en
+Q475476	P195	Q17431399	1.0	'diptych'@en	'collection'@en	'national museum'@en
+Q475476	P195	Q207694	1.0	'diptych'@en	'collection'@en	'art museum'@en
+Q475476	P195	Q43229	1.0	'diptych'@en	'collection'@en	'organization'@en
+Q79218	P195	Q1047437	1.0	'triptych'@en	'collection'@en	'copyright collective'@en
+Q79218	P195	Q11681271	1.0	'triptych'@en	'collection'@en	'curatorial department of the Louvre'@en
+Q79218	P195	Q33506	1.0	'triptych'@en	'collection'@en	'museum'@en
+Q79218	P195	Q45400320	1.0	'triptych'@en	'collection'@en	'open-access publisher'@en
+Q79218	P195	Q7328910	1.0	'triptych'@en	'collection'@en	'art collection'@en
+Q79218	P195	Q88667167	1.0	'triptych'@en	'collection'@en	'museum network'@en
+Q832266	P195	Q207694	1.0	'intarsia'@en	'collection'@en	'art museum'@en
+Q836950	P195	Q207694	1.0	'derivative work'@en	'collection'@en	'art museum'@en
+Q848330	P195	Q11681271	1.0	'tondo'@en	'collection'@en	'curatorial department of the Louvre'@en
+Q848330	P195	Q7328910	1.0	'tondo'@en	'collection'@en	'art collection'@en
+Q93184	P195	Q1595639	1.0	'drawing'@en	'collection'@en	'local museum'@en
+Q93184	P195	Q207694	1.0	'drawing'@en	'collection'@en	'art museum'@en
+Q93184	P195	Q2772772	1.0	'drawing'@en	'collection'@en	'military museum'@en
+Q3305213	P186	Q3300034	464.0	'painting'@en	'made from material'@en	'painting material'@en
+Q3305213	P186	Q223557	9.0	'painting'@en	'made from material'@en	'physical object'@en
+Q3305213	P186	Q1493054	6.0	'painting'@en	'made from material'@en	'type of wood'@en
+Q1278452	P186	Q3300034	2.0	'polyptych'@en	'made from material'@en	'painting material'@en
+Q46686	P186	Q3300034	2.0	'reredos'@en	'made from material'@en	'painting material'@en
+Q79218	P186	Q3300034	2.0	'triptych'@en	'made from material'@en	'painting material'@en
+Q1411766	P186	Q3300034	1.0	'predella'@en	'made from material'@en	'painting material'@en
+Q15711026	P186	Q3300034	1.0	'altarpiece'@en	'made from material'@en	'painting material'@en
+Q17152495	P186	Q3300034	1.0	'prime version'@en	'made from material'@en	'painting material'@en
+Q18761202	P186	Q223557	1.0	'watercolor painting'@en	'made from material'@en	'physical object'@en
+Q18761202	P186	Q3300034	1.0	'watercolor painting'@en	'made from material'@en	'painting material'@en
+Q192425	P186	Q3300034	1.0	'postcard'@en	'made from material'@en	'painting material'@en
+Q21745157	P186	Q3300034	1.0	'destroyed artwork'@en	'made from material'@en	'painting material'@en
+Q219423	P186	Q3300034	1.0	'mural'@en	'made from material'@en	'painting material'@en
+Q22669139	P186	Q3300034	1.0	'fresco'@en	'made from material'@en	'painting material'@en
+Q2647254	P186	Q223557	1.0	'study'@en	'made from material'@en	'physical object'@en
+Q2647254	P186	Q3300034	1.0	'study'@en	'made from material'@en	'painting material'@en
+Q3305213	P186	Q11344	1.0	'painting'@en	'made from material'@en	'chemical element'@en
+Q3305213	P186	Q12089225	1.0	'painting'@en	'made from material'@en	'mineral species'@en
+Q3305213	P186	Q1231896	1.0	'painting'@en	'made from material'@en	'painting technique'@en
+Q3305213	P186	Q1408288	1.0	'painting'@en	'made from material'@en	'manufacturing process'@en
+Q3305213	P186	Q2512777	1.0	'painting'@en	'made from material'@en	'simple substance'@en
+Q3305213	P186	Q55983715	1.0	'painting'@en	'made from material'@en	'organisms known by a particular common name'@en
+Q3305213	P186	Q968159	1.0	'painting'@en	'made from material'@en	'art movement'@en
+Q370665	P186	Q3300034	1.0	'sacra conversazione'@en	'made from material'@en	'painting material'@en
+Q475476	P186	Q3300034	1.0	'diptych'@en	'made from material'@en	'painting material'@en
+Q836950	P186	Q3300034	1.0	'derivative work'@en	'made from material'@en	'painting material'@en
+Q848330	P186	Q3300034	1.0	'tondo'@en	'made from material'@en	'painting material'@en
+Q3305213	P180	Q5	146.0	'painting'@en	'depicts'@en	'human'@en
+Q3305213	P180	Q55983715	61.0	'painting'@en	'depicts'@en	'organisms known by a particular common name'@en
+Q3305213	P180	Q20643955	50.0	'painting'@en	'depicts'@en	'human biblical figure'@en
+Q3305213	P180	Q8514257	38.0	'painting'@en	'depicts'@en	'posture'@en
+Q3305213	P180	Q20127274	27.0	'painting'@en	'depicts'@en	'certain aspects of a person\'s life'@en
+Q3305213	P180	Q2634521	27.0	'painting'@en	'depicts'@en	'title of Jesus'@en
+Q3305213	P180	Q16521	25.0	'painting'@en	'depicts'@en	'taxon'@en
+Q3305213	P180	Q171318	24.0	'painting'@en	'depicts'@en	'kinship'@en
+Q3305213	P180	Q327496	23.0	'painting'@en	'depicts'@en	'hairstyle'@en
+Q3305213	P180	Q1048314	22.0	'painting'@en	'depicts'@en	'human hair color'@en
+Q3305213	P180	Q28640	22.0	'painting'@en	'depicts'@en	'profession'@en
+Q3305213	P180	Q12737077	20.0	'painting'@en	'depicts'@en	'occupation'@en
+Q3305213	P180	Q16332653	17.0	'painting'@en	'depicts'@en	'meteorological phenomenon'@en
+Q3305213	P180	Q1406161	15.0	'painting'@en	'depicts'@en	'artistic theme'@en
+Q3305213	P180	Q11688446	14.0	'painting'@en	'depicts'@en	'Roman deity'@en
+Q3305213	P180	Q21070568	13.0	'painting'@en	'depicts'@en	'human who may be fictional'@en
+Q3305213	P180	Q4271324	11.0	'painting'@en	'depicts'@en	'mythical character'@en
+Q3305213	P180	Q4936952	10.0	'painting'@en	'depicts'@en	'anatomical structure'@en
+Q3305213	P180	Q5932254	9.0	'painting'@en	'depicts'@en	'demographic profile'@en
+Q3305213	P180	Q856663	9.0	'painting'@en	'depicts'@en	'Bible story'@en
+Q3305213	P180	Q15773347	8.0	'painting'@en	'depicts'@en	'film character'@en
+Q3305213	P180	Q178885	8.0	'painting'@en	'depicts'@en	'deity'@en
+Q3305213	P180	Q1792379	8.0	'painting'@en	'depicts'@en	'art genre'@en
+Q3305213	P180	Q18563360	8.0	'painting'@en	'depicts'@en	'Quranic character'@en
+Q3305213	P180	Q51625	8.0	'painting'@en	'depicts'@en	'Salvator Mundi'@en
+Q3305213	P180	Q825	8.0	'painting'@en	'depicts'@en	'God in Christianity'@en
+Q3305213	P180	Q1470705	5.0	'painting'@en	'depicts'@en	'fertility deity'@en
+Q3305213	P180	Q1549591	5.0	'painting'@en	'depicts'@en	'big city'@en
+Q3305213	P180	Q205985	5.0	'painting'@en	'depicts'@en	'goddess'@en
+Q3305213	P180	Q22988604	5.0	'painting'@en	'depicts'@en	'mythological Greek character'@en
+Q3305213	P180	Q22989102	5.0	'painting'@en	'depicts'@en	'Greek deity'@en
+Q3305213	P180	Q515	5.0	'painting'@en	'depicts'@en	'city'@en
+Q3305213	P180	Q567303	5.0	'painting'@en	'depicts'@en	'announcement'@en
+Q3305213	P180	Q66715801	5.0	'painting'@en	'depicts'@en	'musical profession'@en
+Q3305213	P180	Q987767	5.0	'painting'@en	'depicts'@en	'container'@en
+Q3305213	P180	Q1231896	4.0	'painting'@en	'depicts'@en	'painting technique'@en
+Q3305213	P180	Q1260524	4.0	'painting'@en	'depicts'@en	'time of the day'@en
+Q3305213	P180	Q2207288	4.0	'painting'@en	'depicts'@en	'craft'@en
+Q3305213	P180	Q2235308	4.0	'painting'@en	'depicts'@en	'ship type'@en
+Q3305213	P180	Q2239243	4.0	'painting'@en	'depicts'@en	'mythical creature'@en
+Q3305213	P180	Q23442	4.0	'painting'@en	'depicts'@en	'island'@en
+Q3305213	P180	Q2537	4.0	'painting'@en	'depicts'@en	'natural satellite'@en
+Q3305213	P180	Q3254959	4.0	'painting'@en	'depicts'@en	'race'@en
+Q3305213	P180	Q4022	4.0	'painting'@en	'depicts'@en	'river'@en
+Q3305213	P180	Q4164871	4.0	'painting'@en	'depicts'@en	'position'@en
+Q3305213	P180	Q4167410	4.0	'painting'@en	'depicts'@en	'Wikimedia disambiguation page'@en
+Q3305213	P180	Q451967	4.0	'painting'@en	'depicts'@en	'intentional human activity'@en
+Q3305213	P180	Q484170	4.0	'painting'@en	'depicts'@en	'commune of France'@en
+Q3305213	P180	Q56055944	4.0	'painting'@en	'depicts'@en	'arts form'@en
+Q3305213	P180	Q80071	4.0	'painting'@en	'depicts'@en	'symbol'@en
+Q3305213	P180	Q85793519	4.0	'painting'@en	'depicts'@en	'planetary-mass moon'@en
+Q3305213	P180	Q10822464	3.0	'painting'@en	'depicts'@en	'angel in Christianity'@en
+Q3305213	P180	Q1254773	3.0	'painting'@en	'depicts'@en	'family of musical instruments'@en
+Q3305213	P180	Q15275719	3.0	'painting'@en	'depicts'@en	'recurring event'@en
+Q3305213	P180	Q16103215	3.0	'painting'@en	'depicts'@en	'boat type'@en
+Q3305213	P180	Q168827	3.0	'painting'@en	'depicts'@en	'prophet of Islam'@en
+Q3305213	P180	Q178342	3.0	'painting'@en	'depicts'@en	'archangel'@en
+Q3305213	P180	Q178561	3.0	'painting'@en	'depicts'@en	'battle'@en
+Q3305213	P180	Q179700	3.0	'painting'@en	'depicts'@en	'statue'@en
+Q3305213	P180	Q1799072	3.0	'painting'@en	'depicts'@en	'method'@en
+Q3305213	P180	Q18340514	3.0	'painting'@en	'depicts'@en	'events in a specific year or time period'@en
+Q3305213	P180	Q187588	3.0	'painting'@en	'depicts'@en	'social class'@en
+Q3305213	P180	Q24533670	3.0	'painting'@en	'depicts'@en	'mythical humanoid race'@en
+Q3305213	P180	Q25403900	3.0	'painting'@en	'depicts'@en	'food ingredient'@en
+Q3305213	P180	Q3305213	3.0	'painting'@en	'depicts'@en	'painting'@en
+Q3305213	P180	Q34760007	3.0	'painting'@en	'depicts'@en	'mythological ship'@en
+Q3305213	P180	Q43412	3.0	'painting'@en	'depicts'@en	'Apostle'@en
+Q3305213	P180	Q4430243	3.0	'painting'@en	'depicts'@en	'social organization'@en
+Q3305213	P180	Q44409287	3.0	'painting'@en	'depicts'@en	'type of machine element'@en
+Q3305213	P180	Q46831	3.0	'painting'@en	'depicts'@en	'mountain range'@en
+Q3305213	P180	Q63187345	3.0	'painting'@en	'depicts'@en	'religious occupation'@en
+Q3305213	P180	Q690175	3.0	'painting'@en	'depicts'@en	'angel in Judaism'@en
+Q3305213	P180	Q751989	3.0	'painting'@en	'depicts'@en	'astronomical phenomenon'@en
+Q3305213	P180	Q7725634	3.0	'painting'@en	'depicts'@en	'literary work'@en
+Q3305213	P180	Q9128	3.0	'painting'@en	'depicts'@en	'light'@en
+Q79218	P180	Q5	3.0	'triptych'@en	'depicts'@en	'human'@en
+Q3305213	P180	Q1001378	2.0	'painting'@en	'depicts'@en	'cinematic technique'@en
+Q3305213	P180	Q1047113	2.0	'painting'@en	'depicts'@en	'specialty'@en
+Q3305213	P180	Q106589826	2.0	'painting'@en	'depicts'@en	'Finnish National Land Survey place type'@en
+Q3305213	P180	Q1075	2.0	'painting'@en	'depicts'@en	'color'@en
+Q3305213	P180	Q108300140	2.0	'painting'@en	'depicts'@en	'occupation group according to ISCO'@en
+Q3305213	P180	Q108788952	2.0	'painting'@en	'depicts'@en	'ethnic group by residency'@en
+Q3305213	P180	Q1115575	2.0	'painting'@en	'depicts'@en	'civil parish'@en
+Q3305213	P180	Q1160573	2.0	'painting'@en	'depicts'@en	'horse breed'@en
+Q3305213	P180	Q1190554	2.0	'painting'@en	'depicts'@en	'occurrence'@en
+Q3305213	P180	Q1207505	2.0	'painting'@en	'depicts'@en	'quality'@en
+Q3305213	P180	Q1266031	2.0	'painting'@en	'depicts'@en	'angel in Islam'@en
+Q3305213	P180	Q13002315	2.0	'painting'@en	'depicts'@en	'legendary figure'@en
+Q3305213	P180	Q13539802	2.0	'painting'@en	'depicts'@en	'place with town rights and privileges'@en
+Q3305213	P180	Q15632617	2.0	'painting'@en	'depicts'@en	'fictional human'@en
+Q3305213	P180	Q15987302	2.0	'painting'@en	'depicts'@en	'legal profession'@en
+Q3305213	P180	Q16334295	2.0	'painting'@en	'depicts'@en	'group of humans'@en
+Q3305213	P180	Q16335296	2.0	'painting'@en	'depicts'@en	'historical profession'@en
+Q3305213	P180	Q16970	2.0	'painting'@en	'depicts'@en	'church building'@en
+Q3305213	P180	Q1914636	2.0	'painting'@en	'depicts'@en	'activity'@en
+Q3305213	P180	Q19603939	2.0	'painting'@en	'depicts'@en	'building component'@en
+Q3305213	P180	Q20011319	2.0	'painting'@en	'depicts'@en	'plant structure'@en
+Q3305213	P180	Q2039348	2.0	'painting'@en	'depicts'@en	'municipality of the Netherlands'@en
+Q3305213	P180	Q207869	2.0	'painting'@en	'depicts'@en	'epithet'@en
+Q3305213	P180	Q208755	2.0	'painting'@en	'depicts'@en	'paraphyly'@en
+Q3305213	P180	Q2095	2.0	'painting'@en	'depicts'@en	'food'@en
+Q3305213	P180	Q2264924	2.0	'painting'@en	'depicts'@en	'port settlement'@en
+Q3305213	P180	Q22813672	2.0	'painting'@en	'depicts'@en	'two biblical humans'@en
+Q3305213	P180	Q25894868	2.0	'painting'@en	'depicts'@en	'place type'@en
+Q3305213	P180	Q2612572	2.0	'painting'@en	'depicts'@en	'grade'@en
+Q3305213	P180	Q2623243	2.0	'painting'@en	'depicts'@en	'conceptual model'@en
+Q3305213	P180	Q265868	2.0	'painting'@en	'depicts'@en	'bone'@en
+Q3305213	P180	Q28790362	2.0	'painting'@en	'depicts'@en	'ethnic community'@en
+Q3305213	P180	Q2996394	2.0	'painting'@en	'depicts'@en	'biological process'@en
+Q3305213	P180	Q30149195	2.0	'painting'@en	'depicts'@en	'biblical concept'@en
+Q3305213	P180	Q3199915	2.0	'painting'@en	'depicts'@en	'massacre'@en
+Q3305213	P180	Q3300034	2.0	'painting'@en	'depicts'@en	'painting material'@en
+Q3305213	P180	Q37901	2.0	'painting'@en	'depicts'@en	'strait'@en
+Q3305213	P180	Q39367	2.0	'painting'@en	'depicts'@en	'dog breed'@en
+Q3305213	P180	Q3957	2.0	'painting'@en	'depicts'@en	'town'@en
+Q3305213	P180	Q39594	2.0	'painting'@en	'depicts'@en	'bay'@en
+Q3305213	P180	Q41362222	2.0	'painting'@en	'depicts'@en	'type of map'@en
+Q3305213	P180	Q41710	2.0	'painting'@en	'depicts'@en	'ethnic group'@en
+Q3305213	P180	Q41863069	2.0	'painting'@en	'depicts'@en	'war deity'@en
+Q3305213	P180	Q450539	2.0	'painting'@en	'depicts'@en	'camera angle'@en
+Q3305213	P180	Q45971958	2.0	'painting'@en	'depicts'@en	'performing arts genre'@en
+Q3305213	P180	Q506139	2.0	'painting'@en	'depicts'@en	'caryopsis'@en
+Q3305213	P180	Q5119	2.0	'painting'@en	'depicts'@en	'capital'@en
+Q3305213	P180	Q52193405	2.0	'painting'@en	'depicts'@en	'medical term'@en
+Q3305213	P180	Q5373787	2.0	'painting'@en	'depicts'@en	'emotional expression'@en
+Q3305213	P180	Q56019	2.0	'painting'@en	'depicts'@en	'military rank'@en
+Q3305213	P180	Q56053097	2.0	'painting'@en	'depicts'@en	'HTML4 named color'@en
+Q3305213	P180	Q570116	2.0	'painting'@en	'depicts'@en	'tourist attraction'@en
+Q3305213	P180	Q57735705	2.0	'painting'@en	'depicts'@en	'person linked to the law'@en
+Q3305213	P180	Q61788060	2.0	'painting'@en	'depicts'@en	'human activity'@en
+Q3305213	P180	Q657326	2.0	'painting'@en	'depicts'@en	'estates of the realm'@en
+Q3305213	P180	Q747074	2.0	'painting'@en	'depicts'@en	'commune of Italy'@en
+Q3305213	P180	Q7860962	2.0	'painting'@en	'depicts'@en	'road type'@en
+Q3305213	P180	Q79007	2.0	'painting'@en	'depicts'@en	'street'@en
+Q3305213	P180	Q811979	2.0	'painting'@en	'depicts'@en	'architectural structure'@en
+Q3305213	P180	Q839954	2.0	'painting'@en	'depicts'@en	'archaeological site'@en
+Q3305213	P180	Q8502	2.0	'painting'@en	'depicts'@en	'mountain'@en
+Q3305213	P180	Q851990	2.0	'painting'@en	'depicts'@en	'population group'@en
+Q3305213	P180	Q878099	2.0	'painting'@en	'depicts'@en	'Greek primordial deity'@en
+Q3305213	P180	Q886167	2.0	'painting'@en	'depicts'@en	'flowering plant'@en
+Q3305213	P180	Q88789639	2.0	'painting'@en	'depicts'@en	'artistic profession'@en
+Q3305213	P180	Q951964	2.0	'painting'@en	'depicts'@en	'food product'@en
+Q79218	P180	Q20643955	2.0	'triptych'@en	'depicts'@en	'human biblical figure'@en
+Q1278452	P180	Q20127274	1.0	'polyptych'@en	'depicts'@en	'certain aspects of a person\'s life'@en
+Q1278452	P180	Q20643955	1.0	'polyptych'@en	'depicts'@en	'human biblical figure'@en
+Q1278452	P180	Q2634521	1.0	'polyptych'@en	'depicts'@en	'title of Jesus'@en
+Q1278452	P180	Q5	1.0	'polyptych'@en	'depicts'@en	'human'@en
+Q17152495	P180	Q5	1.0	'prime version'@en	'depicts'@en	'human'@en
+Q18761202	P180	Q15773347	1.0	'watercolor painting'@en	'depicts'@en	'film character'@en
+Q18761202	P180	Q178885	1.0	'watercolor painting'@en	'depicts'@en	'deity'@en
+Q18761202	P180	Q18563360	1.0	'watercolor painting'@en	'depicts'@en	'Quranic character'@en
+Q18761202	P180	Q20643955	1.0	'watercolor painting'@en	'depicts'@en	'human biblical figure'@en
+Q18761202	P180	Q21070568	1.0	'watercolor painting'@en	'depicts'@en	'human who may be fictional'@en
+Q18761202	P180	Q4271324	1.0	'watercolor painting'@en	'depicts'@en	'mythical character'@en
+Q18761202	P180	Q5	1.0	'watercolor painting'@en	'depicts'@en	'human'@en
+Q18761202	P180	Q51625	1.0	'watercolor painting'@en	'depicts'@en	'Salvator Mundi'@en
+Q18761202	P180	Q825	1.0	'watercolor painting'@en	'depicts'@en	'God in Christianity'@en
+Q18761202	P180	Q8514257	1.0	'watercolor painting'@en	'depicts'@en	'posture'@en
+Q219423	P180	Q12042110	1.0	'mural'@en	'depicts'@en	'steel bridge'@en
+Q219423	P180	Q158555	1.0	'mural'@en	'depicts'@en	'cable-stayed bridge'@en
+Q219423	P180	Q16334295	1.0	'mural'@en	'depicts'@en	'group of humans'@en
+Q219423	P180	Q41710	1.0	'mural'@en	'depicts'@en	'ethnic group'@en
+Q219423	P180	Q5	1.0	'mural'@en	'depicts'@en	'human'@en
+Q219423	P180	Q537127	1.0	'mural'@en	'depicts'@en	'road bridge'@en
+Q219423	P180	Q851990	1.0	'mural'@en	'depicts'@en	'population group'@en
+Q22669139	P180	Q215304	1.0	'fresco'@en	'depicts'@en	'creation myth'@en
+Q22669139	P180	Q856663	1.0	'fresco'@en	'depicts'@en	'Bible story'@en
+Q2647254	P180	Q15275719	1.0	'study'@en	'depicts'@en	'recurring event'@en
+Q2647254	P180	Q20011319	1.0	'study'@en	'depicts'@en	'plant structure'@en
+Q2647254	P180	Q55983715	1.0	'study'@en	'depicts'@en	'organisms known by a particular common name'@en
+Q2647254	P180	Q8514257	1.0	'study'@en	'depicts'@en	'posture'@en
+Q2910675	P180	Q5	1.0	'unfinished creative work'@en	'depicts'@en	'human'@en
+Q3305213	P180	Q100434640	1.0	'painting'@en	'depicts'@en	'class of chemical substances by use'@en
+Q3305213	P180	Q103914748	1.0	'painting'@en	'depicts'@en	'anatomical structure class type'@en
+Q3305213	P180	Q104007623	1.0	'painting'@en	'depicts'@en	'anatomical entity class type'@en
+Q3305213	P180	Q10528974	1.0	'painting'@en	'depicts'@en	'personal hygiene item'@en
+Q3305213	P180	Q106748215	1.0	'painting'@en	'depicts'@en	'wealth deity'@en
+Q3305213	P180	Q107357104	1.0	'painting'@en	'depicts'@en	'type of dance'@en
+Q3305213	P180	Q1074	1.0	'painting'@en	'depicts'@en	'skin'@en
+Q3305213	P180	Q1077064	1.0	'painting'@en	'depicts'@en	'charity'@en
+Q3305213	P180	Q109682310	1.0	'painting'@en	'depicts'@en	'narrative role'@en
+Q3305213	P180	Q11028	1.0	'painting'@en	'depicts'@en	'information'@en
+Q3305213	P180	Q1103699	1.0	'painting'@en	'depicts'@en	'Fibonacci prime'@en
+Q3305213	P180	Q1107656	1.0	'painting'@en	'depicts'@en	'garden'@en
+Q3305213	P180	Q11081619	1.0	'painting'@en	'depicts'@en	'land'@en
+Q3305213	P180	Q11173	1.0	'painting'@en	'depicts'@en	'chemical compound'@en
+Q3305213	P180	Q11177771	1.0	'painting'@en	'depicts'@en	'artistic technique'@en
+Q3305213	P180	Q11197007	1.0	'painting'@en	'depicts'@en	'ethnoreligious group'@en
+Q3305213	P180	Q1128340	1.0	'painting'@en	'depicts'@en	'index term'@en
+Q3305213	P180	Q1128637	1.0	'painting'@en	'depicts'@en	'national symbol'@en
+Q3305213	P180	Q11344	1.0	'painting'@en	'depicts'@en	'chemical element'@en
+Q3305213	P180	Q11424100	1.0	'painting'@en	'depicts'@en	'status'@en
+Q3305213	P180	Q11426	1.0	'painting'@en	'depicts'@en	'metal'@en
+Q3305213	P180	Q11707	1.0	'painting'@en	'depicts'@en	'restaurant'@en
+Q3305213	P180	Q11862829	1.0	'painting'@en	'depicts'@en	'academic discipline'@en
+Q3305213	P180	Q1200957	1.0	'painting'@en	'depicts'@en	'tourist destination'@en
+Q3305213	P180	Q12042110	1.0	'painting'@en	'depicts'@en	'steel bridge'@en
+Q3305213	P180	Q120560	1.0	'painting'@en	'depicts'@en	'minor basilica'@en
+Q3305213	P180	Q1223230	1.0	'painting'@en	'depicts'@en	'Roman bridge'@en
+Q3305213	P180	Q12284	1.0	'painting'@en	'depicts'@en	'canal'@en
+Q3305213	P180	Q129165	1.0	'painting'@en	'depicts'@en	'Xerxes I'@en
+Q3305213	P180	Q13226383	1.0	'painting'@en	'depicts'@en	'facility'@en
+Q3305213	P180	Q133056	1.0	'painting'@en	'depicts'@en	'mountain pass'@en
+Q3305213	P180	Q13366129	1.0	'painting'@en	'depicts'@en	'odd number'@en
+Q3305213	P180	Q134052	1.0	'painting'@en	'depicts'@en	'deluge myth'@en
+Q3305213	P180	Q13414953	1.0	'painting'@en	'depicts'@en	'religious denomination'@en
+Q3305213	P180	Q13418847	1.0	'painting'@en	'depicts'@en	'historical event'@en
+Q3305213	P180	Q1357964	1.0	'painting'@en	'depicts'@en	'county town'@en
+Q3305213	P180	Q1364	1.0	'painting'@en	'depicts'@en	'fruit'@en
+Q3305213	P180	Q1403502	1.0	'painting'@en	'depicts'@en	'pentatope number'@en
+Q3305213	P180	Q1408288	1.0	'painting'@en	'depicts'@en	'manufacturing process'@en
+Q3305213	P180	Q14390192	1.0	'painting'@en	'depicts'@en	'centered tetrahedral number'@en
+Q3305213	P180	Q14745	1.0	'painting'@en	'depicts'@en	'furniture'@en
+Q3305213	P180	Q147538	1.0	'painting'@en	'depicts'@en	'soft drink'@en
+Q3305213	P180	Q1485500	1.0	'painting'@en	'depicts'@en	'tangible good'@en
+Q3305213	P180	Q1486596	1.0	'painting'@en	'depicts'@en	'natural habitat'@en
+Q3305213	P180	Q1497384	1.0	'painting'@en	'depicts'@en	'part of building'@en
+Q3305213	P180	Q15078955	1.0	'painting'@en	'depicts'@en	'urban-type settlement in Russia'@en
+Q3305213	P180	Q15142889	1.0	'painting'@en	'depicts'@en	'weapon family'@en
+Q3305213	P180	Q15169167	1.0	'painting'@en	'depicts'@en	'execution method'@en
+Q3305213	P180	Q15273785	1.0	'painting'@en	'depicts'@en	'Belgian municipality with the title of city'@en
+Q3305213	P180	Q1529874	1.0	'painting'@en	'depicts'@en	'landscape element'@en
+Q3305213	P180	Q154668	1.0	'painting'@en	'depicts'@en	'patrician'@en
+Q3305213	P180	Q15627509	1.0	'painting'@en	'depicts'@en	'military organization'@en
+Q3305213	P180	Q156351	1.0	'painting'@en	'depicts'@en	'cliché'@en
+Q3305213	P180	Q15661340	1.0	'painting'@en	'depicts'@en	'ancient city'@en
+Q3305213	P180	Q15698333	1.0	'painting'@en	'depicts'@en	'character in Macbeth'@en
+Q3305213	P180	Q158438	1.0	'painting'@en	'depicts'@en	'arch bridge'@en
+Q3305213	P180	Q158555	1.0	'painting'@en	'depicts'@en	'cable-stayed bridge'@en
+Q3305213	P180	Q1589492	1.0	'painting'@en	'depicts'@en	'King of the Gods'@en
+Q3305213	P180	Q1637706	1.0	'painting'@en	'depicts'@en	'million city'@en
+Q3305213	P180	Q165	1.0	'painting'@en	'depicts'@en	'sea'@en
+Q3305213	P180	Q166902	1.0	'painting'@en	'depicts'@en	'primary color'@en
+Q3305213	P180	Q16743958	1.0	'painting'@en	'depicts'@en	'genre of painting'@en
+Q3305213	P180	Q16748888	1.0	'painting'@en	'depicts'@en	'advanced emotion'@en
+Q3305213	P180	Q16917	1.0	'painting'@en	'depicts'@en	'hospital'@en
+Q3305213	P180	Q169872	1.0	'painting'@en	'depicts'@en	'symptom'@en
+Q3305213	P180	Q1700154	1.0	'painting'@en	'depicts'@en	'colonial society'@en
+Q3305213	P180	Q1762471	1.0	'painting'@en	'depicts'@en	'rhetorical device'@en
+Q3305213	P180	Q17781690	1.0	'painting'@en	'depicts'@en	'anatomical region'@en
+Q3305213	P180	Q178559	1.0	'painting'@en	'depicts'@en	'poultry'@en
+Q3305213	P180	Q1790144	1.0	'painting'@en	'depicts'@en	'unit of time'@en
+Q3305213	P180	Q1792644	1.0	'painting'@en	'depicts'@en	'art style'@en
+Q3305213	P180	Q180673	1.0	'painting'@en	'depicts'@en	'ceremonial county of England'@en
+Q3305213	P180	Q181485	1.0	'painting'@en	'depicts'@en	'blast furnace'@en
+Q3305213	P180	Q181970	1.0	'painting'@en	'depicts'@en	'archaism'@en
+Q3305213	P180	Q182545	1.0	'painting'@en	'depicts'@en	'stylistic device'@en
+Q3305213	P180	Q1847641	1.0	'painting'@en	'depicts'@en	'human facial hair'@en
+Q3305213	P180	Q185113	1.0	'painting'@en	'depicts'@en	'cape'@en
+Q3305213	P180	Q185187	1.0	'painting'@en	'depicts'@en	'watermill'@en
+Q3305213	P180	Q186361	1.0	'painting'@en	'depicts'@en	'punishment'@en
+Q3305213	P180	Q18643213	1.0	'painting'@en	'depicts'@en	'military equipment'@en
+Q3305213	P180	Q186516	1.0	'painting'@en	'depicts'@en	'national flag'@en
+Q3305213	P180	Q18783400	1.0	'painting'@en	'depicts'@en	'genre of sculpture'@en
+Q3305213	P180	Q188055	1.0	'painting'@en	'depicts'@en	'siege'@en
+Q3305213	P180	Q188460	1.0	'painting'@en	'depicts'@en	'natural resource'@en
+Q3305213	P180	Q18949	1.0	'painting'@en	'depicts'@en	'square pyramidal number'@en
+Q3305213	P180	Q190900	1.0	'painting'@en	'depicts'@en	'centered square number'@en
+Q3305213	P180	Q190940	1.0	'painting'@en	'depicts'@en	'stigmata'@en
+Q3305213	P180	Q1931388	1.0	'painting'@en	'depicts'@en	'cause of death'@en
+Q3305213	P180	Q1938208	1.0	'painting'@en	'depicts'@en	'legal institution'@en
+Q3305213	P180	Q1975176	1.0	'painting'@en	'depicts'@en	'schutterij'@en
+Q3305213	P180	Q19896979	1.0	'painting'@en	'depicts'@en	'character in the Mahabharata'@en
+Q3305213	P180	Q1993117	1.0	'painting'@en	'depicts'@en	'exemplum'@en
+Q3305213	P180	Q200250	1.0	'painting'@en	'depicts'@en	'metropolis'@en
+Q3305213	P180	Q20202269	1.0	'painting'@en	'depicts'@en	'musical term'@en
+Q3305213	P180	Q202474	1.0	'painting'@en	'depicts'@en	'dryad'@en
+Q3305213	P180	Q2061186	1.0	'painting'@en	'depicts'@en	'religious order'@en
+Q3305213	P180	Q207264	1.0	'painting'@en	'depicts'@en	'Fermat number'@en
+Q3305213	P180	Q2074737	1.0	'painting'@en	'depicts'@en	'municipality of Spain'@en
+Q3305213	P180	Q207645	1.0	'painting'@en	'depicts'@en	'military tactics'@en
+Q3305213	P180	Q207961	1.0	'painting'@en	'depicts'@en	'shape'@en
+Q3305213	P180	Q2083910	1.0	'painting'@en	'depicts'@en	'vegetation zone'@en
+Q3305213	P180	Q21199	1.0	'painting'@en	'depicts'@en	'natural number'@en
+Q3305213	P180	Q215304	1.0	'painting'@en	'depicts'@en	'creation myth'@en
+Q3305213	P180	Q2198855	1.0	'painting'@en	'depicts'@en	'cultural movement'@en
+Q3305213	P180	Q223393	1.0	'painting'@en	'depicts'@en	'literary genre'@en
+Q3305213	P180	Q223557	1.0	'painting'@en	'depicts'@en	'physical object'@en
+Q3305213	P180	Q2245405	1.0	'painting'@en	'depicts'@en	'key event'@en
+Q3305213	P180	Q2266426	1.0	'painting'@en	'depicts'@en	'visual disturbance'@en
+Q3305213	P180	Q22698	1.0	'painting'@en	'depicts'@en	'park'@en
+Q3305213	P180	Q22813674	1.0	'painting'@en	'depicts'@en	'group of biblical humans'@en
+Q3305213	P180	Q22923920	1.0	'painting'@en	'depicts'@en	'territorial collectivity of France with special status'@en
+Q3305213	P180	Q23015925	1.0	'painting'@en	'depicts'@en	'demigod of Greek mythology'@en
+Q3305213	P180	Q2313686	1.0	'painting'@en	'depicts'@en	'automorphic number'@en
+Q3305213	P180	Q23540	1.0	'painting'@en	'depicts'@en	'Protestantism'@en
+Q3305213	P180	Q23786	1.0	'painting'@en	'depicts'@en	'eye color'@en
+Q3305213	P180	Q24334893	1.0	'painting'@en	'depicts'@en	'mythical place'@en
+Q3305213	P180	Q24434794	1.0	'painting'@en	'depicts'@en	'king in Greek mythology'@en
+Q3305213	P180	Q24699794	1.0	'painting'@en	'depicts'@en	'museum building'@en
+Q3305213	P180	Q2535020	1.0	'painting'@en	'depicts'@en	'Vrchovina'@en
+Q3305213	P180	Q2554364	1.0	'painting'@en	'depicts'@en	'nobility of Spain'@en
+Q3305213	P180	Q2627400	1.0	'painting'@en	'depicts'@en	'geographic envelope'@en
+Q3305213	P180	Q2665156	1.0	'painting'@en	'depicts'@en	'Christian ethics'@en
+Q3305213	P180	Q27955379	1.0	'painting'@en	'depicts'@en	'road transport infrastructure'@en
+Q3305213	P180	Q28061975	1.0	'painting'@en	'depicts'@en	'group of Greek mythical characters'@en
+Q3305213	P180	Q2934676	1.0	'painting'@en	'depicts'@en	'Cambion'@en
+Q3305213	P180	Q29430681	1.0	'painting'@en	'depicts'@en	'triad'@en
+Q3305213	P180	Q297163	1.0	'painting'@en	'depicts'@en	'oil mill'@en
+Q3305213	P180	Q2995644	1.0	'painting'@en	'depicts'@en	'result'@en
+Q3305213	P180	Q30022	1.0	'painting'@en	'depicts'@en	'coffeehouse'@en
+Q3305213	P180	Q30124446	1.0	'painting'@en	'depicts'@en	'legislative building'@en
+Q3305213	P180	Q31615	1.0	'painting'@en	'depicts'@en	'cove'@en
+Q3305213	P180	Q31931265	1.0	'painting'@en	'depicts'@en	'order insignia'@en
+Q3305213	P180	Q321053	1.0	'painting'@en	'depicts'@en	'cenotaph'@en
+Q3305213	P180	Q3268848	1.0	'painting'@en	'depicts'@en	'non-SI unit mentioned in and accepted with the SI'@en
+Q3305213	P180	Q32880	1.0	'painting'@en	'depicts'@en	'architectural style'@en
+Q3305213	P180	Q330284	1.0	'painting'@en	'depicts'@en	'marketplace'@en
+Q3305213	P180	Q33146843	1.0	'painting'@en	'depicts'@en	'municipality of Catalonia'@en
+Q3305213	P180	Q3346693	1.0	'painting'@en	'depicts'@en	'Greek nymph'@en
+Q3305213	P180	Q33506	1.0	'painting'@en	'depicts'@en	'museum'@en
+Q3305213	P180	Q3355498	1.0	'painting'@en	'depicts'@en	'contemplative order'@en
+Q3305213	P180	Q3365965	1.0	'painting'@en	'depicts'@en	'parish of Guernsey'@en
+Q3305213	P180	Q3375722	1.0	'painting'@en	'depicts'@en	'theatrical character'@en
+Q3305213	P180	Q3377406	1.0	'painting'@en	'depicts'@en	'political catchphrase'@en
+Q3305213	P180	Q3397526	1.0	'painting'@en	'depicts'@en	'stone bridge'@en
+Q3305213	P180	Q34442	1.0	'painting'@en	'depicts'@en	'road'@en
+Q3305213	P180	Q3491088	1.0	'painting'@en	'depicts'@en	'mesoregion'@en
+Q3305213	P180	Q355567	1.0	'painting'@en	'depicts'@en	'noble title'@en
+Q3305213	P180	Q358	1.0	'painting'@en	'depicts'@en	'heritage site'@en
+Q3305213	P180	Q3592493	1.0	'painting'@en	'depicts'@en	'Population I star'@en
+Q3305213	P180	Q36192	1.0	'painting'@en	'depicts'@en	'folklore'@en
+Q3305213	P180	Q3658341	1.0	'painting'@en	'depicts'@en	'literary character'@en
+Q3305213	P180	Q37002670	1.0	'painting'@en	'depicts'@en	'unicameral legislature'@en
+Q3305213	P180	Q372363	1.0	'painting'@en	'depicts'@en	'geotope'@en
+Q3305213	P180	Q37484	1.0	'painting'@en	'depicts'@en	'epic poem'@en
+Q3305213	P180	Q381416	1.0	'painting'@en	'depicts'@en	'cuisine of the Southern United States'@en
+Q3305213	P180	Q3922583	1.0	'painting'@en	'depicts'@en	'health profession'@en
+Q3305213	P180	Q3950	1.0	'painting'@en	'depicts'@en	'villa'@en
+Q3305213	P180	Q3958441	1.0	'painting'@en	'depicts'@en	'economic sector'@en
+Q3305213	P180	Q39816	1.0	'painting'@en	'depicts'@en	'valley'@en
+Q3305213	P180	Q4006	1.0	'painting'@en	'depicts'@en	'map'@en
+Q3305213	P180	Q41176	1.0	'painting'@en	'depicts'@en	'building'@en
+Q3305213	P180	Q41397	1.0	'painting'@en	'depicts'@en	'genocide'@en
+Q3305213	P180	Q41890459	1.0	'painting'@en	'depicts'@en	'set of subdivisions of cardinal body part'@en
+Q3305213	P180	Q4204501	1.0	'painting'@en	'depicts'@en	'historical ethnic group'@en
+Q3305213	P180	Q42621	1.0	'painting'@en	'depicts'@en	'hybrid'@en
+Q3305213	P180	Q42889	1.0	'painting'@en	'depicts'@en	'vehicle'@en
+Q3305213	P180	Q42948	1.0	'painting'@en	'depicts'@en	'wall'@en
+Q3305213	P180	Q4306757	1.0	'painting'@en	'depicts'@en	'Mukarrabun'@en
+Q3305213	P180	Q431289	1.0	'painting'@en	'depicts'@en	'brand'@en
+Q3305213	P180	Q43229	1.0	'painting'@en	'depicts'@en	'organization'@en
+Q3305213	P180	Q4349921	1.0	'painting'@en	'depicts'@en	'first human'@en
+Q3305213	P180	Q44342	1.0	'painting'@en	'depicts'@en	'legend'@en
+Q3305213	P180	Q44494	1.0	'painting'@en	'depicts'@en	'mill'@en
+Q3305213	P180	Q44613	1.0	'painting'@en	'depicts'@en	'monastery'@en
+Q3305213	P180	Q45594	1.0	'painting'@en	'depicts'@en	'greeting'@en
+Q3305213	P180	Q45713	1.0	'painting'@en	'depicts'@en	'titan'@en
+Q3305213	P180	Q46398483	1.0	'painting'@en	'depicts'@en	'textile factory'@en
+Q3305213	P180	Q47012103	1.0	'painting'@en	'depicts'@en	'mixed-use building'@en
+Q3305213	P180	Q47577	1.0	'painting'@en	'depicts'@en	'Fibonacci number'@en
+Q3305213	P180	Q476682	1.0	'painting'@en	'depicts'@en	'Anemoi'@en
+Q3305213	P180	Q4830453	1.0	'painting'@en	'depicts'@en	'business'@en
+Q3305213	P180	Q483247	1.0	'painting'@en	'depicts'@en	'phenomenon'@en
+Q3305213	P180	Q49008	1.0	'painting'@en	'depicts'@en	'prime number'@en
+Q3305213	P180	Q493522	1.0	'painting'@en	'depicts'@en	'municipality of Belgium'@en
+Q3305213	P180	Q494511	1.0	'painting'@en	'depicts'@en	'Devi'@en
+Q3305213	P180	Q502895	1.0	'painting'@en	'depicts'@en	'common name'@en
+Q3305213	P180	Q50330360	1.0	'painting'@en	'depicts'@en	'second largest city'@en
+Q3305213	P180	Q506	1.0	'painting'@en	'depicts'@en	'flower'@en
+Q3305213	P180	Q50759282	1.0	'painting'@en	'depicts'@en	'shoe component'@en
+Q3305213	P180	Q507619	1.0	'painting'@en	'depicts'@en	'retail chain'@en
+Q3305213	P180	Q511056	1.0	'painting'@en	'depicts'@en	'solar deity'@en
+Q3305213	P180	Q5153359	1.0	'painting'@en	'depicts'@en	'municipality of the Czech Republic'@en
+Q3305213	P180	Q51929311	1.0	'painting'@en	'depicts'@en	'largest city'@en
+Q3305213	P180	Q527395	1.0	'painting'@en	'depicts'@en	'knot'@en
+Q3305213	P180	Q537127	1.0	'painting'@en	'depicts'@en	'road bridge'@en
+Q3305213	P180	Q54050	1.0	'painting'@en	'depicts'@en	'hill'@en
+Q3305213	P180	Q54114	1.0	'painting'@en	'depicts'@en	'boulevard'@en
+Q3305213	P180	Q545779	1.0	'painting'@en	'depicts'@en	'pejorative'@en
+Q3305213	P180	Q55599109	1.0	'painting'@en	'depicts'@en	'border crossing'@en
+Q3305213	P180	Q555997	1.0	'painting'@en	'depicts'@en	'soul food'@en
+Q3305213	P180	Q5589178	1.0	'painting'@en	'depicts'@en	'regime'@en
+Q3305213	P180	Q56053556	1.0	'painting'@en	'depicts'@en	'safest web colors'@en
+Q3305213	P180	Q56242215	1.0	'painting'@en	'depicts'@en	'Catholic cathedral'@en
+Q3305213	P180	Q56242250	1.0	'painting'@en	'depicts'@en	'Anglican or episcopal cathedral'@en
+Q3305213	P180	Q57598	1.0	'painting'@en	'depicts'@en	'national day'@en
+Q3305213	P180	Q581830	1.0	'painting'@en	'depicts'@en	'carfree city'@en
+Q3305213	P180	Q5864	1.0	'painting'@en	'depicts'@en	'G-type main-sequence star'@en
+Q3305213	P180	Q621421	1.0	'painting'@en	'depicts'@en	'biblical judge'@en
+Q3305213	P180	Q623605	1.0	'painting'@en	'depicts'@en	'gristmill'@en
+Q3305213	P180	Q63046488	1.0	'painting'@en	'depicts'@en	'mythical ethnic group'@en
+Q3305213	P180	Q63188808	1.0	'painting'@en	'depicts'@en	'Catholic religious occupation'@en
+Q3305213	P180	Q63258405	1.0	'painting'@en	'depicts'@en	'metalworking tool'@en
+Q3305213	P180	Q636497	1.0	'painting'@en	'depicts'@en	'stock character'@en
+Q3305213	P180	Q63922515	1.0	'painting'@en	'depicts'@en	'hyperlocal manufacturing'@en
+Q3305213	P180	Q6465	1.0	'painting'@en	'depicts'@en	'department of France'@en
+Q3305213	P180	Q66016	1.0	'painting'@en	'depicts'@en	'Muses'@en
+Q3305213	P180	Q66811410	1.0	'painting'@en	'depicts'@en	'medical profession'@en
+Q3305213	P180	Q674928	1.0	'painting'@en	'depicts'@en	'pentagonal number'@en
+Q3305213	P180	Q6857706	1.0	'painting'@en	'depicts'@en	'military profession'@en
+Q3305213	P180	Q6881511	1.0	'painting'@en	'depicts'@en	'enterprise'@en
+Q3305213	P180	Q69506823	1.0	'painting'@en	'depicts'@en	'flag design'@en
+Q3305213	P180	Q6957341	1.0	'painting'@en	'depicts'@en	'major religious group'@en
+Q3305213	P180	Q713223	1.0	'painting'@en	'depicts'@en	'artist-in-residence'@en
+Q3305213	P180	Q7157512	1.0	'painting'@en	'depicts'@en	'peace conference'@en
+Q3305213	P180	Q717040	1.0	'painting'@en	'depicts'@en	'Christmas tradition'@en
+Q3305213	P180	Q7201252	1.0	'painting'@en	'depicts'@en	'planetary surface'@en
+Q3305213	P180	Q7216840	1.0	'painting'@en	'depicts'@en	'urban-type settlement in Ukraine'@en
+Q3305213	P180	Q7257	1.0	'painting'@en	'depicts'@en	'ideology'@en
+Q3305213	P180	Q726	1.0	'painting'@en	'depicts'@en	'horse'@en
+Q3305213	P180	Q728	1.0	'painting'@en	'depicts'@en	'weapon'@en
+Q3305213	P180	Q74562105	1.0	'painting'@en	'depicts'@en	'government committee'@en
+Q3305213	P180	Q747501	1.0	'painting'@en	'depicts'@en	'plinian eruption'@en
+Q3305213	P180	Q7692360	1.0	'painting'@en	'depicts'@en	'volcanic eruption'@en
+Q3305213	P180	Q7830213	1.0	'painting'@en	'depicts'@en	'township of New Jersey'@en
+Q3305213	P180	Q785260	1.0	'painting'@en	'depicts'@en	'phase of human life'@en
+Q3305213	P180	Q813966	1.0	'painting'@en	'depicts'@en	'public toilet'@en
+Q3305213	P180	Q815741	1.0	'painting'@en	'depicts'@en	'geometric shape'@en
+Q3305213	P180	Q82047057	1.0	'painting'@en	'depicts'@en	'UCUM derived unit'@en
+Q3305213	P180	Q82117	1.0	'painting'@en	'depicts'@en	'city gate'@en
+Q3305213	P180	Q83856136	1.0	'painting'@en	'depicts'@en	'legal position'@en
+Q3305213	P180	Q842697	1.0	'painting'@en	'depicts'@en	'thunder god'@en
+Q3305213	P180	Q8436	1.0	'painting'@en	'depicts'@en	'family'@en
+Q3305213	P180	Q866196	1.0	'painting'@en	'depicts'@en	'episcopal see'@en
+Q3305213	P180	Q891723	1.0	'painting'@en	'depicts'@en	'public company'@en
+Q3305213	P180	Q8928	1.0	'painting'@en	'depicts'@en	'constellation'@en
+Q3305213	P180	Q924827	1.0	'painting'@en	'depicts'@en	'Human from Star Trek'@en
+Q3305213	P180	Q973861	1.0	'painting'@en	'depicts'@en	'factorial prime'@en
+Q3305213	P180	Q979507	1.0	'painting'@en	'depicts'@en	'Hindu deity'@en
+Q3305213	P180	Q98966309	1.0	'painting'@en	'depicts'@en	'classification of human settlements'@en
+Q370665	P180	Q171318	1.0	'sacra conversazione'@en	'depicts'@en	'kinship'@en
+Q370665	P180	Q20127274	1.0	'sacra conversazione'@en	'depicts'@en	'certain aspects of a person\'s life'@en
+Q370665	P180	Q20643955	1.0	'sacra conversazione'@en	'depicts'@en	'human biblical figure'@en
+Q370665	P180	Q2634521	1.0	'sacra conversazione'@en	'depicts'@en	'title of Jesus'@en
+Q370665	P180	Q5	1.0	'sacra conversazione'@en	'depicts'@en	'human'@en
+Q475476	P180	Q223393	1.0	'diptych'@en	'depicts'@en	'literary genre'@en
+Q79218	P180	Q1254773	1.0	'triptych'@en	'depicts'@en	'family of musical instruments'@en
+Q79218	P180	Q1406161	1.0	'triptych'@en	'depicts'@en	'artistic theme'@en
+Q79218	P180	Q168827	1.0	'triptych'@en	'depicts'@en	'prophet of Islam'@en
+Q79218	P180	Q20127274	1.0	'triptych'@en	'depicts'@en	'certain aspects of a person\'s life'@en
+Q79218	P180	Q22813674	1.0	'triptych'@en	'depicts'@en	'group of biblical humans'@en
+Q79218	P180	Q2634521	1.0	'triptych'@en	'depicts'@en	'title of Jesus'@en
+Q79218	P180	Q29430681	1.0	'triptych'@en	'depicts'@en	'triad'@en
+Q79218	P180	Q4271324	1.0	'triptych'@en	'depicts'@en	'mythical character'@en
+Q79218	P180	Q4349921	1.0	'triptych'@en	'depicts'@en	'first human'@en
+Q79218	P180	Q4430243	1.0	'triptych'@en	'depicts'@en	'social organization'@en
+Q79218	P180	Q8436	1.0	'triptych'@en	'depicts'@en	'family'@en
+Q79218	P180	Q8514257	1.0	'triptych'@en	'depicts'@en	'posture'@en
+Q836950	P180	Q223557	1.0	'derivative work'@en	'depicts'@en	'physical object'@en
+Q836950	P180	Q2266426	1.0	'derivative work'@en	'depicts'@en	'visual disturbance'@en
+Q836950	P180	Q5	1.0	'derivative work'@en	'depicts'@en	'human'@en
+Q836950	P180	Q8514257	1.0	'derivative work'@en	'depicts'@en	'posture'@en
+Q836950	P180	Q987767	1.0	'derivative work'@en	'depicts'@en	'container'@en
+Q848330	P180	Q1047113	1.0	'tondo'@en	'depicts'@en	'specialty'@en
+Q848330	P180	Q1048314	1.0	'tondo'@en	'depicts'@en	'human hair color'@en
+Q848330	P180	Q17781690	1.0	'tondo'@en	'depicts'@en	'anatomical region'@en
+Q848330	P180	Q3254959	1.0	'tondo'@en	'depicts'@en	'race'@en
+Q848330	P180	Q327496	1.0	'tondo'@en	'depicts'@en	'hairstyle'@en
+Q848330	P180	Q4167410	1.0	'tondo'@en	'depicts'@en	'Wikimedia disambiguation page'@en
+Q848330	P180	Q45971958	1.0	'tondo'@en	'depicts'@en	'performing arts genre'@en
+Q848330	P180	Q4936952	1.0	'tondo'@en	'depicts'@en	'anatomical structure'@en
+Q848330	P180	Q5	1.0	'tondo'@en	'depicts'@en	'human'@en
+Q848330	P180	Q56055944	1.0	'tondo'@en	'depicts'@en	'arts form'@en
+Q848330	P180	Q8514257	1.0	'tondo'@en	'depicts'@en	'posture'@en
+Q93184	P180	Q44409287	1.0	'drawing'@en	'depicts'@en	'type of machine element'@en
+Q93184	P180	Q55983715	1.0	'drawing'@en	'depicts'@en	'organisms known by a particular common name'@en
+Q3305213	P18	commonsMedia	416.0	'painting'@en	'image'@en	
+Q79218	P18	commonsMedia	3.0	'triptych'@en	'image'@en	
+Q1278452	P18	commonsMedia	2.0	'polyptych'@en	'image'@en	
+Q46686	P18	commonsMedia	2.0	'reredos'@en	'image'@en	
+Q93184	P18	commonsMedia	2.0	'drawing'@en	'image'@en	
+Q10827799	P18	commonsMedia	1.0	'silk painting'@en	'image'@en	
+Q1411766	P18	commonsMedia	1.0	'predella'@en	'image'@en	
+Q15711026	P18	commonsMedia	1.0	'altarpiece'@en	'image'@en	
+Q15727816	P18	commonsMedia	1.0	'painting series'@en	'image'@en	
+Q17152495	P18	commonsMedia	1.0	'prime version'@en	'image'@en	
+Q18761202	P18	commonsMedia	1.0	'watercolor painting'@en	'image'@en	
+Q219423	P18	commonsMedia	1.0	'mural'@en	'image'@en	
+Q22669139	P18	commonsMedia	1.0	'fresco'@en	'image'@en	
+Q2647254	P18	commonsMedia	1.0	'study'@en	'image'@en	
+Q370665	P18	commonsMedia	1.0	'sacra conversazione'@en	'image'@en	
+Q475476	P18	commonsMedia	1.0	'diptych'@en	'image'@en	
+Q836950	P18	commonsMedia	1.0	'derivative work'@en	'image'@en	
+Q848330	P18	commonsMedia	1.0	'tondo'@en	'image'@en	
+Q3305213	P170	Q5	552.0	'painting'@en	'creator'@en	'human'@en
+Q79218	P170	Q5	4.0	'triptych'@en	'creator'@en	'human'@en
+Q1278452	P170	Q5	2.0	'polyptych'@en	'creator'@en	'human'@en
+Q219423	P170	Q5	2.0	'mural'@en	'creator'@en	'human'@en
+Q46686	P170	Q5	2.0	'reredos'@en	'creator'@en	'human'@en
+Q93184	P170	Q5	2.0	'drawing'@en	'creator'@en	'human'@en
+Q1411766	P170	Q5	1.0	'predella'@en	'creator'@en	'human'@en
+Q15711026	P170	Q5	1.0	'altarpiece'@en	'creator'@en	'human'@en
+Q17152495	P170	Q5	1.0	'prime version'@en	'creator'@en	'human'@en
+Q18761202	P170	Q5	1.0	'watercolor painting'@en	'creator'@en	'human'@en
+Q192425	P170	Q5	1.0	'postcard'@en	'creator'@en	'human'@en
+Q21745157	P170	Q5	1.0	'destroyed artwork'@en	'creator'@en	'human'@en
+Q22669139	P170	Q5	1.0	'fresco'@en	'creator'@en	'human'@en
+Q2647254	P170	Q5	1.0	'study'@en	'creator'@en	'human'@en
+Q2910675	P170	Q5	1.0	'unfinished creative work'@en	'creator'@en	'human'@en
+Q3305213	P170	Q1292111	1.0	'painting'@en	'creator'@en	'family of artists'@en
+Q3305213	P170	Q16979650	1.0	'painting'@en	'creator'@en	'sibling group'@en
+Q3305213	P170	Q22808320	1.0	'painting'@en	'creator'@en	'Wikimedia human name disambiguation page'@en
+Q370665	P170	Q5	1.0	'sacra conversazione'@en	'creator'@en	'human'@en
+Q475476	P170	Q5	1.0	'diptych'@en	'creator'@en	'human'@en
+Q832266	P170	Q5	1.0	'intarsia'@en	'creator'@en	'human'@en
+Q836950	P170	Q5	1.0	'derivative work'@en	'creator'@en	'human'@en
+Q848330	P170	Q5	1.0	'tondo'@en	'creator'@en	'human'@en
+Q3305213	P1476	monolingualtext	263.0	'painting'@en	'title'@en	
+Q18761202	P1476	monolingualtext	1.0	'watercolor painting'@en	'title'@en	
+Q79218	P1476	monolingualtext	1.0	'triptych'@en	'title'@en	
+Q848330	P1476	monolingualtext	1.0	'tondo'@en	'title'@en	
+Q3305213	P136	Q1792379	305.0	'painting'@en	'genre'@en	'art genre'@en
+Q3305213	P136	Q16743958	110.0	'painting'@en	'genre'@en	'genre of painting'@en
+Q3305213	P136	Q1914636	16.0	'painting'@en	'genre'@en	'activity'@en
+Q3305213	P136	Q1292119	9.0	'painting'@en	'genre'@en	'style'@en
+Q3305213	P136	Q968159	8.0	'painting'@en	'genre'@en	'art movement'@en
+Q3305213	P136	Q64222339	7.0	'painting'@en	'genre'@en	'art term'@en
+Q3305213	P136	Q1406161	4.0	'painting'@en	'genre'@en	'artistic theme'@en
+Q79218	P136	Q1792379	3.0	'triptych'@en	'genre'@en	'art genre'@en
+Q1278452	P136	Q1792379	2.0	'polyptych'@en	'genre'@en	'art genre'@en
+Q46686	P136	Q1792379	2.0	'reredos'@en	'genre'@en	'art genre'@en
+Q1411766	P136	Q1792379	1.0	'predella'@en	'genre'@en	'art genre'@en
+Q15711026	P136	Q1792379	1.0	'altarpiece'@en	'genre'@en	'art genre'@en
+Q17152495	P136	Q1792379	1.0	'prime version'@en	'genre'@en	'art genre'@en
+Q18761202	P136	Q1792379	1.0	'watercolor painting'@en	'genre'@en	'art genre'@en
+Q192425	P136	Q16743958	1.0	'postcard'@en	'genre'@en	'genre of painting'@en
+Q219423	P136	Q16743958	1.0	'mural'@en	'genre'@en	'genre of painting'@en
+Q219423	P136	Q1914636	1.0	'mural'@en	'genre'@en	'activity'@en
+Q22669139	P136	Q1792379	1.0	'fresco'@en	'genre'@en	'art genre'@en
+Q2647254	P136	Q1792379	1.0	'study'@en	'genre'@en	'art genre'@en
+Q2910675	P136	Q1792379	1.0	'unfinished creative work'@en	'genre'@en	'art genre'@en
+Q3305213	P136	Q1089515	1.0	'painting'@en	'genre'@en	'conquest dynasty'@en
+Q3305213	P136	Q11042	1.0	'painting'@en	'genre'@en	'culture'@en
+Q3305213	P136	Q11514315	1.0	'painting'@en	'genre'@en	'historical period'@en
+Q3305213	P136	Q19958368	1.0	'painting'@en	'genre'@en	'culture of an area'@en
+Q3305213	P136	Q223393	1.0	'painting'@en	'genre'@en	'literary genre'@en
+Q3305213	P136	Q26883974	1.0	'painting'@en	'genre'@en	'nomadic confederacy'@en
+Q3305213	P136	Q331644	1.0	'painting'@en	'genre'@en	'Khanate'@en
+Q3305213	P136	Q3624078	1.0	'painting'@en	'genre'@en	'sovereign state'@en
+Q3305213	P136	Q386724	1.0	'painting'@en	'genre'@en	'work'@en
+Q3305213	P136	Q4819938	1.0	'painting'@en	'genre'@en	'surrealist technique'@en
+Q3305213	P136	Q50068795	1.0	'painting'@en	'genre'@en	'historical Chinese state'@en
+Q3305213	P136	Q838948	1.0	'painting'@en	'genre'@en	'work of art'@en
+Q370665	P136	Q1792379	1.0	'sacra conversazione'@en	'genre'@en	'art genre'@en
+Q475476	P136	Q1792379	1.0	'diptych'@en	'genre'@en	'art genre'@en
+Q836950	P136	Q1792379	1.0	'derivative work'@en	'genre'@en	'art genre'@en
+Q848330	P136	Q1792379	1.0	'tondo'@en	'genre'@en	'art genre'@en
+Q3305213	P135	Q968159	198.0	'painting'@en	'movement'@en	'art movement'@en
+Q3305213	P135	Q32880	106.0	'painting'@en	'movement'@en	'architectural style'@en
+Q3305213	P135	Q1292119	91.0	'painting'@en	'movement'@en	'style'@en
+Q3305213	P135	Q2198855	44.0	'painting'@en	'movement'@en	'cultural movement'@en
+Q3305213	P135	Q11514315	41.0	'painting'@en	'movement'@en	'historical period'@en
+Q3305213	P135	Q3326867	36.0	'painting'@en	'movement'@en	'painting movement'@en
+Q3305213	P135	Q4502119	31.0	'painting'@en	'movement'@en	'art group'@en
+Q3305213	P135	Q1792644	23.0	'painting'@en	'movement'@en	'art style'@en
+Q3305213	P135	Q11042	15.0	'painting'@en	'movement'@en	'culture'@en
+Q3305213	P135	Q3326717	9.0	'painting'@en	'movement'@en	'literary movement'@en
+Q3305213	P135	Q483394	6.0	'painting'@en	'movement'@en	'genre'@en
+Q1278452	P135	Q2198855	2.0	'polyptych'@en	'movement'@en	'cultural movement'@en
+Q1278452	P135	Q32880	2.0	'polyptych'@en	'movement'@en	'architectural style'@en
+Q3305213	P135	Q1406161	2.0	'painting'@en	'movement'@en	'artistic theme'@en
+Q46686	P135	Q968159	2.0	'reredos'@en	'movement'@en	'art movement'@en
+Q79218	P135	Q968159	2.0	'triptych'@en	'movement'@en	'art movement'@en
+Q1278452	P135	Q11514315	1.0	'polyptych'@en	'movement'@en	'historical period'@en
+Q1278452	P135	Q1292119	1.0	'polyptych'@en	'movement'@en	'style'@en
+Q1278452	P135	Q1792644	1.0	'polyptych'@en	'movement'@en	'art style'@en
+Q1278452	P135	Q968159	1.0	'polyptych'@en	'movement'@en	'art movement'@en
+Q1411766	P135	Q2198855	1.0	'predella'@en	'movement'@en	'cultural movement'@en
+Q1411766	P135	Q32880	1.0	'predella'@en	'movement'@en	'architectural style'@en
+Q15711026	P135	Q2198855	1.0	'altarpiece'@en	'movement'@en	'cultural movement'@en
+Q15711026	P135	Q32880	1.0	'altarpiece'@en	'movement'@en	'architectural style'@en
+Q18761202	P135	Q1292119	1.0	'watercolor painting'@en	'movement'@en	'style'@en
+Q18761202	P135	Q4502119	1.0	'watercolor painting'@en	'movement'@en	'art group'@en
+Q18761202	P135	Q968159	1.0	'watercolor painting'@en	'movement'@en	'art movement'@en
+Q192425	P135	Q3326867	1.0	'postcard'@en	'movement'@en	'painting movement'@en
+Q192425	P135	Q483394	1.0	'postcard'@en	'movement'@en	'genre'@en
+Q192425	P135	Q968159	1.0	'postcard'@en	'movement'@en	'art movement'@en
+Q219423	P135	Q32880	1.0	'mural'@en	'movement'@en	'architectural style'@en
+Q219423	P135	Q968159	1.0	'mural'@en	'movement'@en	'art movement'@en
+Q22669139	P135	Q11514315	1.0	'fresco'@en	'movement'@en	'historical period'@en
+Q22669139	P135	Q1292119	1.0	'fresco'@en	'movement'@en	'style'@en
+Q22669139	P135	Q32880	1.0	'fresco'@en	'movement'@en	'architectural style'@en
+Q22669139	P135	Q968159	1.0	'fresco'@en	'movement'@en	'art movement'@en
+Q3305213	P135	Q11862829	1.0	'painting'@en	'movement'@en	'academic discipline'@en
+Q3305213	P135	Q1792379	1.0	'painting'@en	'movement'@en	'art genre'@en
+Q3305213	P135	Q4167410	1.0	'painting'@en	'movement'@en	'Wikimedia disambiguation page'@en
+Q3305213	P135	Q64222339	1.0	'painting'@en	'movement'@en	'art term'@en
+Q370665	P135	Q11514315	1.0	'sacra conversazione'@en	'movement'@en	'historical period'@en
+Q370665	P135	Q1292119	1.0	'sacra conversazione'@en	'movement'@en	'style'@en
+Q370665	P135	Q32880	1.0	'sacra conversazione'@en	'movement'@en	'architectural style'@en
+Q370665	P135	Q968159	1.0	'sacra conversazione'@en	'movement'@en	'art movement'@en
+Q46686	P135	Q11514315	1.0	'reredos'@en	'movement'@en	'historical period'@en
+Q46686	P135	Q1292119	1.0	'reredos'@en	'movement'@en	'style'@en
+Q46686	P135	Q32880	1.0	'reredos'@en	'movement'@en	'architectural style'@en
+Q475476	P135	Q11042	1.0	'diptych'@en	'movement'@en	'culture'@en
+Q475476	P135	Q1292119	1.0	'diptych'@en	'movement'@en	'style'@en
+Q475476	P135	Q968159	1.0	'diptych'@en	'movement'@en	'art movement'@en
+Q79218	P135	Q11042	1.0	'triptych'@en	'movement'@en	'culture'@en
+Q79218	P135	Q1292119	1.0	'triptych'@en	'movement'@en	'style'@en
+Q79218	P135	Q1792644	1.0	'triptych'@en	'movement'@en	'art style'@en
+Q79218	P135	Q2198855	1.0	'triptych'@en	'movement'@en	'cultural movement'@en
+Q79218	P135	Q32880	1.0	'triptych'@en	'movement'@en	'architectural style'@en
+Q836950	P135	Q11514315	1.0	'derivative work'@en	'movement'@en	'historical period'@en
+Q836950	P135	Q1292119	1.0	'derivative work'@en	'movement'@en	'style'@en
+Q836950	P135	Q32880	1.0	'derivative work'@en	'movement'@en	'architectural style'@en
+Q836950	P135	Q968159	1.0	'derivative work'@en	'movement'@en	'art movement'@en
+Q848330	P135	Q1292119	1.0	'tondo'@en	'movement'@en	'style'@en
+Q848330	P135	Q1406161	1.0	'tondo'@en	'movement'@en	'artistic theme'@en
+Q848330	P135	Q1792644	1.0	'tondo'@en	'movement'@en	'art style'@en
+Q848330	P135	Q2198855	1.0	'tondo'@en	'movement'@en	'cultural movement'@en
+Q848330	P135	Q32880	1.0	'tondo'@en	'movement'@en	'architectural style'@en
+Q848330	P135	Q3326717	1.0	'tondo'@en	'movement'@en	'literary movement'@en
+Q848330	P135	Q968159	1.0	'tondo'@en	'movement'@en	'art movement'@en
+Q93184	P135	Q1792644	1.0	'drawing'@en	'movement'@en	'art style'@en
+Q93184	P135	Q32880	1.0	'drawing'@en	'movement'@en	'architectural style'@en
+Q93184	P135	Q968159	1.0	'drawing'@en	'movement'@en	'art movement'@en
+Q3305213	P127	Q5	75.0	'painting'@en	'owned by'@en	'human'@en
+Q3305213	P127	Q207694	21.0	'painting'@en	'owned by'@en	'art museum'@en
+Q3305213	P127	Q3624078	6.0	'painting'@en	'owned by'@en	'sovereign state'@en
+Q3305213	P127	Q17431399	5.0	'painting'@en	'owned by'@en	'national museum'@en
+Q3305213	P127	Q20181813	5.0	'painting'@en	'owned by'@en	'colonial power'@en
+Q3305213	P127	Q6256	5.0	'painting'@en	'owned by'@en	'country'@en
+Q3305213	P127	Q51576574	4.0	'painting'@en	'owned by'@en	'Mediterranean country'@en
+Q3305213	P127	Q7270	4.0	'painting'@en	'owned by'@en	'republic'@en
+Q3305213	P127	Q1007870	3.0	'painting'@en	'owned by'@en	'art gallery'@en
+Q3305213	P127	Q24699794	3.0	'painting'@en	'owned by'@en	'museum building'@en
+Q3305213	P127	Q4830453	3.0	'painting'@en	'owned by'@en	'business'@en
+Q3305213	P127	Q15090615	2.0	'painting'@en	'owned by'@en	'arts venue'@en
+Q3305213	P127	Q56856618	2.0	'painting'@en	'owned by'@en	'commercial art gallery'@en
+Q15727816	P127	Q327333	1.0	'painting series'@en	'owned by'@en	'government agency'@en
+Q192425	P127	Q5	1.0	'postcard'@en	'owned by'@en	'human'@en
+Q3305213	P127	Q1062083	1.0	'painting'@en	'owned by'@en	'billionaire'@en
+Q3305213	P127	Q108860593	1.0	'painting'@en	'owned by'@en	'museum of modern art'@en
+Q3305213	P127	Q11514315	1.0	'painting'@en	'owned by'@en	'historical period'@en
+Q3305213	P127	Q1225300	1.0	'painting'@en	'owned by'@en	'dicastery'@en
+Q3305213	P127	Q1250464	1.0	'painting'@en	'owned by'@en	'realm'@en
+Q3305213	P127	Q131572	1.0	'painting'@en	'owned by'@en	'refugee'@en
+Q3305213	P127	Q13417114	1.0	'painting'@en	'owned by'@en	'noble family'@en
+Q3305213	P127	Q15911314	1.0	'painting'@en	'owned by'@en	'association'@en
+Q3305213	P127	Q185441	1.0	'painting'@en	'owned by'@en	'member state of the european union'@en
+Q3305213	P127	Q20081142	1.0	'painting'@en	'owned by'@en	'art commerce'@en
+Q3305213	P127	Q2087181	1.0	'painting'@en	'owned by'@en	'historic house museum'@en
+Q3305213	P127	Q22687	1.0	'painting'@en	'owned by'@en	'bank'@en
+Q3305213	P127	Q23002054	1.0	'painting'@en	'owned by'@en	'private not-for-profit educational institution'@en
+Q3305213	P127	Q3024240	1.0	'painting'@en	'owned by'@en	'historical country'@en
+Q3305213	P127	Q327333	1.0	'painting'@en	'owned by'@en	'government agency'@en
+Q3305213	P127	Q3329412	1.0	'painting'@en	'owned by'@en	'archaeological museum'@en
+Q3305213	P127	Q33506	1.0	'painting'@en	'owned by'@en	'museum'@en
+Q3305213	P127	Q3469910	1.0	'painting'@en	'owned by'@en	'performing arts center'@en
+Q3305213	P127	Q358	1.0	'painting'@en	'owned by'@en	'heritage site'@en
+Q3305213	P127	Q383092	1.0	'painting'@en	'owned by'@en	'Art school'@en
+Q3305213	P127	Q3918	1.0	'painting'@en	'owned by'@en	'university'@en
+Q3305213	P127	Q3947	1.0	'painting'@en	'owned by'@en	'house'@en
+Q3305213	P127	Q4002648	1.0	'painting'@en	'owned by'@en	'office of the Roman Curia'@en
+Q3305213	P127	Q41253	1.0	'painting'@en	'owned by'@en	'movie theater'@en
+Q3305213	P127	Q4204511	1.0	'painting'@en	'owned by'@en	'historic church'@en
+Q3305213	P127	Q43229	1.0	'painting'@en	'owned by'@en	'organization'@en
+Q3305213	P127	Q43702	1.0	'painting'@en	'owned by'@en	'federation'@en
+Q3305213	P127	Q570116	1.0	'painting'@en	'owned by'@en	'tourist attraction'@en
+Q3305213	P127	Q650241	1.0	'painting'@en	'owned by'@en	'financial institution'@en
+Q3305213	P127	Q6881511	1.0	'painting'@en	'owned by'@en	'enterprise'@en
+Q3305213	P127	Q73278267	1.0	'painting'@en	'owned by'@en	'copyright holding organisation'@en
+Q3305213	P127	Q86442081	1.0	'painting'@en	'owned by'@en	'administration municipale en France'@en
+Q3305213	P127	Q879146	1.0	'painting'@en	'owned by'@en	'Christian denomination'@en
+Q3305213	P127	Q891723	1.0	'painting'@en	'owned by'@en	'public company'@en
+Q79218	P127	Q5	1.0	'triptych'@en	'owned by'@en	'human'@en

@@ -1,0 +1,1672 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q105543609	P86	Q5	5173.0	'musical work/composition'@en	'composer'@en	'human'@en
+Q105543609	P86	Q205178	223.0	'musical work/composition'@en	'composer'@en	'child prodigy'@en
+Q105543609	P86	Q1062083	152.0	'musical work/composition'@en	'composer'@en	'billionaire'@en
+Q105543609	P86	Q59755569	35.0	'musical work/composition'@en	'composer'@en	'special purpose artist'@en
+Q58483083	P86	Q5	31.0	'dramatico-musical work'@en	'composer'@en	'human'@en
+Q23691	P86	Q5	19.0	'national anthem'@en	'composer'@en	'human'@en
+Q105543609	P86	Q54982412	16.0	'musical work/composition'@en	'composer'@en	'songwriting team'@en
+Q134556	P86	Q5	16.0	'single'@en	'composer'@en	'human'@en
+Q15079786	P86	Q5	16.0	'ballet'@en	'composer'@en	'human'@en
+Q105543609	P86	Q215627	14.0	'musical work/composition'@en	'composer'@en	'person'@en
+Q105543609	P86	Q9212979	14.0	'musical work/composition'@en	'composer'@en	'musical duo'@en
+Q7725310	P86	Q5	12.0	'series of creative works'@en	'composer'@en	'human'@en
+Q836950	P86	Q5	12.0	'derivative work'@en	'composer'@en	'human'@en
+Q58483083	P86	Q205178	11.0	'dramatico-musical work'@en	'composer'@en	'child prodigy'@en
+Q17489659	P86	Q5	10.0	'group of works'@en	'composer'@en	'human'@en
+Q105543609	P86	Q10648343	9.0	'musical work/composition'@en	'composer'@en	'duo'@en
+Q105543609	P86	Q215380	8.0	'musical work/composition'@en	'composer'@en	'musical group'@en
+Q7302866	P86	Q5	8.0	'audio track'@en	'composer'@en	'human'@en
+Q105543609	P86	Q84310035	7.0	'musical work/composition'@en	'composer'@en	'record production team'@en
+Q17537576	P86	Q5	6.0	'creative work'@en	'composer'@en	'human'@en
+Q7725634	P86	Q5	5.0	'literary work'@en	'composer'@en	'human'@en
+Q856713	P86	Q5	5.0	'Christian hymn'@en	'composer'@en	'human'@en
+Q1123037	P86	Q5	4.0	'nursery rhyme'@en	'composer'@en	'human'@en
+Q1193470	P86	Q5	4.0	'theme music'@en	'composer'@en	'human'@en
+Q1352567	P86	Q5	4.0	'missa brevis'@en	'composer'@en	'human'@en
+Q2031291	P86	Q5	4.0	'release'@en	'composer'@en	'human'@en
+Q7366	P86	Q5	4.0	'song'@en	'composer'@en	'human'@en
+Q91192165	P86	Q5	4.0	'lyrical adaptation'@en	'composer'@en	'human'@en
+Q105543609	P86	Q159979	3.0	'musical work/composition'@en	'composer'@en	'twin'@en
+Q1352567	P86	Q205178	3.0	'missa brevis'@en	'composer'@en	'child prodigy'@en
+Q17489659	P86	Q205178	3.0	'group of works'@en	'composer'@en	'child prodigy'@en
+Q17537576	P86	Q205178	3.0	'creative work'@en	'composer'@en	'child prodigy'@en
+Q182659	P86	Q5	3.0	'ballad'@en	'composer'@en	'human'@en
+Q18460285	P86	Q5	3.0	'musical setting'@en	'composer'@en	'human'@en
+Q2302678	P86	Q5	3.0	'clarinet concerto'@en	'composer'@en	'human'@en
+Q2910675	P86	Q5	3.0	'unfinished creative work'@en	'composer'@en	'human'@en
+Q482994	P86	Q5	3.0	'album'@en	'composer'@en	'human'@en
+Q484692	P86	Q5	3.0	'hymn'@en	'composer'@en	'human'@en
+Q5185279	P86	Q5	3.0	'poem'@en	'composer'@en	'human'@en
+Q64027488	P86	Q5	3.0	'arrangement on a work of the public domain'@en	'composer'@en	'human'@en
+Q788460	P86	Q5	3.0	'Bagatelle'@en	'composer'@en	'human'@en
+Q105543609	P86	Q5741069	2.0	'musical work/composition'@en	'composer'@en	'rock group'@en
+Q209741	P86	Q5	2.0	'programme music'@en	'composer'@en	'human'@en
+Q245596	P86	Q5	2.0	'cycle'@en	'composer'@en	'human'@en
+Q2910675	P86	Q205178	2.0	'unfinished creative work'@en	'composer'@en	'child prodigy'@en
+Q3331189	P86	Q5	2.0	'version, edition, or translation'@en	'composer'@en	'human'@en
+Q3815189	P86	Q5	2.0	'musical hoax'@en	'composer'@en	'human'@en
+Q64027488	P86	Q59755569	2.0	'arrangement on a work of the public domain'@en	'composer'@en	'special purpose artist'@en
+Q929848	P86	Q5	2.0	'movement'@en	'composer'@en	'human'@en
+Q1053427	P86	Q5	1.0	'scordatura'@en	'composer'@en	'human'@en
+Q105543609	P86	Q107356781	1.0	'musical work/composition'@en	'composer'@en	'song type'@en
+Q105543609	P86	Q14073567	1.0	'musical work/composition'@en	'composer'@en	'sibling duo'@en
+Q105543609	P86	Q2995644	1.0	'musical work/composition'@en	'composer'@en	'result'@en
+Q105543609	P86	Q3152824	1.0	'musical work/composition'@en	'composer'@en	'cultural institution'@en
+Q105543609	P86	Q50424085	1.0	'musical work/composition'@en	'composer'@en	'copyright status'@en
+Q105543609	P86	Q7247847	1.0	'musical work/composition'@en	'composer'@en	'production team'@en
+Q1063010	P86	Q5	1.0	'character piece'@en	'composer'@en	'human'@en
+Q107357104	P86	Q5	1.0	'type of dance'@en	'composer'@en	'human'@en
+Q11311300	P86	Q5	1.0		'composer'@en	'human'@en
+Q134556	P86	Q1062083	1.0	'single'@en	'composer'@en	'billionaire'@en
+Q1385610	P86	Q5	1.0	'excerpt'@en	'composer'@en	'human'@en
+Q15079132	P86	Q5	1.0	'Christian prayer'@en	'composer'@en	'human'@en
+Q178985	P86	Q5	1.0	'ode'@en	'composer'@en	'human'@en
+Q182659	P86	Q59755569	1.0	'ballad'@en	'composer'@en	'special purpose artist'@en
+Q187947	P86	Q5	1.0	'sheet music'@en	'composer'@en	'human'@en
+Q193605	P86	Q5	1.0	'lullaby'@en	'composer'@en	'human'@en
+Q19545459	P86	Q5	1.0	'missa solemnis'@en	'composer'@en	'human'@en
+Q20202269	P86	Q5	1.0	'musical term'@en	'composer'@en	'human'@en
+Q20437094	P86	Q5	1.0	'installation artwork'@en	'composer'@en	'human'@en
+Q207628	P86	Q5	1.0	'musical composition'@en	'composer'@en	'human'@en
+Q221290	P86	Q5	1.0	'monodrama'@en	'composer'@en	'human'@en
+Q22808060	P86	Q5	1.0	'state song of a state of the United States'@en	'composer'@en	'human'@en
+Q230052	P86	Q5	1.0	'tongue-twister'@en	'composer'@en	'human'@en
+Q2302678	P86	Q205178	1.0	'clarinet concerto'@en	'composer'@en	'child prodigy'@en
+Q24992028	P86	Q5	1.0	'musical series'@en	'composer'@en	'human'@en
+Q2617970	P86	Q5	1.0	'pentalogy'@en	'composer'@en	'human'@en
+Q3408995	P86	Q5	1.0	'prelude and fugue'@en	'composer'@en	'human'@en
+Q34508	P86	Q10648343	1.0	'video recording'@en	'composer'@en	'duo'@en
+Q482994	P86	Q5741069	1.0	'album'@en	'composer'@en	'rock group'@en
+Q482994	P86	Q9212979	1.0	'album'@en	'composer'@en	'musical duo'@en
+Q503354	P86	Q5	1.0	'Christmas carol'@en	'composer'@en	'human'@en
+Q5126979	P86	Q205178	1.0	'clarinet-viola-piano trio'@en	'composer'@en	'child prodigy'@en
+Q5126979	P86	Q5	1.0	'clarinet-viola-piano trio'@en	'composer'@en	'human'@en
+Q5156725	P86	Q5	1.0	'Composer tributes'@en	'composer'@en	'human'@en
+Q541947	P86	Q5	1.0	'anthem'@en	'composer'@en	'human'@en
+Q55850593	P86	Q5	1.0	'music track with vocals'@en	'composer'@en	'human'@en
+Q623823	P86	Q5	1.0	'arabesque'@en	'composer'@en	'human'@en
+Q64027488	P86	Q50424085	1.0	'arrangement on a work of the public domain'@en	'composer'@en	'copyright status'@en
+Q6942465	P86	Q5	1.0	'music written in all 24 major and minor keys'@en	'composer'@en	'human'@en
+Q717040	P86	Q5	1.0	'Christmas tradition'@en	'composer'@en	'human'@en
+Q7257727	P86	Q59755569	1.0	'public domain music'@en	'composer'@en	'special purpose artist'@en
+Q7725310	P86	Q205178	1.0	'series of creative works'@en	'composer'@en	'child prodigy'@en
+Q811979	P86	Q5	1.0	'architectural structure'@en	'composer'@en	'human'@en
+Q824979	P86	Q5	1.0	'group'@en	'composer'@en	'human'@en
+Q852027	P86	Q5	1.0	'impromptu'@en	'composer'@en	'human'@en
+Q856713	P86	Q59755569	1.0	'Christian hymn'@en	'composer'@en	'special purpose artist'@en
+Q87167	P86	Q5	1.0	'manuscript'@en	'composer'@en	'human'@en
+Q88392887	P86	Q5	1.0	'part of a work'@en	'composer'@en	'human'@en
+Q105543609	P7937	Q107487333	9697.0	'musical work/composition'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q105543609	P7937	Q11921029	8515.0	'musical work/composition'@en	'form of creative work'@en	'musical style'@en
+Q105543609	P7937	Q4263830	8475.0	'musical work/composition'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q862597	784.0	'musical work/composition'@en	'form of creative work'@en	'musical form'@en
+Q105543609	P7937	Q188451	679.0	'musical work/composition'@en	'form of creative work'@en	'music genre'@en
+Q182659	P7937	Q107487333	204.0	'ballad'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q182659	P7937	Q11921029	204.0	'ballad'@en	'form of creative work'@en	'musical style'@en
+Q182659	P7937	Q4263830	204.0	'ballad'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q20202269	61.0	'musical work/composition'@en	'form of creative work'@en	'musical term'@en
+Q105543609	P7937	Q110013851	34.0	'musical work/composition'@en	'form of creative work'@en	'type of theatrical work'@en
+Q105543609	P7937	Q7777573	34.0	'musical work/composition'@en	'form of creative work'@en	'theatrical genre'@en
+Q23691	P7937	Q107487333	33.0	'national anthem'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q23691	P7937	Q11921029	32.0	'national anthem'@en	'form of creative work'@en	'musical style'@en
+Q23691	P7937	Q4263830	32.0	'national anthem'@en	'form of creative work'@en	'literary form'@en
+Q58483083	P7937	Q110013851	31.0	'dramatico-musical work'@en	'form of creative work'@en	'type of theatrical work'@en
+Q58483083	P7937	Q188451	31.0	'dramatico-musical work'@en	'form of creative work'@en	'music genre'@en
+Q58483083	P7937	Q7777573	31.0	'dramatico-musical work'@en	'form of creative work'@en	'theatrical genre'@en
+Q58483083	P7937	Q862597	31.0	'dramatico-musical work'@en	'form of creative work'@en	'musical form'@en
+Q134556	P7937	Q107487333	19.0	'single'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q134556	P7937	Q11921029	18.0	'single'@en	'form of creative work'@en	'musical style'@en
+Q134556	P7937	Q4263830	18.0	'single'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q108037652	14.0	'musical work/composition'@en	'form of creative work'@en	'audio release format'@en
+Q105543609	P7937	Q223393	14.0	'musical work/composition'@en	'form of creative work'@en	'literary genre'@en
+Q105543609	P7937	Q82036085	14.0	'musical work/composition'@en	'form of creative work'@en	'physical media format'@en
+Q105543609	P7937	Q107356781	13.0	'musical work/composition'@en	'form of creative work'@en	'song type'@en
+Q7302866	P7937	Q107487333	12.0	'audio track'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q7302866	P7937	Q11921029	12.0	'audio track'@en	'form of creative work'@en	'musical style'@en
+Q7302866	P7937	Q4263830	12.0	'audio track'@en	'form of creative work'@en	'literary form'@en
+Q836950	P7937	Q107487333	12.0	'derivative work'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q836950	P7937	Q11921029	11.0	'derivative work'@en	'form of creative work'@en	'musical style'@en
+Q836950	P7937	Q4263830	11.0	'derivative work'@en	'form of creative work'@en	'literary form'@en
+Q1123037	P7937	Q107487333	10.0	'nursery rhyme'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1123037	P7937	Q11921029	10.0	'nursery rhyme'@en	'form of creative work'@en	'musical style'@en
+Q1123037	P7937	Q4263830	10.0	'nursery rhyme'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q4453888	8.0	'musical work/composition'@en	'form of creative work'@en	'poetic musical form'@en
+Q7725634	P7937	Q4263830	8.0	'literary work'@en	'form of creative work'@en	'literary form'@en
+Q7725634	P7937	Q107487333	7.0	'literary work'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q105543609	P7937	Q1824109	6.0	'musical work/composition'@en	'form of creative work'@en	'song form'@en
+Q107357104	P7937	Q107487333	6.0	'type of dance'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q107357104	P7937	Q11921029	6.0	'type of dance'@en	'form of creative work'@en	'musical style'@en
+Q107357104	P7937	Q4263830	6.0	'type of dance'@en	'form of creative work'@en	'literary form'@en
+Q856713	P7937	Q107487333	6.0	'Christian hymn'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q856713	P7937	Q11921029	6.0	'Christian hymn'@en	'form of creative work'@en	'musical style'@en
+Q856713	P7937	Q4263830	6.0	'Christian hymn'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q89522629	5.0	'musical work/composition'@en	'form of creative work'@en	'poetic form'@en
+Q5185279	P7937	Q107487333	5.0	'poem'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q5185279	P7937	Q11921029	5.0	'poem'@en	'form of creative work'@en	'musical style'@en
+Q5185279	P7937	Q4263830	5.0	'poem'@en	'form of creative work'@en	'literary form'@en
+Q5185279	P7937	Q89522629	5.0	'poem'@en	'form of creative work'@en	'poetic form'@en
+Q7725634	P7937	Q11921029	5.0	'literary work'@en	'form of creative work'@en	'musical style'@en
+Q105543609	P7937	Q108040090	4.0	'musical work/composition'@en	'form of creative work'@en	'music release type by format'@en
+Q1193470	P7937	Q107487333	4.0	'theme music'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1193470	P7937	Q11921029	4.0	'theme music'@en	'form of creative work'@en	'musical style'@en
+Q1193470	P7937	Q4263830	4.0	'theme music'@en	'form of creative work'@en	'literary form'@en
+Q134556	P7937	Q862597	4.0	'single'@en	'form of creative work'@en	'musical form'@en
+Q1352567	P7937	Q107487333	4.0	'missa brevis'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1352567	P7937	Q862597	4.0	'missa brevis'@en	'form of creative work'@en	'musical form'@en
+Q17537576	P7937	Q107487333	4.0	'creative work'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2031291	P7937	Q107487333	4.0	'release'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2031291	P7937	Q11921029	4.0	'release'@en	'form of creative work'@en	'musical style'@en
+Q2031291	P7937	Q4263830	4.0	'release'@en	'form of creative work'@en	'literary form'@en
+Q484692	P7937	Q107487333	4.0	'hymn'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q484692	P7937	Q11921029	4.0	'hymn'@en	'form of creative work'@en	'musical style'@en
+Q484692	P7937	Q4263830	4.0	'hymn'@en	'form of creative work'@en	'literary form'@en
+Q64027488	P7937	Q107487333	4.0	'arrangement on a work of the public domain'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q64027488	P7937	Q11921029	4.0	'arrangement on a work of the public domain'@en	'form of creative work'@en	'musical style'@en
+Q64027488	P7937	Q4263830	4.0	'arrangement on a work of the public domain'@en	'form of creative work'@en	'literary form'@en
+Q7366	P7937	Q107487333	4.0	'song'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q7366	P7937	Q11921029	4.0	'song'@en	'form of creative work'@en	'musical style'@en
+Q7366	P7937	Q4263830	4.0	'song'@en	'form of creative work'@en	'literary form'@en
+Q7725634	P7937	Q110013851	4.0	'literary work'@en	'form of creative work'@en	'type of theatrical work'@en
+Q7725634	P7937	Q223393	4.0	'literary work'@en	'form of creative work'@en	'literary genre'@en
+Q7725634	P7937	Q7777573	4.0	'literary work'@en	'form of creative work'@en	'theatrical genre'@en
+Q91192165	P7937	Q107487333	4.0	'lyrical adaptation'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q91192165	P7937	Q11921029	4.0	'lyrical adaptation'@en	'form of creative work'@en	'musical style'@en
+Q91192165	P7937	Q4263830	4.0	'lyrical adaptation'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q81935689	3.0	'musical work/composition'@en	'form of creative work'@en	'gramophone record format'@en
+Q134556	P7937	Q188451	3.0	'single'@en	'form of creative work'@en	'music genre'@en
+Q15079786	P7937	Q107487333	3.0	'ballet'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q18460285	P7937	Q107487333	3.0	'musical setting'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q18460285	P7937	Q11921029	3.0	'musical setting'@en	'form of creative work'@en	'musical style'@en
+Q18460285	P7937	Q4263830	3.0	'musical setting'@en	'form of creative work'@en	'literary form'@en
+Q2910675	P7937	Q107487333	3.0	'unfinished creative work'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2910675	P7937	Q188451	3.0	'unfinished creative work'@en	'form of creative work'@en	'music genre'@en
+Q2910675	P7937	Q862597	3.0	'unfinished creative work'@en	'form of creative work'@en	'musical form'@en
+Q58483083	P7937	Q107487333	3.0	'dramatico-musical work'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q63412991	P7937	Q107487333	3.0	'YouTube video'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q717040	P7937	Q107487333	3.0	'Christmas tradition'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q717040	P7937	Q11921029	3.0	'Christmas tradition'@en	'form of creative work'@en	'musical style'@en
+Q717040	P7937	Q4263830	3.0	'Christmas tradition'@en	'form of creative work'@en	'literary form'@en
+Q788460	P7937	Q107487333	3.0	'Bagatelle'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q788460	P7937	Q11921029	3.0	'Bagatelle'@en	'form of creative work'@en	'musical style'@en
+Q788460	P7937	Q4263830	3.0	'Bagatelle'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P7937	Q107357104	2.0	'musical work/composition'@en	'form of creative work'@en	'type of dance'@en
+Q15079786	P7937	Q862597	2.0	'ballet'@en	'form of creative work'@en	'musical form'@en
+Q17489659	P7937	Q107487333	2.0	'group of works'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q17489659	P7937	Q188451	2.0	'group of works'@en	'form of creative work'@en	'music genre'@en
+Q17537576	P7937	Q188451	2.0	'creative work'@en	'form of creative work'@en	'music genre'@en
+Q17537576	P7937	Q862597	2.0	'creative work'@en	'form of creative work'@en	'musical form'@en
+Q193605	P7937	Q107487333	2.0	'lullaby'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q193605	P7937	Q11921029	2.0	'lullaby'@en	'form of creative work'@en	'musical style'@en
+Q193605	P7937	Q4263830	2.0	'lullaby'@en	'form of creative work'@en	'literary form'@en
+Q209741	P7937	Q107487333	2.0	'programme music'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q209741	P7937	Q188451	2.0	'programme music'@en	'form of creative work'@en	'music genre'@en
+Q245596	P7937	Q107487333	2.0	'cycle'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q3331189	P7937	Q107487333	2.0	'version, edition, or translation'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q58483083	P7937	Q4263830	2.0	'dramatico-musical work'@en	'form of creative work'@en	'literary form'@en
+Q63412991	P7937	Q11921029	2.0	'YouTube video'@en	'form of creative work'@en	'musical style'@en
+Q63412991	P7937	Q4263830	2.0	'YouTube video'@en	'form of creative work'@en	'literary form'@en
+Q7725310	P7937	Q107487333	2.0	'series of creative works'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q7725634	P7937	Q862597	2.0	'literary work'@en	'form of creative work'@en	'musical form'@en
+Q1053427	P7937	Q107487333	1.0	'scordatura'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1053427	P7937	Q20202269	1.0	'scordatura'@en	'form of creative work'@en	'musical term'@en
+Q105543609	P7937	Q105543609	1.0	'musical work/composition'@en	'form of creative work'@en	'musical work/composition'@en
+Q105543609	P7937	Q106043376	1.0	'musical work/composition'@en	'form of creative work'@en	'music release type'@en
+Q105543609	P7937	Q12119802	1.0	'musical work/composition'@en	'form of creative work'@en	'lyric poetry genre'@en
+Q105543609	P7937	Q1326471	1.0	'musical work/composition'@en	'form of creative work'@en	'chord progression'@en
+Q105543609	P7937	Q212044	1.0	'musical work/composition'@en	'form of creative work'@en	'sonata form'@en
+Q1063010	P7937	Q107487333	1.0	'character piece'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q10669480	P7937	Q107487333	1.0	'sailor song'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q10669480	P7937	Q11921029	1.0	'sailor song'@en	'form of creative work'@en	'musical style'@en
+Q10669480	P7937	Q4263830	1.0	'sailor song'@en	'form of creative work'@en	'literary form'@en
+Q107357104	P7937	Q107356781	1.0	'type of dance'@en	'form of creative work'@en	'song type'@en
+Q11311300	P7937	Q107487333	1.0		'form of creative work'@en	'type of musical work/composition'@en
+Q11311300	P7937	Q11921029	1.0		'form of creative work'@en	'musical style'@en
+Q11311300	P7937	Q4263830	1.0		'form of creative work'@en	'literary form'@en
+Q11424	P7937	Q107487333	1.0	'film'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q11424	P7937	Q11921029	1.0	'film'@en	'form of creative work'@en	'musical style'@en
+Q11424	P7937	Q4263830	1.0	'film'@en	'form of creative work'@en	'literary form'@en
+Q1195253	P7937	Q107487333	1.0	'sea shanty'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1195253	P7937	Q11921029	1.0	'sea shanty'@en	'form of creative work'@en	'musical style'@en
+Q1195253	P7937	Q4263830	1.0	'sea shanty'@en	'form of creative work'@en	'literary form'@en
+Q12617225	P7937	Q107487333	1.0	'religious literature'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q12617225	P7937	Q11921029	1.0	'religious literature'@en	'form of creative work'@en	'musical style'@en
+Q12617225	P7937	Q4263830	1.0	'religious literature'@en	'form of creative work'@en	'literary form'@en
+Q15079132	P7937	Q107487333	1.0	'Christian prayer'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q15079132	P7937	Q11921029	1.0	'Christian prayer'@en	'form of creative work'@en	'musical style'@en
+Q15079132	P7937	Q4263830	1.0	'Christian prayer'@en	'form of creative work'@en	'literary form'@en
+Q15079786	P7937	Q188451	1.0	'ballet'@en	'form of creative work'@en	'music genre'@en
+Q1509934	P7937	Q107487333	1.0	'children\'s game'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1509934	P7937	Q11921029	1.0	'children\'s game'@en	'form of creative work'@en	'musical style'@en
+Q1509934	P7937	Q4263830	1.0	'children\'s game'@en	'form of creative work'@en	'literary form'@en
+Q1672918	P7937	Q107487333	1.0	'Irish rebel song'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q1672918	P7937	Q11921029	1.0	'Irish rebel song'@en	'form of creative work'@en	'musical style'@en
+Q1672918	P7937	Q4263830	1.0	'Irish rebel song'@en	'form of creative work'@en	'literary form'@en
+Q16909656	P7937	Q107487333	1.0	'Monty Python sketch'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q16909656	P7937	Q11921029	1.0	'Monty Python sketch'@en	'form of creative work'@en	'musical style'@en
+Q16909656	P7937	Q4263830	1.0	'Monty Python sketch'@en	'form of creative work'@en	'literary form'@en
+Q169930	P7937	Q107487333	1.0	'extended play'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q169930	P7937	Q11921029	1.0	'extended play'@en	'form of creative work'@en	'musical style'@en
+Q169930	P7937	Q4263830	1.0	'extended play'@en	'form of creative work'@en	'literary form'@en
+Q17489659	P7937	Q11921029	1.0	'group of works'@en	'form of creative work'@en	'musical style'@en
+Q17489659	P7937	Q862597	1.0	'group of works'@en	'form of creative work'@en	'musical form'@en
+Q17537576	P7937	Q1824109	1.0	'creative work'@en	'form of creative work'@en	'song form'@en
+Q178715	P7937	Q107487333	1.0	'rhyme'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q178715	P7937	Q11921029	1.0	'rhyme'@en	'form of creative work'@en	'musical style'@en
+Q178715	P7937	Q4263830	1.0	'rhyme'@en	'form of creative work'@en	'literary form'@en
+Q178985	P7937	Q107356781	1.0	'ode'@en	'form of creative work'@en	'song type'@en
+Q178985	P7937	Q12119802	1.0	'ode'@en	'form of creative work'@en	'lyric poetry genre'@en
+Q178985	P7937	Q188451	1.0	'ode'@en	'form of creative work'@en	'music genre'@en
+Q18460285	P7937	Q89522629	1.0	'musical setting'@en	'form of creative work'@en	'poetic form'@en
+Q187947	P7937	Q107487333	1.0	'sheet music'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q187947	P7937	Q862597	1.0	'sheet music'@en	'form of creative work'@en	'musical form'@en
+Q188993	P7937	Q107487333	1.0	'anarcho-syndicalism'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q188993	P7937	Q11921029	1.0	'anarcho-syndicalism'@en	'form of creative work'@en	'musical style'@en
+Q188993	P7937	Q4263830	1.0	'anarcho-syndicalism'@en	'form of creative work'@en	'literary form'@en
+Q19545459	P7937	Q107487333	1.0	'missa solemnis'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q19545459	P7937	Q862597	1.0	'missa solemnis'@en	'form of creative work'@en	'musical form'@en
+Q20202269	P7937	Q107487333	1.0	'musical term'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q20202269	P7937	Q188451	1.0	'musical term'@en	'form of creative work'@en	'music genre'@en
+Q20202269	P7937	Q862597	1.0	'musical term'@en	'form of creative work'@en	'musical form'@en
+Q207628	P7937	Q107487333	1.0	'musical composition'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q207628	P7937	Q11921029	1.0	'musical composition'@en	'form of creative work'@en	'musical style'@en
+Q207628	P7937	Q4263830	1.0	'musical composition'@en	'form of creative work'@en	'literary form'@en
+Q209741	P7937	Q862597	1.0	'programme music'@en	'form of creative work'@en	'musical form'@en
+Q2188189	P7937	Q107487333	1.0	'musical work'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2188189	P7937	Q11921029	1.0	'musical work'@en	'form of creative work'@en	'musical style'@en
+Q2188189	P7937	Q4263830	1.0	'musical work'@en	'form of creative work'@en	'literary form'@en
+Q221290	P7937	Q110013851	1.0	'monodrama'@en	'form of creative work'@en	'type of theatrical work'@en
+Q221290	P7937	Q188451	1.0	'monodrama'@en	'form of creative work'@en	'music genre'@en
+Q221290	P7937	Q7777573	1.0	'monodrama'@en	'form of creative work'@en	'theatrical genre'@en
+Q221290	P7937	Q862597	1.0	'monodrama'@en	'form of creative work'@en	'musical form'@en
+Q22808060	P7937	Q107487333	1.0	'state song of a state of the United States'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q22808060	P7937	Q11921029	1.0	'state song of a state of the United States'@en	'form of creative work'@en	'musical style'@en
+Q22808060	P7937	Q4263830	1.0	'state song of a state of the United States'@en	'form of creative work'@en	'literary form'@en
+Q230052	P7937	Q107487333	1.0	'tongue-twister'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q230052	P7937	Q11921029	1.0	'tongue-twister'@en	'form of creative work'@en	'musical style'@en
+Q230052	P7937	Q4263830	1.0	'tongue-twister'@en	'form of creative work'@en	'literary form'@en
+Q23691	P7937	Q188451	1.0	'national anthem'@en	'form of creative work'@en	'music genre'@en
+Q23691	P7937	Q862597	1.0	'national anthem'@en	'form of creative work'@en	'musical form'@en
+Q23691	P7937	Q89522629	1.0	'national anthem'@en	'form of creative work'@en	'poetic form'@en
+Q24862	P7937	Q107487333	1.0	'short film'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q24862	P7937	Q11921029	1.0	'short film'@en	'form of creative work'@en	'musical style'@en
+Q24862	P7937	Q4263830	1.0	'short film'@en	'form of creative work'@en	'literary form'@en
+Q2489759	P7937	Q107487333	1.0	'football chant'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2489759	P7937	Q11921029	1.0	'football chant'@en	'form of creative work'@en	'musical style'@en
+Q2489759	P7937	Q4263830	1.0	'football chant'@en	'form of creative work'@en	'literary form'@en
+Q24992028	P7937	Q107487333	1.0	'musical series'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2617970	P7937	Q107487333	1.0	'pentalogy'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2617970	P7937	Q862597	1.0	'pentalogy'@en	'form of creative work'@en	'musical form'@en
+Q27713372	P7937	Q107487333	1.0	'fictional goat'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q27713372	P7937	Q11921029	1.0	'fictional goat'@en	'form of creative work'@en	'musical style'@en
+Q27713372	P7937	Q4263830	1.0	'fictional goat'@en	'form of creative work'@en	'literary form'@en
+Q2910675	P7937	Q110013851	1.0	'unfinished creative work'@en	'form of creative work'@en	'type of theatrical work'@en
+Q2910675	P7937	Q11921029	1.0	'unfinished creative work'@en	'form of creative work'@en	'musical style'@en
+Q2910675	P7937	Q4263830	1.0	'unfinished creative work'@en	'form of creative work'@en	'literary form'@en
+Q2910675	P7937	Q7777573	1.0	'unfinished creative work'@en	'form of creative work'@en	'theatrical genre'@en
+Q2927074	P7937	Q107487333	1.0	'Internet meme'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q2927074	P7937	Q11921029	1.0	'Internet meme'@en	'form of creative work'@en	'musical style'@en
+Q2927074	P7937	Q4263830	1.0	'Internet meme'@en	'form of creative work'@en	'literary form'@en
+Q3305213	P7937	Q107487333	1.0	'painting'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q3305213	P7937	Q11921029	1.0	'painting'@en	'form of creative work'@en	'musical style'@en
+Q3305213	P7937	Q4263830	1.0	'painting'@en	'form of creative work'@en	'literary form'@en
+Q3331189	P7937	Q11921029	1.0	'version, edition, or translation'@en	'form of creative work'@en	'musical style'@en
+Q3331189	P7937	Q4263830	1.0	'version, edition, or translation'@en	'form of creative work'@en	'literary form'@en
+Q34508	P7937	Q107487333	1.0	'video recording'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q34508	P7937	Q11921029	1.0	'video recording'@en	'form of creative work'@en	'musical style'@en
+Q34508	P7937	Q4263830	1.0	'video recording'@en	'form of creative work'@en	'literary form'@en
+Q3815189	P7937	Q107487333	1.0	'musical hoax'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q3815189	P7937	Q862597	1.0	'musical hoax'@en	'form of creative work'@en	'musical form'@en
+Q3914	P7937	Q107487333	1.0	'school'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q3914	P7937	Q11921029	1.0	'school'@en	'form of creative work'@en	'musical style'@en
+Q3914	P7937	Q4263830	1.0	'school'@en	'form of creative work'@en	'literary form'@en
+Q40953	P7937	Q107487333	1.0	'prayer'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q40953	P7937	Q11921029	1.0	'prayer'@en	'form of creative work'@en	'musical style'@en
+Q40953	P7937	Q4263830	1.0	'prayer'@en	'form of creative work'@en	'literary form'@en
+Q482994	P7937	Q107487333	1.0	'album'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q482994	P7937	Q188451	1.0	'album'@en	'form of creative work'@en	'music genre'@en
+Q482994	P7937	Q862597	1.0	'album'@en	'form of creative work'@en	'musical form'@en
+Q484692	P7937	Q107356781	1.0	'hymn'@en	'form of creative work'@en	'song type'@en
+Q484692	P7937	Q12119802	1.0	'hymn'@en	'form of creative work'@en	'lyric poetry genre'@en
+Q484692	P7937	Q188451	1.0	'hymn'@en	'form of creative work'@en	'music genre'@en
+Q5	P7937	Q107487333	1.0	'human'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q5	P7937	Q11921029	1.0	'human'@en	'form of creative work'@en	'musical style'@en
+Q5	P7937	Q4263830	1.0	'human'@en	'form of creative work'@en	'literary form'@en
+Q5156725	P7937	Q107487333	1.0	'Composer tributes'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q541947	P7937	Q107487333	1.0	'anthem'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q541947	P7937	Q11921029	1.0	'anthem'@en	'form of creative work'@en	'musical style'@en
+Q541947	P7937	Q4263830	1.0	'anthem'@en	'form of creative work'@en	'literary form'@en
+Q541947	P7937	Q89522629	1.0	'anthem'@en	'form of creative work'@en	'poetic form'@en
+Q55850593	P7937	Q107487333	1.0	'music track with vocals'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q55850593	P7937	Q11921029	1.0	'music track with vocals'@en	'form of creative work'@en	'musical style'@en
+Q55850593	P7937	Q4263830	1.0	'music track with vocals'@en	'form of creative work'@en	'literary form'@en
+Q58483083	P7937	Q11921029	1.0	'dramatico-musical work'@en	'form of creative work'@en	'musical style'@en
+Q58483083	P7937	Q223393	1.0	'dramatico-musical work'@en	'form of creative work'@en	'literary genre'@en
+Q604748	P7937	Q107487333	1.0	'responsory'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q604748	P7937	Q11921029	1.0	'responsory'@en	'form of creative work'@en	'musical style'@en
+Q604748	P7937	Q4263830	1.0	'responsory'@en	'form of creative work'@en	'literary form'@en
+Q6199	P7937	Q107487333	1.0	'anarchism'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q6199	P7937	Q11921029	1.0	'anarchism'@en	'form of creative work'@en	'musical style'@en
+Q6199	P7937	Q4263830	1.0	'anarchism'@en	'form of creative work'@en	'literary form'@en
+Q63412991	P7937	Q188451	1.0	'YouTube video'@en	'form of creative work'@en	'music genre'@en
+Q63412991	P7937	Q862597	1.0	'YouTube video'@en	'form of creative work'@en	'musical form'@en
+Q7239036	P7937	Q107487333	1.0	'prayer in the New Testament'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q7239036	P7937	Q11921029	1.0	'prayer in the New Testament'@en	'form of creative work'@en	'musical style'@en
+Q7239036	P7937	Q4263830	1.0	'prayer in the New Testament'@en	'form of creative work'@en	'literary form'@en
+Q7257727	P7937	Q107487333	1.0	'public domain music'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q7257727	P7937	Q11921029	1.0	'public domain music'@en	'form of creative work'@en	'musical style'@en
+Q7257727	P7937	Q4263830	1.0	'public domain music'@en	'form of creative work'@en	'literary form'@en
+Q7725310	P7937	Q188451	1.0	'series of creative works'@en	'form of creative work'@en	'music genre'@en
+Q7725310	P7937	Q862597	1.0	'series of creative works'@en	'form of creative work'@en	'musical form'@en
+Q7725634	P7937	Q188451	1.0	'literary work'@en	'form of creative work'@en	'music genre'@en
+Q824979	P7937	Q107487333	1.0	'group'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q824979	P7937	Q20202269	1.0	'group'@en	'form of creative work'@en	'musical term'@en
+Q82821	P7937	Q107487333	1.0	'tradition'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q82821	P7937	Q110013851	1.0	'tradition'@en	'form of creative work'@en	'type of theatrical work'@en
+Q82821	P7937	Q11921029	1.0	'tradition'@en	'form of creative work'@en	'musical style'@en
+Q82821	P7937	Q223393	1.0	'tradition'@en	'form of creative work'@en	'literary genre'@en
+Q82821	P7937	Q4263830	1.0	'tradition'@en	'form of creative work'@en	'literary form'@en
+Q82821	P7937	Q7777573	1.0	'tradition'@en	'form of creative work'@en	'theatrical genre'@en
+Q852161	P7937	Q107487333	1.0	'singing game'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q852161	P7937	Q11921029	1.0	'singing game'@en	'form of creative work'@en	'musical style'@en
+Q852161	P7937	Q4263830	1.0	'singing game'@en	'form of creative work'@en	'literary form'@en
+Q929848	P7937	Q107487333	1.0	'movement'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q943929	P7937	Q107487333	1.0	'traditional folk song'@en	'form of creative work'@en	'type of musical work/composition'@en
+Q943929	P7937	Q11921029	1.0	'traditional folk song'@en	'form of creative work'@en	'musical style'@en
+Q943929	P7937	Q4263830	1.0	'traditional folk song'@en	'form of creative work'@en	'literary form'@en
+Q105543609	P676	Q5	3063.0	'musical work/composition'@en	'lyrics by'@en	'human'@en
+Q105543609	P676	Q1062083	145.0	'musical work/composition'@en	'lyrics by'@en	'billionaire'@en
+Q105543609	P676	Q59755569	25.0	'musical work/composition'@en	'lyrics by'@en	'special purpose artist'@en
+Q23691	P676	Q5	21.0	'national anthem'@en	'lyrics by'@en	'human'@en
+Q105543609	P676	Q215627	14.0	'musical work/composition'@en	'lyrics by'@en	'person'@en
+Q105543609	P676	Q54982412	12.0	'musical work/composition'@en	'lyrics by'@en	'songwriting team'@en
+Q105543609	P676	Q10648343	11.0	'musical work/composition'@en	'lyrics by'@en	'duo'@en
+Q134556	P676	Q5	11.0	'single'@en	'lyrics by'@en	'human'@en
+Q836950	P676	Q5	10.0	'derivative work'@en	'lyrics by'@en	'human'@en
+Q7302866	P676	Q5	6.0	'audio track'@en	'lyrics by'@en	'human'@en
+Q7366	P676	Q5	5.0	'song'@en	'lyrics by'@en	'human'@en
+Q856713	P676	Q5	5.0	'Christian hymn'@en	'lyrics by'@en	'human'@en
+Q2031291	P676	Q5	4.0	'release'@en	'lyrics by'@en	'human'@en
+Q64027488	P676	Q5	4.0	'arrangement on a work of the public domain'@en	'lyrics by'@en	'human'@en
+Q91192165	P676	Q5	4.0	'lyrical adaptation'@en	'lyrics by'@en	'human'@en
+Q105543609	P676	Q159979	3.0	'musical work/composition'@en	'lyrics by'@en	'twin'@en
+Q105543609	P676	Q215380	3.0	'musical work/composition'@en	'lyrics by'@en	'musical group'@en
+Q1193470	P676	Q5	3.0	'theme music'@en	'lyrics by'@en	'human'@en
+Q18460285	P676	Q5	3.0	'musical setting'@en	'lyrics by'@en	'human'@en
+Q484692	P676	Q5	3.0	'hymn'@en	'lyrics by'@en	'human'@en
+Q5185279	P676	Q5	3.0	'poem'@en	'lyrics by'@en	'human'@en
+Q105543609	P676	Q50424085	2.0	'musical work/composition'@en	'lyrics by'@en	'copyright status'@en
+Q134556	P676	Q1062083	2.0	'single'@en	'lyrics by'@en	'billionaire'@en
+Q182659	P676	Q5	2.0	'ballad'@en	'lyrics by'@en	'human'@en
+Q7725634	P676	Q5	2.0	'literary work'@en	'lyrics by'@en	'human'@en
+Q105543609	P676	Q107307154	1.0	'musical work/composition'@en	'lyrics by'@en	'virtual place'@en
+Q105543609	P676	Q1293664	1.0	'musical work/composition'@en	'lyrics by'@en	'open content'@en
+Q105543609	P676	Q14827288	1.0	'musical work/composition'@en	'lyrics by'@en	'Wikimedia project'@en
+Q105543609	P676	Q15633582	1.0	'musical work/composition'@en	'lyrics by'@en	'MediaWiki website'@en
+Q105543609	P676	Q16017119	1.0	'musical work/composition'@en	'lyrics by'@en	'collective pseudonym'@en
+Q105543609	P676	Q3152824	1.0	'musical work/composition'@en	'lyrics by'@en	'cultural institution'@en
+Q105543609	P676	Q615699	1.0	'musical work/composition'@en	'lyrics by'@en	'Internet encyclopedia'@en
+Q107357104	P676	Q5	1.0	'type of dance'@en	'lyrics by'@en	'human'@en
+Q107357104	P676	Q50424085	1.0	'type of dance'@en	'lyrics by'@en	'copyright status'@en
+Q11311300	P676	Q5	1.0		'lyrics by'@en	'human'@en
+Q134556	P676	Q10648343	1.0	'single'@en	'lyrics by'@en	'duo'@en
+Q134556	P676	Q54982412	1.0	'single'@en	'lyrics by'@en	'songwriting team'@en
+Q178985	P676	Q5	1.0	'ode'@en	'lyrics by'@en	'human'@en
+Q182659	P676	Q59755569	1.0	'ballad'@en	'lyrics by'@en	'special purpose artist'@en
+Q207628	P676	Q5	1.0	'musical composition'@en	'lyrics by'@en	'human'@en
+Q3331189	P676	Q5	1.0	'version, edition, or translation'@en	'lyrics by'@en	'human'@en
+Q34508	P676	Q5	1.0	'video recording'@en	'lyrics by'@en	'human'@en
+Q503354	P676	Q5	1.0	'Christmas carol'@en	'lyrics by'@en	'human'@en
+Q541947	P676	Q5	1.0	'anthem'@en	'lyrics by'@en	'human'@en
+Q55850593	P676	Q5	1.0	'music track with vocals'@en	'lyrics by'@en	'human'@en
+Q64027488	P676	Q50424085	1.0	'arrangement on a work of the public domain'@en	'lyrics by'@en	'copyright status'@en
+Q717040	P676	Q5	1.0	'Christmas tradition'@en	'lyrics by'@en	'human'@en
+Q7257727	P676	Q5	1.0	'public domain music'@en	'lyrics by'@en	'human'@en
+Q105543609	P646	external-id	9975.0	'musical work/composition'@en	'Freebase ID'@en	
+Q182659	P646	external-id	202.0	'ballad'@en	'Freebase ID'@en	
+Q134556	P646	external-id	44.0	'single'@en	'Freebase ID'@en	
+Q23691	P646	external-id	33.0	'national anthem'@en	'Freebase ID'@en	
+Q58483083	P646	external-id	30.0	'dramatico-musical work'@en	'Freebase ID'@en	
+Q15079786	P646	external-id	16.0	'ballet'@en	'Freebase ID'@en	
+Q7725310	P646	external-id	12.0	'series of creative works'@en	'Freebase ID'@en	
+Q836950	P646	external-id	11.0	'derivative work'@en	'Freebase ID'@en	
+Q17489659	P646	external-id	10.0	'group of works'@en	'Freebase ID'@en	
+Q7302866	P646	external-id	10.0	'audio track'@en	'Freebase ID'@en	
+Q1123037	P646	external-id	9.0	'nursery rhyme'@en	'Freebase ID'@en	
+Q7725634	P646	external-id	9.0	'literary work'@en	'Freebase ID'@en	
+Q107357104	P646	external-id	7.0	'type of dance'@en	'Freebase ID'@en	
+Q7366	P646	external-id	7.0	'song'@en	'Freebase ID'@en	
+Q17537576	P646	external-id	6.0	'creative work'@en	'Freebase ID'@en	
+Q856713	P646	external-id	6.0	'Christian hymn'@en	'Freebase ID'@en	
+Q482994	P646	external-id	5.0	'album'@en	'Freebase ID'@en	
+Q484692	P646	external-id	5.0	'hymn'@en	'Freebase ID'@en	
+Q5185279	P646	external-id	5.0	'poem'@en	'Freebase ID'@en	
+Q1193470	P646	external-id	4.0	'theme music'@en	'Freebase ID'@en	
+Q1352567	P646	external-id	4.0	'missa brevis'@en	'Freebase ID'@en	
+Q2031291	P646	external-id	4.0	'release'@en	'Freebase ID'@en	
+Q91192165	P646	external-id	4.0	'lyrical adaptation'@en	'Freebase ID'@en	
+Q18460285	P646	external-id	3.0	'musical setting'@en	'Freebase ID'@en	
+Q2910675	P646	external-id	3.0	'unfinished creative work'@en	'Freebase ID'@en	
+Q63412991	P646	external-id	3.0	'YouTube video'@en	'Freebase ID'@en	
+Q64027488	P646	external-id	3.0	'arrangement on a work of the public domain'@en	'Freebase ID'@en	
+Q717040	P646	external-id	3.0	'Christmas tradition'@en	'Freebase ID'@en	
+Q929848	P646	external-id	3.0	'movement'@en	'Freebase ID'@en	
+Q193605	P646	external-id	2.0	'lullaby'@en	'Freebase ID'@en	
+Q209741	P646	external-id	2.0	'programme music'@en	'Freebase ID'@en	
+Q2302678	P646	external-id	2.0	'clarinet concerto'@en	'Freebase ID'@en	
+Q245596	P646	external-id	2.0	'cycle'@en	'Freebase ID'@en	
+Q3331189	P646	external-id	2.0	'version, edition, or translation'@en	'Freebase ID'@en	
+Q3815189	P646	external-id	2.0	'musical hoax'@en	'Freebase ID'@en	
+Q788460	P646	external-id	2.0	'Bagatelle'@en	'Freebase ID'@en	
+Q1053427	P646	external-id	1.0	'scordatura'@en	'Freebase ID'@en	
+Q105420	P646	external-id	1.0	'anthology'@en	'Freebase ID'@en	
+Q1063010	P646	external-id	1.0	'character piece'@en	'Freebase ID'@en	
+Q10669480	P646	external-id	1.0	'sailor song'@en	'Freebase ID'@en	
+Q11311300	P646	external-id	1.0		'Freebase ID'@en	
+Q11424	P646	external-id	1.0	'film'@en	'Freebase ID'@en	
+Q1195253	P646	external-id	1.0	'sea shanty'@en	'Freebase ID'@en	
+Q12617225	P646	external-id	1.0	'religious literature'@en	'Freebase ID'@en	
+Q12909644	P646	external-id	1.0	'political ideology'@en	'Freebase ID'@en	
+Q1385610	P646	external-id	1.0	'excerpt'@en	'Freebase ID'@en	
+Q15079132	P646	external-id	1.0	'Christian prayer'@en	'Freebase ID'@en	
+Q1509934	P646	external-id	1.0	'children\'s game'@en	'Freebase ID'@en	
+Q1547148	P646	external-id	1.0	'bugle call'@en	'Freebase ID'@en	
+Q1672918	P646	external-id	1.0	'Irish rebel song'@en	'Freebase ID'@en	
+Q16909656	P646	external-id	1.0	'Monty Python sketch'@en	'Freebase ID'@en	
+Q169930	P646	external-id	1.0	'extended play'@en	'Freebase ID'@en	
+Q178715	P646	external-id	1.0	'rhyme'@en	'Freebase ID'@en	
+Q178985	P646	external-id	1.0	'ode'@en	'Freebase ID'@en	
+Q187947	P646	external-id	1.0	'sheet music'@en	'Freebase ID'@en	
+Q188993	P646	external-id	1.0	'anarcho-syndicalism'@en	'Freebase ID'@en	
+Q19545459	P646	external-id	1.0	'missa solemnis'@en	'Freebase ID'@en	
+Q20202269	P646	external-id	1.0	'musical term'@en	'Freebase ID'@en	
+Q20437094	P646	external-id	1.0	'installation artwork'@en	'Freebase ID'@en	
+Q207628	P646	external-id	1.0	'musical composition'@en	'Freebase ID'@en	
+Q2115663	P646	external-id	1.0	'section'@en	'Freebase ID'@en	
+Q212024	P646	external-id	1.0	'spirituals'@en	'Freebase ID'@en	
+Q2188189	P646	external-id	1.0	'musical work'@en	'Freebase ID'@en	
+Q221290	P646	external-id	1.0	'monodrama'@en	'Freebase ID'@en	
+Q22808060	P646	external-id	1.0	'state song of a state of the United States'@en	'Freebase ID'@en	
+Q230052	P646	external-id	1.0	'tongue-twister'@en	'Freebase ID'@en	
+Q24862	P646	external-id	1.0	'short film'@en	'Freebase ID'@en	
+Q2489759	P646	external-id	1.0	'football chant'@en	'Freebase ID'@en	
+Q24992028	P646	external-id	1.0	'musical series'@en	'Freebase ID'@en	
+Q2617970	P646	external-id	1.0	'pentalogy'@en	'Freebase ID'@en	
+Q2738074	P646	external-id	1.0	'political movement'@en	'Freebase ID'@en	
+Q27713372	P646	external-id	1.0	'fictional goat'@en	'Freebase ID'@en	
+Q30515	P646	external-id	1.0	'slogan'@en	'Freebase ID'@en	
+Q3305213	P646	external-id	1.0	'painting'@en	'Freebase ID'@en	
+Q3408995	P646	external-id	1.0	'prelude and fugue'@en	'Freebase ID'@en	
+Q34508	P646	external-id	1.0	'video recording'@en	'Freebase ID'@en	
+Q3914	P646	external-id	1.0	'school'@en	'Freebase ID'@en	
+Q40953	P646	external-id	1.0	'prayer'@en	'Freebase ID'@en	
+Q47461344	P646	external-id	1.0	'written work'@en	'Freebase ID'@en	
+Q5	P646	external-id	1.0	'human'@en	'Freebase ID'@en	
+Q503354	P646	external-id	1.0	'Christmas carol'@en	'Freebase ID'@en	
+Q5126979	P646	external-id	1.0	'clarinet-viola-piano trio'@en	'Freebase ID'@en	
+Q5156725	P646	external-id	1.0	'Composer tributes'@en	'Freebase ID'@en	
+Q541947	P646	external-id	1.0	'anthem'@en	'Freebase ID'@en	
+Q55850593	P646	external-id	1.0	'music track with vocals'@en	'Freebase ID'@en	
+Q6199	P646	external-id	1.0	'anarchism'@en	'Freebase ID'@en	
+Q623823	P646	external-id	1.0	'arabesque'@en	'Freebase ID'@en	
+Q690856	P646	external-id	1.0	'ringtone'@en	'Freebase ID'@en	
+Q6942465	P646	external-id	1.0	'music written in all 24 major and minor keys'@en	'Freebase ID'@en	
+Q7239036	P646	external-id	1.0	'prayer in the New Testament'@en	'Freebase ID'@en	
+Q7257727	P646	external-id	1.0	'public domain music'@en	'Freebase ID'@en	
+Q811979	P646	external-id	1.0	'architectural structure'@en	'Freebase ID'@en	
+Q824979	P646	external-id	1.0	'group'@en	'Freebase ID'@en	
+Q82821	P646	external-id	1.0	'tradition'@en	'Freebase ID'@en	
+Q852027	P646	external-id	1.0	'impromptu'@en	'Freebase ID'@en	
+Q852161	P646	external-id	1.0	'singing game'@en	'Freebase ID'@en	
+Q87167	P646	external-id	1.0	'manuscript'@en	'Freebase ID'@en	
+Q88392887	P646	external-id	1.0	'part of a work'@en	'Freebase ID'@en	
+Q901610	P646	external-id	1.0	'Min\'yō'@en	'Freebase ID'@en	
+Q943929	P646	external-id	1.0	'traditional folk song'@en	'Freebase ID'@en	
+Q978	P646	external-id	1.0	'meme'@en	'Freebase ID'@en	
+Q105543609	P577	time	7549.0	'musical work/composition'@en	'publication date'@en	
+Q134556	P577	time	42.0	'single'@en	'publication date'@en	
+Q58483083	P577	time	25.0	'dramatico-musical work'@en	'publication date'@en	
+Q15079786	P577	time	12.0	'ballet'@en	'publication date'@en	
+Q23691	P577	time	12.0	'national anthem'@en	'publication date'@en	
+Q7302866	P577	time	11.0	'audio track'@en	'publication date'@en	
+Q836950	P577	time	10.0	'derivative work'@en	'publication date'@en	
+Q1123037	P577	time	8.0	'nursery rhyme'@en	'publication date'@en	
+Q7366	P577	time	6.0	'song'@en	'publication date'@en	
+Q7725634	P577	time	6.0	'literary work'@en	'publication date'@en	
+Q17537576	P577	time	5.0	'creative work'@en	'publication date'@en	
+Q482994	P577	time	5.0	'album'@en	'publication date'@en	
+Q5185279	P577	time	5.0	'poem'@en	'publication date'@en	
+Q64027488	P577	time	4.0	'arrangement on a work of the public domain'@en	'publication date'@en	
+Q7725310	P577	time	4.0	'series of creative works'@en	'publication date'@en	
+Q856713	P577	time	4.0	'Christian hymn'@en	'publication date'@en	
+Q1193470	P577	time	3.0	'theme music'@en	'publication date'@en	
+Q1352567	P577	time	3.0	'missa brevis'@en	'publication date'@en	
+Q182659	P577	time	3.0	'ballad'@en	'publication date'@en	
+Q18460285	P577	time	3.0	'musical setting'@en	'publication date'@en	
+Q2031291	P577	time	3.0	'release'@en	'publication date'@en	
+Q2910675	P577	time	3.0	'unfinished creative work'@en	'publication date'@en	
+Q484692	P577	time	3.0	'hymn'@en	'publication date'@en	
+Q788460	P577	time	3.0	'Bagatelle'@en	'publication date'@en	
+Q91192165	P577	time	3.0	'lyrical adaptation'@en	'publication date'@en	
+Q107357104	P577	time	2.0	'type of dance'@en	'publication date'@en	
+Q2302678	P577	time	2.0	'clarinet concerto'@en	'publication date'@en	
+Q63412991	P577	time	2.0	'YouTube video'@en	'publication date'@en	
+Q11311300	P577	time	1.0		'publication date'@en	
+Q11424	P577	time	1.0	'film'@en	'publication date'@en	
+Q1385610	P577	time	1.0	'excerpt'@en	'publication date'@en	
+Q16909656	P577	time	1.0	'Monty Python sketch'@en	'publication date'@en	
+Q169930	P577	time	1.0	'extended play'@en	'publication date'@en	
+Q17489659	P577	time	1.0	'group of works'@en	'publication date'@en	
+Q178715	P577	time	1.0	'rhyme'@en	'publication date'@en	
+Q178985	P577	time	1.0	'ode'@en	'publication date'@en	
+Q187947	P577	time	1.0	'sheet music'@en	'publication date'@en	
+Q193605	P577	time	1.0	'lullaby'@en	'publication date'@en	
+Q20202269	P577	time	1.0	'musical term'@en	'publication date'@en	
+Q20437094	P577	time	1.0	'installation artwork'@en	'publication date'@en	
+Q207628	P577	time	1.0	'musical composition'@en	'publication date'@en	
+Q209741	P577	time	1.0	'programme music'@en	'publication date'@en	
+Q212024	P577	time	1.0	'spirituals'@en	'publication date'@en	
+Q221290	P577	time	1.0	'monodrama'@en	'publication date'@en	
+Q22808060	P577	time	1.0	'state song of a state of the United States'@en	'publication date'@en	
+Q230052	P577	time	1.0	'tongue-twister'@en	'publication date'@en	
+Q2489759	P577	time	1.0	'football chant'@en	'publication date'@en	
+Q24992028	P577	time	1.0	'musical series'@en	'publication date'@en	
+Q2927074	P577	time	1.0	'Internet meme'@en	'publication date'@en	
+Q3305213	P577	time	1.0	'painting'@en	'publication date'@en	
+Q3331189	P577	time	1.0	'version, edition, or translation'@en	'publication date'@en	
+Q34508	P577	time	1.0	'video recording'@en	'publication date'@en	
+Q3815189	P577	time	1.0	'musical hoax'@en	'publication date'@en	
+Q3914	P577	time	1.0	'school'@en	'publication date'@en	
+Q40953	P577	time	1.0	'prayer'@en	'publication date'@en	
+Q47461344	P577	time	1.0	'written work'@en	'publication date'@en	
+Q503354	P577	time	1.0	'Christmas carol'@en	'publication date'@en	
+Q5126979	P577	time	1.0	'clarinet-viola-piano trio'@en	'publication date'@en	
+Q5156725	P577	time	1.0	'Composer tributes'@en	'publication date'@en	
+Q541947	P577	time	1.0	'anthem'@en	'publication date'@en	
+Q55850593	P577	time	1.0	'music track with vocals'@en	'publication date'@en	
+Q623823	P577	time	1.0	'arabesque'@en	'publication date'@en	
+Q6942465	P577	time	1.0	'music written in all 24 major and minor keys'@en	'publication date'@en	
+Q852027	P577	time	1.0	'impromptu'@en	'publication date'@en	
+Q852161	P577	time	1.0	'singing game'@en	'publication date'@en	
+Q929848	P577	time	1.0	'movement'@en	'publication date'@en	
+Q105543609	P435	external-id	6153.0	'musical work/composition'@en	'MusicBrainz work ID'@en	
+Q182659	P435	external-id	65.0	'ballad'@en	'MusicBrainz work ID'@en	
+Q134556	P435	external-id	31.0	'single'@en	'MusicBrainz work ID'@en	
+Q58483083	P435	external-id	25.0	'dramatico-musical work'@en	'MusicBrainz work ID'@en	
+Q23691	P435	external-id	16.0	'national anthem'@en	'MusicBrainz work ID'@en	
+Q15079786	P435	external-id	13.0	'ballet'@en	'MusicBrainz work ID'@en	
+Q7725310	P435	external-id	12.0	'series of creative works'@en	'MusicBrainz work ID'@en	
+Q836950	P435	external-id	12.0	'derivative work'@en	'MusicBrainz work ID'@en	
+Q17489659	P435	external-id	8.0	'group of works'@en	'MusicBrainz work ID'@en	
+Q7302866	P435	external-id	8.0	'audio track'@en	'MusicBrainz work ID'@en	
+Q107357104	P435	external-id	6.0	'type of dance'@en	'MusicBrainz work ID'@en	
+Q17537576	P435	external-id	6.0	'creative work'@en	'MusicBrainz work ID'@en	
+Q7366	P435	external-id	6.0	'song'@en	'MusicBrainz work ID'@en	
+Q7725634	P435	external-id	6.0	'literary work'@en	'MusicBrainz work ID'@en	
+Q1123037	P435	external-id	5.0	'nursery rhyme'@en	'MusicBrainz work ID'@en	
+Q1193470	P435	external-id	4.0	'theme music'@en	'MusicBrainz work ID'@en	
+Q1352567	P435	external-id	4.0	'missa brevis'@en	'MusicBrainz work ID'@en	
+Q64027488	P435	external-id	4.0	'arrangement on a work of the public domain'@en	'MusicBrainz work ID'@en	
+Q856713	P435	external-id	4.0	'Christian hymn'@en	'MusicBrainz work ID'@en	
+Q91192165	P435	external-id	4.0	'lyrical adaptation'@en	'MusicBrainz work ID'@en	
+Q18460285	P435	external-id	3.0	'musical setting'@en	'MusicBrainz work ID'@en	
+Q2302678	P435	external-id	3.0	'clarinet concerto'@en	'MusicBrainz work ID'@en	
+Q2910675	P435	external-id	3.0	'unfinished creative work'@en	'MusicBrainz work ID'@en	
+Q193605	P435	external-id	2.0	'lullaby'@en	'MusicBrainz work ID'@en	
+Q209741	P435	external-id	2.0	'programme music'@en	'MusicBrainz work ID'@en	
+Q245596	P435	external-id	2.0	'cycle'@en	'MusicBrainz work ID'@en	
+Q3331189	P435	external-id	2.0	'version, edition, or translation'@en	'MusicBrainz work ID'@en	
+Q3815189	P435	external-id	2.0	'musical hoax'@en	'MusicBrainz work ID'@en	
+Q482994	P435	external-id	2.0	'album'@en	'MusicBrainz work ID'@en	
+Q484692	P435	external-id	2.0	'hymn'@en	'MusicBrainz work ID'@en	
+Q5185279	P435	external-id	2.0	'poem'@en	'MusicBrainz work ID'@en	
+Q929848	P435	external-id	2.0	'movement'@en	'MusicBrainz work ID'@en	
+Q1053427	P435	external-id	1.0	'scordatura'@en	'MusicBrainz work ID'@en	
+Q105420	P435	external-id	1.0	'anthology'@en	'MusicBrainz work ID'@en	
+Q1063010	P435	external-id	1.0	'character piece'@en	'MusicBrainz work ID'@en	
+Q10669480	P435	external-id	1.0	'sailor song'@en	'MusicBrainz work ID'@en	
+Q11311300	P435	external-id	1.0		'MusicBrainz work ID'@en	
+Q1195253	P435	external-id	1.0	'sea shanty'@en	'MusicBrainz work ID'@en	
+Q1385610	P435	external-id	1.0	'excerpt'@en	'MusicBrainz work ID'@en	
+Q1547148	P435	external-id	1.0	'bugle call'@en	'MusicBrainz work ID'@en	
+Q1672918	P435	external-id	1.0	'Irish rebel song'@en	'MusicBrainz work ID'@en	
+Q16909656	P435	external-id	1.0	'Monty Python sketch'@en	'MusicBrainz work ID'@en	
+Q178715	P435	external-id	1.0	'rhyme'@en	'MusicBrainz work ID'@en	
+Q178985	P435	external-id	1.0	'ode'@en	'MusicBrainz work ID'@en	
+Q187947	P435	external-id	1.0	'sheet music'@en	'MusicBrainz work ID'@en	
+Q19545459	P435	external-id	1.0	'missa solemnis'@en	'MusicBrainz work ID'@en	
+Q20202269	P435	external-id	1.0	'musical term'@en	'MusicBrainz work ID'@en	
+Q207628	P435	external-id	1.0	'musical composition'@en	'MusicBrainz work ID'@en	
+Q2115663	P435	external-id	1.0	'section'@en	'MusicBrainz work ID'@en	
+Q212024	P435	external-id	1.0	'spirituals'@en	'MusicBrainz work ID'@en	
+Q2188189	P435	external-id	1.0	'musical work'@en	'MusicBrainz work ID'@en	
+Q221290	P435	external-id	1.0	'monodrama'@en	'MusicBrainz work ID'@en	
+Q22808060	P435	external-id	1.0	'state song of a state of the United States'@en	'MusicBrainz work ID'@en	
+Q24992028	P435	external-id	1.0	'musical series'@en	'MusicBrainz work ID'@en	
+Q2617970	P435	external-id	1.0	'pentalogy'@en	'MusicBrainz work ID'@en	
+Q3408995	P435	external-id	1.0	'prelude and fugue'@en	'MusicBrainz work ID'@en	
+Q503354	P435	external-id	1.0	'Christmas carol'@en	'MusicBrainz work ID'@en	
+Q5126979	P435	external-id	1.0	'clarinet-viola-piano trio'@en	'MusicBrainz work ID'@en	
+Q5156725	P435	external-id	1.0	'Composer tributes'@en	'MusicBrainz work ID'@en	
+Q541947	P435	external-id	1.0	'anthem'@en	'MusicBrainz work ID'@en	
+Q55850593	P435	external-id	1.0	'music track with vocals'@en	'MusicBrainz work ID'@en	
+Q604748	P435	external-id	1.0	'responsory'@en	'MusicBrainz work ID'@en	
+Q623823	P435	external-id	1.0	'arabesque'@en	'MusicBrainz work ID'@en	
+Q63412991	P435	external-id	1.0	'YouTube video'@en	'MusicBrainz work ID'@en	
+Q690856	P435	external-id	1.0	'ringtone'@en	'MusicBrainz work ID'@en	
+Q6942465	P435	external-id	1.0	'music written in all 24 major and minor keys'@en	'MusicBrainz work ID'@en	
+Q717040	P435	external-id	1.0	'Christmas tradition'@en	'MusicBrainz work ID'@en	
+Q7257727	P435	external-id	1.0	'public domain music'@en	'MusicBrainz work ID'@en	
+Q788460	P435	external-id	1.0	'Bagatelle'@en	'MusicBrainz work ID'@en	
+Q811979	P435	external-id	1.0	'architectural structure'@en	'MusicBrainz work ID'@en	
+Q824979	P435	external-id	1.0	'group'@en	'MusicBrainz work ID'@en	
+Q82821	P435	external-id	1.0	'tradition'@en	'MusicBrainz work ID'@en	
+Q852027	P435	external-id	1.0	'impromptu'@en	'MusicBrainz work ID'@en	
+Q852161	P435	external-id	1.0	'singing game'@en	'MusicBrainz work ID'@en	
+Q88392887	P435	external-id	1.0	'part of a work'@en	'MusicBrainz work ID'@en	
+Q901610	P435	external-id	1.0	'Min\'yō'@en	'MusicBrainz work ID'@en	
+Q943929	P435	external-id	1.0	'traditional folk song'@en	'MusicBrainz work ID'@en	
+Q978	P435	external-id	1.0	'meme'@en	'MusicBrainz work ID'@en	
+Q105543609	P407	Q34770	3523.0	'musical work/composition'@en	'language of work or name'@en	'language'@en
+Q105543609	P407	Q1288568	3504.0	'musical work/composition'@en	'language of work or name'@en	'modern language'@en
+Q105543609	P407	Q33742	2970.0	'musical work/composition'@en	'language of work or name'@en	'natural language'@en
+Q105543609	P407	Q17376908	207.0	'musical work/composition'@en	'language of work or name'@en	'languoid'@en
+Q105543609	P407	Q661936	59.0	'musical work/composition'@en	'language of work or name'@en	'pro-drop language'@en
+Q105543609	P407	Q152559	33.0	'musical work/composition'@en	'language of work or name'@en	'macrolanguage'@en
+Q58483083	P407	Q1288568	30.0	'dramatico-musical work'@en	'language of work or name'@en	'modern language'@en
+Q58483083	P407	Q34770	30.0	'dramatico-musical work'@en	'language of work or name'@en	'language'@en
+Q105543609	P407	Q839470	26.0	'musical work/composition'@en	'language of work or name'@en	'sacred language'@en
+Q105543609	P407	Q436240	25.0	'musical work/composition'@en	'language of work or name'@en	'ancient language'@en
+Q105543609	P407	Q45762	25.0	'musical work/composition'@en	'language of work or name'@en	'dead language'@en
+Q105543609	P407	Q3329375	15.0	'musical work/composition'@en	'language of work or name'@en	'language variety'@en
+Q23691	P407	Q34770	15.0	'national anthem'@en	'language of work or name'@en	'language'@en
+Q58483083	P407	Q661936	15.0	'dramatico-musical work'@en	'language of work or name'@en	'pro-drop language'@en
+Q23691	P407	Q1288568	14.0	'national anthem'@en	'language of work or name'@en	'modern language'@en
+Q105543609	P407	Q33384	11.0	'musical work/composition'@en	'language of work or name'@en	'dialect'@en
+Q182659	P407	Q34770	11.0	'ballad'@en	'language of work or name'@en	'language'@en
+Q836950	P407	Q1288568	11.0	'derivative work'@en	'language of work or name'@en	'modern language'@en
+Q836950	P407	Q34770	11.0	'derivative work'@en	'language of work or name'@en	'language'@en
+Q182659	P407	Q1288568	10.0	'ballad'@en	'language of work or name'@en	'modern language'@en
+Q182659	P407	Q33742	10.0	'ballad'@en	'language of work or name'@en	'natural language'@en
+Q836950	P407	Q33742	10.0	'derivative work'@en	'language of work or name'@en	'natural language'@en
+Q134556	P407	Q1288568	9.0	'single'@en	'language of work or name'@en	'modern language'@en
+Q134556	P407	Q33742	9.0	'single'@en	'language of work or name'@en	'natural language'@en
+Q134556	P407	Q34770	9.0	'single'@en	'language of work or name'@en	'language'@en
+Q7302866	P407	Q1288568	9.0	'audio track'@en	'language of work or name'@en	'modern language'@en
+Q7302866	P407	Q33742	9.0	'audio track'@en	'language of work or name'@en	'natural language'@en
+Q7302866	P407	Q34770	9.0	'audio track'@en	'language of work or name'@en	'language'@en
+Q1123037	P407	Q1288568	8.0	'nursery rhyme'@en	'language of work or name'@en	'modern language'@en
+Q1123037	P407	Q33742	8.0	'nursery rhyme'@en	'language of work or name'@en	'natural language'@en
+Q1123037	P407	Q34770	8.0	'nursery rhyme'@en	'language of work or name'@en	'language'@en
+Q23691	P407	Q33742	8.0	'national anthem'@en	'language of work or name'@en	'natural language'@en
+Q7725634	P407	Q1288568	7.0	'literary work'@en	'language of work or name'@en	'modern language'@en
+Q7725634	P407	Q34770	7.0	'literary work'@en	'language of work or name'@en	'language'@en
+Q105543609	P407	Q2315359	6.0	'musical work/composition'@en	'language of work or name'@en	'historical language'@en
+Q105543609	P407	Q83365347	6.0	'musical work/composition'@en	'language of work or name'@en	'definitely endangered language'@en
+Q105543609	P407	Q25295	5.0	'musical work/composition'@en	'language of work or name'@en	'language family'@en
+Q58483083	P407	Q33742	5.0	'dramatico-musical work'@en	'language of work or name'@en	'natural language'@en
+Q7366	P407	Q1288568	5.0	'song'@en	'language of work or name'@en	'modern language'@en
+Q7366	P407	Q33742	5.0	'song'@en	'language of work or name'@en	'natural language'@en
+Q7366	P407	Q34770	5.0	'song'@en	'language of work or name'@en	'language'@en
+Q105543609	P407	Q171263	4.0	'musical work/composition'@en	'language of work or name'@en	'agglutinative language'@en
+Q105543609	P407	Q399495	4.0	'musical work/composition'@en	'language of work or name'@en	'standard language'@en
+Q105543609	P407	Q951873	4.0	'musical work/composition'@en	'language of work or name'@en	'ethnolect'@en
+Q484692	P407	Q1288568	4.0	'hymn'@en	'language of work or name'@en	'modern language'@en
+Q484692	P407	Q33742	4.0	'hymn'@en	'language of work or name'@en	'natural language'@en
+Q484692	P407	Q34770	4.0	'hymn'@en	'language of work or name'@en	'language'@en
+Q5185279	P407	Q1288568	4.0	'poem'@en	'language of work or name'@en	'modern language'@en
+Q64027488	P407	Q1288568	4.0	'arrangement on a work of the public domain'@en	'language of work or name'@en	'modern language'@en
+Q64027488	P407	Q33742	4.0	'arrangement on a work of the public domain'@en	'language of work or name'@en	'natural language'@en
+Q64027488	P407	Q34770	4.0	'arrangement on a work of the public domain'@en	'language of work or name'@en	'language'@en
+Q856713	P407	Q1288568	4.0	'Christian hymn'@en	'language of work or name'@en	'modern language'@en
+Q856713	P407	Q34770	4.0	'Christian hymn'@en	'language of work or name'@en	'language'@en
+Q91192165	P407	Q1288568	4.0	'lyrical adaptation'@en	'language of work or name'@en	'modern language'@en
+Q91192165	P407	Q33742	4.0	'lyrical adaptation'@en	'language of work or name'@en	'natural language'@en
+Q91192165	P407	Q34770	4.0	'lyrical adaptation'@en	'language of work or name'@en	'language'@en
+Q105543609	P407	Q1514741	3.0	'musical work/composition'@en	'language of work or name'@en	'set'@en
+Q105543609	P407	Q2001982	3.0	'musical work/composition'@en	'language of work or name'@en	'notation'@en
+Q105543609	P407	Q250858	3.0	'musical work/composition'@en	'language of work or name'@en	'pluricentric language'@en
+Q105543609	P407	Q33289	3.0	'musical work/composition'@en	'language of work or name'@en	'creole language'@en
+Q105543609	P407	Q33648	3.0	'musical work/composition'@en	'language of work or name'@en	'language isolate'@en
+Q105543609	P407	Q83365366	3.0	'musical work/composition'@en	'language of work or name'@en	'severely endangered language'@en
+Q107357104	P407	Q1288568	3.0	'type of dance'@en	'language of work or name'@en	'modern language'@en
+Q107357104	P407	Q34770	3.0	'type of dance'@en	'language of work or name'@en	'language'@en
+Q1193470	P407	Q1288568	3.0	'theme music'@en	'language of work or name'@en	'modern language'@en
+Q1193470	P407	Q34770	3.0	'theme music'@en	'language of work or name'@en	'language'@en
+Q18460285	P407	Q1288568	3.0	'musical setting'@en	'language of work or name'@en	'modern language'@en
+Q18460285	P407	Q33742	3.0	'musical setting'@en	'language of work or name'@en	'natural language'@en
+Q18460285	P407	Q34770	3.0	'musical setting'@en	'language of work or name'@en	'language'@en
+Q5185279	P407	Q33742	3.0	'poem'@en	'language of work or name'@en	'natural language'@en
+Q5185279	P407	Q34770	3.0	'poem'@en	'language of work or name'@en	'language'@en
+Q7725634	P407	Q33742	3.0	'literary work'@en	'language of work or name'@en	'natural language'@en
+Q788460	P407	Q1288568	3.0	'Bagatelle'@en	'language of work or name'@en	'modern language'@en
+Q788460	P407	Q33742	3.0	'Bagatelle'@en	'language of work or name'@en	'natural language'@en
+Q788460	P407	Q34770	3.0	'Bagatelle'@en	'language of work or name'@en	'language'@en
+Q105543609	P407	Q13418005	2.0	'musical work/composition'@en	'language of work or name'@en	'languages of Occitania'@en
+Q105543609	P407	Q33146	2.0	'musical work/composition'@en	'language of work or name'@en	'Bantu'@en
+Q105543609	P407	Q33215	2.0	'musical work/composition'@en	'language of work or name'@en	'constructed language'@en
+Q105543609	P407	Q38058796	2.0	'musical work/composition'@en	'language of work or name'@en	'extinct language'@en
+Q105543609	P407	Q4167410	2.0	'musical work/composition'@en	'language of work or name'@en	'Wikimedia disambiguation page'@en
+Q105543609	P407	Q4536543	2.0	'musical work/composition'@en	'language of work or name'@en	'pluricentric language variant'@en
+Q107357104	P407	Q33742	2.0	'type of dance'@en	'language of work or name'@en	'natural language'@en
+Q134556	P407	Q17376908	2.0	'single'@en	'language of work or name'@en	'languoid'@en
+Q193605	P407	Q1288568	2.0	'lullaby'@en	'language of work or name'@en	'modern language'@en
+Q193605	P407	Q34770	2.0	'lullaby'@en	'language of work or name'@en	'language'@en
+Q23691	P407	Q839470	2.0	'national anthem'@en	'language of work or name'@en	'sacred language'@en
+Q2910675	P407	Q34770	2.0	'unfinished creative work'@en	'language of work or name'@en	'language'@en
+Q717040	P407	Q1288568	2.0	'Christmas tradition'@en	'language of work or name'@en	'modern language'@en
+Q717040	P407	Q34770	2.0	'Christmas tradition'@en	'language of work or name'@en	'language'@en
+Q856713	P407	Q33742	2.0	'Christian hymn'@en	'language of work or name'@en	'natural language'@en
+Q105543609	P407	Q1097949	1.0	'musical work/composition'@en	'language of work or name'@en	'literary language'@en
+Q105543609	P407	Q1149537	1.0	'musical work/composition'@en	'language of work or name'@en	'Elvish languages (Middle-earth)'@en
+Q105543609	P407	Q1149626	1.0	'musical work/composition'@en	'language of work or name'@en	'written language'@en
+Q105543609	P407	Q11499915	1.0	'musical work/composition'@en	'language of work or name'@en	'written language'@en
+Q105543609	P407	Q11862829	1.0	'musical work/composition'@en	'language of work or name'@en	'academic discipline'@en
+Q105543609	P407	Q1790577	1.0	'musical work/composition'@en	'language of work or name'@en	'planned language'@en
+Q105543609	P407	Q20671152	1.0	'musical work/composition'@en	'language of work or name'@en	'dialect family'@en
+Q105543609	P407	Q2141342	1.0	'musical work/composition'@en	'language of work or name'@en	'languages constructed by J. R. R. Tolkien'@en
+Q105543609	P407	Q2623733	1.0	'musical work/composition'@en	'language of work or name'@en	'fictional language'@en
+Q105543609	P407	Q317623	1.0	'musical work/composition'@en	'language of work or name'@en	'technical standard'@en
+Q105543609	P407	Q3247505	1.0	'musical work/composition'@en	'language of work or name'@en	'artificial language'@en
+Q105543609	P407	Q335214	1.0	'musical work/composition'@en	'language of work or name'@en	'endangered language'@en
+Q105543609	P407	Q470775	1.0	'musical work/composition'@en	'language of work or name'@en	'a posteriori language'@en
+Q105543609	P407	Q838296	1.0	'musical work/composition'@en	'language of work or name'@en	'international auxiliary language'@en
+Q10669480	P407	Q1288568	1.0	'sailor song'@en	'language of work or name'@en	'modern language'@en
+Q10669480	P407	Q33742	1.0	'sailor song'@en	'language of work or name'@en	'natural language'@en
+Q10669480	P407	Q34770	1.0	'sailor song'@en	'language of work or name'@en	'language'@en
+Q11311300	P407	Q1288568	1.0		'language of work or name'@en	'modern language'@en
+Q11311300	P407	Q33742	1.0		'language of work or name'@en	'natural language'@en
+Q11311300	P407	Q34770	1.0		'language of work or name'@en	'language'@en
+Q1193470	P407	Q33742	1.0	'theme music'@en	'language of work or name'@en	'natural language'@en
+Q1193470	P407	Q661936	1.0	'theme music'@en	'language of work or name'@en	'pro-drop language'@en
+Q1193470	P407	Q83365347	1.0	'theme music'@en	'language of work or name'@en	'definitely endangered language'@en
+Q1195253	P407	Q1288568	1.0	'sea shanty'@en	'language of work or name'@en	'modern language'@en
+Q1195253	P407	Q33742	1.0	'sea shanty'@en	'language of work or name'@en	'natural language'@en
+Q1195253	P407	Q34770	1.0	'sea shanty'@en	'language of work or name'@en	'language'@en
+Q12617225	P407	Q1288568	1.0	'religious literature'@en	'language of work or name'@en	'modern language'@en
+Q12617225	P407	Q34770	1.0	'religious literature'@en	'language of work or name'@en	'language'@en
+Q1385610	P407	Q1288568	1.0	'excerpt'@en	'language of work or name'@en	'modern language'@en
+Q1385610	P407	Q33742	1.0	'excerpt'@en	'language of work or name'@en	'natural language'@en
+Q1385610	P407	Q34770	1.0	'excerpt'@en	'language of work or name'@en	'language'@en
+Q15079132	P407	Q34770	1.0	'Christian prayer'@en	'language of work or name'@en	'language'@en
+Q15079132	P407	Q436240	1.0	'Christian prayer'@en	'language of work or name'@en	'ancient language'@en
+Q15079132	P407	Q45762	1.0	'Christian prayer'@en	'language of work or name'@en	'dead language'@en
+Q15079132	P407	Q839470	1.0	'Christian prayer'@en	'language of work or name'@en	'sacred language'@en
+Q15079786	P407	Q1288568	1.0	'ballet'@en	'language of work or name'@en	'modern language'@en
+Q15079786	P407	Q33742	1.0	'ballet'@en	'language of work or name'@en	'natural language'@en
+Q15079786	P407	Q34770	1.0	'ballet'@en	'language of work or name'@en	'language'@en
+Q1509934	P407	Q1288568	1.0	'children\'s game'@en	'language of work or name'@en	'modern language'@en
+Q1509934	P407	Q33742	1.0	'children\'s game'@en	'language of work or name'@en	'natural language'@en
+Q1509934	P407	Q34770	1.0	'children\'s game'@en	'language of work or name'@en	'language'@en
+Q1672918	P407	Q1288568	1.0	'Irish rebel song'@en	'language of work or name'@en	'modern language'@en
+Q1672918	P407	Q34770	1.0	'Irish rebel song'@en	'language of work or name'@en	'language'@en
+Q1672918	P407	Q83365347	1.0	'Irish rebel song'@en	'language of work or name'@en	'definitely endangered language'@en
+Q16909656	P407	Q1288568	1.0	'Monty Python sketch'@en	'language of work or name'@en	'modern language'@en
+Q16909656	P407	Q33742	1.0	'Monty Python sketch'@en	'language of work or name'@en	'natural language'@en
+Q16909656	P407	Q34770	1.0	'Monty Python sketch'@en	'language of work or name'@en	'language'@en
+Q17489659	P407	Q17376908	1.0	'group of works'@en	'language of work or name'@en	'languoid'@en
+Q178985	P407	Q1288568	1.0	'ode'@en	'language of work or name'@en	'modern language'@en
+Q178985	P407	Q33742	1.0	'ode'@en	'language of work or name'@en	'natural language'@en
+Q178985	P407	Q34770	1.0	'ode'@en	'language of work or name'@en	'language'@en
+Q182659	P407	Q2315359	1.0	'ballad'@en	'language of work or name'@en	'historical language'@en
+Q193605	P407	Q33742	1.0	'lullaby'@en	'language of work or name'@en	'natural language'@en
+Q20202269	P407	Q17376908	1.0	'musical term'@en	'language of work or name'@en	'languoid'@en
+Q2031291	P407	Q1288568	1.0	'release'@en	'language of work or name'@en	'modern language'@en
+Q2031291	P407	Q33742	1.0	'release'@en	'language of work or name'@en	'natural language'@en
+Q2031291	P407	Q34770	1.0	'release'@en	'language of work or name'@en	'language'@en
+Q207628	P407	Q1288568	1.0	'musical composition'@en	'language of work or name'@en	'modern language'@en
+Q207628	P407	Q33742	1.0	'musical composition'@en	'language of work or name'@en	'natural language'@en
+Q207628	P407	Q34770	1.0	'musical composition'@en	'language of work or name'@en	'language'@en
+Q212024	P407	Q1288568	1.0	'spirituals'@en	'language of work or name'@en	'modern language'@en
+Q212024	P407	Q33742	1.0	'spirituals'@en	'language of work or name'@en	'natural language'@en
+Q212024	P407	Q34770	1.0	'spirituals'@en	'language of work or name'@en	'language'@en
+Q2188189	P407	Q1288568	1.0	'musical work'@en	'language of work or name'@en	'modern language'@en
+Q2188189	P407	Q33742	1.0	'musical work'@en	'language of work or name'@en	'natural language'@en
+Q2188189	P407	Q34770	1.0	'musical work'@en	'language of work or name'@en	'language'@en
+Q221290	P407	Q1288568	1.0	'monodrama'@en	'language of work or name'@en	'modern language'@en
+Q221290	P407	Q34770	1.0	'monodrama'@en	'language of work or name'@en	'language'@en
+Q22808060	P407	Q1288568	1.0	'state song of a state of the United States'@en	'language of work or name'@en	'modern language'@en
+Q22808060	P407	Q33742	1.0	'state song of a state of the United States'@en	'language of work or name'@en	'natural language'@en
+Q22808060	P407	Q34770	1.0	'state song of a state of the United States'@en	'language of work or name'@en	'language'@en
+Q230052	P407	Q1288568	1.0	'tongue-twister'@en	'language of work or name'@en	'modern language'@en
+Q230052	P407	Q33742	1.0	'tongue-twister'@en	'language of work or name'@en	'natural language'@en
+Q230052	P407	Q34770	1.0	'tongue-twister'@en	'language of work or name'@en	'language'@en
+Q23691	P407	Q1149626	1.0	'national anthem'@en	'language of work or name'@en	'written language'@en
+Q23691	P407	Q11499915	1.0	'national anthem'@en	'language of work or name'@en	'written language'@en
+Q23691	P407	Q152559	1.0	'national anthem'@en	'language of work or name'@en	'macrolanguage'@en
+Q23691	P407	Q2315359	1.0	'national anthem'@en	'language of work or name'@en	'historical language'@en
+Q23691	P407	Q33289	1.0	'national anthem'@en	'language of work or name'@en	'creole language'@en
+Q23691	P407	Q3329375	1.0	'national anthem'@en	'language of work or name'@en	'language variety'@en
+Q23691	P407	Q33384	1.0	'national anthem'@en	'language of work or name'@en	'dialect'@en
+Q23691	P407	Q436240	1.0	'national anthem'@en	'language of work or name'@en	'ancient language'@en
+Q23691	P407	Q45762	1.0	'national anthem'@en	'language of work or name'@en	'dead language'@en
+Q23691	P407	Q661936	1.0	'national anthem'@en	'language of work or name'@en	'pro-drop language'@en
+Q23691	P407	Q83365366	1.0	'national anthem'@en	'language of work or name'@en	'severely endangered language'@en
+Q27713372	P407	Q34770	1.0	'fictional goat'@en	'language of work or name'@en	'language'@en
+Q2910675	P407	Q1288568	1.0	'unfinished creative work'@en	'language of work or name'@en	'modern language'@en
+Q2910675	P407	Q436240	1.0	'unfinished creative work'@en	'language of work or name'@en	'ancient language'@en
+Q2910675	P407	Q45762	1.0	'unfinished creative work'@en	'language of work or name'@en	'dead language'@en
+Q2910675	P407	Q839470	1.0	'unfinished creative work'@en	'language of work or name'@en	'sacred language'@en
+Q3331189	P407	Q1288568	1.0	'version, edition, or translation'@en	'language of work or name'@en	'modern language'@en
+Q3331189	P407	Q33742	1.0	'version, edition, or translation'@en	'language of work or name'@en	'natural language'@en
+Q3331189	P407	Q34770	1.0	'version, edition, or translation'@en	'language of work or name'@en	'language'@en
+Q34508	P407	Q1288568	1.0	'video recording'@en	'language of work or name'@en	'modern language'@en
+Q34508	P407	Q3329375	1.0	'video recording'@en	'language of work or name'@en	'language variety'@en
+Q34508	P407	Q34770	1.0	'video recording'@en	'language of work or name'@en	'language'@en
+Q40953	P407	Q1288568	1.0	'prayer'@en	'language of work or name'@en	'modern language'@en
+Q40953	P407	Q34770	1.0	'prayer'@en	'language of work or name'@en	'language'@en
+Q40953	P407	Q661936	1.0	'prayer'@en	'language of work or name'@en	'pro-drop language'@en
+Q47461344	P407	Q34770	1.0	'written work'@en	'language of work or name'@en	'language'@en
+Q47461344	P407	Q436240	1.0	'written work'@en	'language of work or name'@en	'ancient language'@en
+Q47461344	P407	Q45762	1.0	'written work'@en	'language of work or name'@en	'dead language'@en
+Q47461344	P407	Q839470	1.0	'written work'@en	'language of work or name'@en	'sacred language'@en
+Q503354	P407	Q1288568	1.0	'Christmas carol'@en	'language of work or name'@en	'modern language'@en
+Q503354	P407	Q33742	1.0	'Christmas carol'@en	'language of work or name'@en	'natural language'@en
+Q503354	P407	Q34770	1.0	'Christmas carol'@en	'language of work or name'@en	'language'@en
+Q5185279	P407	Q171263	1.0	'poem'@en	'language of work or name'@en	'agglutinative language'@en
+Q5185279	P407	Q1790577	1.0	'poem'@en	'language of work or name'@en	'planned language'@en
+Q5185279	P407	Q33215	1.0	'poem'@en	'language of work or name'@en	'constructed language'@en
+Q5185279	P407	Q470775	1.0	'poem'@en	'language of work or name'@en	'a posteriori language'@en
+Q5185279	P407	Q838296	1.0	'poem'@en	'language of work or name'@en	'international auxiliary language'@en
+Q541947	P407	Q1288568	1.0	'anthem'@en	'language of work or name'@en	'modern language'@en
+Q541947	P407	Q33742	1.0	'anthem'@en	'language of work or name'@en	'natural language'@en
+Q541947	P407	Q34770	1.0	'anthem'@en	'language of work or name'@en	'language'@en
+Q55850593	P407	Q1288568	1.0	'music track with vocals'@en	'language of work or name'@en	'modern language'@en
+Q55850593	P407	Q33742	1.0	'music track with vocals'@en	'language of work or name'@en	'natural language'@en
+Q55850593	P407	Q34770	1.0	'music track with vocals'@en	'language of work or name'@en	'language'@en
+Q58483083	P407	Q436240	1.0	'dramatico-musical work'@en	'language of work or name'@en	'ancient language'@en
+Q58483083	P407	Q45762	1.0	'dramatico-musical work'@en	'language of work or name'@en	'dead language'@en
+Q58483083	P407	Q839470	1.0	'dramatico-musical work'@en	'language of work or name'@en	'sacred language'@en
+Q717040	P407	Q33742	1.0	'Christmas tradition'@en	'language of work or name'@en	'natural language'@en
+Q7257727	P407	Q1288568	1.0	'public domain music'@en	'language of work or name'@en	'modern language'@en
+Q7257727	P407	Q33742	1.0	'public domain music'@en	'language of work or name'@en	'natural language'@en
+Q7257727	P407	Q34770	1.0	'public domain music'@en	'language of work or name'@en	'language'@en
+Q7725310	P407	Q1288568	1.0	'series of creative works'@en	'language of work or name'@en	'modern language'@en
+Q7725310	P407	Q17376908	1.0	'series of creative works'@en	'language of work or name'@en	'languoid'@en
+Q7725310	P407	Q34770	1.0	'series of creative works'@en	'language of work or name'@en	'language'@en
+Q7725310	P407	Q661936	1.0	'series of creative works'@en	'language of work or name'@en	'pro-drop language'@en
+Q7725634	P407	Q661936	1.0	'literary work'@en	'language of work or name'@en	'pro-drop language'@en
+Q82821	P407	Q1288568	1.0	'tradition'@en	'language of work or name'@en	'modern language'@en
+Q82821	P407	Q34770	1.0	'tradition'@en	'language of work or name'@en	'language'@en
+Q836950	P407	Q661936	1.0	'derivative work'@en	'language of work or name'@en	'pro-drop language'@en
+Q852161	P407	Q1288568	1.0	'singing game'@en	'language of work or name'@en	'modern language'@en
+Q852161	P407	Q33742	1.0	'singing game'@en	'language of work or name'@en	'natural language'@en
+Q852161	P407	Q34770	1.0	'singing game'@en	'language of work or name'@en	'language'@en
+Q943929	P407	Q1288568	1.0	'traditional folk song'@en	'language of work or name'@en	'modern language'@en
+Q943929	P407	Q34770	1.0	'traditional folk song'@en	'language of work or name'@en	'language'@en
+Q105543609	P361	Q482994	3524.0	'musical work/composition'@en	'part of'@en	'album'@en
+Q105543609	P361	Q100775361	142.0	'musical work/composition'@en	'part of'@en	'Wikimedia list of musical works by composer'@en
+Q105543609	P361	Q105543609	70.0	'musical work/composition'@en	'part of'@en	'musical work/composition'@en
+Q105543609	P361	Q58483083	63.0	'musical work/composition'@en	'part of'@en	'dramatico-musical work'@en
+Q105543609	P361	Q11424	60.0	'musical work/composition'@en	'part of'@en	'film'@en
+Q105543609	P361	Q17489659	44.0	'musical work/composition'@en	'part of'@en	'group of works'@en
+Q134556	P361	Q482994	27.0	'single'@en	'part of'@en	'album'@en
+Q105543609	P361	Q169930	25.0	'musical work/composition'@en	'part of'@en	'extended play'@en
+Q105543609	P361	Q4167410	14.0	'musical work/composition'@en	'part of'@en	'Wikimedia disambiguation page'@en
+Q105543609	P361	Q5	11.0	'musical work/composition'@en	'part of'@en	'human'@en
+Q105543609	P361	Q20202269	10.0	'musical work/composition'@en	'part of'@en	'musical term'@en
+Q105543609	P361	Q2712714	10.0	'musical work/composition'@en	'part of'@en	'triple album'@en
+Q105543609	P361	Q34684312	10.0	'musical work/composition'@en	'part of'@en	'standard repertoire'@en
+Q105543609	P361	Q60733114	10.0	'musical work/composition'@en	'part of'@en	'music tradition'@en
+Q7302866	P361	Q482994	10.0	'audio track'@en	'part of'@en	'album'@en
+Q105543609	P361	Q229390	8.0	'musical work/composition'@en	'part of'@en	'3D film'@en
+Q105543609	P361	Q245596	7.0	'musical work/composition'@en	'part of'@en	'cycle'@en
+Q105543609	P361	Q29168811	7.0	'musical work/composition'@en	'part of'@en	'animated feature film'@en
+Q105543609	P361	Q134556	6.0	'musical work/composition'@en	'part of'@en	'single'@en
+Q105543609	P361	Q215380	6.0	'musical work/composition'@en	'part of'@en	'musical group'@en
+Q105543609	P361	Q394970	5.0	'musical work/composition'@en	'part of'@en	'box set'@en
+Q105543609	P361	Q83790536	5.0	'musical work/composition'@en	'part of'@en	'Wikimedia list of songs by performer'@en
+Q105543609	P361	Q1650727	4.0	'musical work/composition'@en	'part of'@en	'song book'@en
+Q105543609	P361	Q202866	4.0	'musical work/composition'@en	'part of'@en	'animated film'@en
+Q2031291	P361	Q482994	4.0	'release'@en	'part of'@en	'album'@en
+Q105543609	P361	Q2188189	3.0	'musical work/composition'@en	'part of'@en	'musical work'@en
+Q105543609	P361	Q59557805	3.0	'musical work/composition'@en	'part of'@en	'unreleased album'@en
+Q105543609	P361	Q7725310	3.0	'musical work/composition'@en	'part of'@en	'series of creative works'@en
+Q105543609	P361	Q7725634	3.0	'musical work/composition'@en	'part of'@en	'literary work'@en
+Q2031291	P361	Q229390	3.0	'release'@en	'part of'@en	'3D film'@en
+Q2031291	P361	Q29168811	3.0	'release'@en	'part of'@en	'animated feature film'@en
+Q7366	P361	Q482994	3.0	'song'@en	'part of'@en	'album'@en
+Q105543609	P361	Q111241092	2.0	'musical work/composition'@en	'part of'@en	'film reboot'@en
+Q105543609	P361	Q1173065	2.0	'musical work/composition'@en	'part of'@en	'album'@en
+Q105543609	P361	Q17099416	2.0	'musical work/composition'@en	'part of'@en	'Wikimedia list of songs'@en
+Q105543609	P361	Q182832	2.0	'musical work/composition'@en	'part of'@en	'concert'@en
+Q105543609	P361	Q1997853	2.0	'musical work/composition'@en	'part of'@en	'hit'@en
+Q105543609	P361	Q204854	2.0	'musical work/composition'@en	'part of'@en	'première'@en
+Q105543609	P361	Q219557	2.0	'musical work/composition'@en	'part of'@en	'cult film'@en
+Q105543609	P361	Q22814978	2.0	'musical work/composition'@en	'part of'@en	'musical trilogy'@en
+Q105543609	P361	Q421744	2.0	'musical work/composition'@en	'part of'@en	'act'@en
+Q105543609	P361	Q5398426	2.0	'musical work/composition'@en	'part of'@en	'television series'@en
+Q105543609	P361	Q59248059	2.0	'musical work/composition'@en	'part of'@en	'singles discography'@en
+Q105543609	P361	Q98645843	2.0	'musical work/composition'@en	'part of'@en	'Wikimedia music-related list'@en
+Q64027488	P361	Q482994	2.0	'arrangement on a work of the public domain'@en	'part of'@en	'album'@en
+Q836950	P361	Q482994	2.0	'derivative work'@en	'part of'@en	'album'@en
+Q105543609	P361	Q103817	1.0	'musical work/composition'@en	'part of'@en	'indigenous people'@en
+Q105543609	P361	Q104635718	1.0	'musical work/composition'@en	'part of'@en	'Wikimedia artist discography'@en
+Q105543609	P361	Q110288240	1.0	'musical work/composition'@en	'part of'@en	'Eurovision Song Contest edition'@en
+Q105543609	P361	Q110372546	1.0	'musical work/composition'@en	'part of'@en	'Junior Eurovision Song Contest edition'@en
+Q105543609	P361	Q1136999	1.0	'musical work/composition'@en	'part of'@en	'Son et lumière'@en
+Q105543609	P361	Q11499334	1.0	'musical work/composition'@en	'part of'@en	'religious doctrine'@en
+Q105543609	P361	Q119272	1.0	'musical work/composition'@en	'part of'@en	'ballad opera'@en
+Q105543609	P361	Q12136	1.0	'musical work/composition'@en	'part of'@en	'disease'@en
+Q105543609	P361	Q131765	1.0	'musical work/composition'@en	'part of'@en	'multimedia'@en
+Q105543609	P361	Q13406463	1.0	'musical work/composition'@en	'part of'@en	'Wikimedia list article'@en
+Q105543609	P361	Q1406161	1.0	'musical work/composition'@en	'part of'@en	'artistic theme'@en
+Q105543609	P361	Q15079786	1.0	'musical work/composition'@en	'part of'@en	'ballet'@en
+Q105543609	P361	Q1516252	1.0	'musical work/composition'@en	'part of'@en	'hymnal'@en
+Q105543609	P361	Q16334295	1.0	'musical work/composition'@en	'part of'@en	'group of humans'@en
+Q105543609	P361	Q1681122	1.0	'musical work/composition'@en	'part of'@en	'break'@en
+Q105543609	P361	Q17517379	1.0	'musical work/composition'@en	'part of'@en	'animated short film'@en
+Q105543609	P361	Q17518461	1.0	'musical work/composition'@en	'part of'@en	'posthumous work'@en
+Q105543609	P361	Q2031291	1.0	'musical work/composition'@en	'part of'@en	'release'@en
+Q105543609	P361	Q21978035	1.0	'musical work/composition'@en	'part of'@en	
+Q105543609	P361	Q22808320	1.0	'musical work/composition'@en	'part of'@en	'Wikimedia human name disambiguation page'@en
+Q105543609	P361	Q23038290	1.0	'musical work/composition'@en	'part of'@en	'fossil taxon'@en
+Q105543609	P361	Q24869	1.0	'musical work/composition'@en	'part of'@en	'feature film'@en
+Q105543609	P361	Q2491498	1.0	'musical work/composition'@en	'part of'@en	'pop group'@en
+Q105543609	P361	Q25110269	1.0	'musical work/composition'@en	'part of'@en	'live-action/animated film'@en
+Q105543609	P361	Q309170	1.0	'musical work/composition'@en	'part of'@en	'Denmark in the Eurovision Song Contest'@en
+Q105543609	P361	Q31629	1.0	'musical work/composition'@en	'part of'@en	'type of sport'@en
+Q105543609	P361	Q336144	1.0	'musical work/composition'@en	'part of'@en	'anthology film'@en
+Q105543609	P361	Q3774758	1.0	'musical work/composition'@en	'part of'@en	'sectarian violence'@en
+Q105543609	P361	Q41710	1.0	'musical work/composition'@en	'part of'@en	'ethnic group'@en
+Q105543609	P361	Q42109240	1.0	'musical work/composition'@en	'part of'@en	'plot kernel'@en
+Q105543609	P361	Q430525	1.0	'musical work/composition'@en	'part of'@en	'concert film'@en
+Q105543609	P361	Q4818719	1.0	'musical work/composition'@en	'part of'@en	'attributes of God in Christianity'@en
+Q105543609	P361	Q483453	1.0	'musical work/composition'@en	'part of'@en	'fountain'@en
+Q105543609	P361	Q484652	1.0	'musical work/composition'@en	'part of'@en	'international organization'@en
+Q105543609	P361	Q5051330	1.0	'musical work/composition'@en	'part of'@en	'catalogue of classical compositions'@en
+Q105543609	P361	Q59163902	1.0	'musical work/composition'@en	'part of'@en	'musical production'@en
+Q105543609	P361	Q604109	1.0	'musical work/composition'@en	'part of'@en	'Dansk Melodi Grand Prix'@en
+Q105543609	P361	Q66049140	1.0	'musical work/composition'@en	'part of'@en	'soundtrack extended play'@en
+Q105543609	P361	Q66364343	1.0	'musical work/composition'@en	'part of'@en	'Catholic hymnal'@en
+Q105543609	P361	Q708676	1.0	'musical work/composition'@en	'part of'@en	'charitable organization'@en
+Q105543609	P361	Q7190204	1.0	'musical work/composition'@en	'part of'@en	'piano repertoire'@en
+Q105543609	P361	Q766875	1.0	'musical work/composition'@en	'part of'@en	'ethnic conflict'@en
+Q105543609	P361	Q7832362	1.0	'musical work/composition'@en	'part of'@en	'traditional story'@en
+Q105543609	P361	Q785522	1.0	'musical work/composition'@en	'part of'@en	'Italian opera'@en
+Q105543609	P361	Q7889	1.0	'musical work/composition'@en	'part of'@en	'video game'@en
+Q105543609	P361	Q79913	1.0	'musical work/composition'@en	'part of'@en	'non-governmental organization'@en
+Q105543609	P361	Q82821	1.0	'musical work/composition'@en	'part of'@en	'tradition'@en
+Q105543609	P361	Q83828	1.0	'musical work/composition'@en	'part of'@en	'ethnic group in Indonesia'@en
+Q105543609	P361	Q856663	1.0	'musical work/composition'@en	'part of'@en	'Bible story'@en
+Q105543609	P361	Q929848	1.0	'musical work/composition'@en	'part of'@en	'movement'@en
+Q107357104	P361	Q482994	1.0	'type of dance'@en	'part of'@en	'album'@en
+Q1193470	P361	Q24869	1.0	'theme music'@en	'part of'@en	'feature film'@en
+Q1193470	P361	Q482994	1.0	'theme music'@en	'part of'@en	'album'@en
+Q1385610	P361	Q58483083	1.0	'excerpt'@en	'part of'@en	'dramatico-musical work'@en
+Q169930	P361	Q482994	1.0	'extended play'@en	'part of'@en	'album'@en
+Q17489659	P361	Q58483083	1.0	'group of works'@en	'part of'@en	'dramatico-musical work'@en
+Q182659	P361	Q16334295	1.0	'ballad'@en	'part of'@en	'group of humans'@en
+Q182659	P361	Q42109240	1.0	'ballad'@en	'part of'@en	'plot kernel'@en
+Q182659	P361	Q482994	1.0	'ballad'@en	'part of'@en	'album'@en
+Q182659	P361	Q7832362	1.0	'ballad'@en	'part of'@en	'traditional story'@en
+Q20202269	P361	Q100775361	1.0	'musical term'@en	'part of'@en	'Wikimedia list of musical works by composer'@en
+Q2031291	P361	Q11424	1.0	'release'@en	'part of'@en	'film'@en
+Q2031291	P361	Q202866	1.0	'release'@en	'part of'@en	'animated film'@en
+Q23691	P361	Q98645843	1.0	'national anthem'@en	'part of'@en	'Wikimedia music-related list'@en
+Q245596	P361	Q5051330	1.0	'cycle'@en	'part of'@en	'catalogue of classical compositions'@en
+Q2927074	P361	Q482994	1.0	'Internet meme'@en	'part of'@en	'album'@en
+Q3331189	P361	Q482994	1.0	'version, edition, or translation'@en	'part of'@en	'album'@en
+Q34508	P361	Q11424	1.0	'video recording'@en	'part of'@en	'film'@en
+Q3815189	P361	Q482994	1.0	'musical hoax'@en	'part of'@en	'album'@en
+Q484692	P361	Q1406161	1.0	'hymn'@en	'part of'@en	'artistic theme'@en
+Q484692	P361	Q856663	1.0	'hymn'@en	'part of'@en	'Bible story'@en
+Q5	P361	Q16334295	1.0	'human'@en	'part of'@en	'group of humans'@en
+Q5185279	P361	Q482994	1.0	'poem'@en	'part of'@en	'album'@en
+Q7239036	P361	Q1406161	1.0	'prayer in the New Testament'@en	'part of'@en	'artistic theme'@en
+Q7239036	P361	Q856663	1.0	'prayer in the New Testament'@en	'part of'@en	'Bible story'@en
+Q7366	P361	Q104635718	1.0	'song'@en	'part of'@en	'Wikimedia artist discography'@en
+Q7725634	P361	Q104635718	1.0	'literary work'@en	'part of'@en	'Wikimedia artist discography'@en
+Q7725634	P361	Q482994	1.0	'literary work'@en	'part of'@en	'album'@en
+Q811979	P361	Q13406463	1.0	'architectural structure'@en	'part of'@en	'Wikimedia list article'@en
+Q852027	P361	Q17489659	1.0	'impromptu'@en	'part of'@en	'group of works'@en
+Q88392887	P361	Q105543609	1.0	'part of a work'@en	'part of'@en	'musical work/composition'@en
+Q929848	P361	Q105543609	1.0	'movement'@en	'part of'@en	'musical work/composition'@en
+Q943929	P361	Q103817	1.0	'traditional folk song'@en	'part of'@en	'indigenous people'@en
+Q943929	P361	Q41710	1.0	'traditional folk song'@en	'part of'@en	'ethnic group'@en
+Q943929	P361	Q83828	1.0	'traditional folk song'@en	'part of'@en	'ethnic group in Indonesia'@en
+Q105543609	P2908	external-id	1620.0	'musical work/composition'@en	'SecondHandSongs work ID'@en	
+Q836950	P2908	external-id	5.0	'derivative work'@en	'SecondHandSongs work ID'@en	
+Q64027488	P2908	external-id	4.0	'arrangement on a work of the public domain'@en	'SecondHandSongs work ID'@en	
+Q91192165	P2908	external-id	4.0	'lyrical adaptation'@en	'SecondHandSongs work ID'@en	
+Q7366	P2908	external-id	3.0	'song'@en	'SecondHandSongs work ID'@en	
+Q134556	P2908	external-id	2.0	'single'@en	'SecondHandSongs work ID'@en	
+Q18460285	P2908	external-id	2.0	'musical setting'@en	'SecondHandSongs work ID'@en	
+Q1193470	P2908	external-id	1.0	'theme music'@en	'SecondHandSongs work ID'@en	
+Q182659	P2908	external-id	1.0	'ballad'@en	'SecondHandSongs work ID'@en	
+Q484692	P2908	external-id	1.0	'hymn'@en	'SecondHandSongs work ID'@en	
+Q503354	P2908	external-id	1.0	'Christmas carol'@en	'SecondHandSongs work ID'@en	
+Q55850593	P2908	external-id	1.0	'music track with vocals'@en	'SecondHandSongs work ID'@en	
+Q856713	P2908	external-id	1.0	'Christian hymn'@en	'SecondHandSongs work ID'@en	
+Q105543609	P264	Q18127	2993.0	'musical work/composition'@en	'record label'@en	'record label'@en
+Q105543609	P264	Q2442401	432.0	'musical work/composition'@en	'record label'@en	'record company'@en
+Q105543609	P264	Q167270	280.0	'musical work/composition'@en	'record label'@en	'trademark'@en
+Q105543609	P264	Q24229398	233.0	'musical work/composition'@en	'record label'@en	'agent'@en
+Q105543609	P264	Q4830453	224.0	'musical work/composition'@en	'record label'@en	'business'@en
+Q105543609	P264	Q219577	118.0	'musical work/composition'@en	'record label'@en	'holding company'@en
+Q105543609	P264	Q1589009	116.0	'musical work/composition'@en	'record label'@en	'privately held company'@en
+Q105543609	P264	Q6881511	67.0	'musical work/composition'@en	'record label'@en	'enterprise'@en
+Q105543609	P264	Q21484471	64.0	'musical work/composition'@en	'record label'@en	'Wikipedia article covering multiple topics'@en
+Q105543609	P264	Q891723	42.0	'musical work/composition'@en	'record label'@en	'public company'@en
+Q105543609	P264	Q1660312	41.0	'musical work/composition'@en	'record label'@en	'major label'@en
+Q105543609	P264	Q2608849	41.0	'musical work/composition'@en	'record label'@en	'imprint'@en
+Q134556	P264	Q18127	37.0	'single'@en	'record label'@en	'record label'@en
+Q105543609	P264	Q1542343	31.0	'musical work/composition'@en	'record label'@en	'independent record label'@en
+Q105543609	P264	Q1762059	22.0	'musical work/composition'@en	'record label'@en	'film production company'@en
+Q105543609	P264	Q658255	18.0	'musical work/composition'@en	'record label'@en	'subsidiary'@en
+Q105543609	P264	Q783794	15.0	'musical work/composition'@en	'record label'@en	'company'@en
+Q105543609	P264	Q20739124	14.0	'musical work/composition'@en	'record label'@en	'entertainment company'@en
+Q105543609	P264	Q778575	12.0	'musical work/composition'@en	'record label'@en	'conglomerate'@en
+Q105543609	P264	Q17558136	11.0	'musical work/composition'@en	'record label'@en	'YouTube channel'@en
+Q7302866	P264	Q18127	11.0	'audio track'@en	'record label'@en	'record label'@en
+Q105543609	P264	Q1331793	10.0	'musical work/composition'@en	'record label'@en	'media company'@en
+Q105543609	P264	Q746369	10.0	'musical work/composition'@en	'record label'@en	'recording studio'@en
+Q105543609	P264	Q1917775	7.0	'musical work/composition'@en	'record label'@en	'music publishing company'@en
+Q105543609	P264	Q32178211	7.0	'musical work/composition'@en	'record label'@en	'music organization'@en
+Q105543609	P264	Q1107679	6.0	'musical work/composition'@en	'record label'@en	'animation studio'@en
+Q105543609	P264	Q1916382	5.0	'musical work/composition'@en	'record label'@en	'media conglomerate'@en
+Q105543609	P264	Q5	5.0	'musical work/composition'@en	'record label'@en	'human'@en
+Q134556	P264	Q2442401	5.0	'single'@en	'record label'@en	'record company'@en
+Q105543609	P264	Q48748864	4.0	'musical work/composition'@en	'record label'@en	'Corporation'@en
+Q105543609	P264	Q5354754	4.0	'musical work/composition'@en	'record label'@en	'talent agency'@en
+Q134556	P264	Q167270	4.0	'single'@en	'record label'@en	'trademark'@en
+Q2031291	P264	Q18127	4.0	'release'@en	'record label'@en	'record label'@en
+Q105543609	P264	Q1061197	3.0	'musical work/composition'@en	'record label'@en	'radio network'@en
+Q105543609	P264	Q1254874	3.0	'musical work/composition'@en	'record label'@en	'television network'@en
+Q105543609	P264	Q1616075	3.0	'musical work/composition'@en	'record label'@en	'television station'@en
+Q134556	P264	Q24229398	3.0	'single'@en	'record label'@en	'agent'@en
+Q482994	P264	Q18127	3.0	'album'@en	'record label'@en	'record label'@en
+Q7302866	P264	Q167270	3.0	'audio track'@en	'record label'@en	'trademark'@en
+Q7366	P264	Q18127	3.0	'song'@en	'record label'@en	'record label'@en
+Q105543609	P264	Q11294827	2.0	'musical work/composition'@en	'record label'@en	'camera manufacturer'@en
+Q105543609	P264	Q1489259	2.0	'musical work/composition'@en	'record label'@en	'superpower'@en
+Q105543609	P264	Q1520223	2.0	'musical work/composition'@en	'record label'@en	'constitutional republic'@en
+Q105543609	P264	Q169534	2.0	'musical work/composition'@en	'record label'@en	'division'@en
+Q105543609	P264	Q3624078	2.0	'musical work/composition'@en	'record label'@en	'sovereign state'@en
+Q105543609	P264	Q431289	2.0	'musical work/composition'@en	'record label'@en	'brand'@en
+Q105543609	P264	Q512187	2.0	'musical work/composition'@en	'record label'@en	'federal republic'@en
+Q105543609	P264	Q5255892	2.0	'musical work/composition'@en	'record label'@en	'democratic republic'@en
+Q105543609	P264	Q6256	2.0	'musical work/composition'@en	'record label'@en	'country'@en
+Q105543609	P264	Q99541706	2.0	'musical work/composition'@en	'record label'@en	'historical unrecognized state'@en
+Q182659	P264	Q18127	2.0	'ballad'@en	'record label'@en	'record label'@en
+Q7302866	P264	Q20739124	2.0	'audio track'@en	'record label'@en	'entertainment company'@en
+Q105543609	P264	Q1047437	1.0	'musical work/composition'@en	'record label'@en	'copyright collective'@en
+Q105543609	P264	Q112099	1.0	'musical work/composition'@en	'record label'@en	'island nation'@en
+Q105543609	P264	Q11396960	1.0	'musical work/composition'@en	'record label'@en	'production company'@en
+Q105543609	P264	Q1250464	1.0	'musical work/composition'@en	'record label'@en	'realm'@en
+Q105543609	P264	Q12540664	1.0	'musical work/composition'@en	'record label'@en	'distributor'@en
+Q105543609	P264	Q1255441	1.0	'musical work/composition'@en	'record label'@en	'Telegraphic address'@en
+Q105543609	P264	Q134556	1.0	'musical work/composition'@en	'record label'@en	'single'@en
+Q105543609	P264	Q188451	1.0	'musical work/composition'@en	'record label'@en	'music genre'@en
+Q105543609	P264	Q20181813	1.0	'musical work/composition'@en	'record label'@en	'colonial power'@en
+Q105543609	P264	Q202686	1.0	'musical work/composition'@en	'record label'@en	'Commonwealth realm'@en
+Q105543609	P264	Q215380	1.0	'musical work/composition'@en	'record label'@en	'musical group'@en
+Q105543609	P264	Q334453	1.0	'musical work/composition'@en	'record label'@en	'division'@en
+Q105543609	P264	Q35657	1.0	'musical work/composition'@en	'record label'@en	'U.S. state'@en
+Q105543609	P264	Q43229	1.0	'musical work/composition'@en	'record label'@en	'organization'@en
+Q105543609	P264	Q482994	1.0	'musical work/composition'@en	'record label'@en	'album'@en
+Q105543609	P264	Q708676	1.0	'musical work/composition'@en	'record label'@en	'charitable organization'@en
+Q105543609	P264	Q79913	1.0	'musical work/composition'@en	'record label'@en	'non-governmental organization'@en
+Q105543609	P264	Q84310035	1.0	'musical work/composition'@en	'record label'@en	'record production team'@en
+Q105543609	P264	Q9212979	1.0	'musical work/composition'@en	'record label'@en	'musical duo'@en
+Q107357104	P264	Q18127	1.0	'type of dance'@en	'record label'@en	'record label'@en
+Q107357104	P264	Q2442401	1.0	'type of dance'@en	'record label'@en	'record company'@en
+Q107357104	P264	Q2608849	1.0	'type of dance'@en	'record label'@en	'imprint'@en
+Q1193470	P264	Q18127	1.0	'theme music'@en	'record label'@en	'record label'@en
+Q1193470	P264	Q2442401	1.0	'theme music'@en	'record label'@en	'record company'@en
+Q134556	P264	Q1762059	1.0	'single'@en	'record label'@en	'film production company'@en
+Q134556	P264	Q21484471	1.0	'single'@en	'record label'@en	'Wikipedia article covering multiple topics'@en
+Q134556	P264	Q4830453	1.0	'single'@en	'record label'@en	'business'@en
+Q134556	P264	Q658255	1.0	'single'@en	'record label'@en	'subsidiary'@en
+Q134556	P264	Q6881511	1.0	'single'@en	'record label'@en	'enterprise'@en
+Q134556	P264	Q891723	1.0	'single'@en	'record label'@en	'public company'@en
+Q169930	P264	Q18127	1.0	'extended play'@en	'record label'@en	'record label'@en
+Q2188189	P264	Q18127	1.0	'musical work'@en	'record label'@en	'record label'@en
+Q2927074	P264	Q18127	1.0	'Internet meme'@en	'record label'@en	'record label'@en
+Q5185279	P264	Q167270	1.0	'poem'@en	'record label'@en	'trademark'@en
+Q5185279	P264	Q18127	1.0	'poem'@en	'record label'@en	'record label'@en
+Q5185279	P264	Q24229398	1.0	'poem'@en	'record label'@en	'agent'@en
+Q7302866	P264	Q1589009	1.0	'audio track'@en	'record label'@en	'privately held company'@en
+Q7302866	P264	Q1917775	1.0	'audio track'@en	'record label'@en	'music publishing company'@en
+Q7302866	P264	Q219577	1.0	'audio track'@en	'record label'@en	'holding company'@en
+Q7302866	P264	Q24229398	1.0	'audio track'@en	'record label'@en	'agent'@en
+Q7302866	P264	Q2442401	1.0	'audio track'@en	'record label'@en	'record company'@en
+Q7302866	P264	Q2608849	1.0	'audio track'@en	'record label'@en	'imprint'@en
+Q7302866	P264	Q32178211	1.0	'audio track'@en	'record label'@en	'music organization'@en
+Q7302866	P264	Q4830453	1.0	'audio track'@en	'record label'@en	'business'@en
+Q7725634	P264	Q18127	1.0	'literary work'@en	'record label'@en	'record label'@en
+Q105543609	P1827	external-id	2110.0	'musical work/composition'@en	'ISWC'@en	
+Q836950	P1827	external-id	9.0	'derivative work'@en	'ISWC'@en	
+Q134556	P1827	external-id	6.0	'single'@en	'ISWC'@en	
+Q7366	P1827	external-id	5.0	'song'@en	'ISWC'@en	
+Q64027488	P1827	external-id	4.0	'arrangement on a work of the public domain'@en	'ISWC'@en	
+Q91192165	P1827	external-id	4.0	'lyrical adaptation'@en	'ISWC'@en	
+Q11311300	P1827	external-id	1.0		'ISWC'@en	
+Q1193470	P1827	external-id	1.0	'theme music'@en	'ISWC'@en	
+Q18460285	P1827	external-id	1.0	'musical setting'@en	'ISWC'@en	
+Q2910675	P1827	external-id	1.0	'unfinished creative work'@en	'ISWC'@en	
+Q3331189	P1827	external-id	1.0	'version, edition, or translation'@en	'ISWC'@en	
+Q55850593	P1827	external-id	1.0	'music track with vocals'@en	'ISWC'@en	
+Q856713	P1827	external-id	1.0	'Christian hymn'@en	'ISWC'@en	
+Q105543609	P175	Q5	4518.0	'musical work/composition'@en	'performer'@en	'human'@en
+Q105543609	P175	Q215380	2097.0	'musical work/composition'@en	'performer'@en	'musical group'@en
+Q105543609	P175	Q5741069	999.0	'musical work/composition'@en	'performer'@en	'rock group'@en
+Q105543609	P175	Q9212979	219.0	'musical work/composition'@en	'performer'@en	'musical duo'@en
+Q105543609	P175	Q159979	114.0	'musical work/composition'@en	'performer'@en	'twin'@en
+Q105543609	P175	Q15851525	63.0	'musical work/composition'@en	'performer'@en	'vocal trio'@en
+Q105543609	P175	Q120544	56.0	'musical work/composition'@en	'performer'@en	'vocal group'@en
+Q105543609	P175	Q641066	48.0	'musical work/composition'@en	'performer'@en	'girl group'@en
+Q105543609	P175	Q16979650	40.0	'musical work/composition'@en	'performer'@en	'sibling group'@en
+Q105543609	P175	Q215048	40.0	'musical work/composition'@en	'performer'@en	'supergroup'@en
+Q105543609	P175	Q58603552	39.0	'musical work/composition'@en	'performer'@en	'sibling trio'@en
+Q105543609	P175	Q56816954	37.0	'musical work/composition'@en	'performer'@en	'heavy metal band'@en
+Q105543609	P175	Q2088357	31.0	'musical work/composition'@en	'performer'@en	'musical ensemble'@en
+Q105543609	P175	Q7229089	29.0	'musical work/composition'@en	'performer'@en	'pop duo'@en
+Q105543609	P175	Q1062083	27.0	'musical work/composition'@en	'performer'@en	'billionaire'@en
+Q105543609	P175	Q207378	24.0	'musical work/composition'@en	'performer'@en	'big band'@en
+Q105543609	P175	Q3046146	24.0	'musical work/composition'@en	'performer'@en	'married couple'@en
+Q105543609	P175	Q281643	23.0	'musical work/composition'@en	'performer'@en	'musical trio'@en
+Q105543609	P175	Q1164847	22.0	'musical work/composition'@en	'performer'@en	'dansband'@en
+Q105543609	P175	Q216337	21.0	'musical work/composition'@en	'performer'@en	'boy band'@en
+Q134556	P175	Q5	20.0	'single'@en	'performer'@en	'human'@en
+Q105543609	P175	Q14073567	18.0	'musical work/composition'@en	'performer'@en	'sibling duo'@en
+Q105543609	P175	Q6168416	15.0	'musical work/composition'@en	'performer'@en	'jazz trio'@en
+Q134556	P175	Q215380	15.0	'single'@en	'performer'@en	'musical group'@en
+Q105543609	P175	Q18510489	14.0	'musical work/composition'@en	'performer'@en	'comedy troupe'@en
+Q105543609	P175	Q5398426	13.0	'musical work/composition'@en	'performer'@en	'television series'@en
+Q105543609	P175	Q42998	11.0	'musical work/composition'@en	'performer'@en	'orchestra'@en
+Q105543609	P175	Q131186	10.0	'musical work/composition'@en	'performer'@en	'choir'@en
+Q105543609	P175	Q215627	10.0	'musical work/composition'@en	'performer'@en	'person'@en
+Q105543609	P175	Q11072804	9.0	'musical work/composition'@en	'performer'@en	'musical ensemble consisting solely of instruments'@en
+Q105543609	P175	Q2707384	8.0	'musical work/composition'@en	'performer'@en	'side project'@en
+Q134556	P175	Q5741069	8.0	'single'@en	'performer'@en	'rock group'@en
+Q836950	P175	Q5	8.0	'derivative work'@en	'performer'@en	'human'@en
+Q105543609	P175	Q1135557	7.0	'musical work/composition'@en	'performer'@en	'quartet'@en
+Q105543609	P175	Q101430687	6.0	'musical work/composition'@en	'performer'@en	'spouse duo'@en
+Q105543609	P175	Q10648343	6.0	'musical work/composition'@en	'performer'@en	'duo'@en
+Q105543609	P175	Q14514600	6.0	'musical work/composition'@en	'performer'@en	'group of fictional characters'@en
+Q105543609	P175	Q196600	6.0	'musical work/composition'@en	'performer'@en	'media franchise'@en
+Q105543609	P175	Q2095173	6.0	'musical work/composition'@en	'performer'@en	'jam band'@en
+Q105543609	P175	Q239582	6.0	'musical work/composition'@en	'performer'@en	'symphony orchestra'@en
+Q105543609	P175	Q2491498	6.0	'musical work/composition'@en	'performer'@en	'pop group'@en
+Q105543609	P175	Q6619719	6.0	'musical work/composition'@en	'performer'@en	'fictional music group'@en
+Q836950	P175	Q215380	6.0	'derivative work'@en	'performer'@en	'musical group'@en
+Q105543609	P175	Q15632617	5.0	'musical work/composition'@en	'performer'@en	'fictional human'@en
+Q105543609	P175	Q15711870	5.0	'musical work/composition'@en	'performer'@en	'animated character'@en
+Q105543609	P175	Q19314966	5.0	'musical work/composition'@en	'performer'@en	'theatre comedy group'@en
+Q105543609	P175	Q2301325	5.0	'musical work/composition'@en	'performer'@en	'identical twins'@en
+Q105543609	P175	Q106368691	4.0	'musical work/composition'@en	'performer'@en	'minstrel troupe'@en
+Q105543609	P175	Q1141470	4.0	'musical work/composition'@en	'performer'@en	'double act'@en
+Q105543609	P175	Q12308941	4.0	'musical work/composition'@en	'performer'@en	'male given name'@en
+Q105543609	P175	Q15773317	4.0	'musical work/composition'@en	'performer'@en	'television character'@en
+Q105543609	P175	Q19351429	4.0	'musical work/composition'@en	'performer'@en	'a cappella group'@en
+Q105543609	P175	Q3736859	4.0	'musical work/composition'@en	'performer'@en	'virtual band'@en
+Q105543609	P175	Q37896028	4.0	'musical work/composition'@en	'performer'@en	'Magical power of transition metals: past, present, and future (Nobel Lecture).'@en
+Q105543609	P175	Q389888	4.0	'musical work/composition'@en	'performer'@en	'quintet'@en
+Q105543609	P175	Q71129815	4.0	'musical work/composition'@en	'performer'@en	'electronica duo'@en
+Q7302866	P175	Q5	4.0	'audio track'@en	'performer'@en	'human'@en
+Q7302866	P175	Q5741069	4.0	'audio track'@en	'performer'@en	'rock group'@en
+Q7366	P175	Q215380	4.0	'song'@en	'performer'@en	'musical group'@en
+Q91192165	P175	Q5	4.0	'lyrical adaptation'@en	'performer'@en	'human'@en
+Q105543609	P175	Q11446438	3.0	'musical work/composition'@en	'performer'@en	'female idol group'@en
+Q105543609	P175	Q1538570	3.0	'musical work/composition'@en	'performer'@en	'gospel choir'@en
+Q105543609	P175	Q1569167	3.0	'musical work/composition'@en	'performer'@en	'video game character'@en
+Q105543609	P175	Q163740	3.0	'musical work/composition'@en	'performer'@en	'nonprofit organization'@en
+Q105543609	P175	Q207338	3.0	'musical work/composition'@en	'performer'@en	'string quartet'@en
+Q105543609	P175	Q64514668	3.0	'musical work/composition'@en	'performer'@en	'ska band'@en
+Q105543609	P175	Q64596595	3.0	'musical work/composition'@en	'performer'@en	'instrumental band'@en
+Q105543609	P175	Q7247847	3.0	'musical work/composition'@en	'performer'@en	'production team'@en
+Q105543609	P175	Q7623897	3.0	'musical work/composition'@en	'performer'@en	'all-female band'@en
+Q107357104	P175	Q5	3.0	'type of dance'@en	'performer'@en	'human'@en
+Q18460285	P175	Q5	3.0	'musical setting'@en	'performer'@en	'human'@en
+Q2031291	P175	Q5	3.0	'release'@en	'performer'@en	'human'@en
+Q482994	P175	Q5	3.0	'album'@en	'performer'@en	'human'@en
+Q64027488	P175	Q5	3.0	'arrangement on a work of the public domain'@en	'performer'@en	'human'@en
+Q7302866	P175	Q56816954	3.0	'audio track'@en	'performer'@en	'heavy metal band'@en
+Q7366	P175	Q5	3.0	'song'@en	'performer'@en	'human'@en
+Q105543609	P175	Q109429068	2.0	'musical work/composition'@en	'performer'@en	'guitar duo'@en
+Q105543609	P175	Q1114461	2.0	'musical work/composition'@en	'performer'@en	'comics character'@en
+Q105543609	P175	Q1398645	2.0	'musical work/composition'@en	'performer'@en	'vocal quartet'@en
+Q105543609	P175	Q15773347	2.0	'musical work/composition'@en	'performer'@en	'film character'@en
+Q105543609	P175	Q4167410	2.0	'musical work/composition'@en	'performer'@en	'Wikimedia disambiguation page'@en
+Q105543609	P175	Q482994	2.0	'musical work/composition'@en	'performer'@en	'album'@en
+Q105543609	P175	Q50386450	2.0	'musical work/composition'@en	'performer'@en	'operatic character'@en
+Q105543609	P175	Q5420001	2.0	'musical work/composition'@en	'performer'@en	'exempt charity'@en
+Q105543609	P175	Q6979593	2.0	'musical work/composition'@en	'performer'@en	'national association football team'@en
+Q105543609	P175	Q88569700	2.0	'musical work/composition'@en	'performer'@en	'anthropomorphic duck'@en
+Q107357104	P175	Q215380	2.0	'type of dance'@en	'performer'@en	'musical group'@en
+Q1123037	P175	Q5	2.0	'nursery rhyme'@en	'performer'@en	'human'@en
+Q1193470	P175	Q215380	2.0	'theme music'@en	'performer'@en	'musical group'@en
+Q134556	P175	Q15851525	2.0	'single'@en	'performer'@en	'vocal trio'@en
+Q182659	P175	Q215380	2.0	'ballad'@en	'performer'@en	'musical group'@en
+Q484692	P175	Q5	2.0	'hymn'@en	'performer'@en	'human'@en
+Q5185279	P175	Q5	2.0	'poem'@en	'performer'@en	'human'@en
+Q64027488	P175	Q215380	2.0	'arrangement on a work of the public domain'@en	'performer'@en	'musical group'@en
+Q7302866	P175	Q215380	2.0	'audio track'@en	'performer'@en	'musical group'@en
+Q7725634	P175	Q5	2.0	'literary work'@en	'performer'@en	'human'@en
+Q856713	P175	Q5	2.0	'Christian hymn'@en	'performer'@en	'human'@en
+Q91192165	P175	Q1062083	2.0	'lyrical adaptation'@en	'performer'@en	'billionaire'@en
+Q105543609	P175	Q105543609	1.0	'musical work/composition'@en	'performer'@en	'musical work/composition'@en
+Q105543609	P175	Q108424578	1.0	'musical work/composition'@en	'performer'@en	'Idol group'@en
+Q105543609	P175	Q11424	1.0	'musical work/composition'@en	'performer'@en	'film'@en
+Q105543609	P175	Q12302	1.0	'musical work/composition'@en	'performer'@en	'bagad'@en
+Q105543609	P175	Q1371037	1.0	'musical work/composition'@en	'performer'@en	'institute of technology'@en
+Q105543609	P175	Q1400264	1.0	'musical work/composition'@en	'performer'@en	'artist collective'@en
+Q105543609	P175	Q15267437	1.0	'musical work/composition'@en	'performer'@en	'cast'@en
+Q105543609	P175	Q15416	1.0	'musical work/composition'@en	'performer'@en	'television program'@en
+Q105543609	P175	Q18127	1.0	'musical work/composition'@en	'performer'@en	'record label'@en
+Q105543609	P175	Q18670161	1.0	'musical work/composition'@en	'performer'@en	'mascot'@en
+Q105543609	P175	Q188451	1.0	'musical work/composition'@en	'performer'@en	'music genre'@en
+Q105543609	P175	Q19201596	1.0	'musical work/composition'@en	'performer'@en	'symphonic radio orchestra'@en
+Q105543609	P175	Q19464263	1.0	'musical work/composition'@en	'performer'@en	'rap group'@en
+Q105543609	P175	Q20643955	1.0	'musical work/composition'@en	'performer'@en	'human biblical figure'@en
+Q105543609	P175	Q219160	1.0	'musical work/composition'@en	'performer'@en	'couple'@en
+Q105543609	P175	Q23002039	1.0	'musical work/composition'@en	'performer'@en	'public educational institution of the United States'@en
+Q105543609	P175	Q25391823	1.0	'musical work/composition'@en	'performer'@en	'punk band'@en
+Q105543609	P175	Q2590631	1.0	'musical work/composition'@en	'performer'@en	'municipality of Hungary'@en
+Q105543609	P175	Q2596245	1.0	'musical work/composition'@en	'performer'@en	'jazz band'@en
+Q105543609	P175	Q269770	1.0	'musical work/composition'@en	'performer'@en	'boarding school'@en
+Q105543609	P175	Q32178211	1.0	'musical work/composition'@en	'performer'@en	'music organization'@en
+Q105543609	P175	Q3276909	1.0	'musical work/composition'@en	'performer'@en	'mixed choir'@en
+Q105543609	P175	Q43229	1.0	'musical work/composition'@en	'performer'@en	'organization'@en
+Q105543609	P175	Q5009242	1.0	'musical work/composition'@en	'performer'@en	'cable channel'@en
+Q105543609	P175	Q506240	1.0	'musical work/composition'@en	'performer'@en	'television film'@en
+Q105543609	P175	Q54982412	1.0	'musical work/composition'@en	'performer'@en	'songwriting team'@en
+Q105543609	P175	Q55740544	1.0	'musical work/composition'@en	'performer'@en	'CGI character'@en
+Q105543609	P175	Q561068	1.0	'musical work/composition'@en	'performer'@en	'specialty channel'@en
+Q105543609	P175	Q61002	1.0	'musical work/composition'@en	'performer'@en	'pseudonym'@en
+Q105543609	P175	Q61653556	1.0	'musical work/composition'@en	'performer'@en	'gay men\'s chorus'@en
+Q105543609	P175	Q62078547	1.0	'musical work/composition'@en	'performer'@en	'public research university'@en
+Q105543609	P175	Q708676	1.0	'musical work/composition'@en	'performer'@en	'charitable organization'@en
+Q105543609	P175	Q721830	1.0	'musical work/composition'@en	'performer'@en	'pay television'@en
+Q105543609	P175	Q728646	1.0	'musical work/composition'@en	'performer'@en	'partnership'@en
+Q105543609	P175	Q84310035	1.0	'musical work/composition'@en	'performer'@en	'record production team'@en
+Q105543609	P175	Q850978	1.0	'musical work/composition'@en	'performer'@en	'seiyū vocalist group'@en
+Q105543609	P175	Q85942930	1.0	'musical work/composition'@en	'performer'@en	'artistic duo'@en
+Q105543609	P175	Q881942	1.0	'musical work/composition'@en	'performer'@en	'wind orchestra'@en
+Q105543609	P175	Q88568994	1.0	'musical work/composition'@en	'performer'@en	'fictional cricket'@en
+Q105543609	P175	Q88594927	1.0	'musical work/composition'@en	'performer'@en	'anthropomorphic puppet'@en
+Q105543609	P175	Q89349539	1.0	'musical work/composition'@en	'performer'@en	'anthropomorphic frog or toad'@en
+Q105543609	P175	Q89349965	1.0	'musical work/composition'@en	'performer'@en	'puppet character'@en
+Q105543609	P175	Q95074	1.0	'musical work/composition'@en	'performer'@en	'fictional character'@en
+Q10669480	P175	Q5	1.0	'sailor song'@en	'performer'@en	'human'@en
+Q10669480	P175	Q5398426	1.0	'sailor song'@en	'performer'@en	'television series'@en
+Q107357104	P175	Q2088357	1.0	'type of dance'@en	'performer'@en	'musical ensemble'@en
+Q107357104	P175	Q5398426	1.0	'type of dance'@en	'performer'@en	'television series'@en
+Q107357104	P175	Q5741069	1.0	'type of dance'@en	'performer'@en	'rock group'@en
+Q11311300	P175	Q215380	1.0		'performer'@en	'musical group'@en
+Q1193470	P175	Q42998	1.0	'theme music'@en	'performer'@en	'orchestra'@en
+Q134556	P175	Q1062083	1.0	'single'@en	'performer'@en	'billionaire'@en
+Q134556	P175	Q11072804	1.0	'single'@en	'performer'@en	'musical ensemble consisting solely of instruments'@en
+Q134556	P175	Q159979	1.0	'single'@en	'performer'@en	'twin'@en
+Q134556	P175	Q2088357	1.0	'single'@en	'performer'@en	'musical ensemble'@en
+Q16909656	P175	Q18510489	1.0	'Monty Python sketch'@en	'performer'@en	'comedy troupe'@en
+Q16909656	P175	Q19314966	1.0	'Monty Python sketch'@en	'performer'@en	'theatre comedy group'@en
+Q169930	P175	Q215380	1.0	'extended play'@en	'performer'@en	'musical group'@en
+Q17537576	P175	Q5	1.0	'creative work'@en	'performer'@en	'human'@en
+Q182659	P175	Q5741069	1.0	'ballad'@en	'performer'@en	'rock group'@en
+Q18460285	P175	Q215380	1.0	'musical setting'@en	'performer'@en	'musical group'@en
+Q207628	P175	Q5	1.0	'musical composition'@en	'performer'@en	'human'@en
+Q212024	P175	Q5	1.0	'spirituals'@en	'performer'@en	'human'@en
+Q2188189	P175	Q5	1.0	'musical work'@en	'performer'@en	'human'@en
+Q22808060	P175	Q5	1.0	'state song of a state of the United States'@en	'performer'@en	'human'@en
+Q22808060	P175	Q5398426	1.0	'state song of a state of the United States'@en	'performer'@en	'television series'@en
+Q23691	P175	Q215380	1.0	'national anthem'@en	'performer'@en	'musical group'@en
+Q23691	P175	Q5741069	1.0	'national anthem'@en	'performer'@en	'rock group'@en
+Q2927074	P175	Q5	1.0	'Internet meme'@en	'performer'@en	'human'@en
+Q3305213	P175	Q215380	1.0	'painting'@en	'performer'@en	'musical group'@en
+Q3331189	P175	Q5	1.0	'version, edition, or translation'@en	'performer'@en	'human'@en
+Q34508	P175	Q5	1.0	'video recording'@en	'performer'@en	'human'@en
+Q482994	P175	Q207338	1.0	'album'@en	'performer'@en	'string quartet'@en
+Q482994	P175	Q5741069	1.0	'album'@en	'performer'@en	'rock group'@en
+Q482994	P175	Q9212979	1.0	'album'@en	'performer'@en	'musical duo'@en
+Q484692	P175	Q14073567	1.0	'hymn'@en	'performer'@en	'sibling duo'@en
+Q484692	P175	Q20643955	1.0	'hymn'@en	'performer'@en	'human biblical figure'@en
+Q484692	P175	Q7229089	1.0	'hymn'@en	'performer'@en	'pop duo'@en
+Q484692	P175	Q9212979	1.0	'hymn'@en	'performer'@en	'musical duo'@en
+Q503354	P175	Q5	1.0	'Christmas carol'@en	'performer'@en	'human'@en
+Q541947	P175	Q5	1.0	'anthem'@en	'performer'@en	'human'@en
+Q55850593	P175	Q15851525	1.0	'music track with vocals'@en	'performer'@en	'vocal trio'@en
+Q55850593	P175	Q215380	1.0	'music track with vocals'@en	'performer'@en	'musical group'@en
+Q64027488	P175	Q159979	1.0	'arrangement on a work of the public domain'@en	'performer'@en	'twin'@en
+Q64027488	P175	Q5741069	1.0	'arrangement on a work of the public domain'@en	'performer'@en	'rock group'@en
+Q717040	P175	Q5	1.0	'Christmas tradition'@en	'performer'@en	'human'@en
+Q7239036	P175	Q20643955	1.0	'prayer in the New Testament'@en	'performer'@en	'human biblical figure'@en
+Q7239036	P175	Q5	1.0	'prayer in the New Testament'@en	'performer'@en	'human'@en
+Q7302866	P175	Q9212979	1.0	'audio track'@en	'performer'@en	'musical duo'@en
+Q7366	P175	Q1400264	1.0	'song'@en	'performer'@en	'artist collective'@en
+Q7366	P175	Q5741069	1.0	'song'@en	'performer'@en	'rock group'@en
+Q788460	P175	Q5	1.0	'Bagatelle'@en	'performer'@en	'human'@en
+Q836950	P175	Q15851525	1.0	'derivative work'@en	'performer'@en	'vocal trio'@en
+Q836950	P175	Q16979650	1.0	'derivative work'@en	'performer'@en	'sibling group'@en
+Q836950	P175	Q207378	1.0	'derivative work'@en	'performer'@en	'big band'@en
+Q836950	P175	Q3046146	1.0	'derivative work'@en	'performer'@en	'married couple'@en
+Q836950	P175	Q5741069	1.0	'derivative work'@en	'performer'@en	'rock group'@en
+Q836950	P175	Q641066	1.0	'derivative work'@en	'performer'@en	'girl group'@en
+Q836950	P175	Q64514668	1.0	'derivative work'@en	'performer'@en	'ska band'@en
+Q852161	P175	Q5	1.0	'singing game'@en	'performer'@en	'human'@en
+Q852161	P175	Q5398426	1.0	'singing game'@en	'performer'@en	'television series'@en
+Q91192165	P175	Q215380	1.0	'lyrical adaptation'@en	'performer'@en	'musical group'@en
+Q105543609	P162	Q5	1436.0	'musical work/composition'@en	'producer'@en	'human'@en
+Q105543609	P162	Q84310035	48.0	'musical work/composition'@en	'producer'@en	'record production team'@en
+Q105543609	P162	Q54982412	21.0	'musical work/composition'@en	'producer'@en	'songwriting team'@en
+Q134556	P162	Q5	20.0	'single'@en	'producer'@en	'human'@en
+Q105543609	P162	Q16017119	14.0	'musical work/composition'@en	'producer'@en	'collective pseudonym'@en
+Q105543609	P162	Q5741069	14.0	'musical work/composition'@en	'producer'@en	'rock group'@en
+Q105543609	P162	Q9212979	11.0	'musical work/composition'@en	'producer'@en	'musical duo'@en
+Q105543609	P162	Q10648343	10.0	'musical work/composition'@en	'producer'@en	'duo'@en
+Q105543609	P162	Q215380	9.0	'musical work/composition'@en	'producer'@en	'musical group'@en
+Q7302866	P162	Q5	7.0	'audio track'@en	'producer'@en	'human'@en
+Q105543609	P162	Q1062083	5.0	'musical work/composition'@en	'producer'@en	'billionaire'@en
+Q105543609	P162	Q16145172	3.0	'musical work/composition'@en	'producer'@en	'trio'@en
+Q105543609	P162	Q109289331	2.0	'musical work/composition'@en	'producer'@en	'male trio'@en
+Q105543609	P162	Q281643	2.0	'musical work/composition'@en	'producer'@en	'musical trio'@en
+Q7366	P162	Q5	2.0	'song'@en	'producer'@en	'human'@en
+Q105543609	P162	Q1762059	1.0	'musical work/composition'@en	'producer'@en	'film production company'@en
+Q105543609	P162	Q1916382	1.0	'musical work/composition'@en	'producer'@en	'media conglomerate'@en
+Q105543609	P162	Q21980538	1.0	'musical work/composition'@en	'producer'@en	'commercial organization'@en
+Q105543609	P162	Q327245	1.0	'musical work/composition'@en	'producer'@en	'team'@en
+Q105543609	P162	Q4830453	1.0	'musical work/composition'@en	'producer'@en	'business'@en
+Q105543609	P162	Q58603552	1.0	'musical work/composition'@en	'producer'@en	'sibling trio'@en
+Q105543609	P162	Q891723	1.0	'musical work/composition'@en	'producer'@en	'public company'@en
+Q107357104	P162	Q5	1.0	'type of dance'@en	'producer'@en	'human'@en
+Q134556	P162	Q1062083	1.0	'single'@en	'producer'@en	'billionaire'@en
+Q134556	P162	Q215380	1.0	'single'@en	'producer'@en	'musical group'@en
+Q182659	P162	Q5	1.0	'ballad'@en	'producer'@en	'human'@en
+Q7725634	P162	Q5	1.0	'literary work'@en	'producer'@en	'human'@en
+Q836950	P162	Q5	1.0	'derivative work'@en	'producer'@en	'human'@en
+Q105543609	P156	Q134556	813.0	'musical work/composition'@en	'followed by'@en	'single'@en
+Q105543609	P156	Q105543609	635.0	'musical work/composition'@en	'followed by'@en	'musical work/composition'@en
+Q105543609	P156	Q7366	131.0	'musical work/composition'@en	'followed by'@en	'song'@en
+Q105543609	P156	Q482994	44.0	'musical work/composition'@en	'followed by'@en	'album'@en
+Q134556	P156	Q105543609	12.0	'single'@en	'followed by'@en	'musical work/composition'@en
+Q134556	P156	Q134556	12.0	'single'@en	'followed by'@en	'single'@en
+Q105543609	P156	Q5	6.0	'musical work/composition'@en	'followed by'@en	'human'@en
+Q105543609	P156	Q169930	5.0	'musical work/composition'@en	'followed by'@en	'extended play'@en
+Q105543609	P156	Q4167410	5.0	'musical work/composition'@en	'followed by'@en	'Wikimedia disambiguation page'@en
+Q105543609	P156	Q63141557	4.0	'musical work/composition'@en	'followed by'@en	'translated song'@en
+Q134556	P156	Q7366	4.0	'single'@en	'followed by'@en	'song'@en
+Q482994	P156	Q482994	4.0	'album'@en	'followed by'@en	'album'@en
+Q105543609	P156	Q215380	2.0	'musical work/composition'@en	'followed by'@en	'musical group'@en
+Q105543609	P156	Q47461344	2.0	'musical work/composition'@en	'followed by'@en	'written work'@en
+Q105543609	P156	Q58483083	2.0	'musical work/composition'@en	'followed by'@en	'dramatico-musical work'@en
+Q7366	P156	Q134556	2.0	'song'@en	'followed by'@en	'single'@en
+Q105543609	P156	Q10648343	1.0	'musical work/composition'@en	'followed by'@en	'duo'@en
+Q105543609	P156	Q10669480	1.0	'musical work/composition'@en	'followed by'@en	'sailor song'@en
+Q105543609	P156	Q11424	1.0	'musical work/composition'@en	'followed by'@en	'film'@en
+Q105543609	P156	Q1193470	1.0	'musical work/composition'@en	'followed by'@en	'theme music'@en
+Q105543609	P156	Q1997853	1.0	'musical work/composition'@en	'followed by'@en	'hit'@en
+Q105543609	P156	Q207628	1.0	'musical work/composition'@en	'followed by'@en	'musical composition'@en
+Q105543609	P156	Q23691	1.0	'musical work/composition'@en	'followed by'@en	'national anthem'@en
+Q105543609	P156	Q273057	1.0	'musical work/composition'@en	'followed by'@en	'discography'@en
+Q105543609	P156	Q3464665	1.0	'musical work/composition'@en	'followed by'@en	'television series season'@en
+Q105543609	P156	Q5185279	1.0	'musical work/composition'@en	'followed by'@en	'poem'@en
+Q105543609	P156	Q58232557	1.0	'musical work/composition'@en	'followed by'@en	'split single'@en
+Q105543609	P156	Q7302866	1.0	'musical work/composition'@en	'followed by'@en	'audio track'@en
+Q105543609	P156	Q7706031	1.0	'musical work/composition'@en	'followed by'@en	'Tetas'@en
+Q105543609	P156	Q836950	1.0	'musical work/composition'@en	'followed by'@en	'derivative work'@en
+Q105543609	P156	Q9212979	1.0	'musical work/composition'@en	'followed by'@en	'musical duo'@en
+Q1193470	P156	Q134556	1.0	'theme music'@en	'followed by'@en	'single'@en
+Q134556	P156	Q4167410	1.0	'single'@en	'followed by'@en	'Wikimedia disambiguation page'@en
+Q169930	P156	Q105543609	1.0	'extended play'@en	'followed by'@en	'musical work/composition'@en
+Q182659	P156	Q105543609	1.0	'ballad'@en	'followed by'@en	'musical work/composition'@en
+Q209741	P156	Q105543609	1.0	'programme music'@en	'followed by'@en	'musical work/composition'@en
+Q64027488	P156	Q134556	1.0	'arrangement on a work of the public domain'@en	'followed by'@en	'single'@en
+Q7302866	P156	Q105543609	1.0	'audio track'@en	'followed by'@en	'musical work/composition'@en
+Q7302866	P156	Q134556	1.0	'audio track'@en	'followed by'@en	'single'@en
+Q7302866	P156	Q7302866	1.0	'audio track'@en	'followed by'@en	'audio track'@en
+Q7366	P156	Q105543609	1.0	'song'@en	'followed by'@en	'musical work/composition'@en
+Q7366	P156	Q7366	1.0	'song'@en	'followed by'@en	'song'@en
+Q7725634	P156	Q47461344	1.0	'literary work'@en	'followed by'@en	'written work'@en
+Q105543609	P155	Q134556	853.0	'musical work/composition'@en	'follows'@en	'single'@en
+Q105543609	P155	Q105543609	649.0	'musical work/composition'@en	'follows'@en	'musical work/composition'@en
+Q105543609	P155	Q7366	172.0	'musical work/composition'@en	'follows'@en	'song'@en
+Q105543609	P155	Q482994	45.0	'musical work/composition'@en	'follows'@en	'album'@en
+Q134556	P155	Q134556	18.0	'single'@en	'follows'@en	'single'@en
+Q134556	P155	Q105543609	9.0	'single'@en	'follows'@en	'musical work/composition'@en
+Q105543609	P155	Q169930	4.0	'musical work/composition'@en	'follows'@en	'extended play'@en
+Q134556	P155	Q7366	4.0	'single'@en	'follows'@en	'song'@en
+Q482994	P155	Q482994	4.0	'album'@en	'follows'@en	'album'@en
+Q7366	P155	Q134556	2.0	'song'@en	'follows'@en	'single'@en
+Q7366	P155	Q7366	2.0	'song'@en	'follows'@en	'song'@en
+Q105543609	P155	Q1062328	1.0	'musical work/composition'@en	'follows'@en	'chanson'@en
+Q105543609	P155	Q1141470	1.0	'musical work/composition'@en	'follows'@en	'double act'@en
+Q105543609	P155	Q1193470	1.0	'musical work/composition'@en	'follows'@en	'theme music'@en
+Q105543609	P155	Q16909656	1.0	'musical work/composition'@en	'follows'@en	'Monty Python sketch'@en
+Q105543609	P155	Q17150323	1.0	'musical work/composition'@en	'follows'@en	"'\""I Want\"" song'@en"
+Q105543609	P155	Q18127	1.0	'musical work/composition'@en	'follows'@en	'record label'@en
+Q105543609	P155	Q202866	1.0	'musical work/composition'@en	'follows'@en	'animated film'@en
+Q105543609	P155	Q209741	1.0	'musical work/composition'@en	'follows'@en	'programme music'@en
+Q105543609	P155	Q2188189	1.0	'musical work/composition'@en	'follows'@en	'musical work'@en
+Q105543609	P155	Q273057	1.0	'musical work/composition'@en	'follows'@en	'discography'@en
+Q105543609	P155	Q3046922	1.0	'musical work/composition'@en	'follows'@en	'maxi single'@en
+Q105543609	P155	Q4167410	1.0	'musical work/composition'@en	'follows'@en	'Wikimedia disambiguation page'@en
+Q105543609	P155	Q47461344	1.0	'musical work/composition'@en	'follows'@en	'written work'@en
+Q105543609	P155	Q5	1.0	'musical work/composition'@en	'follows'@en	'human'@en
+Q105543609	P155	Q55850593	1.0	'musical work/composition'@en	'follows'@en	'music track with vocals'@en
+Q105543609	P155	Q63141557	1.0	'musical work/composition'@en	'follows'@en	'translated song'@en
+Q105543609	P155	Q719645	1.0	'musical work/composition'@en	'follows'@en	'CD single'@en
+Q105543609	P155	Q7302866	1.0	'musical work/composition'@en	'follows'@en	'audio track'@en
+Q105543609	P155	Q79007	1.0	'musical work/composition'@en	'follows'@en	'street'@en
+Q182659	P155	Q105543609	1.0	'ballad'@en	'follows'@en	'musical work/composition'@en
+Q64027488	P155	Q134556	1.0	'arrangement on a work of the public domain'@en	'follows'@en	'single'@en
+Q7302866	P155	Q105543609	1.0	'audio track'@en	'follows'@en	'musical work/composition'@en
+Q7302866	P155	Q134556	1.0	'audio track'@en	'follows'@en	'single'@en
+Q7366	P155	Q105543609	1.0	'song'@en	'follows'@en	'musical work/composition'@en
+Q7725634	P155	Q47461344	1.0	'literary work'@en	'follows'@en	'written work'@en
+Q105543609	P1476	monolingualtext	3239.0	'musical work/composition'@en	'title'@en	
+Q58483083	P1476	monolingualtext	16.0	'dramatico-musical work'@en	'title'@en	
+Q23691	P1476	monolingualtext	10.0	'national anthem'@en	'title'@en	
+Q7302866	P1476	monolingualtext	10.0	'audio track'@en	'title'@en	
+Q836950	P1476	monolingualtext	10.0	'derivative work'@en	'title'@en	
+Q134556	P1476	monolingualtext	6.0	'single'@en	'title'@en	
+Q7725634	P1476	monolingualtext	5.0	'literary work'@en	'title'@en	
+Q15079786	P1476	monolingualtext	4.0	'ballet'@en	'title'@en	
+Q64027488	P1476	monolingualtext	4.0	'arrangement on a work of the public domain'@en	'title'@en	
+Q91192165	P1476	monolingualtext	4.0	'lyrical adaptation'@en	'title'@en	
+Q18460285	P1476	monolingualtext	3.0	'musical setting'@en	'title'@en	
+Q484692	P1476	monolingualtext	3.0	'hymn'@en	'title'@en	
+Q5185279	P1476	monolingualtext	3.0	'poem'@en	'title'@en	
+Q7366	P1476	monolingualtext	3.0	'song'@en	'title'@en	
+Q856713	P1476	monolingualtext	3.0	'Christian hymn'@en	'title'@en	
+Q107357104	P1476	monolingualtext	2.0	'type of dance'@en	'title'@en	
+Q1123037	P1476	monolingualtext	2.0	'nursery rhyme'@en	'title'@en	
+Q1193470	P1476	monolingualtext	2.0	'theme music'@en	'title'@en	
+Q717040	P1476	monolingualtext	2.0	'Christmas tradition'@en	'title'@en	
+Q7725310	P1476	monolingualtext	2.0	'series of creative works'@en	'title'@en	
+Q10669480	P1476	monolingualtext	1.0	'sailor song'@en	'title'@en	
+Q15079132	P1476	monolingualtext	1.0	'Christian prayer'@en	'title'@en	
+Q16909656	P1476	monolingualtext	1.0	'Monty Python sketch'@en	'title'@en	
+Q17489659	P1476	monolingualtext	1.0	'group of works'@en	'title'@en	
+Q17537576	P1476	monolingualtext	1.0	'creative work'@en	'title'@en	
+Q178985	P1476	monolingualtext	1.0	'ode'@en	'title'@en	
+Q187947	P1476	monolingualtext	1.0	'sheet music'@en	'title'@en	
+Q193605	P1476	monolingualtext	1.0	'lullaby'@en	'title'@en	
+Q20202269	P1476	monolingualtext	1.0	'musical term'@en	'title'@en	
+Q2031291	P1476	monolingualtext	1.0	'release'@en	'title'@en	
+Q2115663	P1476	monolingualtext	1.0	'section'@en	'title'@en	
+Q2188189	P1476	monolingualtext	1.0	'musical work'@en	'title'@en	
+Q22808060	P1476	monolingualtext	1.0	'state song of a state of the United States'@en	'title'@en	
+Q2302678	P1476	monolingualtext	1.0	'clarinet concerto'@en	'title'@en	
+Q3331189	P1476	monolingualtext	1.0	'version, edition, or translation'@en	'title'@en	
+Q34508	P1476	monolingualtext	1.0	'video recording'@en	'title'@en	
+Q47461344	P1476	monolingualtext	1.0	'written work'@en	'title'@en	
+Q482994	P1476	monolingualtext	1.0	'album'@en	'title'@en	
+Q503354	P1476	monolingualtext	1.0	'Christmas carol'@en	'title'@en	
+Q5156725	P1476	monolingualtext	1.0	'Composer tributes'@en	'title'@en	
+Q541947	P1476	monolingualtext	1.0	'anthem'@en	'title'@en	
+Q55850593	P1476	monolingualtext	1.0	'music track with vocals'@en	'title'@en	
+Q690856	P1476	monolingualtext	1.0	'ringtone'@en	'title'@en	
+Q7257727	P1476	monolingualtext	1.0	'public domain music'@en	'title'@en	
+Q788460	P1476	monolingualtext	1.0	'Bagatelle'@en	'title'@en	
+Q852161	P1476	monolingualtext	1.0	'singing game'@en	'title'@en	
+Q929848	P1476	monolingualtext	1.0	'movement'@en	'title'@en	
+Q978	P1476	monolingualtext	1.0	'meme'@en	'title'@en	
+Q105543609	P136	Q188451	5779.0	'musical work/composition'@en	'genre'@en	'music genre'@en
+Q105543609	P136	Q589183	483.0	'musical work/composition'@en	'genre'@en	'radio format'@en
+Q105543609	P136	Q862597	276.0	'musical work/composition'@en	'genre'@en	'musical form'@en
+Q105543609	P136	Q107356781	249.0	'musical work/composition'@en	'genre'@en	'song type'@en
+Q105543609	P136	Q107487333	108.0	'musical work/composition'@en	'genre'@en	'type of musical work/composition'@en
+Q105543609	P136	Q11921029	101.0	'musical work/composition'@en	'genre'@en	'musical style'@en
+Q105543609	P136	Q28820001	80.0	'musical work/composition'@en	'genre'@en	'music scene'@en
+Q105543609	P136	Q7777573	59.0	'musical work/composition'@en	'genre'@en	'theatrical genre'@en
+Q105543609	P136	Q107357104	53.0	'musical work/composition'@en	'genre'@en	'type of dance'@en
+Q105543609	P136	Q223393	41.0	'musical work/composition'@en	'genre'@en	'literary genre'@en
+Q134556	P136	Q188451	41.0	'single'@en	'genre'@en	'music genre'@en
+Q105543609	P136	Q110013851	37.0	'musical work/composition'@en	'genre'@en	'type of theatrical work'@en
+Q105543609	P136	Q4453888	27.0	'musical work/composition'@en	'genre'@en	'poetic musical form'@en
+Q105543609	P136	Q12020884	23.0	'musical work/composition'@en	'genre'@en	'music movement'@en
+Q105543609	P136	Q105756498	21.0	'musical work/composition'@en	'genre'@en	'type of musical ensemble/group'@en
+Q58483083	P136	Q188451	19.0	'dramatico-musical work'@en	'genre'@en	'music genre'@en
+Q105543609	P136	Q20643324	16.0	'musical work/composition'@en	'genre'@en	'opera genre'@en
+Q105543609	P136	Q75054287	16.0	'musical work/composition'@en	'genre'@en	'music by country or region'@en
+Q105543609	P136	Q106537557	15.0	'musical work/composition'@en	'genre'@en	'music by ethnic group'@en
+Q105543609	P136	Q20202269	15.0	'musical work/composition'@en	'genre'@en	'musical term'@en
+Q58483083	P136	Q7777573	14.0	'dramatico-musical work'@en	'genre'@en	'theatrical genre'@en
+Q58483083	P136	Q20643324	13.0	'dramatico-musical work'@en	'genre'@en	'opera genre'@en
+Q58483083	P136	Q862597	13.0	'dramatico-musical work'@en	'genre'@en	'musical form'@en
+Q7302866	P136	Q188451	12.0	'audio track'@en	'genre'@en	'music genre'@en
+Q182659	P136	Q188451	10.0	'ballad'@en	'genre'@en	'music genre'@en
+Q58483083	P136	Q110013851	10.0	'dramatico-musical work'@en	'genre'@en	'type of theatrical work'@en
+Q105543609	P136	Q4263830	9.0	'musical work/composition'@en	'genre'@en	'literary form'@en
+Q105543609	P136	Q12119802	7.0	'musical work/composition'@en	'genre'@en	'lyric poetry genre'@en
+Q105543609	P136	Q59913930	7.0	'musical work/composition'@en	'genre'@en	'recording industry term'@en
+Q105543609	P136	Q107565306	5.0	'musical work/composition'@en	'genre'@en	'music by language'@en
+Q7366	P136	Q188451	5.0	'song'@en	'genre'@en	'music genre'@en
+Q836950	P136	Q188451	5.0	'derivative work'@en	'genre'@en	'music genre'@en
+Q105543609	P136	Q2572794	4.0	'musical work/composition'@en	'genre'@en	'forme fixe'@en
+Q182659	P136	Q107356781	4.0	'ballad'@en	'genre'@en	'song type'@en
+Q23691	P136	Q188451	4.0	'national anthem'@en	'genre'@en	'music genre'@en
+Q482994	P136	Q188451	4.0	'album'@en	'genre'@en	'music genre'@en
+Q105543609	P136	Q109598321	3.0	'musical work/composition'@en	'genre'@en	'literary style'@en
+Q105543609	P136	Q6630149	3.0	'musical work/composition'@en	'genre'@en	'narrative form'@en
+Q1193470	P136	Q188451	3.0	'theme music'@en	'genre'@en	'music genre'@en
+Q134556	P136	Q589183	3.0	'single'@en	'genre'@en	'radio format'@en
+Q182659	P136	Q862597	3.0	'ballad'@en	'genre'@en	'musical form'@en
+Q2031291	P136	Q107356781	3.0	'release'@en	'genre'@en	'song type'@en
+Q2031291	P136	Q188451	3.0	'release'@en	'genre'@en	'music genre'@en
+Q23691	P136	Q107356781	3.0	'national anthem'@en	'genre'@en	'song type'@en
+Q856713	P136	Q107356781	3.0	'Christian hymn'@en	'genre'@en	'song type'@en
+Q105543609	P136	Q108465955	2.0	'musical work/composition'@en	'genre'@en	'fiction genre'@en
+Q105543609	P136	Q201658	2.0	'musical work/composition'@en	'genre'@en	'film genre'@en
+Q105543609	P136	Q60733114	2.0	'musical work/composition'@en	'genre'@en	'music tradition'@en
+Q105543609	P136	Q89522629	2.0	'musical work/composition'@en	'genre'@en	'poetic form'@en
+Q107357104	P136	Q188451	2.0	'type of dance'@en	'genre'@en	'music genre'@en
+Q15079786	P136	Q107357104	2.0	'ballet'@en	'genre'@en	'type of dance'@en
+Q182659	P136	Q107487333	2.0	'ballad'@en	'genre'@en	'type of musical work/composition'@en
+Q182659	P136	Q223393	2.0	'ballad'@en	'genre'@en	'literary genre'@en
+Q182659	P136	Q4453888	2.0	'ballad'@en	'genre'@en	'poetic musical form'@en
+Q64027488	P136	Q188451	2.0	'arrangement on a work of the public domain'@en	'genre'@en	'music genre'@en
+Q717040	P136	Q11921029	2.0	'Christmas tradition'@en	'genre'@en	'musical style'@en
+Q717040	P136	Q188451	2.0	'Christmas tradition'@en	'genre'@en	'music genre'@en
+Q7725310	P136	Q188451	2.0	'series of creative works'@en	'genre'@en	'music genre'@en
+Q7725634	P136	Q109598321	2.0	'literary work'@en	'genre'@en	'literary style'@en
+Q7725634	P136	Q188451	2.0	'literary work'@en	'genre'@en	'music genre'@en
+Q7725634	P136	Q4263830	2.0	'literary work'@en	'genre'@en	'literary form'@en
+Q7725634	P136	Q6630149	2.0	'literary work'@en	'genre'@en	'narrative form'@en
+Q836950	P136	Q862597	2.0	'derivative work'@en	'genre'@en	'musical form'@en
+Q856713	P136	Q188451	2.0	'Christian hymn'@en	'genre'@en	'music genre'@en
+Q105543609	P136	Q1047113	1.0	'musical work/composition'@en	'genre'@en	'specialty'@en
+Q105543609	P136	Q106834231	1.0	'musical work/composition'@en	'genre'@en	'music by period of time'@en
+Q105543609	P136	Q108586636	1.0	'musical work/composition'@en	'genre'@en	'form of event'@en
+Q105543609	P136	Q109659781	1.0	'musical work/composition'@en	'genre'@en	'music production technique'@en
+Q105543609	P136	Q11862829	1.0	'musical work/composition'@en	'genre'@en	'academic discipline'@en
+Q105543609	P136	Q12909644	1.0	'musical work/composition'@en	'genre'@en	'political ideology'@en
+Q105543609	P136	Q1786517	1.0	'musical work/composition'@en	'genre'@en	'palo'@en
+Q105543609	P136	Q1792379	1.0	'musical work/composition'@en	'genre'@en	'art genre'@en
+Q105543609	P136	Q1792644	1.0	'musical work/composition'@en	'genre'@en	'art style'@en
+Q105543609	P136	Q179461	1.0	'musical work/composition'@en	'genre'@en	'religious text'@en
+Q105543609	P136	Q1799072	1.0	'musical work/composition'@en	'genre'@en	'method'@en
+Q105543609	P136	Q25372	1.0	'musical work/composition'@en	'genre'@en	'drama'@en
+Q105543609	P136	Q264965	1.0	'musical work/composition'@en	'genre'@en	'subculture'@en
+Q105543609	P136	Q36192	1.0	'musical work/composition'@en	'genre'@en	'folklore'@en
+Q105543609	P136	Q4671286	1.0	'musical work/composition'@en	'genre'@en	'academic major'@en
+Q105543609	P136	Q56055944	1.0	'musical work/composition'@en	'genre'@en	'arts form'@en
+Q105543609	P136	Q56296601	1.0	'musical work/composition'@en	'genre'@en	'underground movement'@en
+Q105543609	P136	Q59825918	1.0	'musical work/composition'@en	'genre'@en	'film theme'@en
+Q105543609	P136	Q627436	1.0	'musical work/composition'@en	'genre'@en	'field of work'@en
+Q105543609	P136	Q968159	1.0	'musical work/composition'@en	'genre'@en	'art movement'@en
+Q10669480	P136	Q188451	1.0	'sailor song'@en	'genre'@en	'music genre'@en
+Q107357104	P136	Q107356781	1.0	'type of dance'@en	'genre'@en	'song type'@en
+Q107357104	P136	Q107357104	1.0	'type of dance'@en	'genre'@en	'type of dance'@en
+Q107357104	P136	Q36192	1.0	'type of dance'@en	'genre'@en	'folklore'@en
+Q107357104	P136	Q862597	1.0	'type of dance'@en	'genre'@en	'musical form'@en
+Q1123037	P136	Q12119802	1.0	'nursery rhyme'@en	'genre'@en	'lyric poetry genre'@en
+Q1123037	P136	Q188451	1.0	'nursery rhyme'@en	'genre'@en	'music genre'@en
+Q1123037	P136	Q223393	1.0	'nursery rhyme'@en	'genre'@en	'literary genre'@en
+Q1193470	P136	Q106537557	1.0	'theme music'@en	'genre'@en	'music by ethnic group'@en
+Q1193470	P136	Q107356781	1.0	'theme music'@en	'genre'@en	'song type'@en
+Q1193470	P136	Q12119802	1.0	'theme music'@en	'genre'@en	'lyric poetry genre'@en
+Q1195253	P136	Q107356781	1.0	'sea shanty'@en	'genre'@en	'song type'@en
+Q1195253	P136	Q188451	1.0	'sea shanty'@en	'genre'@en	'music genre'@en
+Q134556	P136	Q107356781	1.0	'single'@en	'genre'@en	'song type'@en
+Q134556	P136	Q107357104	1.0	'single'@en	'genre'@en	'type of dance'@en
+Q134556	P136	Q862597	1.0	'single'@en	'genre'@en	'musical form'@en
+Q1385610	P136	Q107487333	1.0	'excerpt'@en	'genre'@en	'type of musical work/composition'@en
+Q1385610	P136	Q110013851	1.0	'excerpt'@en	'genre'@en	'type of theatrical work'@en
+Q1385610	P136	Q188451	1.0	'excerpt'@en	'genre'@en	'music genre'@en
+Q1385610	P136	Q7777573	1.0	'excerpt'@en	'genre'@en	'theatrical genre'@en
+Q1385610	P136	Q862597	1.0	'excerpt'@en	'genre'@en	'musical form'@en
+Q15079132	P136	Q107356781	1.0	'Christian prayer'@en	'genre'@en	'song type'@en
+Q15079132	P136	Q188451	1.0	'Christian prayer'@en	'genre'@en	'music genre'@en
+Q15079132	P136	Q862597	1.0	'Christian prayer'@en	'genre'@en	'musical form'@en
+Q15079786	P136	Q188451	1.0	'ballet'@en	'genre'@en	'music genre'@en
+Q15079786	P136	Q862597	1.0	'ballet'@en	'genre'@en	'musical form'@en
+Q169930	P136	Q188451	1.0	'extended play'@en	'genre'@en	'music genre'@en
+Q17489659	P136	Q12020884	1.0	'group of works'@en	'genre'@en	'music movement'@en
+Q17489659	P136	Q188451	1.0	'group of works'@en	'genre'@en	'music genre'@en
+Q17537576	P136	Q188451	1.0	'creative work'@en	'genre'@en	'music genre'@en
+Q178985	P136	Q12119802	1.0	'ode'@en	'genre'@en	'lyric poetry genre'@en
+Q178985	P136	Q20202269	1.0	'ode'@en	'genre'@en	'musical term'@en
+Q178985	P136	Q89522629	1.0	'ode'@en	'genre'@en	'poetic form'@en
+Q182659	P136	Q2572794	1.0	'ballad'@en	'genre'@en	'forme fixe'@en
+Q18460285	P136	Q188451	1.0	'musical setting'@en	'genre'@en	'music genre'@en
+Q193605	P136	Q188451	1.0	'lullaby'@en	'genre'@en	'music genre'@en
+Q19545459	P136	Q107487333	1.0	'missa solemnis'@en	'genre'@en	'type of musical work/composition'@en
+Q19545459	P136	Q862597	1.0	'missa solemnis'@en	'genre'@en	'musical form'@en
+Q212024	P136	Q107356781	1.0	'spirituals'@en	'genre'@en	'song type'@en
+Q212024	P136	Q188451	1.0	'spirituals'@en	'genre'@en	'music genre'@en
+Q2188189	P136	Q188451	1.0	'musical work'@en	'genre'@en	'music genre'@en
+Q221290	P136	Q7777573	1.0	'monodrama'@en	'genre'@en	'theatrical genre'@en
+Q22808060	P136	Q188451	1.0	'state song of a state of the United States'@en	'genre'@en	'music genre'@en
+Q23691	P136	Q12119802	1.0	'national anthem'@en	'genre'@en	'lyric poetry genre'@en
+Q23691	P136	Q20202269	1.0	'national anthem'@en	'genre'@en	'musical term'@en
+Q24862	P136	Q188451	1.0	'short film'@en	'genre'@en	'music genre'@en
+Q2910675	P136	Q188451	1.0	'unfinished creative work'@en	'genre'@en	'music genre'@en
+Q2910675	P136	Q20643324	1.0	'unfinished creative work'@en	'genre'@en	'opera genre'@en
+Q2910675	P136	Q7777573	1.0	'unfinished creative work'@en	'genre'@en	'theatrical genre'@en
+Q2910675	P136	Q862597	1.0	'unfinished creative work'@en	'genre'@en	'musical form'@en
+Q2927074	P136	Q188451	1.0	'Internet meme'@en	'genre'@en	'music genre'@en
+Q2927074	P136	Q589183	1.0	'Internet meme'@en	'genre'@en	'radio format'@en
+Q3331189	P136	Q188451	1.0	'version, edition, or translation'@en	'genre'@en	'music genre'@en
+Q34508	P136	Q188451	1.0	'video recording'@en	'genre'@en	'music genre'@en
+Q40953	P136	Q109598321	1.0	'prayer'@en	'genre'@en	'literary style'@en
+Q40953	P136	Q4263830	1.0	'prayer'@en	'genre'@en	'literary form'@en
+Q40953	P136	Q6630149	1.0	'prayer'@en	'genre'@en	'narrative form'@en
+Q47461344	P136	Q223393	1.0	'written work'@en	'genre'@en	'literary genre'@en
+Q484692	P136	Q12119802	1.0	'hymn'@en	'genre'@en	'lyric poetry genre'@en
+Q484692	P136	Q20202269	1.0	'hymn'@en	'genre'@en	'musical term'@en
+Q484692	P136	Q89522629	1.0	'hymn'@en	'genre'@en	'poetic form'@en
+Q5185279	P136	Q109598321	1.0	'poem'@en	'genre'@en	'literary style'@en
+Q5185279	P136	Q4263830	1.0	'poem'@en	'genre'@en	'literary form'@en
+Q5185279	P136	Q6630149	1.0	'poem'@en	'genre'@en	'narrative form'@en
+Q55850593	P136	Q188451	1.0	'music track with vocals'@en	'genre'@en	'music genre'@en
+Q63412991	P136	Q107356781	1.0	'YouTube video'@en	'genre'@en	'song type'@en
+Q63412991	P136	Q188451	1.0	'YouTube video'@en	'genre'@en	'music genre'@en
+Q64027488	P136	Q589183	1.0	'arrangement on a work of the public domain'@en	'genre'@en	'radio format'@en
+Q7257727	P136	Q106537557	1.0	'public domain music'@en	'genre'@en	'music by ethnic group'@en
+Q7257727	P136	Q188451	1.0	'public domain music'@en	'genre'@en	'music genre'@en
+Q7257727	P136	Q28820001	1.0	'public domain music'@en	'genre'@en	'music scene'@en
+Q7302866	P136	Q28820001	1.0	'audio track'@en	'genre'@en	'music scene'@en
+Q7366	P136	Q589183	1.0	'song'@en	'genre'@en	'radio format'@en
+Q7725310	P136	Q107487333	1.0	'series of creative works'@en	'genre'@en	'type of musical work/composition'@en
+Q7725310	P136	Q12020884	1.0	'series of creative works'@en	'genre'@en	'music movement'@en
+Q7725310	P136	Q862597	1.0	'series of creative works'@en	'genre'@en	'musical form'@en
+Q7725634	P136	Q107356781	1.0	'literary work'@en	'genre'@en	'song type'@en
+Q7725634	P136	Q25372	1.0	'literary work'@en	'genre'@en	'drama'@en
+Q7725634	P136	Q589183	1.0	'literary work'@en	'genre'@en	'radio format'@en
+Q7725634	P136	Q7777573	1.0	'literary work'@en	'genre'@en	'theatrical genre'@en
+Q836950	P136	Q107357104	1.0	'derivative work'@en	'genre'@en	'type of dance'@en
+Q856713	P136	Q223393	1.0	'Christian hymn'@en	'genre'@en	'literary genre'@en
+Q88392887	P136	Q862597	1.0	'part of a work'@en	'genre'@en	'musical form'@en
+Q929848	P136	Q862597	1.0	'movement'@en	'genre'@en	'musical form'@en

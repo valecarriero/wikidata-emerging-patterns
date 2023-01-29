@@ -1,0 +1,151 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q3305213_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q3305213 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'painting' 'creator' 'entity'
+<< << wd:Q3305213 wdt:P170 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.05%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'collection' 'entity'
+<< << wd:Q3305213 wdt:P195 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "86.17%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'location' 'entity'
+<< << wd:Q3305213 wdt:P276 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "85.82%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'made from material' 'entity'
+<< << wd:Q3305213 wdt:P186 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "83.33%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'copyright status' 'entity'
+<< << wd:Q3305213 wdt:P6216 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "72.7%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'genre' 'entity'
+<< << wd:Q3305213 wdt:P136 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "68.97%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'depicts' 'entity'
+<< << wd:Q3305213 wdt:P180 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "65.78%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'movement' 'entity'
+<< << wd:Q3305213 wdt:P135 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "42.02%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'entity'
+<< << wd:Q3305213 wdt:P495 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "25.71%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'main subject' 'entity'
+<< << wd:Q3305213 wdt:P921 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.5%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'owned by' 'entity'
+<< << wd:Q3305213 wdt:P127 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.13%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'collection' 'art museum'
+<< << wd:Q3305213 wdt:P195 wd:Q207694 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "68.44%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'inception' time
+<< << wd:Q3305213 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.29%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'movement' 'art movement'
+<< << wd:Q3305213 wdt:P135 wd:Q968159 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.11%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'movement' 'architectural style'
+<< << wd:Q3305213 wdt:P135 wd:Q32880 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.79%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'location' 'art museum'
+<< << wd:Q3305213 wdt:P276 wd:Q207694 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "70.04%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'Freebase ID' external-id
+<< << wd:Q3305213 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.65%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'title' monolingualtext
+<< << wd:Q3305213 wdt:P1476 wikibase:Monolingualtext >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.63%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'BabelNet ID' external-id
+<< << wd:Q3305213 wdt:P2581 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "40.07%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'image' commonsMedia
+<< << wd:Q3305213 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "73.76%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'creator' 'human'
+<< << wd:Q3305213 wdt:P170 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "97.87%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'described at URL' url
+<< << wd:Q3305213 wdt:P973 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "52.3%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'owned by' 'human'
+<< << wd:Q3305213 wdt:P127 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "13.3%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'Commons category' string
+<< << wd:Q3305213 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "40.78%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'height' quantity
+<< << wd:Q3305213 wdt:P2048 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "77.84%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'main subject' 'artistic theme'
+<< << wd:Q3305213 wdt:P921 wd:Q1406161 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "7.27%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'main subject' 'human'
+<< << wd:Q3305213 wdt:P921 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.74%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'main subject' 'two biblical humans'
+<< << wd:Q3305213 wdt:P921 wd:Q22813672 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "3.72%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'width' quantity
+<< << wd:Q3305213 wdt:P2049 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "77.48%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'Google Arts & Culture asset ID' external-id
+<< << wd:Q3305213 wdt:P4701 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.2%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'made from material' 'painting material'
+<< << wd:Q3305213 wdt:P186 wd:Q3300034 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "82.27%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'copyright status' 'copyright status'
+<< << wd:Q3305213 wdt:P6216 wd:Q50424085 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "72.7%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'depicts' 'human'
+<< << wd:Q3305213 wdt:P180 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "25.89%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'country'
+<< << wd:Q3305213 wdt:P495 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "25.53%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'sovereign state'
+<< << wd:Q3305213 wdt:P495 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "24.65%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'superpower'
+<< << wd:Q3305213 wdt:P495 wd:Q1489259 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.13%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'constitutional republic'
+<< << wd:Q3305213 wdt:P495 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.13%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'federal republic'
+<< << wd:Q3305213 wdt:P495 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.13%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'democratic republic'
+<< << wd:Q3305213 wdt:P495 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.13%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'country of origin' 'historical unrecognized state'
+<< << wd:Q3305213 wdt:P495 wd:Q99541706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.13%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'inventory number' string
+<< << wd:Q3305213 wdt:P217 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "70.21%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'catalog code' string
+<< << wd:Q3305213 wdt:P528 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "30.5%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+
+# 'painting' 'genre' 'art genre'
+<< << wd:Q3305213 wdt:P136 wd:Q1792379 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "54.08%" ; oplax:isNativeTo weps:AAA_Q3305213_09508505 .
+

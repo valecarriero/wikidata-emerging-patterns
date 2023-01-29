@@ -1,0 +1,124 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:music_Q105543609_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_music_subkg_20220404 ; 
+ dcterms:references wd:Q105543609 . 
+
+weps:wikidata_music_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_music_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'musical work/composition' 'form of creative work' 'entity'
+<< << wd:Q105543609 wdt:P7937 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "93.02%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'performer' 'entity'
+<< << wd:Q105543609 wdt:P175 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "67.34%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'genre' 'entity'
+<< << wd:Q105543609 wdt:P136 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "55.88%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'composer' 'entity'
+<< << wd:Q105543609 wdt:P86 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "49.69%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'part of' 'entity'
+<< << wd:Q105543609 wdt:P361 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "38.17%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'language of work or name' 'entity'
+<< << wd:Q105543609 wdt:P407 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.7%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'record label' 'entity'
+<< << wd:Q105543609 wdt:P264 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "29.56%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'lyrics by' 'entity'
+<< << wd:Q105543609 wdt:P676 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "29.39%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'follows' 'entity'
+<< << wd:Q105543609 wdt:P155 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.72%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'followed by' 'entity'
+<< << wd:Q105543609 wdt:P156 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.41%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'producer' 'entity'
+<< << wd:Q105543609 wdt:P162 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.34%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'followed by' 'single'
+<< << wd:Q105543609 wdt:P156 wd:Q134556 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "7.72%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'followed by' 'musical work/composition'
+<< << wd:Q105543609 wdt:P156 wd:Q105543609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.03%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'performer' 'human'
+<< << wd:Q105543609 wdt:P175 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "42.91%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'MusicBrainz work ID' external-id
+<< << wd:Q105543609 wdt:P435 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "58.43%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'publication date' time
+<< << wd:Q105543609 wdt:P577 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "71.69%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'genre' 'music genre'
+<< << wd:Q105543609 wdt:P136 wd:Q188451 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "54.88%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'form of creative work' 'type of musical work/composition'
+<< << wd:Q105543609 wdt:P7937 wd:Q107487333 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "92.09%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'form of creative work' 'musical style'
+<< << wd:Q105543609 wdt:P7937 wd:Q11921029 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "80.86%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'form of creative work' 'literary form'
+<< << wd:Q105543609 wdt:P7937 wd:Q4263830 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "80.48%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'SecondHandSongs work ID' external-id
+<< << wd:Q105543609 wdt:P2908 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.38%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'producer' 'human'
+<< << wd:Q105543609 wdt:P162 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "13.64%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'ISWC' external-id
+<< << wd:Q105543609 wdt:P1827 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.04%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'language of work or name' 'language'
+<< << wd:Q105543609 wdt:P407 wd:Q34770 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "33.46%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'language of work or name' 'modern language'
+<< << wd:Q105543609 wdt:P407 wd:Q1288568 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "33.28%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'language of work or name' 'natural language'
+<< << wd:Q105543609 wdt:P407 wd:Q33742 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.21%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'record label' 'record label'
+<< << wd:Q105543609 wdt:P264 wd:Q18127 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "28.42%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'lyrics by' 'human'
+<< << wd:Q105543609 wdt:P676 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "29.09%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'composer' 'human'
+<< << wd:Q105543609 wdt:P86 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "49.13%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'follows' 'single'
+<< << wd:Q105543609 wdt:P155 wd:Q134556 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "8.1%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'follows' 'musical work/composition'
+<< << wd:Q105543609 wdt:P155 wd:Q105543609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.16%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'Freebase ID' external-id
+<< << wd:Q105543609 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "94.73%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'part of' 'album'
+<< << wd:Q105543609 wdt:P361 wd:Q482994 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "33.47%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+
+# 'musical work/composition' 'title' monolingualtext
+<< << wd:Q105543609 wdt:P1476 wikibase:Monolingualtext >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "30.76%" ; oplax:isNativeTo weps:music_Q105543609_09508505 .
+

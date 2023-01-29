@@ -1,0 +1,190 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<human> 
+
+<human> { wdt:P31 [wd:Q5] ; 
+
+# 'human' 'sex or gender' 'entity'
+wdt:P21 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 99.9% 
+
+# 'human' 'occupation' 'entity'
+wdt:P106 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 98.02% 
+
+# 'human' 'given name' 'entity'
+wdt:P735 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 87.31% 
+
+# 'human' 'country of citizenship' 'entity'
+wdt:P27 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 81.32% 
+
+# 'human' 'place of birth' 'entity'
+wdt:P19 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 62.74% 
+
+# 'human' 'family name' 'entity'
+wdt:P734 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 55.44% 
+
+# 'human' 'copyright status as a creator' 'entity'
+wdt:P7763 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 51.86% 
+
+# 'human' 'educated at' 'entity'
+wdt:P69 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 39.71% 
+
+# 'human' 'languages spoken, written or signed' 'entity'
+wdt:P1412 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 36.67% 
+
+# 'human' 'place of death' 'entity'
+wdt:P20 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 29.68% 
+
+# 'human' 'has works in the collection' 'entity'
+wdt:P6379 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 23.87% 
+
+# 'human' 'award received' 'entity'
+wdt:P166 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 15.82% 
+
+# 'human' 'Invaluable.com person ID' external-id
+wdt:P4927 xsd:string ;   # probability of constraint: 15.1% 
+
+# 'human' 'Union List of Artist Names ID' external-id
+wdt:P245 xsd:string ;   # probability of constraint: 27.96% 
+
+# 'human' 'RKDartists ID' external-id
+wdt:P650 xsd:string ;   # probability of constraint: 21.1% 
+
+# 'human' 'languages spoken, written or signed' 'language'
+wdt:P1412 { wdt:P31 [wd:Q34770] } ;   # probability of constraint: 36.43% 
+
+# 'human' 'languages spoken, written or signed' 'modern language'
+wdt:P1412 { wdt:P31 [wd:Q1288568] } ;   # probability of constraint: 35.99% 
+
+# 'human' 'languages spoken, written or signed' 'natural language'
+wdt:P1412 { wdt:P31 [wd:Q33742] } ;   # probability of constraint: 23.26% 
+
+# 'human' 'family name' 'family name'
+wdt:P734 { wdt:P31 [wd:Q101352] } ;   # probability of constraint: 55.34% 
+
+# 'human' 'IdRef ID' external-id
+wdt:P269 xsd:string ;   # probability of constraint: 24.01% 
+
+# 'human' 'educated at' 'university'
+wdt:P69 { wdt:P31 [wd:Q3918] } ;   # probability of constraint: 13.13% 
+
+# 'human' 'educated at' 'Art school'
+wdt:P69 { wdt:P31 [wd:Q383092] } ;   # probability of constraint: 12.16% 
+
+# 'human' 'educated at' 'private not-for-profit educational institution'
+wdt:P69 { wdt:P31 [wd:Q23002054] } ;   # probability of constraint: 10.8% 
+
+# 'human' 'educated at' 'public research university'
+wdt:P69 { wdt:P31 [wd:Q62078547] } ;   # probability of constraint: 6.6% 
+
+# 'human' 'occupation' 'occupation'
+wdt:P106 { wdt:P31 [wd:Q12737077] } ;   # probability of constraint: 83.31% 
+
+# 'human' 'occupation' 'profession'
+wdt:P106 { wdt:P31 [wd:Q28640] } ;   # probability of constraint: 65.44% 
+
+# 'human' 'occupation' 'artistic profession'
+wdt:P106 { wdt:P31 [wd:Q88789639] } ;   # probability of constraint: 45.76% 
+
+# 'human' 'Nationale Thesaurus voor Auteurs ID' external-id
+wdt:P1006 xsd:string ;   # probability of constraint: 17.34% 
+
+# 'human' 'SNAC ARK ID' external-id
+wdt:P3430 xsd:string ;   # probability of constraint: 24.19% 
+
+# 'human' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 99.5% 
+
+# 'human' 'GND ID' external-id
+wdt:P227 xsd:string ;   # probability of constraint: 30.83% 
+
+# 'human' 'award received' 'award'
+wdt:P166 { wdt:P31 [wd:Q618779] } ;   # probability of constraint: 5.43% 
+
+# 'human' 'award received' 'grade of an order'
+wdt:P166 { wdt:P31 [wd:Q60754876] } ;   # probability of constraint: 3.44% 
+
+# 'human' 'award received' 'art prize'
+wdt:P166 { wdt:P31 [wd:Q1792571] } ;   # probability of constraint: 2.97% 
+
+# 'human' 'Artnet artist ID' external-id
+wdt:P3782 xsd:string ;   # probability of constraint: 17.46% 
+
+# 'human' 'FAST ID' external-id
+wdt:P2163 xsd:string ;   # probability of constraint: 34.28% 
+
+# 'human' 'sex or gender' 'gender identity'
+wdt:P21 { wdt:P31 [wd:Q48264] } ;   # probability of constraint: 99.9% 
+
+# 'human' 'sex or gender' 'sex of humans'
+wdt:P21 { wdt:P31 [wd:Q4369513] } ;   # probability of constraint: 99.87% 
+
+# 'human' 'has works in the collection' 'art museum'
+wdt:P6379 { wdt:P31 [wd:Q207694] } ;   # probability of constraint: 22.42% 
+
+# 'human' 'Bibliothèque nationale de France ID' external-id
+wdt:P268 xsd:string ;   # probability of constraint: 19.84% 
+
+# 'human' 'place of birth' 'big city'
+wdt:P19 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 26.74% 
+
+# 'human' 'place of birth' 'city'
+wdt:P19 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 19.44% 
+
+# 'human' 'place of death' 'big city'
+wdt:P20 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 13.43% 
+
+# 'human' 'place of death' 'city'
+wdt:P20 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 10.01% 
+
+# 'human' 'VIAF ID' external-id
+wdt:P214 xsd:string ;   # probability of constraint: 64.18% 
+
+# 'human' 'country of citizenship' 'sovereign state'
+wdt:P27 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 78.23% 
+
+# 'human' 'country of citizenship' 'country'
+wdt:P27 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 76.24% 
+
+# 'human' 'WorldCat Identities ID' external-id
+wdt:P7859 xsd:string ;   # probability of constraint: 60.63% 
+
+# 'human' 'date of death' time
+wdt:P570 xsd:dateTime ;   # probability of constraint: 50.37% 
+
+# 'human' 'ISNI' external-id
+wdt:P213 xsd:string ;   # probability of constraint: 47.35% 
+
+# 'human' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 31.5% 
+
+# 'human' 'Europeana entity' external-id
+wdt:P7704 xsd:string ;   # probability of constraint: 55.64% 
+
+# 'human' 'Prabook ID' external-id
+wdt:P3368 xsd:string ;   # probability of constraint: 28.94% 
+
+# 'human' 'copyright status as a creator' 'copyright status of works'
+wdt:P7763 { wdt:P31 [wd:Q73568642] } ;   # probability of constraint: 51.85% 
+
+# 'human' 'date of birth' time
+wdt:P569 xsd:dateTime ;   # probability of constraint: 91.97% 
+
+# 'human' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 28.68% 
+
+# 'human' 'given name' 'male given name'
+wdt:P735 { wdt:P31 [wd:Q12308941] } ;   # probability of constraint: 63.71% 
+
+# 'human' 'Library of Congress authority ID' external-id
+wdt:P244 xsd:string ;   # probability of constraint: 47.61% 
+
+
+ }

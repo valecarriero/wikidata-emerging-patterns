@@ -1,0 +1,115 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<skyscraper> 
+
+<skyscraper> { wdt:P31 [wd:Q11303] ; 
+
+# 'skyscraper' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 99.83% 
+
+# 'skyscraper' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 92.51% 
+
+# 'skyscraper' 'architect' 'entity'
+wdt:P84 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 46.26% 
+
+# 'skyscraper' 'architectural style' 'entity'
+wdt:P149 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 22.13% 
+
+# 'skyscraper' 'owned by' 'entity'
+wdt:P127 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 17.64% 
+
+# 'skyscraper' 'Structurae structure ID' external-id
+wdt:P454 xsd:string ;   # probability of constraint: 28.95% 
+
+# 'skyscraper' 'floors above ground' quantity
+wdt:P1101 xsd:decimal ;   # probability of constraint: 81.2% 
+
+# 'skyscraper' 'number of elevators' quantity
+wdt:P1301 xsd:decimal ;   # probability of constraint: 20.8% 
+
+# 'skyscraper' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 58.74% 
+
+# 'skyscraper' 'architectural style' 'architectural style'
+wdt:P149 { wdt:P31 [wd:Q32880] } ;   # probability of constraint: 20.13% 
+
+# 'skyscraper' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 83.86% 
+
+# 'skyscraper' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 90.18% 
+
+# 'skyscraper' 'official website' url
+wdt:P856 xsd:string ;   # probability of constraint: 17.97% 
+
+# 'skyscraper' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 97.17% 
+
+# 'skyscraper' 'SkyscraperPage building ID' external-id
+wdt:P1699 xsd:string ;   # probability of constraint: 19.97% 
+
+# 'skyscraper' 'height' quantity
+wdt:P2048 xsd:decimal ;   # probability of constraint: 20.3% 
+
+# 'skyscraper' 'Emporis building ID' external-id
+wdt:P455 xsd:string ;   # probability of constraint: 35.61% 
+
+# 'skyscraper' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 99.67% 
+
+# 'skyscraper' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 99.17% 
+
+# 'skyscraper' 'country' 'constitutional republic'
+wdt:P17 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 59.73% 
+
+# 'skyscraper' 'country' 'federal republic'
+wdt:P17 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 53.08% 
+
+# 'skyscraper' 'country' 'democratic republic'
+wdt:P17 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 51.41% 
+
+# 'skyscraper' 'CTBUH Skyscraper Center building ID' external-id
+wdt:P1305 xsd:string ;   # probability of constraint: 70.55% 
+
+# 'skyscraper' 'owned by' 'business'
+wdt:P127 { wdt:P31 [wd:Q4830453] } ;   # probability of constraint: 10.65% 
+
+# 'skyscraper' 'owned by' 'public company'
+wdt:P127 { wdt:P31 [wd:Q891723] } ;   # probability of constraint: 6.16% 
+
+# 'skyscraper' 'architect' 'architectural firm'
+wdt:P84 { wdt:P31 [wd:Q4387609] } ;   # probability of constraint: 23.13% 
+
+# 'skyscraper' 'architect' 'human'
+wdt:P84 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 18.64% 
+
+# 'skyscraper' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 73.21% 
+
+# 'skyscraper' 'date of official opening' time
+wdt:P1619 xsd:dateTime ;   # probability of constraint: 27.79% 
+
+# 'skyscraper' 'located in the administrative territorial entity' 'big city'
+wdt:P131 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 35.61% 
+
+# 'skyscraper' 'located in the administrative territorial entity' 'city'
+wdt:P131 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 25.29% 
+
+# 'skyscraper' 'located in the administrative territorial entity' 'U.S. state'
+wdt:P131 { wdt:P31 [wd:Q35657] } ;   # probability of constraint: 20.13% 
+
+# 'skyscraper' 'located in the administrative territorial entity' 'million city'
+wdt:P131 { wdt:P31 [wd:Q1637706] } ;   # probability of constraint: 18.14% 
+
+
+ }

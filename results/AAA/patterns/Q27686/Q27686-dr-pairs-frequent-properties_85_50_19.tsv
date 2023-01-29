@@ -1,0 +1,20 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q27686	P571	time	152.0	'hotel'@en	'inception'@en		35.6%
+Q27686	P856	url	137.0	'hotel'@en	'official website'@en		32.08%
+Q27686	P625	globe-coordinate	402.0	'hotel'@en	'coordinate location'@en		94.15%
+Q27686	P17	Q6256	426.0	'hotel'@en	'country'@en	'country'@en	99.77%
+Q27686	P17	Q3624078	421.0	'hotel'@en	'country'@en	'sovereign state'@en	98.59%
+Q27686	P17	Q1520223	282.0	'hotel'@en	'country'@en	'constitutional republic'@en	66.04%
+Q27686	P17	Q512187	277.0	'hotel'@en	'country'@en	'federal republic'@en	64.87%
+Q27686	P17	Q5255892	273.0	'hotel'@en	'country'@en	'democratic republic'@en	63.93%
+Q27686	P17	Q99541706	266.0	'hotel'@en	'country'@en	'historical unrecognized state'@en	62.3%
+Q27686	P17	Q1489259	264.0	'hotel'@en	'country'@en	'superpower'@en	61.83%
+Q27686	P373	string	166.0	'hotel'@en	'Commons category'@en		38.88%
+Q27686	P649	external-id	151.0	'hotel'@en	'NRHP reference number'@en		35.36%
+Q27686	P1619	time	92.0	'hotel'@en	'date of official opening'@en		21.55%
+Q27686	P5383	external-id	116.0	'hotel'@en	'archINFORM project ID'@en		27.17%
+Q27686	P1435	Q30634609	170.0	'hotel'@en	'heritage designation'@en	'heritage designation'@en	39.81%
+Q27686	P131	Q35657	160.0	'hotel'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	37.47%
+Q27686	P18	commonsMedia	316.0	'hotel'@en	'image'@en		74.0%
+Q27686	P1101	quantity	79.0	'hotel'@en	'floors above ground'@en		18.5%
+Q27686	P646	external-id	178.0	'hotel'@en	'Freebase ID'@en		41.69%

@@ -1,0 +1,82 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<single-family detached home> 
+
+<single-family detached home> { wdt:P31 [wd:Q1307276] ; 
+
+# 'single-family detached home' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 100.0% 
+
+# 'single-family detached home' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 99.35% 
+
+# 'single-family detached home' 'heritage designation' 'entity'
+wdt:P1435 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 97.6% 
+
+# 'single-family detached home' 'architect' 'entity'
+wdt:P84 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 42.05% 
+
+# 'single-family detached home' 'architectural style' 'entity'
+wdt:P149 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 37.69% 
+
+# 'single-family detached home' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 91.94% 
+
+# 'single-family detached home' 'heritage designation' 'heritage designation'
+wdt:P1435 { wdt:P31 [wd:Q30634609] } ;   # probability of constraint: 96.3% 
+
+# 'single-family detached home' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 99.35% 
+
+# 'single-family detached home' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 23.53% 
+
+# 'single-family detached home' 'architect' 'human'
+wdt:P84 { wdt:P31 [wd:Q5] } ;   # probability of constraint: 36.82% 
+
+# 'single-family detached home' 'archINFORM project ID' external-id
+wdt:P5383 xsd:string ;   # probability of constraint: 99.78% 
+
+# 'single-family detached home' 'located in the administrative territorial entity' 'U.S. state'
+wdt:P131 { wdt:P31 [wd:Q35657] } ;   # probability of constraint: 64.49% 
+
+# 'single-family detached home' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 98.47% 
+
+# 'single-family detached home' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 100.0% 
+
+# 'single-family detached home' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 100.0% 
+
+# 'single-family detached home' 'country' 'superpower'
+wdt:P17 { wdt:P31 [wd:Q1489259] } ;   # probability of constraint: 99.13% 
+
+# 'single-family detached home' 'country' 'constitutional republic'
+wdt:P17 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 99.13% 
+
+# 'single-family detached home' 'country' 'federal republic'
+wdt:P17 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 99.13% 
+
+# 'single-family detached home' 'country' 'democratic republic'
+wdt:P17 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 99.13% 
+
+# 'single-family detached home' 'country' 'historical unrecognized state'
+wdt:P17 { wdt:P31 [wd:Q99541706] } ;   # probability of constraint: 99.13% 
+
+# 'single-family detached home' 'NRHP reference number' external-id
+wdt:P649 xsd:string ;   # probability of constraint: 96.3% 
+
+# 'single-family detached home' 'architectural style' 'architectural style'
+wdt:P149 { wdt:P31 [wd:Q32880] } ;   # probability of constraint: 37.69% 
+
+
+ }

@@ -1,0 +1,23 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q134556	P361	Q482994	17078.0	'single'@en	'part of'@en	'album'@en	81.45%
+Q134556	P646	external-id	20183.0	'single'@en	'Freebase ID'@en		96.26%
+Q134556	P155	Q134556	13500.0	'single'@en	'follows'@en	'single'@en	64.38%
+Q134556	P1954	external-id	7838.0	'single'@en	'Discogs master ID'@en		37.38%
+Q134556	P175	Q5	11414.0	'single'@en	'performer'@en	'human'@en	54.44%
+Q134556	P175	Q215380	6931.0	'single'@en	'performer'@en	'musical group'@en	33.06%
+Q134556	P577	time	20852.0	'single'@en	'publication date'@en		99.45%
+Q134556	P1651	external-id	5833.0	'single'@en	'YouTube video ID'@en		27.82%
+Q134556	P2624	external-id	8849.0	'single'@en	'MetroLyrics ID'@en		42.2%
+Q134556	P162	Q5	4854.0	'single'@en	'producer'@en	'human'@en	23.15%
+Q134556	P136	Q188451	19033.0	'single'@en	'genre'@en	'music genre'@en	90.77%
+Q134556	P495	Q6256	8208.0	'single'@en	'country of origin'@en	'country'@en	39.15%
+Q134556	P495	Q3624078	8203.0	'single'@en	'country of origin'@en	'sovereign state'@en	39.12%
+Q134556	P495	Q512187	7730.0	'single'@en	'country of origin'@en	'federal republic'@en	36.87%
+Q134556	P495	Q1520223	7720.0	'single'@en	'country of origin'@en	'constitutional republic'@en	36.82%
+Q134556	P495	Q5255892	7715.0	'single'@en	'country of origin'@en	'democratic republic'@en	36.79%
+Q134556	P495	Q1489259	7699.0	'single'@en	'country of origin'@en	'superpower'@en	36.72%
+Q134556	P495	Q99541706	7699.0	'single'@en	'country of origin'@en	'historical unrecognized state'@en	36.72%
+Q134556	P435	external-id	5545.0	'single'@en	'MusicBrainz work ID'@en		26.45%
+Q134556	P156	Q134556	13940.0	'single'@en	'followed by'@en	'single'@en	66.48%
+Q134556	P264	Q18127	18434.0	'single'@en	'record label'@en	'record label'@en	87.91%
+Q134556	P436	external-id	7941.0	'single'@en	'MusicBrainz release group ID'@en		37.87%

@@ -1,0 +1,47 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q5	P4927	external-id	1151.0	'human'@en	'Invaluable.com person ID'@en		15.1%
+Q5	P245	external-id	2131.0	'human'@en	'Union List of Artist Names ID'@en		27.96%
+Q5	P650	external-id	1608.0	'human'@en	'RKDartists ID'@en		21.1%
+Q5	P1412	Q34770	2777.0	'human'@en	'languages spoken, written or signed'@en	'language'@en	36.43%
+Q5	P1412	Q1288568	2743.0	'human'@en	'languages spoken, written or signed'@en	'modern language'@en	35.99%
+Q5	P1412	Q33742	1773.0	'human'@en	'languages spoken, written or signed'@en	'natural language'@en	23.26%
+Q5	P734	Q101352	4218.0	'human'@en	'family name'@en	'family name'@en	55.34%
+Q5	P269	external-id	1830.0	'human'@en	'IdRef ID'@en		24.01%
+Q5	P69	Q3918	1001.0	'human'@en	'educated at'@en	'university'@en	13.13%
+Q5	P69	Q383092	927.0	'human'@en	'educated at'@en	'Art school'@en	12.16%
+Q5	P69	Q23002054	823.0	'human'@en	'educated at'@en	'private not-for-profit educational institution'@en	10.8%
+Q5	P69	Q62078547	503.0	'human'@en	'educated at'@en	'public research university'@en	6.6%
+Q5	P106	Q12737077	6350.0	'human'@en	'occupation'@en	'occupation'@en	83.31%
+Q5	P106	Q28640	4988.0	'human'@en	'occupation'@en	'profession'@en	65.44%
+Q5	P106	Q88789639	3488.0	'human'@en	'occupation'@en	'artistic profession'@en	45.76%
+Q5	P1006	external-id	1322.0	'human'@en	'Nationale Thesaurus voor Auteurs ID'@en		17.34%
+Q5	P3430	external-id	1844.0	'human'@en	'SNAC ARK ID'@en		24.19%
+Q5	P646	external-id	7584.0	'human'@en	'Freebase ID'@en		99.5%
+Q5	P227	external-id	2350.0	'human'@en	'GND ID'@en		30.83%
+Q5	P166	Q618779	414.0	'human'@en	'award received'@en	'award'@en	5.43%
+Q5	P166	Q60754876	262.0	'human'@en	'award received'@en	'grade of an order'@en	3.44%
+Q5	P166	Q1792571	226.0	'human'@en	'award received'@en	'art prize'@en	2.97%
+Q5	P3782	external-id	1331.0	'human'@en	'Artnet artist ID'@en		17.46%
+Q5	P2163	external-id	2613.0	'human'@en	'FAST ID'@en		34.28%
+Q5	P21	Q48264	7614.0	'human'@en	'sex or gender'@en	'gender identity'@en	99.9%
+Q5	P21	Q4369513	7612.0	'human'@en	'sex or gender'@en	'sex of humans'@en	99.87%
+Q5	P6379	Q207694	1709.0	'human'@en	'has works in the collection'@en	'art museum'@en	22.42%
+Q5	P268	external-id	1512.0	'human'@en	'Bibliothèque nationale de France ID'@en		19.84%
+Q5	P19	Q1549591	2038.0	'human'@en	'place of birth'@en	'big city'@en	26.74%
+Q5	P19	Q515	1482.0	'human'@en	'place of birth'@en	'city'@en	19.44%
+Q5	P20	Q1549591	1024.0	'human'@en	'place of death'@en	'big city'@en	13.43%
+Q5	P20	Q515	763.0	'human'@en	'place of death'@en	'city'@en	10.01%
+Q5	P214	external-id	4892.0	'human'@en	'VIAF ID'@en		64.18%
+Q5	P27	Q3624078	5963.0	'human'@en	'country of citizenship'@en	'sovereign state'@en	78.23%
+Q5	P27	Q6256	5811.0	'human'@en	'country of citizenship'@en	'country'@en	76.24%
+Q5	P7859	external-id	4621.0	'human'@en	'WorldCat Identities ID'@en		60.63%
+Q5	P570	time	3839.0	'human'@en	'date of death'@en		50.37%
+Q5	P213	external-id	3609.0	'human'@en	'ISNI'@en		47.35%
+Q5	P18	commonsMedia	2401.0	'human'@en	'image'@en		31.5%
+Q5	P7704	external-id	4241.0	'human'@en	'Europeana entity'@en		55.64%
+Q5	P3368	external-id	2206.0	'human'@en	'Prabook ID'@en		28.94%
+Q5	P7763	Q73568642	3952.0	'human'@en	'copyright status as a creator'@en	'copyright status of works'@en	51.85%
+Q5	P569	time	7010.0	'human'@en	'date of birth'@en		91.97%
+Q5	P373	string	2186.0	'human'@en	'Commons category'@en		28.68%
+Q5	P735	Q12308941	4856.0	'human'@en	'given name'@en	'male given name'@en	63.71%
+Q5	P244	external-id	3629.0	'human'@en	'Library of Congress authority ID'@en		47.61%

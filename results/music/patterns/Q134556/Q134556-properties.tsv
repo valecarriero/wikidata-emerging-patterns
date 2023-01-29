@@ -1,0 +1,259 @@
+property	count	property;label	percentage
+P577	20852	'publication date'@en	99.45%
+P175	20802	'performer'@en	99.21%
+P646	20183	'Freebase ID'@en	96.26%
+P264	19189	'record label'@en	91.52%
+P136	19080	'genre'@en	91.0%
+P361	17770	'part of'@en	84.75%
+P156	15594	'followed by'@en	74.37%
+P155	15055	'follows'@en	71.8%
+P2624	8849	'MetroLyrics ID'@en	42.2%
+P495	8212	'country of origin'@en	39.16%
+P436	7941	'MusicBrainz release group ID'@en	37.87%
+P1954	7838	'Discogs master ID'@en	37.38%
+P1651	5833	'YouTube video ID'@en	27.82%
+P435	5545	'MusicBrainz work ID'@en	26.45%
+P162	5071	'producer'@en	24.18%
+P676	2992	'lyrics by'@en	14.27%
+P437	1970	'distribution format'@en	9.4%
+P407	1692	'language of work or name'@en	8.07%
+P86	1600	'composer'@en	7.63%
+P2581	1562	'BabelNet ID'@en	7.45%
+P1552	1426	'has quality'@en	6.8%
+P1476	971	'title'@en	4.63%
+P8856	956	'British Phonographic Industry ID'@en	4.56%
+P9182	694	'uta-net.com song ID'@en	3.31%
+P1889	591	'different from'@en	2.82%
+P7937	374	'form of creative work'@en	1.78%
+P1729	348	'AllMusic album ID'@en	1.66%
+P1730	331	'AllMusic song ID'@en	1.58%
+P2047	325	'duration'@en	1.55%
+P1827	311	'ISWC'@en	1.48%
+P2671	283	'Google Knowledge Graph ID'@en	1.35%
+P3417	261	'Quora topic ID'@en	1.24%
+P6218	254	'Genius song ID'@en	1.21%
+P856	205	'official website'@en	0.98%
+P571	202	'inception'@en	0.96%
+P2206	202	'Discogs release ID'@en	0.96%
+P2207	190	'Spotify track ID'@en	0.91%
+P658	158	'tracklist'@en	0.75%
+P826	149	'tonality'@en	0.71%
+P3192	139	'Last.fm ID'@en	0.66%
+P7212	131	'LyricsTranslate ID'@en	0.62%
+P2724	129	'Deezer track ID'@en	0.62%
+P1725	122	'beats per minute'@en	0.58%
+P291	116	'place of publication'@en	0.55%
+P166	116	'award received'@en	0.55%
+P1411	116	'nominated for'@en	0.55%
+P18	114	'image'@en	0.54%
+P1417	111	'Encyclopædia Britannica Online ID'@en	0.53%
+P8392	101	'Rate Your Music release ID'@en	0.48%
+P5915	93	'Shazam track ID'@en	0.44%
+P17	89	'country'@en	0.42%
+P3040	83	'SoundCloud ID'@en	0.4%
+P5241	81	'Songfacts song ID'@en	0.39%
+P5197	77	'Melon song ID'@en	0.37%
+P7067	64	'Album of the Year album ID'@en	0.31%
+P154	64	'logo image'@en	0.31%
+P483	63	'recorded at studio or venue'@en	0.3%
+P9089	62	'Songlexikon ID'@en	0.3%
+P9133	58	'AZLyrics.com song ID'@en	0.28%
+P921	51	'main subject'@en	0.24%
+P2205	47	'Spotify album ID'@en	0.22%
+P50	41	'author'@en	0.2%
+P9290	40	'TikTok music ID'@en	0.19%
+P7166	40	'Acharts.co song ID'@en	0.19%
+P641	36	'sport'@en	0.17%
+P138	36	'named after'@en	0.17%
+P2908	35	'SecondHandSongs work ID'@en	0.17%
+P2291	33	'charted in'@en	0.16%
+P1343	31	'described by source'@en	0.15%
+P6760	30	'Know Your Meme ID'@en	0.14%
+P4969	30	'derivative work'@en	0.14%
+P6262	27	'Fandom article ID'@en	0.13%
+P1236	27	'Parsons code'@en	0.13%
+P1433	26	'published in'@en	0.12%
+P1243	25	'ISRC'@en	0.12%
+P2635	24	'number of parts of this work'@en	0.11%
+P750	23	'distributed by'@en	0.11%
+P345	23	'IMDb ID'@en	0.11%
+P4839	22	'Wolfram Language entity code'@en	0.1%
+P2281	21	'Apple Music album ID (U.S. version)'@en	0.1%
+P9965	20	'Musik-Sammler.de artist ID'@en	0.1%
+P4894	20	'ACE Repertory work ID'@en	0.1%
+P4404	20	'MusicBrainz recording ID'@en	0.1%
+P214	20	'VIAF ID'@en	0.1%
+P4860	18	'BMI work ID'@en	0.09%
+P2721	18	'Encyclopaedia Metallum release ID'@en	0.09%
+P373	16	'Commons category'@en	0.08%
+P2819	16	'Yandex Music release ID'@en	0.08%
+P9215	15	'set during recurring event'@en	0.07%
+P6718	15	'music video'@en	0.07%
+P268	15	'Bibliothèque nationale de France ID'@en	0.07%
+P144	14	'based on'@en	0.07%
+P8411	13	'set in environment'@en	0.06%
+P2014	12	'Museum of Modern Art work ID'@en	0.06%
+P2723	11	'Deezer album ID'@en	0.05%
+P1814	11	'name in kana'@en	0.05%
+P8345	10	'media franchise'@en	0.05%
+P195	10	'collection'@en	0.05%
+P170	10	'creator'@en	0.05%
+P7055	9	'Jaxsta release ID'@en	0.04%
+P5707	9	'samples from work'@en	0.04%
+P527	9	'has part or parts'@en	0.04%
+P767	8	'contributor to the creative work or subject'@en	0.04%
+P5229	8	'Carnegie Hall work ID'@en	0.04%
+P2603	8	'Kinopoisk film ID'@en	0.04%
+P227	8	'GND ID'@en	0.04%
+P941	7	'inspired by'@en	0.03%
+P4035	7	'Shironet song ID'@en	0.03%
+P244	7	'Library of Congress authority ID'@en	0.03%
+P989	6	'spoken text audio'@en	0.03%
+P8524	6	'Offizielle Deutsche Charts song ID'@en	0.03%
+P8408	6	'KBpedia ID'@en	0.03%
+P585	6	'point in time'@en	0.03%
+P4577	6	'Tidal album ID'@en	0.03%
+P3931	6	'copyright holder'@en	0.03%
+P2002	6	'Twitter username'@en	0.03%
+P180	6	'depicts'@en	0.03%
+P161	6	'cast member'@en	0.03%
+P1344	6	'participant in'@en	0.03%
+P123	6	'publisher'@en	0.03%
+P8687	5	'social media followers'@en	0.02%
+P7956	5	'SESAC work number'@en	0.02%
+P7955	5	'Global Music Rights work ID'@en	0.02%
+P737	5	'influenced by'@en	0.02%
+P528	5	'catalog code'@en	0.02%
+P5008	5	'on focus list of Wikimedia project'@en	0.02%
+P4199	5	'Google Play Music album ID (former scheme)'@en	0.02%
+P3553	5	'Zhihu topic ID'@en	0.02%
+P1922	5	'first line'@en	0.02%
+P747	4	'has edition or translation'@en	0.02%
+P6742	4	'Musixmatch track ID'@en	0.02%
+P6517	4	'WhoSampled artist ID'@en	0.02%
+P6216	4	'copyright status'@en	0.02%
+P5813	4	'MusicBrainz release ID'@en	0.02%
+P5655	4	'Apple Music music video ID'@en	0.02%
+P2093	4	'author name string'@en	0.02%
+P1680	4	'subtitle'@en	0.02%
+P1625	4	'has melody'@en	0.02%
+P1292	4	'DNB editions'@en	0.02%
+P1259	4	'coordinates of the point of view'@en	0.02%
+P915	3	'filming location'@en	0.01%
+P9068	3	'IFPI Danmark work ID'@en	0.01%
+P8885	3	'Namuwiki ID'@en	0.01%
+P8371	3	'references work, tradition or theory'@en	0.01%
+P7818	3	'French Vikidia ID'@en	0.01%
+P625	3	'coordinate location'@en	0.01%
+P6181	3	'Disney A to Z ID'@en	0.01%
+P57	3	'director'@en	0.01%
+P5262	3	'Les Enfoirés song ID'@en	0.01%
+P5202	3	'adapted by'@en	0.01%
+P3483	3	'VGMdb album ID'@en	0.01%
+P3132	3	'last line'@en	0.01%
+P272	3	'production company'@en	0.01%
+P2529	3	'ČSFD film ID'@en	0.01%
+P212	3	'ISBN-13'@en	0.01%
+P2013	3	'Facebook ID'@en	0.01%
+P1994	3	'AllMusic composition ID'@en	0.01%
+P1829	3	'Roud Folk Song Index number'@en	0.01%
+P973	2	'described at URL'@en	0.01%
+P7704	2	'Europeana entity'@en	0.01%
+P710	2	'participant'@en	0.01%
+P6900	2	'NicoNicoPedia ID'@en	0.01%
+P6839	2	'TV Tropes identifier'@en	0.01%
+P6361	2	'Genius song numeric ID'@en	0.01%
+P6080	2	'Discogs composition ID'@en	0.01%
+P6079	2	'Discogs track ID'@en	0.01%
+P5749	2	'Amazon Standard Identification Number'@en	0.01%
+P4665	2	'CineMagia title ID'@en	0.01%
+P4579	2	'Tidal music video ID'@en	0.01%
+P4578	2	'Tidal track ID'@en	0.01%
+P4077	2	'Pizmonet ID'@en	0.01%
+P3440	2	'time signature'@en	0.01%
+P3338	2	'Encyclopedia of Surfing ID'@en	0.01%
+P2687	2	'NDL JPNO'@en	0.01%
+P2561	2	'name'@en	0.01%
+P243	2	'OCLC control number'@en	0.01%
+P2373	2	'Genius artist ID'@en	0.01%
+P2001	2	'Revised Romanization'@en	0.01%
+P1953	2	'Discogs artist ID'@en	0.01%
+P1942	2	'McCune-Reischauer romanization'@en	0.01%
+P179	2	'part of the series'@en	0.01%
+P1712	2	'Metacritic ID'@en	0.01%
+P1705	2	'native label'@en	0.01%
+P1407	2	'MusicBrainz series ID'@en	0.01%
+P1327	2	'partner in business or sport'@en	0.01%
+P1104	2	'number of pages'@en	0.01%
+P10291	2	'Wikisimpsons ID'@en	0.01%
+P972	1	'catalog'@en	0.0%
+P9629	1	'Armeniapedia ID'@en	0.0%
+P957	1	'ISBN-10'@en	0.0%
+P953	1	'full work available at URL'@en	0.0%
+P9469	1	'Singers.com ID'@en	0.0%
+P942	1	'theme music'@en	0.0%
+P935	1	'Commons gallery'@en	0.0%
+P9083	1	'45cat 7\" release ID'@en	0.0%
+P88	1	'commissioned by'@en	0.0%
+P8776	1	'IMVDb music video ID'@en	0.0%
+P870	1	'instrumentation'@en	0.0%
+P854	1	'reference URL'@en	0.0%
+P840	1	'narrative location'@en	0.0%
+P8383	1	'Goodreads work ID'@en	0.0%
+P828	1	'has cause'@en	0.0%
+P825	1	'dedicated to'@en	0.0%
+P8179	1	'Canadiana Name Authority ID'@en	0.0%
+P793	1	'significant event'@en	0.0%
+P7829	1	'English Vikidia ID'@en	0.0%
+P7816	1	'textove.com song ID'@en	0.0%
+P7749	1	'Nomenclature for Museum Cataloging'@en	0.0%
+P736	1	'cover art by'@en	0.0%
+P7324	1	'iHeartRadio podcast ID'@en	0.0%
+P724	1	'Internet Archive ID'@en	0.0%
+P691	1	'NKCR AUT ID'@en	0.0%
+P674	1	'characters'@en	0.0%
+P648	1	'Open Library ID'@en	0.0%
+P6366	1	'Microsoft Academic ID'@en	0.0%
+P6116	1	'chord progression'@en	0.0%
+P6110	1	'AllMusic release ID'@en	0.0%
+P576	1	'dissolved, abolished or demolished date'@en	0.0%
+P569	1	'date of birth'@en	0.0%
+P547	1	'commemorates'@en	0.0%
+P5395	1	'Canadian Encyclopedia article ID'@en	0.0%
+P51	1	'audio'@en	0.0%
+P4748	1	'Line Music album ID'@en	0.0%
+P4746	1	'Elhuyar ZTH ID'@en	0.0%
+P4647	1	'location of first performance'@en	0.0%
+P4518	1	'Melon album ID'@en	0.0%
+P4300	1	'YouTube playlist ID'@en	0.0%
+P4073	1	'Fandom wiki ID'@en	0.0%
+P4072	1	'Zemereshet song ID'@en	0.0%
+P4027	1	'National Discography of Italian Song work ID'@en	0.0%
+P3962	1	'Global Trade Item Number'@en	0.0%
+P3893	1	'public domain date'@en	0.0%
+P366	1	'has use'@en	0.0%
+P3352	1	'musipedia tune ID'@en	0.0%
+P3241	1	'Catholic Encyclopedia ID'@en	0.0%
+P2969	1	'Goodreads version/edition ID'@en	0.0%
+P276	1	'location'@en	0.0%
+P2670	1	'instance has part(s) of the class'@en	0.0%
+P2550	1	'recording or performance of'@en	0.0%
+P2522	1	'victory'@en	0.0%
+P2283	1	'uses'@en	0.0%
+P217	1	'inventory number'@en	0.0%
+P2031	1	'work period (start)'@en	0.0%
+P1813	1	'short name'@en	0.0%
+P176	1	'manufacturer'@en	0.0%
+P1558	1	'tempo marking'@en	0.0%
+P1535	1	'used by'@en	0.0%
+P1441	1	'present in work'@en	0.0%
+P1434	1	'takes place in fictional universe'@en	0.0%
+P1389	1	'product certification'@en	0.0%
+P1366	1	'replaced by'@en	0.0%
+P1352	1	'ranking'@en	0.0%
+P135	1	'movement'@en	0.0%
+P1316	1	'Swedish Media Database ID'@en	0.0%
+P10136	1	'Pandora track ID'@en	0.0%
+P10110	1	'Apple Music track ID'@en	0.0%
+P1004	1	'MusicBrainz place ID'@en	0.0%
+P10	1	'video'@en	0.0%

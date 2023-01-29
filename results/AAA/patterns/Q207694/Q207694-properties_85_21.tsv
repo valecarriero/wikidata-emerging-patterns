@@ -1,0 +1,22 @@
+property	count	property;label	percentage
+P17	413	'country'@en	100.0%
+P625	391	'coordinate location'@en	94.67%
+P646	378	'Freebase ID'@en	91.53%
+P571	377	'inception'@en	91.28%
+P131	374	'located in the administrative territorial entity'@en	90.56%
+P856	329	'official website'@en	79.66%
+P18	306	'image'@en	74.09%
+P214	303	'VIAF ID'@en	73.37%
+P7859	296	'WorldCat Identities ID'@en	71.67%
+P244	272	'Library of Congress authority ID'@en	65.86%
+P373	230	'Commons category'@en	55.69%
+P213	159	'ISNI'@en	38.5%
+P276	111	'location'@en	26.88%
+P1619	95	'date of official opening'@en	23.0%
+P227	81	'GND ID'@en	19.61%
+P4146	79	'Athenaeum museum ID'@en	19.13%
+P6375	78	'street address'@en	18.89%
+P2002	76	'Twitter username'@en	18.4%
+P269	67	'IdRef ID'@en	16.22%
+P281	66	'postal code'@en	15.98%
+P1612	65	'Commons Institution page'@en	15.74%

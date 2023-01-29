@@ -1,0 +1,34 @@
+property	count	property;label	percentage
+P21	7614	'sex or gender'@en	99.9%
+P646	7584	'Freebase ID'@en	99.5%
+P106	7471	'occupation'@en	98.02%
+P569	7010	'date of birth'@en	91.97%
+P735	6655	'given name'@en	87.31%
+P27	6198	'country of citizenship'@en	81.32%
+P214	4892	'VIAF ID'@en	64.18%
+P19	4782	'place of birth'@en	62.74%
+P7859	4621	'WorldCat Identities ID'@en	60.63%
+P7704	4241	'Europeana entity'@en	55.64%
+P734	4226	'family name'@en	55.44%
+P7763	3953	'copyright status as a creator'@en	51.86%
+P570	3839	'date of death'@en	50.37%
+P244	3629	'Library of Congress authority ID'@en	47.61%
+P213	3609	'ISNI'@en	47.35%
+P69	3027	'educated at'@en	39.71%
+P1412	2795	'languages spoken, written or signed'@en	36.67%
+P2163	2613	'FAST ID'@en	34.28%
+P18	2401	'image'@en	31.5%
+P227	2350	'GND ID'@en	30.83%
+P20	2262	'place of death'@en	29.68%
+P3368	2206	'Prabook ID'@en	28.94%
+P373	2186	'Commons category'@en	28.68%
+P245	2131	'Union List of Artist Names ID'@en	27.96%
+P3430	1844	'SNAC ARK ID'@en	24.19%
+P269	1830	'IdRef ID'@en	24.01%
+P6379	1819	'has works in the collection'@en	23.87%
+P650	1608	'RKDartists ID'@en	21.1%
+P268	1512	'Bibliothèque nationale de France ID'@en	19.84%
+P3782	1331	'Artnet artist ID'@en	17.46%
+P1006	1322	'Nationale Thesaurus voor Auteurs ID'@en	17.34%
+P166	1206	'award received'@en	15.82%
+P4927	1151	'Invaluable.com person ID'@en	15.1%

@@ -1,0 +1,16 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q3947	P625	globe-coordinate	2308.0	'house'@en	'coordinate location'@en		98.93%
+Q3947	P149	Q32880	661.0	'house'@en	'architectural style'@en	'architectural style'@en	28.33%
+Q3947	P373	string	494.0	'house'@en	'Commons category'@en		21.17%
+Q3947	P18	commonsMedia	2099.0	'house'@en	'image'@en		89.97%
+Q3947	P1435	Q30634609	2188.0	'house'@en	'heritage designation'@en	'heritage designation'@en	93.78%
+Q3947	P649	external-id	2036.0	'house'@en	'NRHP reference number'@en		87.27%
+Q3947	P17	Q6256	2331.0	'house'@en	'country'@en	'country'@en	99.91%
+Q3947	P17	Q3624078	2324.0	'house'@en	'country'@en	'sovereign state'@en	99.61%
+Q3947	P17	Q512187	2094.0	'house'@en	'country'@en	'federal republic'@en	89.76%
+Q3947	P17	Q5255892	2094.0	'house'@en	'country'@en	'democratic republic'@en	89.76%
+Q3947	P17	Q1520223	2093.0	'house'@en	'country'@en	'constitutional republic'@en	89.71%
+Q3947	P17	Q1489259	2092.0	'house'@en	'country'@en	'superpower'@en	89.67%
+Q3947	P17	Q99541706	2092.0	'house'@en	'country'@en	'historical unrecognized state'@en	89.67%
+Q3947	P131	Q35657	1526.0	'house'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	65.41%
+Q3947	P646	external-id	2293.0	'house'@en	'Freebase ID'@en		98.29%

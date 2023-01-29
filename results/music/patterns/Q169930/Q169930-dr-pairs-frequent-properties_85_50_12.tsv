@@ -1,0 +1,13 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q169930	P156	Q482994	2115.0	'extended play'@en	'followed by'@en	'album'@en	55.79%
+Q169930	P407	Q1288568	641.0	'extended play'@en	'language of work or name'@en	'modern language'@en	16.91%
+Q169930	P407	Q34770	641.0	'extended play'@en	'language of work or name'@en	'language'@en	16.91%
+Q169930	P407	Q33742	498.0	'extended play'@en	'language of work or name'@en	'natural language'@en	13.14%
+Q169930	P436	external-id	2661.0	'extended play'@en	'MusicBrainz release group ID'@en		70.19%
+Q169930	P175	Q215380	2294.0	'extended play'@en	'performer'@en	'musical group'@en	60.51%
+Q169930	P155	Q482994	1593.0	'extended play'@en	'follows'@en	'album'@en	42.02%
+Q169930	P136	Q188451	2861.0	'extended play'@en	'genre'@en	'music genre'@en	75.47%
+Q169930	P646	external-id	3572.0	'extended play'@en	'Freebase ID'@en		94.22%
+Q169930	P1954	external-id	1521.0	'extended play'@en	'Discogs master ID'@en		40.12%
+Q169930	P577	time	3770.0	'extended play'@en	'publication date'@en		99.45%
+Q169930	P264	Q18127	1755.0	'extended play'@en	'record label'@en	'record label'@en	46.29%

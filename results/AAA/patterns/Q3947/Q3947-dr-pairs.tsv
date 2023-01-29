@@ -1,0 +1,1397 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q3947	P126	Q1006283	1	'house'@en	'maintained by'@en	'national trust'@en
+Q3947	P126	Q163740	1	'house'@en	'maintained by'@en	'nonprofit organization'@en
+Q3947	P126	Q2668072	1	'house'@en	'maintained by'@en	'collection'@en
+Q3947	P127	Q5	18	'house'@en	'owned by'@en	'human'@en
+Q3947	P127	Q2668072	3	'house'@en	'owned by'@en	'collection'@en
+Q26989049	P127	Q2668072	2	'National Historic Site Administered by Parks Canada'@en	'owned by'@en	'collection'@en
+Q26989049	P127	Q327333	2	'National Historic Site Administered by Parks Canada'@en	'owned by'@en	'government agency'@en
+Q3947	P127	Q163740	2	'house'@en	'owned by'@en	'nonprofit organization'@en
+Q3947	P127	Q327333	2	'house'@en	'owned by'@en	'government agency'@en
+Q2087181	P127	Q2668072	1	'historic house museum'@en	'owned by'@en	'collection'@en
+Q2087181	P127	Q327333	1	'historic house museum'@en	'owned by'@en	'government agency'@en
+Q3947	P127	Q1006283	1	'house'@en	'owned by'@en	'national trust'@en
+Q3947	P127	Q7188	1	'house'@en	'owned by'@en	'government'@en
+Q41176	P127	Q5	1	'building'@en	'owned by'@en	'human'@en
+Q3947	P131	Q35657	1526	'house'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q3947	P131	Q1093829	278	'house'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q3947	P131	Q62049	179	'house'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q3947	P131	Q1549591	153	'house'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3947	P131	Q1115575	86	'house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q3947	P131	Q532	54	'house'@en	'located in the administrative territorial entity'@en	'village'@en
+Q3947	P131	Q15127012	46	'house'@en	'located in the administrative territorial entity'@en	'town of the United States'@en
+Q3947	P131	Q515	34	'house'@en	'located in the administrative territorial entity'@en	'city'@en
+Q3947	P131	Q2154459	31	'house'@en	'located in the administrative territorial entity'@en	'New England town'@en
+Q3947	P131	Q15060255	28	'house'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q3947	P131	Q7897276	27	'house'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q3947	P131	Q13415366	25	'house'@en	'located in the administrative territorial entity'@en	'county of Tennessee'@en
+Q3947	P131	Q5124673	25	'house'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q3947	P131	Q63440326	24	'house'@en	'located in the administrative territorial entity'@en	'city of Oregon'@en
+Q3947	P131	Q5119	23	'house'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q3947	P131	Q486972	22	'house'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q3947	P131	Q21503295	21	'house'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q3947	P131	Q9035798	19	'house'@en	'located in the administrative territorial entity'@en	'township of Pennsylvania'@en
+Q3947	P131	Q1006876	18	'house'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q3947	P131	Q10864048	17	'house'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q3947	P131	Q3957	17	'house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q3947	P131	Q475050	17	'house'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q3947	P131	Q14762300	16	'house'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q3947	P131	Q21518270	16	'house'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q3947	P131	Q13410464	14	'house'@en	'located in the administrative territorial entity'@en	'county of Maryland'@en
+Q3947	P131	Q211690	14	'house'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q3947	P131	Q777120	14	'house'@en	'located in the administrative territorial entity'@en	'borough of Pennsylvania'@en
+Q3947	P131	Q1002812	13	'house'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q3947	P131	Q21457810	13	'house'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q3947	P131	Q408804	12	'house'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q3947	P131	Q21507383	11	'house'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q3947	P131	Q1136601	10	'house'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q3947	P131	Q1187580	10	'house'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q3947	P131	Q13414763	10	'house'@en	'located in the administrative territorial entity'@en	'county of Pennsylvania'@en
+Q3947	P131	Q21010817	10	'house'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q41176	P131	Q35657	9	'building'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q3947	P131	Q13218391	8	'house'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q3947	P131	Q15210668	8	'house'@en	'located in the administrative territorial entity'@en	'lower-tier municipality'@en
+Q3947	P131	Q202435	8	'house'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q41176	P131	Q1093829	8	'building'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q3947	P131	Q5888666	7	'house'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q3947	P131	Q110266204	6	'house'@en	'located in the administrative territorial entity'@en	'optional charter municipality of Pennsylvania'@en
+Q3947	P131	Q2039348	6	'house'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q3947	P131	Q751708	6	'house'@en	'located in the administrative territorial entity'@en	'village in the United States'@en
+Q41176	P131	Q1549591	6	'building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3947	P131	Q106071004	5	'house'@en	'located in the administrative territorial entity'@en	'town of New York'@en
+Q3947	P131	Q11828004	5	'house'@en	'located in the administrative territorial entity'@en	'province of Canada'@en
+Q3947	P131	Q13410422	5	'house'@en	'located in the administrative territorial entity'@en	'county of Florida'@en
+Q3947	P131	Q15221373	5	'house'@en	'located in the administrative territorial entity'@en	'fourth-class city'@en
+Q3947	P131	Q2138167	5	'house'@en	'located in the administrative territorial entity'@en	'Scottish region'@en
+Q3947	P131	Q50330360	5	'house'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q3947	P131	Q7309443	5	'house'@en	'located in the administrative territorial entity'@en	'registration county'@en
+Q2087181	P131	Q14762300	4	'historic house museum'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q2087181	P131	Q1549591	4	'historic house museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3947	P131	Q13414759	4	'house'@en	'located in the administrative territorial entity'@en	'county of Ohio'@en
+Q3947	P131	Q13414761	4	'house'@en	'located in the administrative territorial entity'@en	'county of Oregon'@en
+Q3947	P131	Q1637706	4	'house'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q3947	P131	Q17457753	4	'house'@en	'located in the administrative territorial entity'@en	'census subdivision'@en
+Q3947	P131	Q188509	4	'house'@en	'located in the administrative territorial entity'@en	'suburb'@en
+Q3947	P131	Q2974552	4	'house'@en	'located in the administrative territorial entity'@en	'city in New Jersey'@en
+Q3947	P131	Q42211429	4	'house'@en	'located in the administrative territorial entity'@en	'township of Minnesota'@en
+Q3947	P131	Q6593035	4	'house'@en	'located in the administrative territorial entity'@en	'separated municipality in Ontario'@en
+Q41176	P131	Q62049	4	'building'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q839954	P131	Q35657	4	'archaeological site'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q2087181	P131	Q515	3	'historic house museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q26989049	P131	Q1549591	3	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3947	P131	Q11774097	3	'house'@en	'located in the administrative territorial entity'@en	'county of Texas'@en
+Q3947	P131	Q1357964	3	'house'@en	'located in the administrative territorial entity'@en	'county town'@en
+Q3947	P131	Q15221242	3	'house'@en	'located in the administrative territorial entity'@en	'village of Wisconsin'@en
+Q3947	P131	Q17343829	3	'house'@en	'located in the administrative territorial entity'@en	'unincorporated community in the United States'@en
+Q3947	P131	Q23442	3	'house'@en	'located in the administrative territorial entity'@en	'island'@en
+Q3947	P131	Q2911266	3	'house'@en	'located in the administrative territorial entity'@en	'borough of New Jersey'@en
+Q3947	P131	Q3750285	3	'house'@en	'located in the administrative territorial entity'@en	'administrative territorial entity of Canada'@en
+Q3947	P131	Q51929311	3	'house'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q3947	P131	Q55237813	3	'house'@en	'located in the administrative territorial entity'@en	'village of New York'@en
+Q3947	P131	Q5852411	3	'house'@en	'located in the administrative territorial entity'@en	'state of Australia'@en
+Q3947	P131	Q7829892	3	'house'@en	'located in the administrative territorial entity'@en	'town of New Jersey'@en
+Q3947	P131	Q902814	3	'house'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q41176	P131	Q11774097	3	'building'@en	'located in the administrative territorial entity'@en	'county of Texas'@en
+Q41176	P131	Q21518270	3	'building'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q16884952	P131	Q15060255	2	'country house'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q16884952	P131	Q202435	2	'country house'@en	'located in the administrative territorial entity'@en	'lieutenancy area of Scotland'@en
+Q16884952	P131	Q21457810	2	'country house'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q16884952	P131	Q5124673	2	'country house'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q2087181	P131	Q6593035	2	'historic house museum'@en	'located in the administrative territorial entity'@en	'separated municipality in Ontario'@en
+Q26989049	P131	Q14762300	2	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q26989049	P131	Q486972	2	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q26989049	P131	Q515	2	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'city'@en
+Q27686	P131	Q21503295	2	'hotel'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q33506	P131	Q1549591	2	'museum'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3947	P131	Q13414755	2	'house'@en	'located in the administrative territorial entity'@en	'county of New Mexico'@en
+Q3947	P131	Q13414758	2	'house'@en	'located in the administrative territorial entity'@en	'county of North Carolina'@en
+Q3947	P131	Q13414764	2	'house'@en	'located in the administrative territorial entity'@en	'county of Rhode Island'@en
+Q3947	P131	Q15221310	2	'house'@en	'located in the administrative territorial entity'@en	'second-class city'@en
+Q3947	P131	Q15221370	2	'house'@en	'located in the administrative territorial entity'@en	'third-class city'@en
+Q3947	P131	Q1768043	2	'house'@en	'located in the administrative territorial entity'@en	'Metropolitan Statistical Area'@en
+Q3947	P131	Q2264924	2	'house'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q3947	P131	Q2755753	2	'house'@en	'located in the administrative territorial entity'@en	'area of London'@en
+Q3947	P131	Q3788231	2	'house'@en	'located in the administrative territorial entity'@en	'municipal government in Canada'@en
+Q3947	P131	Q493522	2	'house'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q3947	P131	Q52132873	2	'house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q3947	P131	Q55774719	2	'house'@en	'located in the administrative territorial entity'@en	'township municipality in Ontario'@en
+Q3947	P131	Q76514543	2	'house'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q3947	P131	Q7830213	2	'house'@en	'located in the administrative territorial entity'@en	'township of New Jersey'@en
+Q1021645	P131	Q1006876	1	'office building'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q1021645	P131	Q1136601	1	'office building'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q1081138	P131	Q13410464	1	'historic site'@en	'located in the administrative territorial entity'@en	'county of Maryland'@en
+Q1107656	P131	Q1115575	1	'garden'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q1107656	P131	Q532	1	'garden'@en	'located in the administrative territorial entity'@en	'village'@en
+Q1137809	P131	Q35657	1	'courthouse'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q11707	P131	Q1006876	1	'restaurant'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q11707	P131	Q1187580	1	'restaurant'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q11707	P131	Q7897276	1	'restaurant'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q1244442	P131	Q1006876	1	'school building'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q1244442	P131	Q1136601	1	'school building'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q1343246	P131	Q1115575	1	'English country house'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q15243209	P131	Q35657	1	'historic district'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q16560	P131	Q1549591	1	'palace'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q16560	P131	Q2264924	1	'palace'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q16560	P131	Q5119	1	'palace'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q16560	P131	Q515	1	'palace'@en	'located in the administrative territorial entity'@en	'city'@en
+Q16560	P131	Q581830	1	'palace'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q16560	P131	Q747074	1	'palace'@en	'located in the administrative territorial entity'@en	'commune of Italy'@en
+Q180174	P131	Q1115575	1	'folly'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q18761864	P131	Q15060255	1	'bank building'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q18761864	P131	Q21457810	1	'bank building'@en	'located in the administrative territorial entity'@en	'Scottish district'@en
+Q18761864	P131	Q5124673	1	'bank building'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q2065736	P131	Q192299	1	'cultural property'@en	'located in the administrative territorial entity'@en	'county of Norway'@en
+Q2065736	P131	Q755707	1	'cultural property'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q207694	P131	Q2740635	1	'art museum'@en	'located in the administrative territorial entity'@en	'Stadtbezirk'@en
+Q207694	P131	Q52132873	1	'art museum'@en	'located in the administrative territorial entity'@en	'town'@en
+Q2087181	P131	Q17457753	1	'historic house museum'@en	'located in the administrative territorial entity'@en	'census subdivision'@en
+Q2087181	P131	Q21507383	1	'historic house museum'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q2087181	P131	Q486972	1	'historic house museum'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q2087181	P131	Q5119	1	'historic house museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q2087181	P131	Q62049	1	'historic house museum'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q2087181	P131	Q7830213	1	'historic house museum'@en	'located in the administrative territorial entity'@en	'township of New Jersey'@en
+Q210272	P131	Q1131296	1	'cultural heritage'@en	'located in the administrative territorial entity'@en	'freguesia of Portugal'@en
+Q210272	P131	Q13410464	1	'cultural heritage'@en	'located in the administrative territorial entity'@en	'county of Maryland'@en
+Q213441	P131	Q1131296	1	'shop'@en	'located in the administrative territorial entity'@en	'freguesia of Portugal'@en
+Q2319498	P131	Q35657	1	'landmark'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q23413	P131	Q1115575	1	'castle'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q23413	P131	Q15060255	1	'castle'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q23413	P131	Q5124673	1	'castle'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q26989049	P131	Q15210668	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'lower-tier municipality'@en
+Q26989049	P131	Q17457753	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'census subdivision'@en
+Q26989049	P131	Q21507383	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q26989049	P131	Q3957	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'town'@en
+Q26989049	P131	Q44529188	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'town'@en
+Q26989049	P131	Q5119	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q26989049	P131	Q6593035	1	'National Historic Site Administered by Parks Canada'@en	'located in the administrative territorial entity'@en	'separated municipality in Ontario'@en
+Q274153	P131	Q1115575	1	'water tower'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q27686	P131	Q1002812	1	'hotel'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q27686	P131	Q1006876	1	'hotel'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q27686	P131	Q1115575	1	'hotel'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q27686	P131	Q1136601	1	'hotel'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q27686	P131	Q532	1	'hotel'@en	'located in the administrative territorial entity'@en	'village'@en
+Q27686	P131	Q7897276	1	'hotel'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q2772772	P131	Q486972	1	'military museum'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q33506	P131	Q10864048	1	'museum'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q33506	P131	Q1093829	1	'museum'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q33506	P131	Q13410464	1	'museum'@en	'located in the administrative territorial entity'@en	'county of Maryland'@en
+Q33506	P131	Q14762300	1	'museum'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q33506	P131	Q15127012	1	'museum'@en	'located in the administrative territorial entity'@en	'town of the United States'@en
+Q33506	P131	Q2039348	1	'museum'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q33506	P131	Q35657	1	'museum'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q33506	P131	Q475050	1	'museum'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q33506	P131	Q493522	1	'museum'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q33506	P131	Q5119	1	'museum'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q33506	P131	Q515	1	'museum'@en	'located in the administrative territorial entity'@en	'city'@en
+Q3681673	P131	Q10864048	1	'private club'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q3681673	P131	Q1093829	1	'private club'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q3681673	P131	Q1549591	1	'private club'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3681673	P131	Q475050	1	'private club'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q3681673	P131	Q5119	1	'private club'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q3914	P131	Q1006876	1	'school'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q3914	P131	Q1136601	1	'school'@en	'located in the administrative territorial entity'@en	'unitary authority area in England'@en
+Q3947	P131	Q110071194	1	'house'@en	'located in the administrative territorial entity'@en	'city of Illinois'@en
+Q3947	P131	Q110266206	1	'house'@en	'located in the administrative territorial entity'@en	'optional plan municipality of Pennsylvania'@en
+Q3947	P131	Q1131296	1	'house'@en	'located in the administrative territorial entity'@en	'freguesia of Portugal'@en
+Q3947	P131	Q11774771	1	'house'@en	'located in the administrative territorial entity'@en	'county of Nova Scotia'@en
+Q3947	P131	Q11812346	1	'house'@en	'located in the administrative territorial entity'@en	'county of Illinois'@en
+Q3947	P131	Q12178655	1	'house'@en	'located in the administrative territorial entity'@en	'county of North Dakota'@en
+Q3947	P131	Q12262532	1	'house'@en	'located in the administrative territorial entity'@en	'county of Minnesota'@en
+Q3947	P131	Q123705	1	'house'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q3947	P131	Q1266818	1	'house'@en	'located in the administrative territorial entity'@en	'independent city'@en
+Q3947	P131	Q13212489	1	'house'@en	'located in the administrative territorial entity'@en	'county of California'@en
+Q3947	P131	Q13218357	1	'house'@en	'located in the administrative territorial entity'@en	'city of California'@en
+Q3947	P131	Q13410400	1	'house'@en	'located in the administrative territorial entity'@en	'county of Alabama'@en
+Q3947	P131	Q13410444	1	'house'@en	'located in the administrative territorial entity'@en	'county of Kansas'@en
+Q3947	P131	Q13410447	1	'house'@en	'located in the administrative territorial entity'@en	'county of Kentucky'@en
+Q3947	P131	Q13410454	1	'house'@en	'located in the administrative territorial entity'@en	'county of Maine'@en
+Q3947	P131	Q13410485	1	'house'@en	'located in the administrative territorial entity'@en	'county of Massachusetts'@en
+Q3947	P131	Q13410520	1	'house'@en	'located in the administrative territorial entity'@en	'county of Missouri'@en
+Q3947	P131	Q13414358	1	'house'@en	'located in the administrative territorial entity'@en	'county of Montana'@en
+Q3947	P131	Q13414754	1	'house'@en	'located in the administrative territorial entity'@en	'county of New Jersey'@en
+Q3947	P131	Q13414765	1	'house'@en	'located in the administrative territorial entity'@en	'county of South Carolina'@en
+Q3947	P131	Q1349648	1	'house'@en	'located in the administrative territorial entity'@en	'municipality of Greece'@en
+Q3947	P131	Q1350181	1	'house'@en	'located in the administrative territorial entity'@en	'shire of Scotland'@en
+Q3947	P131	Q13539802	1	'house'@en	'located in the administrative territorial entity'@en	'place with town rights and privileges'@en
+Q3947	P131	Q1388464	1	'house'@en	'located in the administrative territorial entity'@en	'regional municipality in Canada'@en
+Q3947	P131	Q14763130	1	'house'@en	'located in the administrative territorial entity'@en	'district of Ontario'@en
+Q3947	P131	Q14784328	1	'house'@en	'located in the administrative territorial entity'@en	'state capital in Germany'@en
+Q3947	P131	Q15253706	1	'house'@en	'located in the administrative territorial entity'@en	'like a city'@en
+Q3947	P131	Q15273785	1	'house'@en	'located in the administrative territorial entity'@en	'Belgian municipality with the title of city'@en
+Q3947	P131	Q15284	1	'house'@en	'located in the administrative territorial entity'@en	'municipality'@en
+Q3947	P131	Q171441	1	'house'@en	'located in the administrative territorial entity'@en	'enclave'@en
+Q3947	P131	Q179872	1	'house'@en	'located in the administrative territorial entity'@en	'county of Ireland'@en
+Q3947	P131	Q180174	1	'house'@en	'located in the administrative territorial entity'@en	'folly'@en
+Q3947	P131	Q180673	1	'house'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q3947	P131	Q1852859	1	'house'@en	'located in the administrative territorial entity'@en	'populated place in the Netherlands'@en
+Q3947	P131	Q18810091	1	'house'@en	'located in the administrative territorial entity'@en	'census division of Canada'@en
+Q3947	P131	Q1907114	1	'house'@en	'located in the administrative territorial entity'@en	'metropolitan area'@en
+Q3947	P131	Q192299	1	'house'@en	'located in the administrative territorial entity'@en	'county of Norway'@en
+Q3947	P131	Q2177636	1	'house'@en	'located in the administrative territorial entity'@en	'municipality of Denmark'@en
+Q3947	P131	Q263639	1	'house'@en	'located in the administrative territorial entity'@en	'municipality of Puerto Rico'@en
+Q3947	P131	Q2740635	1	'house'@en	'located in the administrative territorial entity'@en	'Stadtbezirk'@en
+Q3947	P131	Q27676428	1	'house'@en	'located in the administrative territorial entity'@en	'municipality'@en
+Q3947	P131	Q27676524	1	'house'@en	'located in the administrative territorial entity'@en	'parish municipality'@en
+Q3947	P131	Q2881272	1	'house'@en	'located in the administrative territorial entity'@en	'district of New Zealand'@en
+Q3947	P131	Q2936646	1	'house'@en	'located in the administrative territorial entity'@en	'township of Canada'@en
+Q3947	P131	Q3301053	1	'house'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q3947	P131	Q33837	1	'house'@en	'located in the administrative territorial entity'@en	'archipelago'@en
+Q3947	P131	Q3413329	1	'house'@en	'located in the administrative territorial entity'@en	'neighborhood in Boston'@en
+Q3947	P131	Q42744322	1	'house'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q3947	P131	Q44529188	1	'house'@en	'located in the administrative territorial entity'@en	'town'@en
+Q3947	P131	Q484170	1	'house'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q3947	P131	Q498162	1	'house'@en	'located in the administrative territorial entity'@en	'census-designated place'@en
+Q3947	P131	Q509686	1	'house'@en	'located in the administrative territorial entity'@en	'province of Peru'@en
+Q3947	P131	Q581830	1	'house'@en	'located in the administrative territorial entity'@en	'carfree city'@en
+Q3947	P131	Q59341087	1	'house'@en	'located in the administrative territorial entity'@en	'town in Nova Scotia'@en
+Q3947	P131	Q6083725	1	'house'@en	'located in the administrative territorial entity'@en	'Scottish islands area'@en
+Q3947	P131	Q67376938	1	'house'@en	'located in the administrative territorial entity'@en	'historic county of the United Kingdom'@en
+Q3947	P131	Q705296	1	'house'@en	'located in the administrative territorial entity'@en	'district of Taiwan'@en
+Q3947	P131	Q7309306	1	'house'@en	'located in the administrative territorial entity'@en	'region of Victoria'@en
+Q3947	P131	Q747074	1	'house'@en	'located in the administrative territorial entity'@en	'commune of Italy'@en
+Q3947	P131	Q7543008	1	'house'@en	'located in the administrative territorial entity'@en	'small burgh'@en
+Q3947	P131	Q755707	1	'house'@en	'located in the administrative territorial entity'@en	'municipality of Norway'@en
+Q3947	P131	Q85635630	1	'house'@en	'located in the administrative territorial entity'@en	'urban district of North Rhine-Westphalia'@en
+Q3947	P131	Q98449544	1	'house'@en	'located in the administrative territorial entity'@en	'suburban community in the United States'@en
+Q41176	P131	Q13410464	1	'building'@en	'located in the administrative territorial entity'@en	'county of Maryland'@en
+Q41176	P131	Q1349648	1	'building'@en	'located in the administrative territorial entity'@en	'municipality of Greece'@en
+Q41176	P131	Q15127012	1	'building'@en	'located in the administrative territorial entity'@en	'town of the United States'@en
+Q41176	P131	Q1637706	1	'building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q41176	P131	Q17343829	1	'building'@en	'located in the administrative territorial entity'@en	'unincorporated community in the United States'@en
+Q43229	P131	Q493522	1	'organization'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q489357	P131	Q1115575	1	'farmhouse'@en	'located in the administrative territorial entity'@en	'civil parish'@en
+Q489357	P131	Q532	1	'farmhouse'@en	'located in the administrative territorial entity'@en	'village'@en
+Q54934129	P131	Q2154459	1	'African-American museum'@en	'located in the administrative territorial entity'@en	'New England town'@en
+Q570116	P131	Q35657	1	'tourist attraction'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q64578911	P131	Q1002812	1	'former hospital'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q64578911	P131	Q21503295	1	'former hospital'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q80446812	P131	Q15060255	1	'motte'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q80446812	P131	Q5124673	1	'motte'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en
+Q811979	P131	Q1006876	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'borough in the United Kingdom'@en
+Q811979	P131	Q1187580	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'non-metropolitan district'@en
+Q811979	P131	Q1357964	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'county town'@en
+Q811979	P131	Q1549591	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q811979	P131	Q21503295	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q811979	P131	Q515	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'city'@en
+Q811979	P131	Q7897276	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q839954	P131	Q13414755	1	'archaeological site'@en	'located in the administrative territorial entity'@en	'county of New Mexico'@en
+Q847950	P131	Q2154459	1	'dormitory'@en	'located in the administrative territorial entity'@en	'New England town'@en
+Q16884952	P1343	Q47461344	1	'country house'@en	'described by source'@en	'written work'@en
+Q16884952	P1343	Q5398426	1	'country house'@en	'described by source'@en	'television series'@en
+Q3947	P1343	Q47461344	1	'house'@en	'described by source'@en	'written work'@en
+Q3947	P1343	Q5398426	1	'house'@en	'described by source'@en	'television series'@en
+Q3947	P1343	Q975413	1	'house'@en	'described by source'@en	'encyclopedic dictionary'@en
+Q3947	P137	Q2085381	1	'house'@en	'operator'@en	'publisher'@en
+Q3947	P137	Q6516200	1	'house'@en	'operator'@en	'private company limited by guarantee'@en
+Q3947	P137	Q708676	1	'house'@en	'operator'@en	'charitable organization'@en
+Q3947	P138	Q5	17	'house'@en	'named after'@en	'human'@en
+Q26989049	P138	Q5	2	'National Historic Site Administered by Parks Canada'@en	'named after'@en	'human'@en
+Q1081138	P138	Q5	1	'historic site'@en	'named after'@en	'human'@en
+Q16560	P138	Q101352	1	'palace'@en	'named after'@en	'family name'@en
+Q16560	P138	Q165503	1	'palace'@en	'named after'@en	'baron'@en
+Q16560	P138	Q58481270	1	'palace'@en	'named after'@en	'Patriciate (Venice)'@en
+Q207694	P138	Q5	1	'art museum'@en	'named after'@en	'human'@en
+Q210272	P138	Q5	1	'cultural heritage'@en	'named after'@en	'human'@en
+Q33506	P138	Q5	1	'museum'@en	'named after'@en	'human'@en
+Q3947	P138	Q101352	1	'house'@en	'named after'@en	'family name'@en
+Q3947	P138	Q165503	1	'house'@en	'named after'@en	'baron'@en
+Q3947	P138	Q58481270	1	'house'@en	'named after'@en	'Patriciate (Venice)'@en
+Q41176	P138	Q5	1	'building'@en	'named after'@en	'human'@en
+Q3947	P1435	Q30634609	2188	'house'@en	'heritage designation'@en	'heritage designation'@en
+Q41176	P1435	Q30634609	13	'building'@en	'heritage designation'@en	'heritage designation'@en
+Q26989049	P1435	Q30634609	5	'National Historic Site Administered by Parks Canada'@en	'heritage designation'@en	'heritage designation'@en
+Q839954	P1435	Q30634609	5	'archaeological site'@en	'heritage designation'@en	'heritage designation'@en
+Q2087181	P1435	Q30634609	4	'historic house museum'@en	'heritage designation'@en	'heritage designation'@en
+Q33506	P1435	Q30634609	4	'museum'@en	'heritage designation'@en	'heritage designation'@en
+Q27686	P1435	Q30634609	3	'hotel'@en	'heritage designation'@en	'heritage designation'@en
+Q210272	P1435	Q30634609	2	'cultural heritage'@en	'heritage designation'@en	'heritage designation'@en
+Q1021645	P1435	Q30634609	1	'office building'@en	'heritage designation'@en	'heritage designation'@en
+Q1081138	P1435	Q30634609	1	'historic site'@en	'heritage designation'@en	'heritage designation'@en
+Q1107656	P1435	Q30634609	1	'garden'@en	'heritage designation'@en	'heritage designation'@en
+Q1137809	P1435	Q30634609	1	'courthouse'@en	'heritage designation'@en	'heritage designation'@en
+Q11707	P1435	Q30634609	1	'restaurant'@en	'heritage designation'@en	'heritage designation'@en
+Q1244442	P1435	Q30634609	1	'school building'@en	'heritage designation'@en	'heritage designation'@en
+Q1343246	P1435	Q30634609	1	'English country house'@en	'heritage designation'@en	'heritage designation'@en
+Q15243209	P1435	Q30634609	1	'historic district'@en	'heritage designation'@en	'heritage designation'@en
+Q180174	P1435	Q30634609	1	'folly'@en	'heritage designation'@en	'heritage designation'@en
+Q207694	P1435	Q30634609	1	'art museum'@en	'heritage designation'@en	'heritage designation'@en
+Q213441	P1435	Q30634609	1	'shop'@en	'heritage designation'@en	'heritage designation'@en
+Q23413	P1435	Q30634609	1	'castle'@en	'heritage designation'@en	'heritage designation'@en
+Q274153	P1435	Q30634609	1	'water tower'@en	'heritage designation'@en	'heritage designation'@en
+Q3681673	P1435	Q30634609	1	'private club'@en	'heritage designation'@en	'heritage designation'@en
+Q3914	P1435	Q30634609	1	'school'@en	'heritage designation'@en	'heritage designation'@en
+Q489357	P1435	Q30634609	1	'farmhouse'@en	'heritage designation'@en	'heritage designation'@en
+Q64578911	P1435	Q30634609	1	'former hospital'@en	'heritage designation'@en	'heritage designation'@en
+Q811979	P1435	Q30634609	1	'architectural structure'@en	'heritage designation'@en	'heritage designation'@en
+Q207694	P1454	Q12047392	1	'art museum'@en	'legal form'@en	'legal form'@en
+Q207694	P1454	Q2135465	1	'art museum'@en	'legal form'@en	'legal concept'@en
+Q3947	P1454	Q12047392	1	'house'@en	'legal form'@en	'legal form'@en
+Q3947	P1454	Q2135465	1	'house'@en	'legal form'@en	'legal concept'@en
+Q3947	P149	Q32880	661	'house'@en	'architectural style'@en	'architectural style'@en
+Q3947	P149	Q12271	38	'house'@en	'architectural style'@en	'architecture'@en
+Q3947	P149	Q217175	31	'house'@en	'architectural style'@en	'architectural order'@en
+Q3947	P149	Q1792644	12	'house'@en	'architectural style'@en	'art style'@en
+Q3947	P149	Q1292119	11	'house'@en	'architectural style'@en	'style'@en
+Q3947	P149	Q968159	10	'house'@en	'architectural style'@en	'art movement'@en
+Q41176	P149	Q32880	6	'building'@en	'architectural style'@en	'architectural style'@en
+Q2087181	P149	Q32880	4	'historic house museum'@en	'architectural style'@en	'architectural style'@en
+Q26989049	P149	Q32880	3	'National Historic Site Administered by Parks Canada'@en	'architectural style'@en	'architectural style'@en
+Q3947	P149	Q11514315	3	'house'@en	'architectural style'@en	'historical period'@en
+Q2087181	P149	Q217175	2	'historic house museum'@en	'architectural style'@en	'architectural order'@en
+Q33506	P149	Q32880	2	'museum'@en	'architectural style'@en	'architectural style'@en
+Q1021645	P149	Q217175	1	'office building'@en	'architectural style'@en	'architectural order'@en
+Q1021645	P149	Q32880	1	'office building'@en	'architectural style'@en	'architectural style'@en
+Q1137809	P149	Q32880	1	'courthouse'@en	'architectural style'@en	'architectural style'@en
+Q1343246	P149	Q11514315	1	'English country house'@en	'architectural style'@en	'historical period'@en
+Q1343246	P149	Q1292119	1	'English country house'@en	'architectural style'@en	'style'@en
+Q1343246	P149	Q32880	1	'English country house'@en	'architectural style'@en	'architectural style'@en
+Q15243209	P149	Q32880	1	'historic district'@en	'architectural style'@en	'architectural style'@en
+Q16884952	P149	Q32880	1	'country house'@en	'architectural style'@en	'architectural style'@en
+Q210272	P149	Q1292119	1	'cultural heritage'@en	'architectural style'@en	'style'@en
+Q210272	P149	Q32880	1	'cultural heritage'@en	'architectural style'@en	'architectural style'@en
+Q210272	P149	Q968159	1	'cultural heritage'@en	'architectural style'@en	'art movement'@en
+Q213441	P149	Q1292119	1	'shop'@en	'architectural style'@en	'style'@en
+Q213441	P149	Q32880	1	'shop'@en	'architectural style'@en	'architectural style'@en
+Q213441	P149	Q968159	1	'shop'@en	'architectural style'@en	'art movement'@en
+Q33506	P149	Q1292119	1	'museum'@en	'architectural style'@en	'style'@en
+Q33506	P149	Q968159	1	'museum'@en	'architectural style'@en	'art movement'@en
+Q3681673	P149	Q1792644	1	'private club'@en	'architectural style'@en	'art style'@en
+Q3681673	P149	Q32880	1	'private club'@en	'architectural style'@en	'architectural style'@en
+Q3914	P149	Q217175	1	'school'@en	'architectural style'@en	'architectural order'@en
+Q3914	P149	Q32880	1	'school'@en	'architectural style'@en	'architectural style'@en
+Q43229	P149	Q1292119	1	'organization'@en	'architectural style'@en	'style'@en
+Q43229	P149	Q32880	1	'organization'@en	'architectural style'@en	'architectural style'@en
+Q43229	P149	Q968159	1	'organization'@en	'architectural style'@en	'art movement'@en
+Q54934129	P149	Q32880	1	'African-American museum'@en	'architectural style'@en	'architectural style'@en
+Q847950	P149	Q32880	1	'dormitory'@en	'architectural style'@en	'architectural style'@en
+Q23413	P167	Q3947	1	'castle'@en	'structure replaced by'@en	'house'@en
+Q3947	P167	Q3947	1	'house'@en	'structure replaced by'@en	'house'@en
+Q80446812	P167	Q3947	1	'motte'@en	'structure replaced by'@en	'house'@en
+Q3947	P17	Q6256	2331	'house'@en	'country'@en	'country'@en
+Q3947	P17	Q3624078	2324	'house'@en	'country'@en	'sovereign state'@en
+Q3947	P17	Q512187	2094	'house'@en	'country'@en	'federal republic'@en
+Q3947	P17	Q5255892	2094	'house'@en	'country'@en	'democratic republic'@en
+Q3947	P17	Q1520223	2093	'house'@en	'country'@en	'constitutional republic'@en
+Q3947	P17	Q1489259	2092	'house'@en	'country'@en	'superpower'@en
+Q3947	P17	Q99541706	2092	'house'@en	'country'@en	'historical unrecognized state'@en
+Q3947	P17	Q202686	212	'house'@en	'country'@en	'Commonwealth realm'@en
+Q3947	P17	Q112099	170	'house'@en	'country'@en	'island nation'@en
+Q3947	P17	Q20181813	170	'house'@en	'country'@en	'colonial power'@en
+Q3947	P17	Q1250464	167	'house'@en	'country'@en	'realm'@en
+Q3947	P17	Q43702	51	'house'@en	'country'@en	'federation'@en
+Q3947	P17	Q223832	49	'house'@en	'country'@en	'dominion of the British Empire'@en
+Q41176	P17	Q3624078	14	'building'@en	'country'@en	'sovereign state'@en
+Q41176	P17	Q6256	14	'building'@en	'country'@en	'country'@en
+Q41176	P17	Q1489259	13	'building'@en	'country'@en	'superpower'@en
+Q41176	P17	Q1520223	13	'building'@en	'country'@en	'constitutional republic'@en
+Q41176	P17	Q512187	13	'building'@en	'country'@en	'federal republic'@en
+Q41176	P17	Q5255892	13	'building'@en	'country'@en	'democratic republic'@en
+Q41176	P17	Q99541706	13	'building'@en	'country'@en	'historical unrecognized state'@en
+Q33506	P17	Q6256	7	'museum'@en	'country'@en	'country'@en
+Q3947	P17	Q7270	7	'house'@en	'country'@en	'republic'@en
+Q33506	P17	Q3624078	6	'museum'@en	'country'@en	'sovereign state'@en
+Q3947	P17	Q15304003	6	'house'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q2087181	P17	Q3624078	5	'historic house museum'@en	'country'@en	'sovereign state'@en
+Q2087181	P17	Q6256	5	'historic house museum'@en	'country'@en	'country'@en
+Q26989049	P17	Q202686	5	'National Historic Site Administered by Parks Canada'@en	'country'@en	'Commonwealth realm'@en
+Q26989049	P17	Q223832	5	'National Historic Site Administered by Parks Canada'@en	'country'@en	'dominion of the British Empire'@en
+Q26989049	P17	Q3624078	5	'National Historic Site Administered by Parks Canada'@en	'country'@en	'sovereign state'@en
+Q26989049	P17	Q43702	5	'National Historic Site Administered by Parks Canada'@en	'country'@en	'federation'@en
+Q26989049	P17	Q6256	5	'National Historic Site Administered by Parks Canada'@en	'country'@en	'country'@en
+Q3947	P17	Q51576574	5	'house'@en	'country'@en	'Mediterranean country'@en
+Q839954	P17	Q1489259	5	'archaeological site'@en	'country'@en	'superpower'@en
+Q839954	P17	Q1520223	5	'archaeological site'@en	'country'@en	'constitutional republic'@en
+Q839954	P17	Q3624078	5	'archaeological site'@en	'country'@en	'sovereign state'@en
+Q839954	P17	Q512187	5	'archaeological site'@en	'country'@en	'federal republic'@en
+Q839954	P17	Q5255892	5	'archaeological site'@en	'country'@en	'democratic republic'@en
+Q839954	P17	Q6256	5	'archaeological site'@en	'country'@en	'country'@en
+Q839954	P17	Q99541706	5	'archaeological site'@en	'country'@en	'historical unrecognized state'@en
+Q2087181	P17	Q202686	4	'historic house museum'@en	'country'@en	'Commonwealth realm'@en
+Q2087181	P17	Q223832	4	'historic house museum'@en	'country'@en	'dominion of the British Empire'@en
+Q2087181	P17	Q43702	4	'historic house museum'@en	'country'@en	'federation'@en
+Q33506	P17	Q1489259	4	'museum'@en	'country'@en	'superpower'@en
+Q33506	P17	Q1520223	4	'museum'@en	'country'@en	'constitutional republic'@en
+Q33506	P17	Q512187	4	'museum'@en	'country'@en	'federal republic'@en
+Q33506	P17	Q5255892	4	'museum'@en	'country'@en	'democratic republic'@en
+Q33506	P17	Q99541706	4	'museum'@en	'country'@en	'historical unrecognized state'@en
+Q3947	P17	Q619610	4	'house'@en	'country'@en	'social state'@en
+Q23413	P17	Q3624078	3	'castle'@en	'country'@en	'sovereign state'@en
+Q23413	P17	Q6256	3	'castle'@en	'country'@en	'country'@en
+Q27686	P17	Q112099	3	'hotel'@en	'country'@en	'island nation'@en
+Q27686	P17	Q1250464	3	'hotel'@en	'country'@en	'realm'@en
+Q27686	P17	Q20181813	3	'hotel'@en	'country'@en	'colonial power'@en
+Q27686	P17	Q202686	3	'hotel'@en	'country'@en	'Commonwealth realm'@en
+Q27686	P17	Q3624078	3	'hotel'@en	'country'@en	'sovereign state'@en
+Q27686	P17	Q6256	3	'hotel'@en	'country'@en	'country'@en
+Q3947	P17	Q4209223	3	'house'@en	'country'@en	'Rechtsstaat'@en
+Q3947	P17	Q63791824	3	'house'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q16884952	P17	Q112099	2	'country house'@en	'country'@en	'island nation'@en
+Q16884952	P17	Q1250464	2	'country house'@en	'country'@en	'realm'@en
+Q16884952	P17	Q20181813	2	'country house'@en	'country'@en	'colonial power'@en
+Q16884952	P17	Q202686	2	'country house'@en	'country'@en	'Commonwealth realm'@en
+Q16884952	P17	Q3624078	2	'country house'@en	'country'@en	'sovereign state'@en
+Q16884952	P17	Q6256	2	'country house'@en	'country'@en	'country'@en
+Q2065736	P17	Q3624078	2	'cultural property'@en	'country'@en	'sovereign state'@en
+Q2065736	P17	Q41614	2	'cultural property'@en	'country'@en	'constitutional monarchy'@en
+Q2065736	P17	Q6256	2	'cultural property'@en	'country'@en	'country'@en
+Q207694	P17	Q3624078	2	'art museum'@en	'country'@en	'sovereign state'@en
+Q207694	P17	Q43702	2	'art museum'@en	'country'@en	'federation'@en
+Q207694	P17	Q6256	2	'art museum'@en	'country'@en	'country'@en
+Q210272	P17	Q3624078	2	'cultural heritage'@en	'country'@en	'sovereign state'@en
+Q210272	P17	Q6256	2	'cultural heritage'@en	'country'@en	'country'@en
+Q23413	P17	Q112099	2	'castle'@en	'country'@en	'island nation'@en
+Q23413	P17	Q1250464	2	'castle'@en	'country'@en	'realm'@en
+Q23413	P17	Q20181813	2	'castle'@en	'country'@en	'colonial power'@en
+Q23413	P17	Q202686	2	'castle'@en	'country'@en	'Commonwealth realm'@en
+Q33506	P17	Q43702	2	'museum'@en	'country'@en	'federation'@en
+Q3947	P17	Q179164	2	'house'@en	'country'@en	'unitary state'@en
+Q3947	P17	Q185441	2	'house'@en	'country'@en	'member state of the european union'@en
+Q3947	P17	Q41614	2	'house'@en	'country'@en	'constitutional monarchy'@en
+Q1021645	P17	Q112099	1	'office building'@en	'country'@en	'island nation'@en
+Q1021645	P17	Q1250464	1	'office building'@en	'country'@en	'realm'@en
+Q1021645	P17	Q20181813	1	'office building'@en	'country'@en	'colonial power'@en
+Q1021645	P17	Q202686	1	'office building'@en	'country'@en	'Commonwealth realm'@en
+Q1021645	P17	Q3624078	1	'office building'@en	'country'@en	'sovereign state'@en
+Q1021645	P17	Q6256	1	'office building'@en	'country'@en	'country'@en
+Q1081138	P17	Q1489259	1	'historic site'@en	'country'@en	'superpower'@en
+Q1081138	P17	Q1520223	1	'historic site'@en	'country'@en	'constitutional republic'@en
+Q1081138	P17	Q3624078	1	'historic site'@en	'country'@en	'sovereign state'@en
+Q1081138	P17	Q512187	1	'historic site'@en	'country'@en	'federal republic'@en
+Q1081138	P17	Q5255892	1	'historic site'@en	'country'@en	'democratic republic'@en
+Q1081138	P17	Q6256	1	'historic site'@en	'country'@en	'country'@en
+Q1081138	P17	Q99541706	1	'historic site'@en	'country'@en	'historical unrecognized state'@en
+Q1107656	P17	Q112099	1	'garden'@en	'country'@en	'island nation'@en
+Q1107656	P17	Q1250464	1	'garden'@en	'country'@en	'realm'@en
+Q1107656	P17	Q20181813	1	'garden'@en	'country'@en	'colonial power'@en
+Q1107656	P17	Q202686	1	'garden'@en	'country'@en	'Commonwealth realm'@en
+Q1107656	P17	Q3624078	1	'garden'@en	'country'@en	'sovereign state'@en
+Q1107656	P17	Q6256	1	'garden'@en	'country'@en	'country'@en
+Q1137809	P17	Q1489259	1	'courthouse'@en	'country'@en	'superpower'@en
+Q1137809	P17	Q1520223	1	'courthouse'@en	'country'@en	'constitutional republic'@en
+Q1137809	P17	Q3624078	1	'courthouse'@en	'country'@en	'sovereign state'@en
+Q1137809	P17	Q512187	1	'courthouse'@en	'country'@en	'federal republic'@en
+Q1137809	P17	Q5255892	1	'courthouse'@en	'country'@en	'democratic republic'@en
+Q1137809	P17	Q6256	1	'courthouse'@en	'country'@en	'country'@en
+Q1137809	P17	Q99541706	1	'courthouse'@en	'country'@en	'historical unrecognized state'@en
+Q11707	P17	Q112099	1	'restaurant'@en	'country'@en	'island nation'@en
+Q11707	P17	Q1250464	1	'restaurant'@en	'country'@en	'realm'@en
+Q11707	P17	Q20181813	1	'restaurant'@en	'country'@en	'colonial power'@en
+Q11707	P17	Q202686	1	'restaurant'@en	'country'@en	'Commonwealth realm'@en
+Q11707	P17	Q3624078	1	'restaurant'@en	'country'@en	'sovereign state'@en
+Q11707	P17	Q6256	1	'restaurant'@en	'country'@en	'country'@en
+Q1244442	P17	Q112099	1	'school building'@en	'country'@en	'island nation'@en
+Q1244442	P17	Q1250464	1	'school building'@en	'country'@en	'realm'@en
+Q1244442	P17	Q20181813	1	'school building'@en	'country'@en	'colonial power'@en
+Q1244442	P17	Q202686	1	'school building'@en	'country'@en	'Commonwealth realm'@en
+Q1244442	P17	Q3624078	1	'school building'@en	'country'@en	'sovereign state'@en
+Q1244442	P17	Q6256	1	'school building'@en	'country'@en	'country'@en
+Q1343246	P17	Q112099	1	'English country house'@en	'country'@en	'island nation'@en
+Q1343246	P17	Q1250464	1	'English country house'@en	'country'@en	'realm'@en
+Q1343246	P17	Q20181813	1	'English country house'@en	'country'@en	'colonial power'@en
+Q1343246	P17	Q202686	1	'English country house'@en	'country'@en	'Commonwealth realm'@en
+Q1343246	P17	Q3624078	1	'English country house'@en	'country'@en	'sovereign state'@en
+Q1343246	P17	Q6256	1	'English country house'@en	'country'@en	'country'@en
+Q15243209	P17	Q1489259	1	'historic district'@en	'country'@en	'superpower'@en
+Q15243209	P17	Q1520223	1	'historic district'@en	'country'@en	'constitutional republic'@en
+Q15243209	P17	Q3624078	1	'historic district'@en	'country'@en	'sovereign state'@en
+Q15243209	P17	Q512187	1	'historic district'@en	'country'@en	'federal republic'@en
+Q15243209	P17	Q5255892	1	'historic district'@en	'country'@en	'democratic republic'@en
+Q15243209	P17	Q6256	1	'historic district'@en	'country'@en	'country'@en
+Q15243209	P17	Q99541706	1	'historic district'@en	'country'@en	'historical unrecognized state'@en
+Q16560	P17	Q179164	1	'palace'@en	'country'@en	'unitary state'@en
+Q16560	P17	Q185145	1	'palace'@en	'country'@en	'great power'@en
+Q16560	P17	Q3624078	1	'palace'@en	'country'@en	'sovereign state'@en
+Q16560	P17	Q51576574	1	'palace'@en	'country'@en	'Mediterranean country'@en
+Q16560	P17	Q619610	1	'palace'@en	'country'@en	'social state'@en
+Q16560	P17	Q6256	1	'palace'@en	'country'@en	'country'@en
+Q16560	P17	Q7270	1	'palace'@en	'country'@en	'republic'@en
+Q180174	P17	Q112099	1	'folly'@en	'country'@en	'island nation'@en
+Q180174	P17	Q1250464	1	'folly'@en	'country'@en	'realm'@en
+Q180174	P17	Q20181813	1	'folly'@en	'country'@en	'colonial power'@en
+Q180174	P17	Q202686	1	'folly'@en	'country'@en	'Commonwealth realm'@en
+Q180174	P17	Q3624078	1	'folly'@en	'country'@en	'sovereign state'@en
+Q180174	P17	Q6256	1	'folly'@en	'country'@en	'country'@en
+Q18761864	P17	Q112099	1	'bank building'@en	'country'@en	'island nation'@en
+Q18761864	P17	Q1250464	1	'bank building'@en	'country'@en	'realm'@en
+Q18761864	P17	Q20181813	1	'bank building'@en	'country'@en	'colonial power'@en
+Q18761864	P17	Q202686	1	'bank building'@en	'country'@en	'Commonwealth realm'@en
+Q18761864	P17	Q3624078	1	'bank building'@en	'country'@en	'sovereign state'@en
+Q18761864	P17	Q6256	1	'bank building'@en	'country'@en	'country'@en
+Q207694	P17	Q202686	1	'art museum'@en	'country'@en	'Commonwealth realm'@en
+Q207694	P17	Q223832	1	'art museum'@en	'country'@en	'dominion of the British Empire'@en
+Q207694	P17	Q4209223	1	'art museum'@en	'country'@en	'Rechtsstaat'@en
+Q207694	P17	Q619610	1	'art museum'@en	'country'@en	'social state'@en
+Q207694	P17	Q63791824	1	'art museum'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q207694	P17	Q7270	1	'art museum'@en	'country'@en	'republic'@en
+Q2087181	P17	Q1489259	1	'historic house museum'@en	'country'@en	'superpower'@en
+Q2087181	P17	Q1520223	1	'historic house museum'@en	'country'@en	'constitutional republic'@en
+Q2087181	P17	Q512187	1	'historic house museum'@en	'country'@en	'federal republic'@en
+Q2087181	P17	Q5255892	1	'historic house museum'@en	'country'@en	'democratic republic'@en
+Q2087181	P17	Q99541706	1	'historic house museum'@en	'country'@en	'historical unrecognized state'@en
+Q210272	P17	Q1489259	1	'cultural heritage'@en	'country'@en	'superpower'@en
+Q210272	P17	Q1520223	1	'cultural heritage'@en	'country'@en	'constitutional republic'@en
+Q210272	P17	Q20181813	1	'cultural heritage'@en	'country'@en	'colonial power'@en
+Q210272	P17	Q512187	1	'cultural heritage'@en	'country'@en	'federal republic'@en
+Q210272	P17	Q5255892	1	'cultural heritage'@en	'country'@en	'democratic republic'@en
+Q210272	P17	Q99541706	1	'cultural heritage'@en	'country'@en	'historical unrecognized state'@en
+Q213441	P17	Q20181813	1	'shop'@en	'country'@en	'colonial power'@en
+Q213441	P17	Q3624078	1	'shop'@en	'country'@en	'sovereign state'@en
+Q213441	P17	Q6256	1	'shop'@en	'country'@en	'country'@en
+Q2319498	P17	Q1489259	1	'landmark'@en	'country'@en	'superpower'@en
+Q2319498	P17	Q1520223	1	'landmark'@en	'country'@en	'constitutional republic'@en
+Q2319498	P17	Q3624078	1	'landmark'@en	'country'@en	'sovereign state'@en
+Q2319498	P17	Q512187	1	'landmark'@en	'country'@en	'federal republic'@en
+Q2319498	P17	Q5255892	1	'landmark'@en	'country'@en	'democratic republic'@en
+Q2319498	P17	Q6256	1	'landmark'@en	'country'@en	'country'@en
+Q2319498	P17	Q99541706	1	'landmark'@en	'country'@en	'historical unrecognized state'@en
+Q23413	P17	Q41614	1	'castle'@en	'country'@en	'constitutional monarchy'@en
+Q274153	P17	Q112099	1	'water tower'@en	'country'@en	'island nation'@en
+Q274153	P17	Q1250464	1	'water tower'@en	'country'@en	'realm'@en
+Q274153	P17	Q20181813	1	'water tower'@en	'country'@en	'colonial power'@en
+Q274153	P17	Q202686	1	'water tower'@en	'country'@en	'Commonwealth realm'@en
+Q274153	P17	Q3624078	1	'water tower'@en	'country'@en	'sovereign state'@en
+Q274153	P17	Q6256	1	'water tower'@en	'country'@en	'country'@en
+Q2772772	P17	Q112099	1	'military museum'@en	'country'@en	'island nation'@en
+Q2772772	P17	Q3624078	1	'military museum'@en	'country'@en	'sovereign state'@en
+Q2772772	P17	Q6256	1	'military museum'@en	'country'@en	'country'@en
+Q33506	P17	Q1250464	1	'museum'@en	'country'@en	'realm'@en
+Q33506	P17	Q15304003	1	'museum'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q33506	P17	Q185441	1	'museum'@en	'country'@en	'member state of the european union'@en
+Q33506	P17	Q20181813	1	'museum'@en	'country'@en	'colonial power'@en
+Q33506	P17	Q202686	1	'museum'@en	'country'@en	'Commonwealth realm'@en
+Q33506	P17	Q223832	1	'museum'@en	'country'@en	'dominion of the British Empire'@en
+Q3681673	P17	Q1489259	1	'private club'@en	'country'@en	'superpower'@en
+Q3681673	P17	Q1520223	1	'private club'@en	'country'@en	'constitutional republic'@en
+Q3681673	P17	Q3624078	1	'private club'@en	'country'@en	'sovereign state'@en
+Q3681673	P17	Q512187	1	'private club'@en	'country'@en	'federal republic'@en
+Q3681673	P17	Q5255892	1	'private club'@en	'country'@en	'democratic republic'@en
+Q3681673	P17	Q6256	1	'private club'@en	'country'@en	'country'@en
+Q3681673	P17	Q99541706	1	'private club'@en	'country'@en	'historical unrecognized state'@en
+Q3914	P17	Q112099	1	'school'@en	'country'@en	'island nation'@en
+Q3914	P17	Q1250464	1	'school'@en	'country'@en	'realm'@en
+Q3914	P17	Q20181813	1	'school'@en	'country'@en	'colonial power'@en
+Q3914	P17	Q202686	1	'school'@en	'country'@en	'Commonwealth realm'@en
+Q3914	P17	Q3624078	1	'school'@en	'country'@en	'sovereign state'@en
+Q3914	P17	Q6256	1	'school'@en	'country'@en	'country'@en
+Q3947	P17	Q1351282	1	'house'@en	'country'@en	'crown colony'@en
+Q3947	P17	Q15634554	1	'house'@en	'country'@en	'state with limited recognition'@en
+Q3947	P17	Q185145	1	'house'@en	'country'@en	'great power'@en
+Q3947	P17	Q23442	1	'house'@en	'country'@en	'island'@en
+Q3947	P17	Q33837	1	'house'@en	'country'@en	'archipelago'@en
+Q3947	P17	Q6266	1	'house'@en	'country'@en	'nation'@en
+Q3947	P17	Q63438000	1	'house'@en	'country'@en	'climate emergency declaration'@en
+Q3947	P17	Q66724388	1	'house'@en	'country'@en	'autonomous country within the Kingdom of Denmark'@en
+Q3947	P17	Q7275	1	'house'@en	'country'@en	'state'@en
+Q41176	P17	Q179164	1	'building'@en	'country'@en	'unitary state'@en
+Q41176	P17	Q4209223	1	'building'@en	'country'@en	'Rechtsstaat'@en
+Q41176	P17	Q51576574	1	'building'@en	'country'@en	'Mediterranean country'@en
+Q41176	P17	Q619610	1	'building'@en	'country'@en	'social state'@en
+Q43229	P17	Q1250464	1	'organization'@en	'country'@en	'realm'@en
+Q43229	P17	Q185441	1	'organization'@en	'country'@en	'member state of the european union'@en
+Q43229	P17	Q20181813	1	'organization'@en	'country'@en	'colonial power'@en
+Q43229	P17	Q3624078	1	'organization'@en	'country'@en	'sovereign state'@en
+Q43229	P17	Q43702	1	'organization'@en	'country'@en	'federation'@en
+Q43229	P17	Q6256	1	'organization'@en	'country'@en	'country'@en
+Q489357	P17	Q112099	1	'farmhouse'@en	'country'@en	'island nation'@en
+Q489357	P17	Q1250464	1	'farmhouse'@en	'country'@en	'realm'@en
+Q489357	P17	Q20181813	1	'farmhouse'@en	'country'@en	'colonial power'@en
+Q489357	P17	Q202686	1	'farmhouse'@en	'country'@en	'Commonwealth realm'@en
+Q489357	P17	Q3624078	1	'farmhouse'@en	'country'@en	'sovereign state'@en
+Q489357	P17	Q6256	1	'farmhouse'@en	'country'@en	'country'@en
+Q54934129	P17	Q1489259	1	'African-American museum'@en	'country'@en	'superpower'@en
+Q54934129	P17	Q1520223	1	'African-American museum'@en	'country'@en	'constitutional republic'@en
+Q54934129	P17	Q3624078	1	'African-American museum'@en	'country'@en	'sovereign state'@en
+Q54934129	P17	Q512187	1	'African-American museum'@en	'country'@en	'federal republic'@en
+Q54934129	P17	Q5255892	1	'African-American museum'@en	'country'@en	'democratic republic'@en
+Q54934129	P17	Q6256	1	'African-American museum'@en	'country'@en	'country'@en
+Q54934129	P17	Q99541706	1	'African-American museum'@en	'country'@en	'historical unrecognized state'@en
+Q570116	P17	Q1489259	1	'tourist attraction'@en	'country'@en	'superpower'@en
+Q570116	P17	Q1520223	1	'tourist attraction'@en	'country'@en	'constitutional republic'@en
+Q570116	P17	Q3624078	1	'tourist attraction'@en	'country'@en	'sovereign state'@en
+Q570116	P17	Q512187	1	'tourist attraction'@en	'country'@en	'federal republic'@en
+Q570116	P17	Q5255892	1	'tourist attraction'@en	'country'@en	'democratic republic'@en
+Q570116	P17	Q6256	1	'tourist attraction'@en	'country'@en	'country'@en
+Q570116	P17	Q99541706	1	'tourist attraction'@en	'country'@en	'historical unrecognized state'@en
+Q64578911	P17	Q112099	1	'former hospital'@en	'country'@en	'island nation'@en
+Q64578911	P17	Q1250464	1	'former hospital'@en	'country'@en	'realm'@en
+Q64578911	P17	Q20181813	1	'former hospital'@en	'country'@en	'colonial power'@en
+Q64578911	P17	Q202686	1	'former hospital'@en	'country'@en	'Commonwealth realm'@en
+Q64578911	P17	Q3624078	1	'former hospital'@en	'country'@en	'sovereign state'@en
+Q64578911	P17	Q6256	1	'former hospital'@en	'country'@en	'country'@en
+Q80446812	P17	Q112099	1	'motte'@en	'country'@en	'island nation'@en
+Q80446812	P17	Q1250464	1	'motte'@en	'country'@en	'realm'@en
+Q80446812	P17	Q20181813	1	'motte'@en	'country'@en	'colonial power'@en
+Q80446812	P17	Q202686	1	'motte'@en	'country'@en	'Commonwealth realm'@en
+Q80446812	P17	Q3624078	1	'motte'@en	'country'@en	'sovereign state'@en
+Q80446812	P17	Q6256	1	'motte'@en	'country'@en	'country'@en
+Q811979	P17	Q112099	1	'architectural structure'@en	'country'@en	'island nation'@en
+Q811979	P17	Q1250464	1	'architectural structure'@en	'country'@en	'realm'@en
+Q811979	P17	Q20181813	1	'architectural structure'@en	'country'@en	'colonial power'@en
+Q811979	P17	Q202686	1	'architectural structure'@en	'country'@en	'Commonwealth realm'@en
+Q811979	P17	Q3624078	1	'architectural structure'@en	'country'@en	'sovereign state'@en
+Q811979	P17	Q6256	1	'architectural structure'@en	'country'@en	'country'@en
+Q847950	P17	Q1489259	1	'dormitory'@en	'country'@en	'superpower'@en
+Q847950	P17	Q1520223	1	'dormitory'@en	'country'@en	'constitutional republic'@en
+Q847950	P17	Q3624078	1	'dormitory'@en	'country'@en	'sovereign state'@en
+Q847950	P17	Q512187	1	'dormitory'@en	'country'@en	'federal republic'@en
+Q847950	P17	Q5255892	1	'dormitory'@en	'country'@en	'democratic republic'@en
+Q847950	P17	Q6256	1	'dormitory'@en	'country'@en	'country'@en
+Q847950	P17	Q99541706	1	'dormitory'@en	'country'@en	'historical unrecognized state'@en
+Q3947	P1889	Q3947	2	'house'@en	'different from'@en	'house'@en
+Q2319498	P1889	Q15852732	1	'landmark'@en	'different from'@en	
+Q23413	P1889	Q3947	1	'castle'@en	'different from'@en	'house'@en
+Q3947	P1889	Q15852732	1	'house'@en	'different from'@en	
+Q3947	P1889	Q185113	1	'house'@en	'different from'@en	'cape'@en
+Q3947	P1889	Q41176	1	'house'@en	'different from'@en	'building'@en
+Q3947	P1889	Q515	1	'house'@en	'different from'@en	'city'@en
+Q570116	P1889	Q15852732	1	'tourist attraction'@en	'different from'@en	
+Q80446812	P1889	Q3947	1	'motte'@en	'different from'@en	'house'@en
+Q3947	P193	Q5	2	'house'@en	'main building contractor'@en	'human'@en
+Q26989049	P2079	Q811906	1	'National Historic Site Administered by Parks Canada'@en	'fabrication method'@en	'construction technique'@en
+Q3947	P2079	Q811906	1	'house'@en	'fabrication method'@en	'construction technique'@en
+Q11042	P2341	Q5007997	1	'culture'@en	'indigenous to'@en	'special region of Indonesia'@en
+Q11042	P2341	Q5098	1	'culture'@en	'indigenous to'@en	'province of Indonesia'@en
+Q3947	P2341	Q5007997	1	'house'@en	'indigenous to'@en	'special region of Indonesia'@en
+Q3947	P2341	Q5098	1	'house'@en	'indigenous to'@en	'province of Indonesia'@en
+Q3947	P2596	Q465299	1	'house'@en	'culture'@en	'archaeological culture'@en
+Q3947	P2596	Q55208590	1	'house'@en	'culture'@en	'extinct human group'@en
+Q3947	P2596	Q8432	1	'house'@en	'culture'@en	'civilization'@en
+Q3947	P276	Q1549591	12	'house'@en	'location'@en	'big city'@en
+Q3947	P276	Q515	12	'house'@en	'location'@en	'city'@en
+Q3947	P276	Q532	9	'house'@en	'location'@en	'village'@en
+Q3947	P276	Q17343829	8	'house'@en	'location'@en	'unincorporated community in the United States'@en
+Q3947	P276	Q188509	7	'house'@en	'location'@en	'suburb'@en
+Q3947	P276	Q3957	7	'house'@en	'location'@en	'town'@en
+Q3947	P276	Q5119	5	'house'@en	'location'@en	'capital'@en
+Q3947	P276	Q104630835	4	'house'@en	'location'@en	'Scottish county of city'@en
+Q3947	P276	Q1115575	4	'house'@en	'location'@en	'civil parish'@en
+Q3947	P276	Q1187811	4	'house'@en	'location'@en	'college town'@en
+Q3947	P276	Q1852859	4	'house'@en	'location'@en	'populated place in the Netherlands'@en
+Q3947	P276	Q202435	4	'house'@en	'location'@en	'lieutenancy area of Scotland'@en
+Q3947	P276	Q498162	4	'house'@en	'location'@en	'census-designated place'@en
+Q3947	P276	Q1093829	3	'house'@en	'location'@en	'city of the United States'@en
+Q3947	P276	Q123705	3	'house'@en	'location'@en	'neighborhood'@en
+Q3947	P276	Q2755753	3	'house'@en	'location'@en	'area of London'@en
+Q3947	P276	Q486972	3	'house'@en	'location'@en	'human settlement'@en
+Q3947	P276	Q5084	3	'house'@en	'location'@en	'hamlet'@en
+Q3947	P276	Q7897276	3	'house'@en	'location'@en	'unparished area'@en
+Q27686	P276	Q515	2	'hotel'@en	'location'@en	'city'@en
+Q3947	P276	Q13539802	2	'house'@en	'location'@en	'place with town rights and privileges'@en
+Q3947	P276	Q3257686	2	'house'@en	'location'@en	'locality'@en
+Q11707	P276	Q3957	1	'restaurant'@en	'location'@en	'town'@en
+Q1244442	P276	Q1195098	1	'school building'@en	'location'@en	'ward'@en
+Q1244442	P276	Q532	1	'school building'@en	'location'@en	'village'@en
+Q16560	P276	Q1067867	1	'palace'@en	'location'@en	'Sestiere of Venice'@en
+Q16884952	P276	Q5084	1	'country house'@en	'location'@en	'hamlet'@en
+Q180174	P276	Q532	1	'folly'@en	'location'@en	'village'@en
+Q18761864	P276	Q104630835	1	'bank building'@en	'location'@en	'Scottish county of city'@en
+Q18761864	P276	Q1187811	1	'bank building'@en	'location'@en	'college town'@en
+Q18761864	P276	Q1549591	1	'bank building'@en	'location'@en	'big city'@en
+Q18761864	P276	Q202435	1	'bank building'@en	'location'@en	'lieutenancy area of Scotland'@en
+Q18761864	P276	Q5119	1	'bank building'@en	'location'@en	'capital'@en
+Q18761864	P276	Q515	1	'bank building'@en	'location'@en	'city'@en
+Q207694	P276	Q253019	1	'art museum'@en	'location'@en	'Ortsteil'@en
+Q2087181	P276	Q498162	1	'historic house museum'@en	'location'@en	'census-designated place'@en
+Q210272	P276	Q1131296	1	'cultural heritage'@en	'location'@en	'freguesia of Portugal'@en
+Q210272	P276	Q3257686	1	'cultural heritage'@en	'location'@en	'locality'@en
+Q213441	P276	Q1131296	1	'shop'@en	'location'@en	'freguesia of Portugal'@en
+Q213441	P276	Q3257686	1	'shop'@en	'location'@en	'locality'@en
+Q23413	P276	Q1115575	1	'castle'@en	'location'@en	'civil parish'@en
+Q23413	P276	Q3957	1	'castle'@en	'location'@en	'town'@en
+Q23413	P276	Q7543008	1	'castle'@en	'location'@en	'small burgh'@en
+Q26989049	P276	Q188509	1	'National Historic Site Administered by Parks Canada'@en	'location'@en	'suburb'@en
+Q274153	P276	Q532	1	'water tower'@en	'location'@en	'village'@en
+Q27686	P276	Q1549591	1	'hotel'@en	'location'@en	'big city'@en
+Q27686	P276	Q532	1	'hotel'@en	'location'@en	'village'@en
+Q27686	P276	Q7897276	1	'hotel'@en	'location'@en	'unparished area'@en
+Q3947	P276	Q1067867	1	'house'@en	'location'@en	'Sestiere of Venice'@en
+Q3947	P276	Q1131296	1	'house'@en	'location'@en	'freguesia of Portugal'@en
+Q3947	P276	Q1195098	1	'house'@en	'location'@en	'ward'@en
+Q3947	P276	Q14762300	1	'house'@en	'location'@en	'single-tier municipality'@en
+Q3947	P276	Q15127012	1	'house'@en	'location'@en	'town of the United States'@en
+Q3947	P276	Q1637706	1	'house'@en	'location'@en	'million city'@en
+Q3947	P276	Q185113	1	'house'@en	'location'@en	'cape'@en
+Q3947	P276	Q191992	1	'house'@en	'location'@en	'headland'@en
+Q3947	P276	Q2039348	1	'house'@en	'location'@en	'municipality of the Netherlands'@en
+Q3947	P276	Q207934	1	'house'@en	'location'@en	'allée'@en
+Q3947	P276	Q2179958	1	'house'@en	'location'@en	'district of Peru'@en
+Q3947	P276	Q2264924	1	'house'@en	'location'@en	'port settlement'@en
+Q3947	P276	Q253019	1	'house'@en	'location'@en	'Ortsteil'@en
+Q3947	P276	Q269528	1	'house'@en	'location'@en	'unincorporated area'@en
+Q3947	P276	Q3477348	1	'house'@en	'location'@en	'urban area'@en
+Q3947	P276	Q50330360	1	'house'@en	'location'@en	'second largest city'@en
+Q3947	P276	Q59341087	1	'house'@en	'location'@en	'town in Nova Scotia'@en
+Q3947	P276	Q62049	1	'house'@en	'location'@en	'county seat'@en
+Q3947	P276	Q63440326	1	'house'@en	'location'@en	'city of Oregon'@en
+Q3947	P276	Q6593035	1	'house'@en	'location'@en	'separated municipality in Ontario'@en
+Q3947	P276	Q7268334	1	'house'@en	'location'@en	'quadrant of Washington, D.C.'@en
+Q3947	P276	Q751708	1	'house'@en	'location'@en	'village in the United States'@en
+Q3947	P276	Q7543008	1	'house'@en	'location'@en	'small burgh'@en
+Q3947	P276	Q902814	1	'house'@en	'location'@en	'border town'@en
+Q41176	P276	Q1549591	1	'building'@en	'location'@en	'big city'@en
+Q41176	P276	Q1637706	1	'building'@en	'location'@en	'million city'@en
+Q41176	P276	Q5119	1	'building'@en	'location'@en	'capital'@en
+Q41176	P276	Q515	1	'building'@en	'location'@en	'city'@en
+Q489357	P276	Q5084	1	'farmhouse'@en	'location'@en	'hamlet'@en
+Q64578911	P276	Q1115575	1	'former hospital'@en	'location'@en	'civil parish'@en
+Q64578911	P276	Q188509	1	'former hospital'@en	'location'@en	'suburb'@en
+Q80446812	P276	Q3957	1	'motte'@en	'location'@en	'town'@en
+Q80446812	P276	Q7543008	1	'motte'@en	'location'@en	'small burgh'@en
+Q3947	P2789	Q5264414	9	'house'@en	'connects with'@en	'designed landscape'@en
+Q16884952	P2789	Q5264414	1	'country house'@en	'connects with'@en	'designed landscape'@en
+Q16884952	P2789	Q84179699	1	'country house'@en	'connects with'@en	'landscape park'@en
+Q3947	P2789	Q84179699	1	'house'@en	'connects with'@en	'landscape park'@en
+Q3947	P2817	Q13406463	4	'house'@en	'appears in the heritage monument list'@en	'Wikimedia list article'@en
+Q3681673	P2817	Q13406463	1	'private club'@en	'appears in the heritage monument list'@en	'Wikimedia list article'@en
+Q3947	P2817	Q12139612	1	'house'@en	'appears in the heritage monument list'@en	'list'@en
+Q3947	P287	Q5	1	'house'@en	'designed by'@en	'human'@en
+Q3947	P30	Q5107	8	'house'@en	'continent'@en	'continent'@en
+Q3947	P30	Q855697	8	'house'@en	'continent'@en	'subcontinent'@en
+Q3947	P3018	Q15836337	2	'house'@en	'located in protected area'@en	'National Historical Park'@en
+Q3947	P3018	Q109267960	1	'house'@en	'located in protected area'@en	'national park'@en
+Q3947	P3018	Q2006279	1	'house'@en	'located in protected area'@en	'provincial park of Canada'@en
+Q3947	P3018	Q3343298	1	'house'@en	'located in protected area'@en	'non-departmental public body'@en
+Q3947	P3018	Q46169	1	'house'@en	'located in protected area'@en	'national park'@en
+Q3947	P3018	Q893775	1	'house'@en	'located in protected area'@en	'National Monument of the United States'@en
+Q3947	P361	Q15243209	19	'house'@en	'part of'@en	'historic district'@en
+Q2087181	P361	Q15243209	2	'historic house museum'@en	'part of'@en	'historic district'@en
+Q3947	P361	Q123705	2	'house'@en	'part of'@en	'neighborhood'@en
+Q3947	P361	Q1497375	2	'house'@en	'part of'@en	'architectural ensemble'@en
+Q207694	P361	Q676050	1	'art museum'@en	'part of'@en	'old town'@en
+Q26989049	P361	Q15243209	1	'National Historic Site Administered by Parks Canada'@en	'part of'@en	'historic district'@en
+Q3947	P361	Q1129474	1	'house'@en	'part of'@en	'cultural landscape'@en
+Q3947	P361	Q1258086	1	'house'@en	'part of'@en	'National Historic Site'@en
+Q3947	P361	Q16970	1	'house'@en	'part of'@en	'church building'@en
+Q3947	P361	Q2116450	1	'house'@en	'part of'@en	'manor estate'@en
+Q3947	P361	Q22698	1	'house'@en	'part of'@en	'park'@en
+Q3947	P361	Q3477348	1	'house'@en	'part of'@en	'urban area'@en
+Q3947	P361	Q41176	1	'house'@en	'part of'@en	'building'@en
+Q3947	P361	Q55237813	1	'house'@en	'part of'@en	'village of New York'@en
+Q3947	P361	Q676050	1	'house'@en	'part of'@en	'old town'@en
+Q3947	P361	Q751708	1	'house'@en	'part of'@en	'village in the United States'@en
+Q3947	P361	Q811979	1	'house'@en	'part of'@en	'architectural structure'@en
+Q54934129	P361	Q15243209	1	'African-American museum'@en	'part of'@en	'historic district'@en
+Q847950	P361	Q15243209	1	'dormitory'@en	'part of'@en	'historic district'@en
+Q3947	P366	Q63982911	1	'house'@en	'has use'@en	'type of museum'@en
+Q3947	P421	Q12143	4	'house'@en	'located in time zone'@en	'time zone'@en
+Q3947	P421	Q17272482	2	'house'@en	'located in time zone'@en	'time zone named for a UTC offset'@en
+Q210272	P421	Q12143	1	'cultural heritage'@en	'located in time zone'@en	'time zone'@en
+Q213441	P421	Q12143	1	'shop'@en	'located in time zone'@en	'time zone'@en
+Q3947	P463	Q43229	1	'house'@en	'member of'@en	'organization'@en
+Q3947	P466	Q5	5	'house'@en	'occupant'@en	'human'@en
+Q1244442	P466	Q1972829	1	'school building'@en	'occupant'@en	'public school'@en
+Q1244442	P466	Q2418495	1	'school building'@en	'occupant'@en	'independent school'@en
+Q1244442	P466	Q269770	1	'school building'@en	'occupant'@en	'boarding school'@en
+Q18761864	P466	Q22687	1	'bank building'@en	'occupant'@en	'bank'@en
+Q18761864	P466	Q4830453	1	'bank building'@en	'occupant'@en	'business'@en
+Q18761864	P466	Q650241	1	'bank building'@en	'occupant'@en	'financial institution'@en
+Q18761864	P466	Q6881511	1	'bank building'@en	'occupant'@en	'enterprise'@en
+Q2087181	P466	Q5	1	'historic house museum'@en	'occupant'@en	'human'@en
+Q26989049	P466	Q5	1	'National Historic Site Administered by Parks Canada'@en	'occupant'@en	'human'@en
+Q3947	P466	Q1972829	1	'house'@en	'occupant'@en	'public school'@en
+Q3947	P466	Q22687	1	'house'@en	'occupant'@en	'bank'@en
+Q3947	P466	Q2418495	1	'house'@en	'occupant'@en	'independent school'@en
+Q3947	P466	Q269770	1	'house'@en	'occupant'@en	'boarding school'@en
+Q3947	P466	Q4830453	1	'house'@en	'occupant'@en	'business'@en
+Q3947	P466	Q650241	1	'house'@en	'occupant'@en	'financial institution'@en
+Q3947	P466	Q6881511	1	'house'@en	'occupant'@en	'enterprise'@en
+Q3947	P47	Q1115575	1	'house'@en	'shares border with'@en	'civil parish'@en
+Q3947	P47	Q532	1	'house'@en	'shares border with'@en	'village'@en
+Q11042	P495	Q112099	1	'culture'@en	'country of origin'@en	'island nation'@en
+Q11042	P495	Q13107770	1	'culture'@en	'country of origin'@en	'archipelagic state'@en
+Q11042	P495	Q1520223	1	'culture'@en	'country of origin'@en	'constitutional republic'@en
+Q11042	P495	Q3624078	1	'culture'@en	'country of origin'@en	'sovereign state'@en
+Q11042	P495	Q49892	1	'culture'@en	'country of origin'@en	'presidential system'@en
+Q11042	P495	Q6256	1	'culture'@en	'country of origin'@en	'country'@en
+Q11042	P495	Q99541706	1	'culture'@en	'country of origin'@en	'historical unrecognized state'@en
+Q3947	P495	Q112099	1	'house'@en	'country of origin'@en	'island nation'@en
+Q3947	P495	Q13107770	1	'house'@en	'country of origin'@en	'archipelagic state'@en
+Q3947	P495	Q1520223	1	'house'@en	'country of origin'@en	'constitutional republic'@en
+Q3947	P495	Q3624078	1	'house'@en	'country of origin'@en	'sovereign state'@en
+Q3947	P495	Q49892	1	'house'@en	'country of origin'@en	'presidential system'@en
+Q3947	P495	Q6256	1	'house'@en	'country of origin'@en	'country'@en
+Q3947	P495	Q99541706	1	'house'@en	'country of origin'@en	'historical unrecognized state'@en
+Q1343246	P5008	Q51539995	1	'English country house'@en	'on focus list of Wikimedia project'@en	'WikiProject focus list'@en
+Q3947	P5008	Q16695773	1	'house'@en	'on focus list of Wikimedia project'@en	'WikiProject'@en
+Q3947	P5008	Q51539995	1	'house'@en	'on focus list of Wikimedia project'@en	'WikiProject focus list'@en
+Q3947	P527	Q4989906	1	'house'@en	'has part or parts'@en	'monument'@en
+Q3947	P527	Q7328910	1	'house'@en	'has part or parts'@en	'art collection'@en
+Q3947	P5816	Q55553838	6	'house'@en	'state of conservation'@en	'conservation state'@en
+Q23413	P5816	Q55553838	1	'castle'@en	'state of conservation'@en	'conservation state'@en
+Q80446812	P5816	Q55553838	1	'motte'@en	'state of conservation'@en	'conservation state'@en
+Q3947	P669	Q79007	15	'house'@en	'located on street'@en	'street'@en
+Q3947	P669	Q7543083	3	'house'@en	'located on street'@en	'avenue'@en
+Q33506	P669	Q79007	2	'museum'@en	'located on street'@en	'street'@en
+Q3947	P669	Q34442	2	'house'@en	'located on street'@en	'road'@en
+Q2065736	P669	Q79007	1	'cultural property'@en	'located on street'@en	'street'@en
+Q2087181	P669	Q7543083	1	'historic house museum'@en	'located on street'@en	'avenue'@en
+Q26989049	P669	Q7543083	1	'National Historic Site Administered by Parks Canada'@en	'located on street'@en	'avenue'@en
+Q33506	P669	Q523166	1	'museum'@en	'located on street'@en	'gracht'@en
+Q3947	P669	Q5004679	1	'house'@en	'located on street'@en	'path'@en
+Q3947	P669	Q523166	1	'house'@en	'located on street'@en	'gracht'@en
+Q3947	P669	Q907698	1	'house'@en	'located on street'@en	'prospekt'@en
+Q41176	P669	Q7543083	1	'building'@en	'located on street'@en	'avenue'@en
+Q41176	P669	Q907698	1	'building'@en	'located on street'@en	'prospekt'@en
+Q43229	P669	Q79007	1	'organization'@en	'located on street'@en	'street'@en
+Q3947	P706	Q23442	2	'house'@en	'located in/on physical feature'@en	'island'@en
+Q16884952	P706	Q23442	1	'country house'@en	'located in/on physical feature'@en	'island'@en
+Q3947	P706	Q162602	1	'house'@en	'located in/on physical feature'@en	'river island'@en
+Q3947	P706	Q34763	1	'house'@en	'located in/on physical feature'@en	'peninsula'@en
+Q3947	P706	Q39816	1	'house'@en	'located in/on physical feature'@en	'valley'@en
+Q3947	P706	Q82794	1	'house'@en	'located in/on physical feature'@en	'geographic region'@en
+Q3947	P7561	Q4167836	4	'house'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q1107656	P7561	Q4167836	1	'garden'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q33506	P7561	Q4167836	1	'museum'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q43229	P7561	Q4167836	1	'organization'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q3947	P793	Q3958441	5	'house'@en	'significant event'@en	'economic sector'@en
+Q3947	P793	Q8187769	5	'house'@en	'significant event'@en	'economic activity'@en
+Q26989049	P793	Q3958441	2	'National Historic Site Administered by Parks Canada'@en	'significant event'@en	'economic sector'@en
+Q26989049	P793	Q8187769	2	'National Historic Site Administered by Parks Canada'@en	'significant event'@en	'economic activity'@en
+Q3947	P793	Q1190554	2	'house'@en	'significant event'@en	'occurrence'@en
+Q2087181	P793	Q3958441	1	'historic house museum'@en	'significant event'@en	'economic sector'@en
+Q2087181	P793	Q8187769	1	'historic house museum'@en	'significant event'@en	'economic activity'@en
+Q3947	P793	Q15097084	1	'house'@en	'significant event'@en	'heritage register'@en
+Q3947	P793	Q22222786	1	'house'@en	'significant event'@en	'government program'@en
+Q3947	P7959	Q1138494	136	'house'@en	'historic county'@en	'historic county of England'@en
+Q3947	P7959	Q1350181	28	'house'@en	'historic county'@en	'shire of Scotland'@en
+Q3947	P7959	Q67376938	28	'house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q3947	P7959	Q7309443	16	'house'@en	'historic county'@en	'registration county'@en
+Q3947	P7959	Q2991489	9	'house'@en	'historic county'@en	'county palatine'@en
+Q3947	P7959	Q202435	8	'house'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q27686	P7959	Q1138494	3	'hotel'@en	'historic county'@en	'historic county of England'@en
+Q3947	P7959	Q179872	3	'house'@en	'historic county'@en	'county of Ireland'@en
+Q3947	P7959	Q7925010	3	'house'@en	'historic county'@en	'vice-county'@en
+Q16884952	P7959	Q1350181	2	'country house'@en	'historic county'@en	'shire of Scotland'@en
+Q16884952	P7959	Q67376938	2	'country house'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q16884952	P7959	Q7309443	2	'country house'@en	'historic county'@en	'registration county'@en
+Q3947	P7959	Q21457810	2	'house'@en	'historic county'@en	'Scottish district'@en
+Q1021645	P7959	Q1138494	1	'office building'@en	'historic county'@en	'historic county of England'@en
+Q1021645	P7959	Q2991489	1	'office building'@en	'historic county'@en	'county palatine'@en
+Q1107656	P7959	Q1138494	1	'garden'@en	'historic county'@en	'historic county of England'@en
+Q11707	P7959	Q1138494	1	'restaurant'@en	'historic county'@en	'historic county of England'@en
+Q1244442	P7959	Q1138494	1	'school building'@en	'historic county'@en	'historic county of England'@en
+Q1343246	P7959	Q1138494	1	'English country house'@en	'historic county'@en	'historic county of England'@en
+Q180174	P7959	Q1138494	1	'folly'@en	'historic county'@en	'historic county of England'@en
+Q18761864	P7959	Q1350181	1	'bank building'@en	'historic county'@en	'shire of Scotland'@en
+Q18761864	P7959	Q67376938	1	'bank building'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q23413	P7959	Q1138494	1	'castle'@en	'historic county'@en	'historic county of England'@en
+Q23413	P7959	Q1350181	1	'castle'@en	'historic county'@en	'shire of Scotland'@en
+Q23413	P7959	Q202435	1	'castle'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q23413	P7959	Q67376938	1	'castle'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q23413	P7959	Q7309443	1	'castle'@en	'historic county'@en	'registration county'@en
+Q274153	P7959	Q1138494	1	'water tower'@en	'historic county'@en	'historic county of England'@en
+Q2772772	P7959	Q179872	1	'military museum'@en	'historic county'@en	'county of Ireland'@en
+Q3914	P7959	Q1138494	1	'school'@en	'historic county'@en	'historic county of England'@en
+Q3914	P7959	Q2991489	1	'school'@en	'historic county'@en	'county palatine'@en
+Q3947	P7959	Q15060255	1	'house'@en	'historic county'@en	'Scottish council area'@en
+Q3947	P7959	Q33837	1	'house'@en	'historic county'@en	'archipelago'@en
+Q3947	P7959	Q6083725	1	'house'@en	'historic county'@en	'Scottish islands area'@en
+Q489357	P7959	Q1138494	1	'farmhouse'@en	'historic county'@en	'historic county of England'@en
+Q64578911	P7959	Q1138494	1	'former hospital'@en	'historic county'@en	'historic county of England'@en
+Q80446812	P7959	Q1350181	1	'motte'@en	'historic county'@en	'shire of Scotland'@en
+Q80446812	P7959	Q202435	1	'motte'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q80446812	P7959	Q67376938	1	'motte'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q80446812	P7959	Q7309443	1	'motte'@en	'historic county'@en	'registration county'@en
+Q811979	P7959	Q1138494	1	'architectural structure'@en	'historic county'@en	'historic county of England'@en
+Q3947	P84	Q5	78	'house'@en	'architect'@en	'human'@en
+Q3947	P84	Q4387609	10	'house'@en	'architect'@en	'architectural firm'@en
+Q33506	P84	Q5	2	'museum'@en	'architect'@en	'human'@en
+Q41176	P84	Q5	2	'building'@en	'architect'@en	'human'@en
+Q1021645	P84	Q5	1	'office building'@en	'architect'@en	'human'@en
+Q16884952	P84	Q5	1	'country house'@en	'architect'@en	'human'@en
+Q180174	P84	Q5	1	'folly'@en	'architect'@en	'human'@en
+Q18761864	P84	Q5	1	'bank building'@en	'architect'@en	'human'@en
+Q274153	P84	Q5	1	'water tower'@en	'architect'@en	'human'@en
+Q3914	P84	Q5	1	'school'@en	'architect'@en	'human'@en
+Q43229	P84	Q5	1	'organization'@en	'architect'@en	'human'@en
+Q3947	P88	Q5	9	'house'@en	'commissioned by'@en	'human'@en
+Q2772772	P88	Q5	1	'military museum'@en	'commissioned by'@en	'human'@en
+Q3947	P8933	Q4167836	1	'house'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q3947	P910	Q4167836	5	'house'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q3947	P1014	external-id	1	'house'@en	'Art & Architecture Thesaurus ID'@en	
+Q2065736	P10217	external-id	1	'cultural property'@en	'Oslo Byleksikon ID'@en	
+Q3947	P10217	external-id	1	'house'@en	'Oslo Byleksikon ID'@en	
+Q33506	P10283	external-id	1	'museum'@en	'OpenAlex ID'@en	
+Q3947	P10283	external-id	1	'house'@en	'OpenAlex ID'@en	
+Q3947	P1101	quantity	23	'house'@en	'floors above ground'@en	
+Q207694	P1207	external-id	1	'art museum'@en	'NUKAT ID'@en	
+Q3947	P1207	external-id	1	'house'@en	'NUKAT ID'@en	
+Q3947	P1216	external-id	123	'house'@en	'National Heritage List for England number'@en	
+Q27686	P1216	external-id	3	'hotel'@en	'National Heritage List for England number'@en	
+Q1021645	P1216	external-id	1	'office building'@en	'National Heritage List for England number'@en	
+Q1107656	P1216	external-id	1	'garden'@en	'National Heritage List for England number'@en	
+Q11707	P1216	external-id	1	'restaurant'@en	'National Heritage List for England number'@en	
+Q1244442	P1216	external-id	1	'school building'@en	'National Heritage List for England number'@en	
+Q1343246	P1216	external-id	1	'English country house'@en	'National Heritage List for England number'@en	
+Q180174	P1216	external-id	1	'folly'@en	'National Heritage List for England number'@en	
+Q23413	P1216	external-id	1	'castle'@en	'National Heritage List for England number'@en	
+Q274153	P1216	external-id	1	'water tower'@en	'National Heritage List for England number'@en	
+Q3914	P1216	external-id	1	'school'@en	'National Heritage List for England number'@en	
+Q489357	P1216	external-id	1	'farmhouse'@en	'National Heritage List for England number'@en	
+Q64578911	P1216	external-id	1	'former hospital'@en	'National Heritage List for England number'@en	
+Q811979	P1216	external-id	1	'architectural structure'@en	'National Heritage List for England number'@en	
+Q1081138	P1225	external-id	1	'historic site'@en	'U.S. National Archives Identifier'@en	
+Q210272	P1225	external-id	1	'cultural heritage'@en	'U.S. National Archives Identifier'@en	
+Q33506	P1225	external-id	1	'museum'@en	'U.S. National Archives Identifier'@en	
+Q3947	P1225	external-id	1	'house'@en	'U.S. National Archives Identifier'@en	
+Q41176	P1225	external-id	1	'building'@en	'U.S. National Archives Identifier'@en	
+Q3947	P1256	external-id	1	'house'@en	'Iconclass notation'@en	
+Q3947	P1305	external-id	1	'house'@en	'CTBUH Skyscraper Center building ID'@en	
+Q3947	P1417	external-id	3	'house'@en	'Encyclopædia Britannica Online ID'@en	
+Q16884952	P1417	external-id	1	'country house'@en	'Encyclopædia Britannica Online ID'@en	
+Q3947	P1430	external-id	1	'house'@en	'OpenPlaques subject ID'@en	
+Q3947	P1566	external-id	35	'house'@en	'GeoNames ID'@en	
+Q26989049	P1566	external-id	3	'National Historic Site Administered by Parks Canada'@en	'GeoNames ID'@en	
+Q16884952	P1566	external-id	1	'country house'@en	'GeoNames ID'@en	
+Q2087181	P1566	external-id	1	'historic house museum'@en	'GeoNames ID'@en	
+Q2319498	P1566	external-id	1	'landmark'@en	'GeoNames ID'@en	
+Q23413	P1566	external-id	1	'castle'@en	'GeoNames ID'@en	
+Q33506	P1566	external-id	1	'museum'@en	'GeoNames ID'@en	
+Q570116	P1566	external-id	1	'tourist attraction'@en	'GeoNames ID'@en	
+Q3947	P1602	external-id	3	'house'@en	'Art UK venue ID'@en	
+Q3947	P1619	time	3	'house'@en	'date of official opening'@en	
+Q3947	P1667	external-id	1	'house'@en	'Getty Thesaurus of Geographic Names ID'@en	
+Q210272	P1700	external-id	1	'cultural heritage'@en	'SIPA ID'@en	
+Q213441	P1700	external-id	1	'shop'@en	'SIPA ID'@en	
+Q3947	P1700	external-id	1	'house'@en	'SIPA ID'@en	
+Q210272	P1702	external-id	1	'cultural heritage'@en	'DGPC ID'@en	
+Q213441	P1702	external-id	1	'shop'@en	'DGPC ID'@en	
+Q3947	P1702	external-id	1	'house'@en	'DGPC ID'@en	
+Q3947	P1705	monolingualtext	6	'house'@en	'native label'@en	
+Q2087181	P1705	monolingualtext	1	'historic house museum'@en	'native label'@en	
+Q33506	P1705	monolingualtext	1	'museum'@en	'native label'@en	
+Q3947	P1766	commonsMedia	1	'house'@en	'place name sign'@en	
+Q3947	P18	commonsMedia	2099	'house'@en	'image'@en	
+Q41176	P18	commonsMedia	13	'building'@en	'image'@en	
+Q33506	P18	commonsMedia	7	'museum'@en	'image'@en	
+Q2087181	P18	commonsMedia	5	'historic house museum'@en	'image'@en	
+Q26989049	P18	commonsMedia	5	'National Historic Site Administered by Parks Canada'@en	'image'@en	
+Q23413	P18	commonsMedia	3	'castle'@en	'image'@en	
+Q839954	P18	commonsMedia	3	'archaeological site'@en	'image'@en	
+Q16884952	P18	commonsMedia	2	'country house'@en	'image'@en	
+Q2065736	P18	commonsMedia	2	'cultural property'@en	'image'@en	
+Q207694	P18	commonsMedia	2	'art museum'@en	'image'@en	
+Q210272	P18	commonsMedia	2	'cultural heritage'@en	'image'@en	
+Q27686	P18	commonsMedia	2	'hotel'@en	'image'@en	
+Q1021645	P18	commonsMedia	1	'office building'@en	'image'@en	
+Q1081138	P18	commonsMedia	1	'historic site'@en	'image'@en	
+Q11042	P18	commonsMedia	1	'culture'@en	'image'@en	
+Q1107656	P18	commonsMedia	1	'garden'@en	'image'@en	
+Q1137809	P18	commonsMedia	1	'courthouse'@en	'image'@en	
+Q11707	P18	commonsMedia	1	'restaurant'@en	'image'@en	
+Q1244442	P18	commonsMedia	1	'school building'@en	'image'@en	
+Q1343246	P18	commonsMedia	1	'English country house'@en	'image'@en	
+Q15243209	P18	commonsMedia	1	'historic district'@en	'image'@en	
+Q16560	P18	commonsMedia	1	'palace'@en	'image'@en	
+Q180174	P18	commonsMedia	1	'folly'@en	'image'@en	
+Q18761864	P18	commonsMedia	1	'bank building'@en	'image'@en	
+Q213441	P18	commonsMedia	1	'shop'@en	'image'@en	
+Q2319498	P18	commonsMedia	1	'landmark'@en	'image'@en	
+Q274153	P18	commonsMedia	1	'water tower'@en	'image'@en	
+Q2772772	P18	commonsMedia	1	'military museum'@en	'image'@en	
+Q3681673	P18	commonsMedia	1	'private club'@en	'image'@en	
+Q3914	P18	commonsMedia	1	'school'@en	'image'@en	
+Q43229	P18	commonsMedia	1	'organization'@en	'image'@en	
+Q489357	P18	commonsMedia	1	'farmhouse'@en	'image'@en	
+Q54934129	P18	commonsMedia	1	'African-American museum'@en	'image'@en	
+Q570116	P18	commonsMedia	1	'tourist attraction'@en	'image'@en	
+Q64578911	P18	commonsMedia	1	'former hospital'@en	'image'@en	
+Q80446812	P18	commonsMedia	1	'motte'@en	'image'@en	
+Q811979	P18	commonsMedia	1	'architectural structure'@en	'image'@en	
+Q847950	P18	commonsMedia	1	'dormitory'@en	'image'@en	
+Q3947	P1801	commonsMedia	2	'house'@en	'commemorative plaque image'@en	
+Q33506	P1838	external-id	1	'museum'@en	'PSS-archi ID'@en	
+Q3947	P1838	external-id	1	'house'@en	'PSS-archi ID'@en	
+Q43229	P1838	external-id	1	'organization'@en	'PSS-archi ID'@en	
+Q33506	P1968	external-id	1	'museum'@en	'Foursquare venue ID'@en	
+Q3947	P1968	external-id	1	'house'@en	'Foursquare venue ID'@en	
+Q3947	P2002	external-id	5	'house'@en	'Twitter username'@en	
+Q2087181	P2002	external-id	2	'historic house museum'@en	'Twitter username'@en	
+Q2087181	P2003	external-id	1	'historic house museum'@en	'Instagram username'@en	
+Q3947	P2003	external-id	1	'house'@en	'Instagram username'@en	
+Q3947	P2013	external-id	4	'house'@en	'Facebook ID'@en	
+Q2087181	P2013	external-id	2	'historic house museum'@en	'Facebook ID'@en	
+Q3947	P2044	quantity	1	'house'@en	'elevation above sea level'@en	
+Q3947	P2100	external-id	1	'house'@en	'Banque de noms de lieux du Québec ID'@en	
+Q3947	P213	external-id	3	'house'@en	'ISNI'@en	
+Q207694	P213	external-id	1	'art museum'@en	'ISNI'@en	
+Q33506	P213	external-id	1	'museum'@en	'ISNI'@en	
+Q3947	P2130	quantity	2	'house'@en	'cost'@en	
+Q3947	P214	external-id	40	'house'@en	'VIAF ID'@en	
+Q33506	P214	external-id	2	'museum'@en	'VIAF ID'@en	
+Q41176	P214	external-id	2	'building'@en	'VIAF ID'@en	
+Q207694	P214	external-id	1	'art museum'@en	'VIAF ID'@en	
+Q2087181	P214	external-id	1	'historic house museum'@en	'VIAF ID'@en	
+Q27686	P214	external-id	1	'hotel'@en	'VIAF ID'@en	
+Q54934129	P214	external-id	1	'African-American museum'@en	'VIAF ID'@en	
+Q847950	P214	external-id	1	'dormitory'@en	'VIAF ID'@en	
+Q3947	P2186	external-id	5	'house'@en	'Wiki Loves Monuments ID'@en	
+Q210272	P2186	external-id	1	'cultural heritage'@en	'Wiki Loves Monuments ID'@en	
+Q213441	P2186	external-id	1	'shop'@en	'Wiki Loves Monuments ID'@en	
+Q2772772	P2186	external-id	1	'military museum'@en	'Wiki Loves Monuments ID'@en	
+Q41176	P2186	external-id	1	'building'@en	'Wiki Loves Monuments ID'@en	
+Q3947	P227	external-id	2	'house'@en	'GND ID'@en	
+Q207694	P227	external-id	1	'art museum'@en	'GND ID'@en	
+Q3947	P2284	quantity	1	'house'@en	'price'@en	
+Q3947	P2347	external-id	1	'house'@en	'YSO ID'@en	
+Q3947	P2397	external-id	2	'house'@en	'YouTube channel ID'@en	
+Q3947	P242	commonsMedia	1	'house'@en	'locator map image'@en	
+Q33506	P2427	external-id	1	'museum'@en	'GRID ID'@en	
+Q3947	P2427	external-id	1	'house'@en	'GRID ID'@en	
+Q3947	P244	external-id	21	'house'@en	'Library of Congress authority ID'@en	
+Q33506	P244	external-id	3	'museum'@en	'Library of Congress authority ID'@en	
+Q207694	P244	external-id	1	'art museum'@en	'Library of Congress authority ID'@en	
+Q41176	P244	external-id	1	'building'@en	'Library of Congress authority ID'@en	
+Q54934129	P244	external-id	1	'African-American museum'@en	'Library of Congress authority ID'@en	
+Q847950	P244	external-id	1	'dormitory'@en	'Library of Congress authority ID'@en	
+Q3947	P2526	external-id	12	'house'@en	'National Historic Sites of Canada ID'@en	
+Q26989049	P2526	external-id	5	'National Historic Site Administered by Parks Canada'@en	'National Historic Sites of Canada ID'@en	
+Q2087181	P2526	external-id	2	'historic house museum'@en	'National Historic Sites of Canada ID'@en	
+Q33506	P2526	external-id	1	'museum'@en	'National Historic Sites of Canada ID'@en	
+Q3947	P2581	external-id	110	'house'@en	'BabelNet ID'@en	
+Q16884952	P2581	external-id	1	'country house'@en	'BabelNet ID'@en	
+Q33506	P2581	external-id	1	'museum'@en	'BabelNet ID'@en	
+Q3947	P2671	external-id	6	'house'@en	'Google Knowledge Graph ID'@en	
+Q16560	P2671	external-id	1	'palace'@en	'Google Knowledge Graph ID'@en	
+Q3947	P268	external-id	2	'house'@en	'Bibliothèque nationale de France ID'@en	
+Q207694	P268	external-id	1	'art museum'@en	'Bibliothèque nationale de France ID'@en	
+Q207694	P269	external-id	1	'art museum'@en	'IdRef ID'@en	
+Q3947	P269	external-id	1	'house'@en	'IdRef ID'@en	
+Q207694	P271	external-id	1	'art museum'@en	'CiNii author ID (books)'@en	
+Q3947	P271	external-id	1	'house'@en	'CiNii author ID (books)'@en	
+Q3947	P2783	external-id	1	'house'@en	'Danish listed buildings case ID'@en	
+Q3947	P2795	monolingualtext	1	'house'@en	'directions'@en	
+Q3947	P281	string	18	'house'@en	'postal code'@en	
+Q33506	P281	string	2	'museum'@en	'postal code'@en	
+Q1244442	P281	string	1	'school building'@en	'postal code'@en	
+Q16884952	P281	string	1	'country house'@en	'postal code'@en	
+Q41176	P281	string	1	'building'@en	'postal code'@en	
+Q43229	P281	string	1	'organization'@en	'postal code'@en	
+Q3947	P2924	external-id	1	'house'@en	'Great Russian Encyclopedia Online ID'@en	
+Q3947	P2938	external-id	1	'house'@en	'Pleiades category identifier'@en	
+Q3947	P3059	external-id	2	'house'@en	'Architectuurgids building ID'@en	
+Q207694	P3065	external-id	1	'art museum'@en	'RERO ID'@en	
+Q3947	P3065	external-id	1	'house'@en	'RERO ID'@en	
+Q26989049	P3197	external-id	5	'National Historic Site Administered by Parks Canada'@en	'Federal Heritage Buildings ID (Canada)'@en	
+Q3947	P3197	external-id	5	'house'@en	'Federal Heritage Buildings ID (Canada)'@en	
+Q2087181	P3197	external-id	2	'historic house museum'@en	'Federal Heritage Buildings ID (Canada)'@en	
+Q3947	P3417	external-id	6	'house'@en	'Quora topic ID'@en	
+Q27686	P3417	external-id	1	'hotel'@en	'Quora topic ID'@en	
+Q3947	P3481	external-id	7	'house'@en	'Parks & Gardens UK record ID'@en	
+Q33506	P3500	external-id	1	'museum'@en	'Ringgold ID'@en	
+Q3947	P3500	external-id	1	'house'@en	'Ringgold ID'@en	
+Q3947	P3518	external-id	3	'house'@en	'Smithsonian trinomial'@en	
+Q3947	P3553	external-id	1	'house'@en	'Zhihu topic ID'@en	
+Q3947	P359	external-id	5	'house'@en	'Rijksmonument ID'@en	
+Q33506	P359	external-id	1	'museum'@en	'Rijksmonument ID'@en	
+Q33506	P3600	external-id	1	'museum'@en	'protected heritage site in Brussels ID'@en	
+Q3947	P3600	external-id	1	'house'@en	'protected heritage site in Brussels ID'@en	
+Q43229	P3600	external-id	1	'organization'@en	'protected heritage site in Brussels ID'@en	
+Q27686	P3607	external-id	1	'hotel'@en	'Booking.com hotel ID'@en	
+Q3947	P3607	external-id	1	'house'@en	'Booking.com hotel ID'@en	
+Q3947	P3616	external-id	2	'house'@en	'Vision of Britain place ID'@en	
+Q3947	P3728	external-id	1	'house'@en	'New Zealand Heritage List number'@en	
+Q3947	P373	string	494	'house'@en	'Commons category'@en	
+Q41176	P373	string	7	'building'@en	'Commons category'@en	
+Q33506	P373	string	6	'museum'@en	'Commons category'@en	
+Q2087181	P373	string	5	'historic house museum'@en	'Commons category'@en	
+Q26989049	P373	string	5	'National Historic Site Administered by Parks Canada'@en	'Commons category'@en	
+Q16884952	P373	string	2	'country house'@en	'Commons category'@en	
+Q207694	P373	string	2	'art museum'@en	'Commons category'@en	
+Q27686	P373	string	2	'hotel'@en	'Commons category'@en	
+Q11042	P373	string	1	'culture'@en	'Commons category'@en	
+Q1107656	P373	string	1	'garden'@en	'Commons category'@en	
+Q1244442	P373	string	1	'school building'@en	'Commons category'@en	
+Q1343246	P373	string	1	'English country house'@en	'Commons category'@en	
+Q15243209	P373	string	1	'historic district'@en	'Commons category'@en	
+Q16560	P373	string	1	'palace'@en	'Commons category'@en	
+Q180174	P373	string	1	'folly'@en	'Commons category'@en	
+Q18761864	P373	string	1	'bank building'@en	'Commons category'@en	
+Q2065736	P373	string	1	'cultural property'@en	'Commons category'@en	
+Q210272	P373	string	1	'cultural heritage'@en	'Commons category'@en	
+Q213441	P373	string	1	'shop'@en	'Commons category'@en	
+Q2319498	P373	string	1	'landmark'@en	'Commons category'@en	
+Q23413	P373	string	1	'castle'@en	'Commons category'@en	
+Q274153	P373	string	1	'water tower'@en	'Commons category'@en	
+Q2772772	P373	string	1	'military museum'@en	'Commons category'@en	
+Q3681673	P373	string	1	'private club'@en	'Commons category'@en	
+Q43229	P373	string	1	'organization'@en	'Commons category'@en	
+Q570116	P373	string	1	'tourist attraction'@en	'Commons category'@en	
+Q811979	P373	string	1	'architectural structure'@en	'Commons category'@en	
+Q3947	P3749	external-id	2	'house'@en	'Google Maps Customer ID'@en	
+Q27686	P3749	external-id	1	'hotel'@en	'Google Maps Customer ID'@en	
+Q3947	P3794	external-id	1	'house'@en	'Dictionary of Sydney ID'@en	
+Q3947	P380	external-id	1	'house'@en	'Mérimée ID'@en	
+Q3947	P402	external-id	2	'house'@en	'OpenStreetMap relation ID'@en	
+Q2772772	P4057	external-id	1	'military museum'@en	'Irish Sites and Monuments Record ID'@en	
+Q3947	P4057	external-id	1	'house'@en	'Irish Sites and Monuments Record ID'@en	
+Q2772772	P4059	external-id	1	'military museum'@en	'Irish National Monument ID'@en	
+Q3947	P4059	external-id	1	'house'@en	'Irish National Monument ID'@en	
+Q3947	P4088	external-id	1	'house'@en	'Irish National Inventory of Architectural Heritage ID'@en	
+Q3947	P4120	external-id	12	'house'@en	'Ontario Heritage Act Register ID'@en	
+Q2087181	P4120	external-id	3	'historic house museum'@en	'Ontario Heritage Act Register ID'@en	
+Q26989049	P4120	external-id	2	'National Historic Site Administered by Parks Canada'@en	'Ontario Heritage Act Register ID'@en	
+Q33506	P4120	external-id	1	'museum'@en	'Ontario Heritage Act Register ID'@en	
+Q23413	P4141	external-id	1	'castle'@en	'Gatehouse Gazetteer place ID'@en	
+Q3947	P4141	external-id	1	'house'@en	'Gatehouse Gazetteer place ID'@en	
+Q207694	P4146	external-id	1	'art museum'@en	'Athenaeum museum ID'@en	
+Q3947	P4146	external-id	1	'house'@en	'Athenaeum museum ID'@en	
+Q3947	P4223	external-id	1	'house'@en	'Treccani\'s Enciclopedia Italiana ID'@en	
+Q3947	P4307	external-id	1	'house'@en	'FOIH heritage types ID'@en	
+Q2065736	P4342	external-id	1	'cultural property'@en	'Store norske leksikon ID'@en	
+Q3947	P4342	external-id	1	'house'@en	'Store norske leksikon ID'@en	
+Q3947	P4356	external-id	1	'house'@en	'Megalithic Portal ID'@en	
+Q3947	P4672	external-id	1	'house'@en	'EMLO location ID'@en	
+Q3947	P477	external-id	21	'house'@en	'Canadian Register of Historic Places ID'@en	
+Q26989049	P477	external-id	5	'National Historic Site Administered by Parks Canada'@en	'Canadian Register of Historic Places ID'@en	
+Q2087181	P477	external-id	3	'historic house museum'@en	'Canadian Register of Historic Places ID'@en	
+Q207694	P477	external-id	1	'art museum'@en	'Canadian Register of Historic Places ID'@en	
+Q33506	P477	external-id	1	'museum'@en	'Canadian Register of Historic Places ID'@en	
+Q3947	P4839	external-id	2	'house'@en	'Wolfram Language entity code'@en	
+Q1244442	P4839	external-id	1	'school building'@en	'Wolfram Language entity code'@en	
+Q3947	P508	external-id	1	'house'@en	'BNCF Thesaurus ID'@en	
+Q3947	P5177	external-id	1	'house'@en	'Victorian Heritage Register ID'@en	
+Q3947	P5208	external-id	2	'house'@en	'BAG building ID'@en	
+Q33506	P5208	external-id	1	'museum'@en	'BAG building ID'@en	
+Q3947	P5252	commonsMedia	1	'house'@en	'winter view'@en	
+Q3947	P528	string	1	'house'@en	'catalog code'@en	
+Q3947	P5383	external-id	18	'house'@en	'archINFORM project ID'@en	
+Q1137809	P5383	external-id	1	'courthouse'@en	'archINFORM project ID'@en	
+Q3681673	P5383	external-id	1	'private club'@en	'archINFORM project ID'@en	
+Q3947	P5395	external-id	2	'house'@en	'Canadian Encyclopedia article ID'@en	
+Q2087181	P5395	external-id	1	'historic house museum'@en	'Canadian Encyclopedia article ID'@en	
+Q3947	P5604	external-id	1	'house'@en	'archINFORM keyword ID'@en	
+Q3947	P571	time	197	'house'@en	'inception'@en	
+Q33506	P571	time	5	'museum'@en	'inception'@en	
+Q2087181	P571	time	3	'historic house museum'@en	'inception'@en	
+Q41176	P571	time	3	'building'@en	'inception'@en	
+Q207694	P571	time	2	'art museum'@en	'inception'@en	
+Q26989049	P571	time	2	'National Historic Site Administered by Parks Canada'@en	'inception'@en	
+Q1244442	P571	time	1	'school building'@en	'inception'@en	
+Q1343246	P571	time	1	'English country house'@en	'inception'@en	
+Q180174	P571	time	1	'folly'@en	'inception'@en	
+Q18761864	P571	time	1	'bank building'@en	'inception'@en	
+Q2065736	P571	time	1	'cultural property'@en	'inception'@en	
+Q274153	P571	time	1	'water tower'@en	'inception'@en	
+Q27686	P571	time	1	'hotel'@en	'inception'@en	
+Q2772772	P571	time	1	'military museum'@en	'inception'@en	
+Q43229	P571	time	1	'organization'@en	'inception'@en	
+Q3947	P580	time	1	'house'@en	'start time'@en	
+Q33506	P5818	external-id	1	'museum'@en	'BGCI garden ID'@en	
+Q3947	P5818	external-id	1	'house'@en	'BGCI garden ID'@en	
+Q3947	P590	external-id	3	'house'@en	'GNIS ID'@en	
+Q2319498	P590	external-id	1	'landmark'@en	'GNIS ID'@en	
+Q570116	P590	external-id	1	'tourist attraction'@en	'GNIS ID'@en	
+Q3947	P6010	external-id	1	'house'@en	'Encyclopedia of Alabama ID'@en	
+Q3947	P6012	external-id	26	'house'@en	'California Office of Historic Preservation ID'@en	
+Q3947	P613	string	123	'house'@en	'OS grid reference'@en	
+Q27686	P613	string	3	'hotel'@en	'OS grid reference'@en	
+Q1021645	P613	string	1	'office building'@en	'OS grid reference'@en	
+Q1107656	P613	string	1	'garden'@en	'OS grid reference'@en	
+Q11707	P613	string	1	'restaurant'@en	'OS grid reference'@en	
+Q1244442	P613	string	1	'school building'@en	'OS grid reference'@en	
+Q1343246	P613	string	1	'English country house'@en	'OS grid reference'@en	
+Q180174	P613	string	1	'folly'@en	'OS grid reference'@en	
+Q23413	P613	string	1	'castle'@en	'OS grid reference'@en	
+Q274153	P613	string	1	'water tower'@en	'OS grid reference'@en	
+Q3914	P613	string	1	'school'@en	'OS grid reference'@en	
+Q489357	P613	string	1	'farmhouse'@en	'OS grid reference'@en	
+Q64578911	P613	string	1	'former hospital'@en	'OS grid reference'@en	
+Q811979	P613	string	1	'architectural structure'@en	'OS grid reference'@en	
+Q3947	P625	globe-coordinate	2308	'house'@en	'coordinate location'@en	
+Q41176	P625	globe-coordinate	14	'building'@en	'coordinate location'@en	
+Q33506	P625	globe-coordinate	7	'museum'@en	'coordinate location'@en	
+Q2087181	P625	globe-coordinate	5	'historic house museum'@en	'coordinate location'@en	
+Q26989049	P625	globe-coordinate	5	'National Historic Site Administered by Parks Canada'@en	'coordinate location'@en	
+Q839954	P625	globe-coordinate	4	'archaeological site'@en	'coordinate location'@en	
+Q23413	P625	globe-coordinate	3	'castle'@en	'coordinate location'@en	
+Q27686	P625	globe-coordinate	3	'hotel'@en	'coordinate location'@en	
+Q16884952	P625	globe-coordinate	2	'country house'@en	'coordinate location'@en	
+Q2065736	P625	globe-coordinate	2	'cultural property'@en	'coordinate location'@en	
+Q207694	P625	globe-coordinate	2	'art museum'@en	'coordinate location'@en	
+Q210272	P625	globe-coordinate	2	'cultural heritage'@en	'coordinate location'@en	
+Q1021645	P625	globe-coordinate	1	'office building'@en	'coordinate location'@en	
+Q1081138	P625	globe-coordinate	1	'historic site'@en	'coordinate location'@en	
+Q1107656	P625	globe-coordinate	1	'garden'@en	'coordinate location'@en	
+Q1137809	P625	globe-coordinate	1	'courthouse'@en	'coordinate location'@en	
+Q11707	P625	globe-coordinate	1	'restaurant'@en	'coordinate location'@en	
+Q1244442	P625	globe-coordinate	1	'school building'@en	'coordinate location'@en	
+Q1343246	P625	globe-coordinate	1	'English country house'@en	'coordinate location'@en	
+Q15243209	P625	globe-coordinate	1	'historic district'@en	'coordinate location'@en	
+Q16560	P625	globe-coordinate	1	'palace'@en	'coordinate location'@en	
+Q180174	P625	globe-coordinate	1	'folly'@en	'coordinate location'@en	
+Q18761864	P625	globe-coordinate	1	'bank building'@en	'coordinate location'@en	
+Q213441	P625	globe-coordinate	1	'shop'@en	'coordinate location'@en	
+Q2319498	P625	globe-coordinate	1	'landmark'@en	'coordinate location'@en	
+Q274153	P625	globe-coordinate	1	'water tower'@en	'coordinate location'@en	
+Q2772772	P625	globe-coordinate	1	'military museum'@en	'coordinate location'@en	
+Q3681673	P625	globe-coordinate	1	'private club'@en	'coordinate location'@en	
+Q3914	P625	globe-coordinate	1	'school'@en	'coordinate location'@en	
+Q43229	P625	globe-coordinate	1	'organization'@en	'coordinate location'@en	
+Q489357	P625	globe-coordinate	1	'farmhouse'@en	'coordinate location'@en	
+Q54934129	P625	globe-coordinate	1	'African-American museum'@en	'coordinate location'@en	
+Q570116	P625	globe-coordinate	1	'tourist attraction'@en	'coordinate location'@en	
+Q64578911	P625	globe-coordinate	1	'former hospital'@en	'coordinate location'@en	
+Q80446812	P625	globe-coordinate	1	'motte'@en	'coordinate location'@en	
+Q811979	P625	globe-coordinate	1	'architectural structure'@en	'coordinate location'@en	
+Q847950	P625	globe-coordinate	1	'dormitory'@en	'coordinate location'@en	
+Q3947	P633	external-id	1	'house'@en	'Quebec cultural heritage directory ID'@en	
+Q3947	P6366	external-id	2	'house'@en	'Microsoft Academic ID'@en	
+Q33506	P6366	external-id	1	'museum'@en	'Microsoft Academic ID'@en	
+Q3947	P6375	monolingualtext	89	'house'@en	'street address'@en	
+Q41176	P6375	monolingualtext	14	'building'@en	'street address'@en	
+Q33506	P6375	monolingualtext	5	'museum'@en	'street address'@en	
+Q26989049	P6375	monolingualtext	3	'National Historic Site Administered by Parks Canada'@en	'street address'@en	
+Q2087181	P6375	monolingualtext	2	'historic house museum'@en	'street address'@en	
+Q1081138	P6375	monolingualtext	1	'historic site'@en	'street address'@en	
+Q1244442	P6375	monolingualtext	1	'school building'@en	'street address'@en	
+Q16560	P6375	monolingualtext	1	'palace'@en	'street address'@en	
+Q16884952	P6375	monolingualtext	1	'country house'@en	'street address'@en	
+Q210272	P6375	monolingualtext	1	'cultural heritage'@en	'street address'@en	
+Q23413	P6375	monolingualtext	1	'castle'@en	'street address'@en	
+Q43229	P6375	monolingualtext	1	'organization'@en	'street address'@en	
+Q3947	P646	external-id	2293	'house'@en	'Freebase ID'@en	
+Q41176	P646	external-id	14	'building'@en	'Freebase ID'@en	
+Q33506	P646	external-id	7	'museum'@en	'Freebase ID'@en	
+Q2087181	P646	external-id	5	'historic house museum'@en	'Freebase ID'@en	
+Q839954	P646	external-id	5	'archaeological site'@en	'Freebase ID'@en	
+Q23413	P646	external-id	3	'castle'@en	'Freebase ID'@en	
+Q26989049	P646	external-id	3	'National Historic Site Administered by Parks Canada'@en	'Freebase ID'@en	
+Q16884952	P646	external-id	2	'country house'@en	'Freebase ID'@en	
+Q207694	P646	external-id	2	'art museum'@en	'Freebase ID'@en	
+Q210272	P646	external-id	2	'cultural heritage'@en	'Freebase ID'@en	
+Q1021645	P646	external-id	1	'office building'@en	'Freebase ID'@en	
+Q1081138	P646	external-id	1	'historic site'@en	'Freebase ID'@en	
+Q11042	P646	external-id	1	'culture'@en	'Freebase ID'@en	
+Q1107656	P646	external-id	1	'garden'@en	'Freebase ID'@en	
+Q1137809	P646	external-id	1	'courthouse'@en	'Freebase ID'@en	
+Q1244442	P646	external-id	1	'school building'@en	'Freebase ID'@en	
+Q15243209	P646	external-id	1	'historic district'@en	'Freebase ID'@en	
+Q180174	P646	external-id	1	'folly'@en	'Freebase ID'@en	
+Q18761864	P646	external-id	1	'bank building'@en	'Freebase ID'@en	
+Q2065736	P646	external-id	1	'cultural property'@en	'Freebase ID'@en	
+Q213441	P646	external-id	1	'shop'@en	'Freebase ID'@en	
+Q2319498	P646	external-id	1	'landmark'@en	'Freebase ID'@en	
+Q274153	P646	external-id	1	'water tower'@en	'Freebase ID'@en	
+Q27686	P646	external-id	1	'hotel'@en	'Freebase ID'@en	
+Q2772772	P646	external-id	1	'military museum'@en	'Freebase ID'@en	
+Q3681673	P646	external-id	1	'private club'@en	'Freebase ID'@en	
+Q3914	P646	external-id	1	'school'@en	'Freebase ID'@en	
+Q43229	P646	external-id	1	'organization'@en	'Freebase ID'@en	
+Q489357	P646	external-id	1	'farmhouse'@en	'Freebase ID'@en	
+Q54934129	P646	external-id	1	'African-American museum'@en	'Freebase ID'@en	
+Q570116	P646	external-id	1	'tourist attraction'@en	'Freebase ID'@en	
+Q64578911	P646	external-id	1	'former hospital'@en	'Freebase ID'@en	
+Q80446812	P646	external-id	1	'motte'@en	'Freebase ID'@en	
+Q847950	P646	external-id	1	'dormitory'@en	'Freebase ID'@en	
+Q3947	P6473	external-id	5	'house'@en	'NMSRCP reference number'@en	
+Q839954	P6473	external-id	1	'archaeological site'@en	'NMSRCP reference number'@en	
+Q3947	P649	external-id	2036	'house'@en	'NRHP reference number'@en	
+Q41176	P649	external-id	13	'building'@en	'NRHP reference number'@en	
+Q839954	P649	external-id	5	'archaeological site'@en	'NRHP reference number'@en	
+Q33506	P649	external-id	3	'museum'@en	'NRHP reference number'@en	
+Q1081138	P649	external-id	1	'historic site'@en	'NRHP reference number'@en	
+Q1137809	P649	external-id	1	'courthouse'@en	'NRHP reference number'@en	
+Q15243209	P649	external-id	1	'historic district'@en	'NRHP reference number'@en	
+Q2087181	P649	external-id	1	'historic house museum'@en	'NRHP reference number'@en	
+Q210272	P649	external-id	1	'cultural heritage'@en	'NRHP reference number'@en	
+Q3681673	P649	external-id	1	'private club'@en	'NRHP reference number'@en	
+Q2065736	P6520	external-id	1	'cultural property'@en	'Lokalhistoriewiki.no ID'@en	
+Q3947	P6520	external-id	1	'house'@en	'Lokalhistoriewiki.no ID'@en	
+Q3947	P6766	external-id	1	'house'@en	'Who\'s on First ID'@en	
+Q33506	P6782	external-id	1	'museum'@en	'ROR ID'@en	
+Q3947	P6782	external-id	1	'house'@en	'ROR ID'@en	
+Q3947	P6802	commonsMedia	1	'house'@en	'related image'@en	
+Q3947	P709	external-id	25	'house'@en	'Historic Scotland ID'@en	
+Q16884952	P709	external-id	2	'country house'@en	'Historic Scotland ID'@en	
+Q18761864	P709	external-id	1	'bank building'@en	'Historic Scotland ID'@en	
+Q23413	P709	external-id	1	'castle'@en	'Historic Scotland ID'@en	
+Q80446812	P709	external-id	1	'motte'@en	'Historic Scotland ID'@en	
+Q3947	P718	external-id	24	'house'@en	'Canmore ID'@en	
+Q16884952	P718	external-id	2	'country house'@en	'Canmore ID'@en	
+Q18761864	P718	external-id	1	'bank building'@en	'Canmore ID'@en	
+Q23413	P718	external-id	1	'castle'@en	'Canmore ID'@en	
+Q80446812	P718	external-id	1	'motte'@en	'Canmore ID'@en	
+Q2065736	P758	external-id	2	'cultural property'@en	'Kulturminne ID'@en	
+Q3947	P758	external-id	2	'house'@en	'Kulturminne ID'@en	
+Q23413	P758	external-id	1	'castle'@en	'Kulturminne ID'@en	
+Q3947	P7618	external-id	18	'house'@en	'Virginia Landmarks Register ID'@en	
+Q3947	P7630	external-id	9	'house'@en	'Dictionary of Scottish Architects building ID'@en	
+Q18761864	P7630	external-id	1	'bank building'@en	'Dictionary of Scottish Architects building ID'@en	
+Q207694	P7699	external-id	1	'art museum'@en	'National Library of Lithuania ID'@en	
+Q3947	P7699	external-id	1	'house'@en	'National Library of Lithuania ID'@en	
+Q3947	P7772	external-id	16	'house'@en	'Atlas Obscura identifier'@en	
+Q33506	P7772	external-id	3	'museum'@en	'Atlas Obscura identifier'@en	
+Q2319498	P7772	external-id	1	'landmark'@en	'Atlas Obscura identifier'@en	
+Q570116	P7772	external-id	1	'tourist attraction'@en	'Atlas Obscura identifier'@en	
+Q3947	P7818	external-id	1	'house'@en	'French Vikidia ID'@en	
+Q3947	P7859	external-id	34	'house'@en	'WorldCat Identities ID'@en	
+Q33506	P7859	external-id	2	'museum'@en	'WorldCat Identities ID'@en	
+Q41176	P7859	external-id	2	'building'@en	'WorldCat Identities ID'@en	
+Q207694	P7859	external-id	1	'art museum'@en	'WorldCat Identities ID'@en	
+Q2087181	P7859	external-id	1	'historic house museum'@en	'WorldCat Identities ID'@en	
+Q54934129	P7859	external-id	1	'African-American museum'@en	'WorldCat Identities ID'@en	
+Q847950	P7859	external-id	1	'dormitory'@en	'WorldCat Identities ID'@en	
+Q207694	P791	external-id	1	'art museum'@en	'ISIL'@en	
+Q3947	P791	external-id	1	'house'@en	'ISIL'@en	
+Q3947	P7958	external-id	2	'house'@en	'Chicago Landmarks ID'@en	
+Q3947	P7960	external-id	1	'house'@en	'Joconde discovery ID'@en	
+Q3947	P8132	external-id	12	'house'@en	'Texas Historic Sites Atlas ID'@en	
+Q41176	P8132	external-id	12	'building'@en	'Texas Historic Sites Atlas ID'@en	
+Q33506	P8132	external-id	1	'museum'@en	'Texas Historic Sites Atlas ID'@en	
+Q3947	P8158	external-id	1	'house'@en	'History Colorado ID'@en	
+Q3947	P8177	external-id	5	'house'@en	'Oregon Historic Sites Database ID'@en	
+Q207694	P8179	external-id	1	'art museum'@en	'Canadiana Name Authority ID'@en	
+Q3947	P8179	external-id	1	'house'@en	'Canadiana Name Authority ID'@en	
+Q3947	P8189	external-id	3	'house'@en	'National Library of Israel J9U ID'@en	
+Q207694	P8189	external-id	1	'art museum'@en	'National Library of Israel J9U ID'@en	
+Q3947	P8226	external-id	3	'house'@en	'Wyoming SHPO ID'@en	
+Q3947	P8239	external-id	2	'house'@en	'MACRIS ID'@en	
+Q3947	P8249	external-id	5	'house'@en	'MDAH\'s HRI ID'@en	
+Q3947	P8313	external-id	1	'house'@en	'Den Store Danske ID'@en	
+Q3947	P8317	external-id	1	'house'@en	'Philadelphia Museum of Art entity ID'@en	
+Q11042	P8325	external-id	1	'culture'@en	'Indonesian Intangible Cultural Heritage Registration Number'@en	
+Q3947	P8325	external-id	1	'house'@en	'Indonesian Intangible Cultural Heritage Registration Number'@en	
+Q3947	P8406	external-id	1	'house'@en	'Grove Art Online ID'@en	
+Q3947	P8408	external-id	1	'house'@en	'KBpedia ID'@en	
+Q3947	P8499	external-id	1	'house'@en	'WISAARD resource ID'@en	
+Q3947	P8519	external-id	1	'house'@en	'RKD thesaurus ID'@en	
+Q3947	P856	url	62	'house'@en	'official website'@en	
+Q33506	P856	url	7	'museum'@en	'official website'@en	
+Q26989049	P856	url	5	'National Historic Site Administered by Parks Canada'@en	'official website'@en	
+Q2087181	P856	url	4	'historic house museum'@en	'official website'@en	
+Q41176	P856	url	4	'building'@en	'official website'@en	
+Q27686	P856	url	2	'hotel'@en	'official website'@en	
+Q1081138	P856	url	1	'historic site'@en	'official website'@en	
+Q1107656	P856	url	1	'garden'@en	'official website'@en	
+Q16884952	P856	url	1	'country house'@en	'official website'@en	
+Q180174	P856	url	1	'folly'@en	'official website'@en	
+Q207694	P856	url	1	'art museum'@en	'official website'@en	
+Q210272	P856	url	1	'cultural heritage'@en	'official website'@en	
+Q274153	P856	url	1	'water tower'@en	'official website'@en	
+Q43229	P856	url	1	'organization'@en	'official website'@en	
+Q3947	P8587	external-id	3	'house'@en	'Legacies of British Slave-ownership place ID'@en	
+Q3947	P8588	external-id	5	'house'@en	'Wisconsin National or State Registers Record ID'@en	
+Q3947	P8616	external-id	4	'house'@en	'Kansas Historic Resources Inventory ID'@en	
+Q3947	P8617	external-id	3	'house'@en	'Historic Montana ID'@en	
+Q3947	P8649	external-id	2	'house'@en	'National Park Service place ID'@en	
+Q3947	P8655	external-id	38	'house'@en	'LoC HABS/HAER/HALS place ID'@en	
+Q3947	P8687	quantity	4	'house'@en	'social media followers'@en	
+Q2087181	P8687	quantity	2	'historic house museum'@en	'social media followers'@en	
+Q3947	P8733	quantity	1	'house'@en	'number of rooms'@en	
+Q3947	P8747	external-id	2	'house'@en	'DC Historic Sites place ID'@en	
+Q3947	P8814	external-id	1	'house'@en	'WordNet 3.1 Synset ID'@en	
+Q3947	P8831	external-id	1	'house'@en	'Museum Day ID'@en	
+Q3947	P9042	external-id	13	'house'@en	'DiCamillo Database Country House ID'@en	
+Q16884952	P9042	external-id	1	'country house'@en	'DiCamillo Database Country House ID'@en	
+Q3947	P909	external-id	1	'house'@en	'Nova Scotia Register of Historic Places ID'@en	
+Q3947	P9211	external-id	1	'house'@en	'Wisconsin Architecture and History Inventory ID'@en	
+Q3947	P9284	external-id	3	'house'@en	'GB1900 ID'@en	
+Q1343246	P9284	external-id	1	'English country house'@en	'GB1900 ID'@en	
+Q3947	P935	string	12	'house'@en	'Commons gallery'@en	
+Q3947	P9477	external-id	1	'house'@en	'Trap Danmark ID'@en	
+Q3947	P949	external-id	1	'house'@en	'National Library of Israel ID (old)'@en	
+Q33506	P9637	external-id	1	'museum'@en	'Erfgoedkaart ID'@en	
+Q3947	P9637	external-id	1	'house'@en	'Erfgoedkaart ID'@en	
+Q43229	P9637	external-id	1	'organization'@en	'Erfgoedkaart ID'@en	
+Q3947	P973	url	2	'house'@en	'described at URL'@en	

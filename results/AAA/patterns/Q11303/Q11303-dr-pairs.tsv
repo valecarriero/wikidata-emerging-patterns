@@ -1,0 +1,2052 @@
+domain	property	range	count	domain;label	property;label	range;label
+Q11303	P10290	Q110772636	7	'skyscraper'@en	'hotel rating'@en	'hotel star rating'@en
+Q11303	P10290	Q618779	7	'skyscraper'@en	'hotel rating'@en	'award'@en
+Q27686	P10290	Q110772636	7	'hotel'@en	'hotel rating'@en	'hotel star rating'@en
+Q27686	P10290	Q618779	7	'hotel'@en	'hotel rating'@en	'award'@en
+Q18142	P10290	Q110772636	1	'high-rise building'@en	'hotel rating'@en	'hotel star rating'@en
+Q18142	P10290	Q618779	1	'high-rise building'@en	'hotel rating'@en	'award'@en
+Q11303	P126	Q4830453	1	'skyscraper'@en	'maintained by'@en	'business'@en
+Q11303	P126	Q6881511	1	'skyscraper'@en	'maintained by'@en	'enterprise'@en
+Q11303	P127	Q4830453	64	'skyscraper'@en	'owned by'@en	'business'@en
+Q11303	P127	Q891723	37	'skyscraper'@en	'owned by'@en	'public company'@en
+Q11303	P127	Q6881511	31	'skyscraper'@en	'owned by'@en	'enterprise'@en
+Q1021645	P127	Q4830453	7	'office building'@en	'owned by'@en	'business'@en
+Q11303	P127	Q22687	6	'skyscraper'@en	'owned by'@en	'bank'@en
+Q11303	P127	Q650241	5	'skyscraper'@en	'owned by'@en	'financial institution'@en
+Q1021645	P127	Q891723	4	'office building'@en	'owned by'@en	'public company'@en
+Q11303	P127	Q1631129	4	'skyscraper'@en	'owned by'@en	'hotel chain'@en
+Q11303	P127	Q5	4	'skyscraper'@en	'owned by'@en	'human'@en
+Q11303	P127	Q1660104	3	'skyscraper'@en	'owned by'@en	'real estate company'@en
+Q18142	P127	Q4830453	3	'high-rise building'@en	'owned by'@en	'business'@en
+Q1021645	P127	Q66344	2	'office building'@en	'owned by'@en	'central bank'@en
+Q1021645	P127	Q6881511	2	'office building'@en	'owned by'@en	'enterprise'@en
+Q11303	P127	Q16110	2	'skyscraper'@en	'owned by'@en	'region of Italy'@en
+Q11303	P127	Q27686	2	'skyscraper'@en	'owned by'@en	'hotel'@en
+Q11303	P127	Q3117865	2	'skyscraper'@en	'owned by'@en	'hotel group'@en
+Q11303	P127	Q35657	2	'skyscraper'@en	'owned by'@en	'U.S. state'@en
+Q11303	P127	Q568041	2	'skyscraper'@en	'owned by'@en	'universal bank'@en
+Q11303	P127	Q66344	2	'skyscraper'@en	'owned by'@en	'central bank'@en
+Q11303	P127	Q730038	2	'skyscraper'@en	'owned by'@en	'credit institution'@en
+Q27686	P127	Q1631129	2	'hotel'@en	'owned by'@en	'hotel chain'@en
+Q27686	P127	Q4830453	2	'hotel'@en	'owned by'@en	'business'@en
+Q27686	P127	Q6881511	2	'hotel'@en	'owned by'@en	'enterprise'@en
+Q27686	P127	Q891723	2	'hotel'@en	'owned by'@en	'public company'@en
+Q100705206	P127	Q87342028	1	'prefectural office building'@en	'owned by'@en	'prefectural government'@en
+Q1021645	P127	Q1061648	1	'office building'@en	'owned by'@en	'sovereign wealth fund'@en
+Q1021645	P127	Q22687	1	'office building'@en	'owned by'@en	'bank'@en
+Q1021645	P127	Q43229	1	'office building'@en	'owned by'@en	'organization'@en
+Q1021645	P127	Q650241	1	'office building'@en	'owned by'@en	'financial institution'@en
+Q11303	P127	Q1061197	1	'skyscraper'@en	'owned by'@en	'radio network'@en
+Q11303	P127	Q1061648	1	'skyscraper'@en	'owned by'@en	'sovereign wealth fund'@en
+Q11303	P127	Q108403040	1	'skyscraper'@en	'owned by'@en	'university in Ontario'@en
+Q11303	P127	Q1093829	1	'skyscraper'@en	'owned by'@en	'city of the United States'@en
+Q11303	P127	Q11032	1	'skyscraper'@en	'owned by'@en	'newspaper'@en
+Q11303	P127	Q11294827	1	'skyscraper'@en	'owned by'@en	'camera manufacturer'@en
+Q11303	P127	Q1254874	1	'skyscraper'@en	'owned by'@en	'television network'@en
+Q11303	P127	Q1326624	1	'skyscraper'@en	'owned by'@en	'electric utility'@en
+Q11303	P127	Q14350	1	'skyscraper'@en	'owned by'@en	'radio station'@en
+Q11303	P127	Q1549591	1	'skyscraper'@en	'owned by'@en	'big city'@en
+Q11303	P127	Q163740	1	'skyscraper'@en	'owned by'@en	'nonprofit organization'@en
+Q11303	P127	Q1637706	1	'skyscraper'@en	'owned by'@en	'million city'@en
+Q11303	P127	Q182103	1	'skyscraper'@en	'owned by'@en	'pension fund'@en
+Q11303	P127	Q192283	1	'skyscraper'@en	'owned by'@en	'news agency'@en
+Q11303	P127	Q192350	1	'skyscraper'@en	'owned by'@en	'ministry'@en
+Q11303	P127	Q206361	1	'skyscraper'@en	'owned by'@en	'concern'@en
+Q11303	P127	Q2143354	1	'skyscraper'@en	'owned by'@en	'insurance company'@en
+Q11303	P127	Q21518270	1	'skyscraper'@en	'owned by'@en	'state or insular area capital of the United States'@en
+Q11303	P127	Q219577	1	'skyscraper'@en	'owned by'@en	'holding company'@en
+Q11303	P127	Q21980538	1	'skyscraper'@en	'owned by'@en	'commercial organization'@en
+Q11303	P127	Q327333	1	'skyscraper'@en	'owned by'@en	'government agency'@en
+Q11303	P127	Q3354859	1	'skyscraper'@en	'owned by'@en	'collegiate university'@en
+Q11303	P127	Q3502482	1	'skyscraper'@en	'owned by'@en	'cultural region'@en
+Q11303	P127	Q43229	1	'skyscraper'@en	'owned by'@en	'organization'@en
+Q11303	P127	Q5225895	1	'skyscraper'@en	'owned by'@en	'public limited company'@en
+Q11303	P127	Q613142	1	'skyscraper'@en	'owned by'@en	'law firm'@en
+Q11303	P127	Q61883	1	'skyscraper'@en	'owned by'@en	'air force'@en
+Q11303	P127	Q62049	1	'skyscraper'@en	'owned by'@en	'county seat'@en
+Q11303	P127	Q62078547	1	'skyscraper'@en	'owned by'@en	'public research university'@en
+Q11303	P127	Q7188	1	'skyscraper'@en	'owned by'@en	'government'@en
+Q11303	P127	Q783794	1	'skyscraper'@en	'owned by'@en	'company'@en
+Q11303	P127	Q87342028	1	'skyscraper'@en	'owned by'@en	'prefectural government'@en
+Q11755880	P127	Q4830453	1	'residential building'@en	'owned by'@en	'business'@en
+Q133215	P127	Q4830453	1	'casino'@en	'owned by'@en	'business'@en
+Q133215	P127	Q6881511	1	'casino'@en	'owned by'@en	'enterprise'@en
+Q1339195	P127	Q4830453	1	'station building'@en	'owned by'@en	'business'@en
+Q1339195	P127	Q6881511	1	'station building'@en	'owned by'@en	'enterprise'@en
+Q1339195	P127	Q891723	1	'station building'@en	'owned by'@en	'public company'@en
+Q18142	P127	Q1631129	1	'high-rise building'@en	'owned by'@en	'hotel chain'@en
+Q18142	P127	Q5225895	1	'high-rise building'@en	'owned by'@en	'public limited company'@en
+Q18142	P127	Q6881511	1	'high-rise building'@en	'owned by'@en	'enterprise'@en
+Q18142	P127	Q783794	1	'high-rise building'@en	'owned by'@en	'company'@en
+Q18142	P127	Q891723	1	'high-rise building'@en	'owned by'@en	'public company'@en
+Q19860854	P127	Q891723	1	'destroyed building or structure'@en	'owned by'@en	'public company'@en
+Q2519340	P127	Q22687	1	'administrative building'@en	'owned by'@en	'bank'@en
+Q2519340	P127	Q4830453	1	'administrative building'@en	'owned by'@en	'business'@en
+Q2519340	P127	Q650241	1	'administrative building'@en	'owned by'@en	'financial institution'@en
+Q25550691	P127	Q7188	1	'town hall'@en	'owned by'@en	'government'@en
+Q27686	P127	Q27686	1	'hotel'@en	'owned by'@en	'hotel'@en
+Q27686	P127	Q3117865	1	'hotel'@en	'owned by'@en	'hotel group'@en
+Q3661265	P127	Q108403040	1	'hall of residence'@en	'owned by'@en	'university in Ontario'@en
+Q3661265	P127	Q3354859	1	'hall of residence'@en	'owned by'@en	'collegiate university'@en
+Q3661265	P127	Q62078547	1	'hall of residence'@en	'owned by'@en	'public research university'@en
+Q41176	P127	Q4830453	1	'building'@en	'owned by'@en	'business'@en
+Q543654	P127	Q1093829	1	'rathaus'@en	'owned by'@en	'city of the United States'@en
+Q543654	P127	Q1549591	1	'rathaus'@en	'owned by'@en	'big city'@en
+Q543654	P127	Q1637706	1	'rathaus'@en	'owned by'@en	'million city'@en
+Q543654	P127	Q21518270	1	'rathaus'@en	'owned by'@en	'state or insular area capital of the United States'@en
+Q543654	P127	Q62049	1	'rathaus'@en	'owned by'@en	'county seat'@en
+Q655686	P127	Q5	1	'commercial building'@en	'owned by'@en	'human'@en
+Q8719053	P127	Q4830453	1	'music venue'@en	'owned by'@en	'business'@en
+Q8719053	P127	Q6881511	1	'music venue'@en	'owned by'@en	'enterprise'@en
+Q11303	P131	Q1549591	214	'skyscraper'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q11303	P131	Q515	152	'skyscraper'@en	'located in the administrative territorial entity'@en	'city'@en
+Q11303	P131	Q35657	121	'skyscraper'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q11303	P131	Q1637706	109	'skyscraper'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q11303	P131	Q1093829	100	'skyscraper'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q11303	P131	Q62049	61	'skyscraper'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q11303	P131	Q5119	50	'skyscraper'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q18142	P131	Q35657	33	'high-rise building'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q11303	P131	Q13218391	32	'skyscraper'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q11303	P131	Q3301053	29	'skyscraper'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q11303	P131	Q408804	26	'skyscraper'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q11303	P131	Q3559093	24	'skyscraper'@en	'located in the administrative territorial entity'@en	'sanctuary city'@en
+Q11303	P131	Q50330360	24	'skyscraper'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q11303	P131	Q1907114	20	'skyscraper'@en	'located in the administrative territorial entity'@en	'metropolitan area'@en
+Q11303	P131	Q486972	20	'skyscraper'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q11303	P131	Q2264924	19	'skyscraper'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q11303	P131	Q110071194	18	'skyscraper'@en	'located in the administrative territorial entity'@en	'city of Illinois'@en
+Q11303	P131	Q51929311	17	'skyscraper'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q11303	P131	Q11828004	15	'skyscraper'@en	'located in the administrative territorial entity'@en	'province of Canada'@en
+Q11303	P131	Q1208802	15	'skyscraper'@en	'located in the administrative territorial entity'@en	'direct-controlled municipality'@en
+Q11303	P131	Q3502482	15	'skyscraper'@en	'located in the administrative territorial entity'@en	'cultural region'@en
+Q11303	P131	Q779415	15	'skyscraper'@en	'located in the administrative territorial entity'@en	'special administrative region of China'@en
+Q11303	P131	Q5327369	14	'skyscraper'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q11303	P131	Q10864048	13	'skyscraper'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q11303	P131	Q123705	13	'skyscraper'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q11303	P131	Q738570	13	'skyscraper'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q11303	P131	Q1066538	12	'skyscraper'@en	'located in the administrative territorial entity'@en	'National Central City'@en
+Q11303	P131	Q19833031	12	'skyscraper'@en	'located in the administrative territorial entity'@en	'emirate of the United Arab Emirates'@en
+Q11303	P131	Q484170	12	'skyscraper'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q11303	P131	Q902814	12	'skyscraper'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q1021645	P131	Q1549591	11	'office building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q11303	P131	Q7897276	11	'skyscraper'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q1021645	P131	Q515	10	'office building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q11303	P131	Q1066984	10	'skyscraper'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q11303	P131	Q21518270	10	'skyscraper'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q11303	P131	Q475050	10	'skyscraper'@en	'located in the administrative territorial entity'@en	'federal district'@en
+Q11303	P131	Q748149	10	'skyscraper'@en	'located in the administrative territorial entity'@en	'prefecture-level city'@en
+Q11303	P131	Q14762300	9	'skyscraper'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q11303	P131	Q250811	9	'skyscraper'@en	'located in the administrative territorial entity'@en	'sub-province-level division'@en
+Q11303	P131	Q56061	9	'skyscraper'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q11303	P131	Q5852411	9	'skyscraper'@en	'located in the administrative territorial entity'@en	'state of Australia'@en
+Q27686	P131	Q1549591	9	'hotel'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q11303	P131	Q200250	8	'skyscraper'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q11303	P131	Q21507383	8	'skyscraper'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q1021645	P131	Q1637706	7	'office building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q11303	P131	Q104527265	7	'skyscraper'@en	'located in the administrative territorial entity'@en	'planning area of Singapore'@en
+Q11303	P131	Q2074737	7	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q11303	P131	Q211690	7	'skyscraper'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q11303	P131	Q21503295	7	'skyscraper'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q11303	P131	Q133156	6	'skyscraper'@en	'located in the administrative territorial entity'@en	'colony'@en
+Q11303	P131	Q15063611	6	'skyscraper'@en	'located in the administrative territorial entity'@en	'city in the state of New York'@en
+Q11303	P131	Q42744322	6	'skyscraper'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q18142	P131	Q1549591	6	'high-rise building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q27686	P131	Q1093829	6	'hotel'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q27686	P131	Q35657	6	'hotel'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q1021645	P131	Q1093829	5	'office building'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1021645	P131	Q484170	5	'office building'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q1021645	P131	Q62049	5	'office building'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q11303	P131	Q174844	5	'skyscraper'@en	'located in the administrative territorial entity'@en	'megacity'@en
+Q11303	P131	Q20528428	5	'skyscraper'@en	'located in the administrative territorial entity'@en	'federative entity of Mexico'@en
+Q11303	P131	Q3184121	5	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Brazil'@en
+Q11303	P131	Q3505887	5	'skyscraper'@en	'located in the administrative territorial entity'@en	'city council'@en
+Q18142	P131	Q1637706	5	'high-rise building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q18142	P131	Q19833031	5	'high-rise building'@en	'located in the administrative territorial entity'@en	'emirate of the United Arab Emirates'@en
+Q11303	P131	Q11271835	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'state capital'@en
+Q11303	P131	Q1187811	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q11303	P131	Q1200957	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'tourist destination'@en
+Q11303	P131	Q15221304	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'first-class city'@en
+Q11303	P131	Q17601336	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q11303	P131	Q180673	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q11303	P131	Q2039348	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of the Netherlands'@en
+Q11303	P131	Q208511	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'global city'@en
+Q11303	P131	Q21010817	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q11303	P131	Q3257686	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'locality'@en
+Q11303	P131	Q50513	4	'skyscraper'@en	'located in the administrative territorial entity'@en	'administrative territorial entity of Singapore'@en
+Q18142	P131	Q515	4	'high-rise building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q27686	P131	Q1637706	4	'hotel'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q1021645	P131	Q5119	3	'office building'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q1021645	P131	Q738570	3	'office building'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q11303	P131	Q1050303	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'downtown'@en
+Q11303	P131	Q12102963	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'city specifically designated in the state plan'@en
+Q11303	P131	Q13218276	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'Freie Stadt'@en
+Q11303	P131	Q1375749	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'European City'@en
+Q11303	P131	Q149621	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'district'@en
+Q11303	P131	Q19832617	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'thana of Bangladesh'@en
+Q11303	P131	Q29946056	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'highly urbanized city'@en
+Q11303	P131	Q485258	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'federative unit of Brazil'@en
+Q11303	P131	Q57318	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'free imperial city'@en
+Q11303	P131	Q5888666	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q11303	P131	Q61980648	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'urban district of Hesse'@en
+Q11303	P131	Q65589340	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'capital of a prefecture of Japan'@en
+Q11303	P131	Q674950	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'residential area'@en
+Q11303	P131	Q925381	3	'skyscraper'@en	'located in the administrative territorial entity'@en	'city with powiat rights'@en
+Q18142	P131	Q21503295	3	'high-rise building'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q18142	P131	Q62049	3	'high-rise building'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q18142	P131	Q738570	3	'high-rise building'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q27686	P131	Q3301053	3	'hotel'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q27686	P131	Q515	3	'hotel'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1021645	P131	Q123705	2	'office building'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q1021645	P131	Q1907114	2	'office building'@en	'located in the administrative territorial entity'@en	'metropolitan area'@en
+Q1021645	P131	Q21518270	2	'office building'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q1021645	P131	Q3502482	2	'office building'@en	'located in the administrative territorial entity'@en	'cultural region'@en
+Q1021645	P131	Q408804	2	'office building'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q1021645	P131	Q42744322	2	'office building'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q1021645	P131	Q486972	2	'office building'@en	'located in the administrative territorial entity'@en	'human settlement'@en
+Q1021645	P131	Q50256	2	'office building'@en	'located in the administrative territorial entity'@en	'district of Hong Kong'@en
+Q1021645	P131	Q779415	2	'office building'@en	'located in the administrative territorial entity'@en	'special administrative region of China'@en
+Q11303	P131	Q1002812	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q11303	P131	Q104782082	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'territory outside RCM'@en
+Q11303	P131	Q1065118	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'district of China'@en
+Q11303	P131	Q10876480	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'Capital of Republic of China (Taiwan)'@en
+Q11303	P131	Q1094397	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'autonomous city'@en
+Q11303	P131	Q1133961	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'commercial district'@en
+Q11303	P131	Q1137833	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'core city of Japan'@en
+Q11303	P131	Q127448	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q11303	P131	Q13455645	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'administrative city in the Republic of Ireland'@en
+Q11303	P131	Q134626	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q11303	P131	Q137773	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'ward of Japan'@en
+Q11303	P131	Q1381899	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Vietnam'@en
+Q11303	P131	Q1422929	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'primate city'@en
+Q11303	P131	Q15060255	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q11303	P131	Q15243209	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'historic district'@en
+Q11303	P131	Q15634846	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'district of Seoul'@en
+Q11303	P131	Q171441	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'enclave'@en
+Q11303	P131	Q1749269	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'city designated by government ordinance'@en
+Q11303	P131	Q1872284	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Guatemala'@en
+Q11303	P131	Q1901835	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'seat of government'@en
+Q11303	P131	Q192611	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'electoral district'@en
+Q11303	P131	Q20871353	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'cadastral area in the Czech Republic'@en
+Q11303	P131	Q2225003	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'special municipality'@en
+Q11303	P131	Q27676416	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'city or town'@en
+Q11303	P131	Q3957	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'town'@en
+Q11303	P131	Q493522	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q11303	P131	Q50256	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'district of Hong Kong'@en
+Q11303	P131	Q50337	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'prefecture of Japan'@en
+Q11303	P131	Q5327704	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'special ward of Japan'@en
+Q11303	P131	Q56557664	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'şəhər'@en
+Q11303	P131	Q60458065	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'city'@en
+Q11303	P131	Q61089180	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'part of municipality in the Czech Republic'@en
+Q11303	P131	Q747074	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'commune of Italy'@en
+Q11303	P131	Q79007	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'street'@en
+Q11303	P131	Q79416466	2	'skyscraper'@en	'located in the administrative territorial entity'@en	'Neighborhood of Frankfurt'@en
+Q18142	P131	Q1066984	2	'high-rise building'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q18142	P131	Q1093829	2	'high-rise building'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q18142	P131	Q15221304	2	'high-rise building'@en	'located in the administrative territorial entity'@en	'first-class city'@en
+Q18142	P131	Q5119	2	'high-rise building'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q18142	P131	Q56557664	2	'high-rise building'@en	'located in the administrative territorial entity'@en	'şəhər'@en
+Q18142	P131	Q7897276	2	'high-rise building'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q27686	P131	Q13218391	2	'hotel'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q27686	P131	Q51929311	2	'hotel'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q27686	P131	Q62049	2	'hotel'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q41176	P131	Q1549591	2	'building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q811683	P131	Q515	2	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'city'@en
+Q100705206	P131	Q5327369	1	'prefectural office building'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q1021645	P131	Q1066984	1	'office building'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q1021645	P131	Q10864048	1	'office building'@en	'located in the administrative territorial entity'@en	'first-level administrative country subdivision'@en
+Q1021645	P131	Q110071194	1	'office building'@en	'located in the administrative territorial entity'@en	'city of Illinois'@en
+Q1021645	P131	Q1187811	1	'office building'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q1021645	P131	Q13218276	1	'office building'@en	'located in the administrative territorial entity'@en	'Freie Stadt'@en
+Q1021645	P131	Q13218391	1	'office building'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q1021645	P131	Q134626	1	'office building'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q1021645	P131	Q13691	1	'office building'@en	'located in the administrative territorial entity'@en	'artificial island'@en
+Q1021645	P131	Q137535	1	'office building'@en	'located in the administrative territorial entity'@en	'county of Iran'@en
+Q1021645	P131	Q1375749	1	'office building'@en	'located in the administrative territorial entity'@en	'European City'@en
+Q1021645	P131	Q1381899	1	'office building'@en	'located in the administrative territorial entity'@en	'municipality of Vietnam'@en
+Q1021645	P131	Q15063611	1	'office building'@en	'located in the administrative territorial entity'@en	'city in the state of New York'@en
+Q1021645	P131	Q1872284	1	'office building'@en	'located in the administrative territorial entity'@en	'municipality of Guatemala'@en
+Q1021645	P131	Q21010817	1	'office building'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q1021645	P131	Q2264924	1	'office building'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q1021645	P131	Q22927616	1	'office building'@en	'located in the administrative territorial entity'@en	'commune of France with specific status'@en
+Q1021645	P131	Q2555896	1	'office building'@en	'located in the administrative territorial entity'@en	'municipality of Colombia'@en
+Q1021645	P131	Q395994	1	'office building'@en	'located in the administrative territorial entity'@en	'capital district or territory'@en
+Q1021645	P131	Q499073	1	'office building'@en	'located in the administrative territorial entity'@en	'direct-controlled municipality'@en
+Q1021645	P131	Q50330360	1	'office building'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q1021645	P131	Q51929311	1	'office building'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q1021645	P131	Q5327369	1	'office building'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q1021645	P131	Q56061	1	'office building'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q1021645	P131	Q57318	1	'office building'@en	'located in the administrative territorial entity'@en	'free imperial city'@en
+Q1021645	P131	Q5888666	1	'office building'@en	'located in the administrative territorial entity'@en	'home rule municipality of Pennsylvania'@en
+Q1021645	P131	Q61980648	1	'office building'@en	'located in the administrative territorial entity'@en	'urban district of Hesse'@en
+Q1021645	P131	Q65948724	1	'office building'@en	'located in the administrative territorial entity'@en	'neighborhoods in Japan'@en
+Q1021645	P131	Q79007	1	'office building'@en	'located in the administrative territorial entity'@en	'street'@en
+Q1021645	P131	Q79416466	1	'office building'@en	'located in the administrative territorial entity'@en	'Neighborhood of Frankfurt'@en
+Q1021645	P131	Q85632032	1	'office building'@en	'located in the administrative territorial entity'@en	'urban district of Rhineland-Palatinate'@en
+Q1021645	P131	Q902814	1	'office building'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q1129142	P131	Q1093829	1	'NRHP contributing property'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1129142	P131	Q1549591	1	'NRHP contributing property'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1129142	P131	Q62049	1	'NRHP contributing property'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q11303	P131	Q1025961	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'capital of Japan'@en
+Q11303	P131	Q10267336	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'neighborhood of Madrid'@en
+Q11303	P131	Q1050126	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'sub-provincial district of the People\'s Republic of China'@en
+Q11303	P131	Q106646149	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'Climate emergency declarations in New Zealand'@en
+Q11303	P131	Q110266204	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'optional charter municipality of Pennsylvania'@en
+Q11303	P131	Q1145012	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'special city of Japan'@en
+Q11303	P131	Q11774097	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'county of Texas'@en
+Q11303	P131	Q1180262	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'residenz'@en
+Q11303	P131	Q12645496	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'Districts of Zagreb'@en
+Q11303	P131	Q1266029	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'edge city'@en
+Q11303	P131	Q13691	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'artificial island'@en
+Q11303	P131	Q137535	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'county of Iran'@en
+Q11303	P131	Q14784328	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'state capital in Germany'@en
+Q11303	P131	Q15063586	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'States of Malaysia'@en
+Q11303	P131	Q15253706	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'like a city'@en
+Q11303	P131	Q15284	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality'@en
+Q11303	P131	Q15634695	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'special administrative area of Thailand'@en
+Q11303	P131	Q15911903	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'state-level new area of the People\'s Republic of China'@en
+Q11303	P131	Q17457753	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'census subdivision'@en
+Q11303	P131	Q20968646	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'neighborhood of historical district of Moscow'@en
+Q11303	P131	Q216712	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'region of New Zealand'@en
+Q11303	P131	Q22927616	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'commune of France with specific status'@en
+Q11303	P131	Q253270	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'borough of Munich'@en
+Q11303	P131	Q2555896	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Colombia'@en
+Q11303	P131	Q2755753	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'area of London'@en
+Q11303	P131	Q2974552	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'city in New Jersey'@en
+Q11303	P131	Q2989398	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'commune of Algeria'@en
+Q11303	P131	Q3032114	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'district of Madrid'@en
+Q11303	P131	Q317548	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'resort town'@en
+Q11303	P131	Q3243765	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Argentina'@en
+Q11303	P131	Q33146843	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Catalonia'@en
+Q11303	P131	Q3624078	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'sovereign state'@en
+Q11303	P131	Q39594	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'bay'@en
+Q11303	P131	Q395994	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'capital district or territory'@en
+Q11303	P131	Q3976641	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'administrative territorial entity of Kenya'@en
+Q11303	P131	Q4752944	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'ancient borough'@en
+Q11303	P131	Q4943467	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'Boomburb'@en
+Q11303	P131	Q499073	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'direct-controlled municipality'@en
+Q11303	P131	Q55440238	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'city in Alberta'@en
+Q11303	P131	Q56557504	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'city of Iran'@en
+Q11303	P131	Q570116	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'tourist attraction'@en
+Q11303	P131	Q6063801	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'parish of Venezuela'@en
+Q11303	P131	Q6256	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'country'@en
+Q11303	P131	Q65948724	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'neighborhoods in Japan'@en
+Q11303	P131	Q691960	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'satellite city'@en
+Q11303	P131	Q692581	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'holy city'@en
+Q11303	P131	Q705296	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'district of Taiwan'@en
+Q11303	P131	Q7270	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'republic'@en
+Q11303	P131	Q748198	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'gay village'@en
+Q11303	P131	Q7574799	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'special city of South Korea'@en
+Q11303	P131	Q7635776	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'Sukhaphiban'@en
+Q11303	P131	Q76514543	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'municipality of Georgia'@en
+Q11303	P131	Q7930989	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'city/town'@en
+Q11303	P131	Q7969215	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'ward of the City of London'@en
+Q11303	P131	Q821435	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'borough of Berlin'@en
+Q11303	P131	Q842412	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'administrative territorial entity of Turkmenistan'@en
+Q11303	P131	Q85631896	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'urban district of Bavaria'@en
+Q11303	P131	Q85632032	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'urban district of Rhineland-Palatinate'@en
+Q11303	P131	Q85635630	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'urban district of North Rhine-Westphalia'@en
+Q11303	P131	Q956214	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'chef-lieu'@en
+Q11303	P131	Q986065	1	'skyscraper'@en	'located in the administrative territorial entity'@en	'subdistrict of China'@en
+Q11755880	P131	Q110071194	1	'residential building'@en	'located in the administrative territorial entity'@en	'city of Illinois'@en
+Q11755880	P131	Q1549591	1	'residential building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q11755880	P131	Q2989398	1	'residential building'@en	'located in the administrative territorial entity'@en	'commune of Algeria'@en
+Q11755880	P131	Q50330360	1	'residential building'@en	'located in the administrative territorial entity'@en	'second largest city'@en
+Q11755880	P131	Q515	1	'residential building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q12518	P131	Q1637706	1	'tower'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q12518	P131	Q200250	1	'tower'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q12518	P131	Q208511	1	'tower'@en	'located in the administrative territorial entity'@en	'global city'@en
+Q12518	P131	Q5119	1	'tower'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q12518	P131	Q56557504	1	'tower'@en	'located in the administrative territorial entity'@en	'city of Iran'@en
+Q12771350	P131	Q15634846	1		'located in the administrative territorial entity'@en	'district of Seoul'@en
+Q133215	P131	Q35657	1	'casino'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q1339195	P131	Q1025961	1	'station building'@en	'located in the administrative territorial entity'@en	'capital of Japan'@en
+Q1339195	P131	Q123705	1	'station building'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q1339195	P131	Q1637706	1	'station building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q1339195	P131	Q50337	1	'station building'@en	'located in the administrative territorial entity'@en	'prefecture of Japan'@en
+Q1339195	P131	Q5119	1	'station building'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q1339195	P131	Q5327369	1	'station building'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q13402009	P131	Q1093829	1	'apartment building'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q13402009	P131	Q1266029	1	'apartment building'@en	'located in the administrative territorial entity'@en	'edge city'@en
+Q13402009	P131	Q1549591	1	'apartment building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q13402009	P131	Q408804	1	'apartment building'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q13402009	P131	Q484170	1	'apartment building'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q13402009	P131	Q4943467	1	'apartment building'@en	'located in the administrative territorial entity'@en	'Boomburb'@en
+Q13402009	P131	Q691960	1	'apartment building'@en	'located in the administrative territorial entity'@en	'satellite city'@en
+Q1406988	P131	Q1066984	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q1406988	P131	Q17601336	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q1406988	P131	Q180673	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q1406988	P131	Q21503295	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q1406988	P131	Q515	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1406988	P131	Q738570	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q1406988	P131	Q7897276	1	'grand ensemble'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q1497364	P131	Q1093829	1	'building complex'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1497364	P131	Q13218391	1	'building complex'@en	'located in the administrative territorial entity'@en	'charter city'@en
+Q1497364	P131	Q1549591	1	'building complex'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1497364	P131	Q3301053	1	'building complex'@en	'located in the administrative territorial entity'@en	'consolidated city-county'@en
+Q1497364	P131	Q3559093	1	'building complex'@en	'located in the administrative territorial entity'@en	'sanctuary city'@en
+Q1497364	P131	Q515	1	'building complex'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1570262	P131	Q1002812	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q1570262	P131	Q1066984	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q1570262	P131	Q14762300	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q1570262	P131	Q15060255	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en
+Q1570262	P131	Q1549591	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1570262	P131	Q21503295	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q1570262	P131	Q21507383	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q1570262	P131	Q408804	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q1570262	P131	Q515	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q1570262	P131	Q738570	1	'unfinished building'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q1577547	P131	Q1093829	1	'revenue house'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q1577547	P131	Q110071194	1	'revenue house'@en	'located in the administrative territorial entity'@en	'city of Illinois'@en
+Q1577547	P131	Q1549591	1	'revenue house'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q1577547	P131	Q1637706	1	'revenue house'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q1577547	P131	Q21518270	1	'revenue house'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q1577547	P131	Q62049	1	'revenue house'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q18142	P131	Q1002812	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'metropolitan borough'@en
+Q18142	P131	Q11828004	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'province of Canada'@en
+Q18142	P131	Q1187811	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q18142	P131	Q123705	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q18142	P131	Q127448	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'municipality of Sweden'@en
+Q18142	P131	Q13218276	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'Freie Stadt'@en
+Q18142	P131	Q1375749	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'European City'@en
+Q18142	P131	Q15063611	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'city in the state of New York'@en
+Q18142	P131	Q17601336	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q18142	P131	Q180673	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q18142	P131	Q208511	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'global city'@en
+Q18142	P131	Q211690	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'London borough'@en
+Q18142	P131	Q21518270	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q18142	P131	Q2264924	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q18142	P131	Q250811	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'sub-province-level division'@en
+Q18142	P131	Q2755753	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'area of London'@en
+Q18142	P131	Q408804	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q18142	P131	Q42744322	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q18142	P131	Q4752944	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'ancient borough'@en
+Q18142	P131	Q484170	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'commune of France'@en
+Q18142	P131	Q493522	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q18142	P131	Q51929311	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'largest city'@en
+Q18142	P131	Q57318	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'free imperial city'@en
+Q18142	P131	Q61980648	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'urban district of Hesse'@en
+Q18142	P131	Q748149	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'prefecture-level city'@en
+Q18142	P131	Q79007	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'street'@en
+Q18142	P131	Q79416466	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'Neighborhood of Frankfurt'@en
+Q18142	P131	Q7969215	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'ward of the City of London'@en
+Q18142	P131	Q821435	1	'high-rise building'@en	'located in the administrative territorial entity'@en	'borough of Berlin'@en
+Q19860854	P131	Q1133961	1	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'commercial district'@en
+Q19860854	P131	Q5327369	1	'destroyed building or structure'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q2304397	P131	Q1549591	1	'residential tower'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q2304397	P131	Q1637706	1	'residential tower'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q2304397	P131	Q3243765	1	'residential tower'@en	'located in the administrative territorial entity'@en	'municipality of Argentina'@en
+Q2304397	P131	Q485258	1	'residential tower'@en	'located in the administrative territorial entity'@en	'federative unit of Brazil'@en
+Q2304397	P131	Q515	1	'residential tower'@en	'located in the administrative territorial entity'@en	'city'@en
+Q242606	P131	Q1549591	1	'green building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q242606	P131	Q1637706	1	'green building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q242606	P131	Q515	1	'green building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q242606	P131	Q56061	1	'green building'@en	'located in the administrative territorial entity'@en	'administrative territorial entity'@en
+Q24354	P131	Q1093829	1	'theatre'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q24354	P131	Q1549591	1	'theatre'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q24354	P131	Q62049	1	'theatre'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q24354	P131	Q902814	1	'theatre'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q2519340	P131	Q1066984	1	'administrative building'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q2519340	P131	Q1180262	1	'administrative building'@en	'located in the administrative territorial entity'@en	'residenz'@en
+Q2519340	P131	Q1187811	1	'administrative building'@en	'located in the administrative territorial entity'@en	'college town'@en
+Q2519340	P131	Q134626	1	'administrative building'@en	'located in the administrative territorial entity'@en	'district capital'@en
+Q2519340	P131	Q1549591	1	'administrative building'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q2519340	P131	Q1637706	1	'administrative building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q2519340	P131	Q200250	1	'administrative building'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q2519340	P131	Q253270	1	'administrative building'@en	'located in the administrative territorial entity'@en	'borough of Munich'@en
+Q2519340	P131	Q42744322	1	'administrative building'@en	'located in the administrative territorial entity'@en	'urban municipality of Germany'@en
+Q2519340	P131	Q515	1	'administrative building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q2519340	P131	Q85631896	1	'administrative building'@en	'located in the administrative territorial entity'@en	'urban district of Bavaria'@en
+Q25550691	P131	Q14762300	1	'town hall'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q25550691	P131	Q1549591	1	'town hall'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q25550691	P131	Q21507383	1	'town hall'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q25550691	P131	Q515	1	'town hall'@en	'located in the administrative territorial entity'@en	'city'@en
+Q2755753	P131	Q1066984	1	'area of London'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q2755753	P131	Q17601336	1	'area of London'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q2755753	P131	Q180673	1	'area of London'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q2755753	P131	Q21503295	1	'area of London'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q2755753	P131	Q515	1	'area of London'@en	'located in the administrative territorial entity'@en	'city'@en
+Q2755753	P131	Q738570	1	'area of London'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q2755753	P131	Q7897276	1	'area of London'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q27686	P131	Q1200957	1	'hotel'@en	'located in the administrative territorial entity'@en	'tourist destination'@en
+Q27686	P131	Q123705	1	'hotel'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q27686	P131	Q15063611	1	'hotel'@en	'located in the administrative territorial entity'@en	'city in the state of New York'@en
+Q27686	P131	Q1872284	1	'hotel'@en	'located in the administrative territorial entity'@en	'municipality of Guatemala'@en
+Q27686	P131	Q2074737	1	'hotel'@en	'located in the administrative territorial entity'@en	'municipality of Spain'@en
+Q27686	P131	Q208511	1	'hotel'@en	'located in the administrative territorial entity'@en	'global city'@en
+Q27686	P131	Q21518270	1	'hotel'@en	'located in the administrative territorial entity'@en	'state or insular area capital of the United States'@en
+Q27686	P131	Q2264924	1	'hotel'@en	'located in the administrative territorial entity'@en	'port settlement'@en
+Q27686	P131	Q3559093	1	'hotel'@en	'located in the administrative territorial entity'@en	'sanctuary city'@en
+Q27686	P131	Q408804	1	'hotel'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q27686	P131	Q5119	1	'hotel'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q27686	P131	Q738570	1	'hotel'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q27686	P131	Q902814	1	'hotel'@en	'located in the administrative territorial entity'@en	'border town'@en
+Q3661265	P131	Q14762300	1	'hall of residence'@en	'located in the administrative territorial entity'@en	'single-tier municipality'@en
+Q3661265	P131	Q1549591	1	'hall of residence'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q3661265	P131	Q21507383	1	'hall of residence'@en	'located in the administrative territorial entity'@en	'provincial or territorial capital city in Canada'@en
+Q3661265	P131	Q515	1	'hall of residence'@en	'located in the administrative territorial entity'@en	'city'@en
+Q41176	P131	Q1093829	1	'building'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q41176	P131	Q110071194	1	'building'@en	'located in the administrative territorial entity'@en	'city of Illinois'@en
+Q41176	P131	Q123705	1	'building'@en	'located in the administrative territorial entity'@en	'neighborhood'@en
+Q41176	P131	Q1637706	1	'building'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q41176	P131	Q200250	1	'building'@en	'located in the administrative territorial entity'@en	'metropolis'@en
+Q41176	P131	Q20871353	1	'building'@en	'located in the administrative territorial entity'@en	'cadastral area in the Czech Republic'@en
+Q41176	P131	Q515	1	'building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q41176	P131	Q61089180	1	'building'@en	'located in the administrative territorial entity'@en	'part of municipality in the Czech Republic'@en
+Q41176	P131	Q62049	1	'building'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q47012103	P131	Q1066984	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q47012103	P131	Q17601336	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q47012103	P131	Q180673	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q47012103	P131	Q21503295	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q47012103	P131	Q515	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'city'@en
+Q47012103	P131	Q738570	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q47012103	P131	Q7897276	1	'mixed-use building'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q543654	P131	Q2974552	1	'rathaus'@en	'located in the administrative territorial entity'@en	'city in New Jersey'@en
+Q543654	P131	Q35657	1	'rathaus'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q543654	P131	Q62049	1	'rathaus'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q6484056	P131	Q1066984	1	'land development'@en	'located in the administrative territorial entity'@en	'financial centre'@en
+Q6484056	P131	Q17601336	1	'land development'@en	'located in the administrative territorial entity'@en	'district of the United Kingdom'@en
+Q6484056	P131	Q180673	1	'land development'@en	'located in the administrative territorial entity'@en	'ceremonial county of England'@en
+Q6484056	P131	Q21503295	1	'land development'@en	'located in the administrative territorial entity'@en	'district with city status'@en
+Q6484056	P131	Q515	1	'land development'@en	'located in the administrative territorial entity'@en	'city'@en
+Q6484056	P131	Q738570	1	'land development'@en	'located in the administrative territorial entity'@en	'central business district'@en
+Q6484056	P131	Q7897276	1	'land development'@en	'located in the administrative territorial entity'@en	'unparished area'@en
+Q655686	P131	Q110266204	1	'commercial building'@en	'located in the administrative territorial entity'@en	'optional charter municipality of Pennsylvania'@en
+Q655686	P131	Q13691	1	'commercial building'@en	'located in the administrative territorial entity'@en	'artificial island'@en
+Q655686	P131	Q21010817	1	'commercial building'@en	'located in the administrative territorial entity'@en	'city of Pennsylvania'@en
+Q655686	P131	Q408804	1	'commercial building'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q655686	P131	Q5327369	1	'commercial building'@en	'located in the administrative territorial entity'@en	'chōchō'@en
+Q76321820	P131	Q1093829	1	'contributing property'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q76321820	P131	Q1549591	1	'contributing property'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q76321820	P131	Q62049	1	'contributing property'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q811430	P131	Q19833031	1	'human-made geographic feature'@en	'located in the administrative territorial entity'@en	'emirate of the United Arab Emirates'@en
+Q811683	P131	Q1093829	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'city of the United States'@en
+Q811683	P131	Q11271835	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'state capital'@en
+Q811683	P131	Q1549591	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'big city'@en
+Q811683	P131	Q1637706	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'million city'@en
+Q811683	P131	Q174844	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'megacity'@en
+Q811683	P131	Q1907114	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'metropolitan area'@en
+Q811683	P131	Q19833031	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'emirate of the United Arab Emirates'@en
+Q811683	P131	Q3257686	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'locality'@en
+Q811683	P131	Q408804	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'borough of New York City'@en
+Q811683	P131	Q5119	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'capital'@en
+Q811683	P131	Q62049	1	'proposed building or structure'@en	'located in the administrative territorial entity'@en	'county seat'@en
+Q811979	P131	Q493522	1	'architectural structure'@en	'located in the administrative territorial entity'@en	'municipality of Belgium'@en
+Q8719053	P131	Q35657	1	'music venue'@en	'located in the administrative territorial entity'@en	'U.S. state'@en
+Q11303	P1343	Q15633582	2	'skyscraper'@en	'described by source'@en	'MediaWiki website'@en
+Q11303	P1343	Q615699	2	'skyscraper'@en	'described by source'@en	'Internet encyclopedia'@en
+Q18142	P1343	Q15633582	1	'high-rise building'@en	'described by source'@en	'MediaWiki website'@en
+Q18142	P1343	Q615699	1	'high-rise building'@en	'described by source'@en	'Internet encyclopedia'@en
+Q811683	P1343	Q15633582	1	'proposed building or structure'@en	'described by source'@en	'MediaWiki website'@en
+Q811683	P1343	Q615699	1	'proposed building or structure'@en	'described by source'@en	'Internet encyclopedia'@en
+Q11303	P135	Q32880	4	'skyscraper'@en	'movement'@en	'architectural style'@en
+Q11303	P135	Q968159	3	'skyscraper'@en	'movement'@en	'art movement'@en
+Q11303	P137	Q1631129	5	'skyscraper'@en	'operator'@en	'hotel chain'@en
+Q11303	P137	Q891723	4	'skyscraper'@en	'operator'@en	'public company'@en
+Q11303	P137	Q4830453	3	'skyscraper'@en	'operator'@en	'business'@en
+Q27686	P137	Q1631129	3	'hotel'@en	'operator'@en	'hotel chain'@en
+Q27686	P137	Q891723	3	'hotel'@en	'operator'@en	'public company'@en
+Q11303	P137	Q6881511	1	'skyscraper'@en	'operator'@en	'enterprise'@en
+Q11303	P138	Q4830453	6	'skyscraper'@en	'named after'@en	'business'@en
+Q11303	P138	Q5	3	'skyscraper'@en	'named after'@en	'human'@en
+Q11303	P138	Q6881511	3	'skyscraper'@en	'named after'@en	'enterprise'@en
+Q11303	P138	Q1549591	2	'skyscraper'@en	'named after'@en	'big city'@en
+Q11303	P138	Q19776628	2	'skyscraper'@en	'named after'@en	'Latin-script letter'@en
+Q11303	P138	Q515	2	'skyscraper'@en	'named after'@en	'city'@en
+Q11303	P138	Q891723	2	'skyscraper'@en	'named after'@en	'public company'@en
+Q1021645	P138	Q13691	1	'office building'@en	'named after'@en	'artificial island'@en
+Q1021645	P138	Q153562	1	'office building'@en	'named after'@en	'opera house'@en
+Q1021645	P138	Q1631129	1	'office building'@en	'named after'@en	'hotel chain'@en
+Q1021645	P138	Q22746	1	'office building'@en	'named after'@en	'urban park'@en
+Q1021645	P138	Q48075064	1	'office building'@en	'named after'@en	'sea god'@en
+Q1021645	P138	Q4830453	1	'office building'@en	'named after'@en	'business'@en
+Q1021645	P138	Q5	1	'office building'@en	'named after'@en	'human'@en
+Q1021645	P138	Q5327369	1	'office building'@en	'named after'@en	'chōchō'@en
+Q1021645	P138	Q66344	1	'office building'@en	'named after'@en	'central bank'@en
+Q11303	P138	Q1066538	1	'skyscraper'@en	'named after'@en	'National Central City'@en
+Q11303	P138	Q1075	1	'skyscraper'@en	'named after'@en	'color'@en
+Q11303	P138	Q1137833	1	'skyscraper'@en	'named after'@en	'core city of Japan'@en
+Q11303	P138	Q1208802	1	'skyscraper'@en	'named after'@en	'direct-controlled municipality'@en
+Q11303	P138	Q13691	1	'skyscraper'@en	'named after'@en	'artificial island'@en
+Q11303	P138	Q153562	1	'skyscraper'@en	'named after'@en	'opera house'@en
+Q11303	P138	Q16110	1	'skyscraper'@en	'named after'@en	'region of Italy'@en
+Q11303	P138	Q1631129	1	'skyscraper'@en	'named after'@en	'hotel chain'@en
+Q11303	P138	Q1637706	1	'skyscraper'@en	'named after'@en	'million city'@en
+Q11303	P138	Q2264924	1	'skyscraper'@en	'named after'@en	'port settlement'@en
+Q11303	P138	Q22687	1	'skyscraper'@en	'named after'@en	'bank'@en
+Q11303	P138	Q22746	1	'skyscraper'@en	'named after'@en	'urban park'@en
+Q11303	P138	Q34442	1	'skyscraper'@en	'named after'@en	'road'@en
+Q11303	P138	Q3502482	1	'skyscraper'@en	'named after'@en	'cultural region'@en
+Q11303	P138	Q376431	1	'skyscraper'@en	'named after'@en	'color term'@en
+Q11303	P138	Q3841820	1	'skyscraper'@en	'named after'@en	'consonant letter'@en
+Q11303	P138	Q48075064	1	'skyscraper'@en	'named after'@en	'sea god'@en
+Q11303	P138	Q50330360	1	'skyscraper'@en	'named after'@en	'second largest city'@en
+Q11303	P138	Q5327369	1	'skyscraper'@en	'named after'@en	'chōchō'@en
+Q11303	P138	Q650241	1	'skyscraper'@en	'named after'@en	'financial institution'@en
+Q11303	P138	Q65589340	1	'skyscraper'@en	'named after'@en	'capital of a prefecture of Japan'@en
+Q11303	P138	Q66344	1	'skyscraper'@en	'named after'@en	'central bank'@en
+Q11303	P138	Q9398093	1	'skyscraper'@en	'named after'@en	'vowel letter'@en
+Q2519340	P138	Q22687	1	'administrative building'@en	'named after'@en	'bank'@en
+Q2519340	P138	Q4830453	1	'administrative building'@en	'named after'@en	'business'@en
+Q2519340	P138	Q650241	1	'administrative building'@en	'named after'@en	'financial institution'@en
+Q41176	P138	Q5	1	'building'@en	'named after'@en	'human'@en
+Q655686	P138	Q13691	1	'commercial building'@en	'named after'@en	'artificial island'@en
+Q655686	P138	Q48075064	1	'commercial building'@en	'named after'@en	'sea god'@en
+Q655686	P138	Q5327369	1	'commercial building'@en	'named after'@en	'chōchō'@en
+Q811683	P138	Q4830453	1	'proposed building or structure'@en	'named after'@en	'business'@en
+Q1021645	P1398	Q11391966	1	'office building'@en	'structure replaces'@en	
+Q1021645	P1398	Q5215430	1	'office building'@en	'structure replaces'@en	'danchi'@en
+Q11303	P1398	Q1021645	1	'skyscraper'@en	'structure replaces'@en	'office building'@en
+Q11303	P1398	Q11391966	1	'skyscraper'@en	'structure replaces'@en	
+Q11303	P1398	Q155511	1	'skyscraper'@en	'structure replaces'@en	'plant nursery'@en
+Q11303	P1398	Q19860854	1	'skyscraper'@en	'structure replaces'@en	'destroyed building or structure'@en
+Q11303	P1398	Q5215430	1	'skyscraper'@en	'structure replaces'@en	'danchi'@en
+Q655686	P1398	Q11391966	1	'commercial building'@en	'structure replaces'@en	
+Q655686	P1398	Q5215430	1	'commercial building'@en	'structure replaces'@en	'danchi'@en
+Q11303	P1435	Q30634609	31	'skyscraper'@en	'heritage designation'@en	'heritage designation'@en
+Q1021645	P1435	Q30634609	3	'office building'@en	'heritage designation'@en	'heritage designation'@en
+Q1577547	P1435	Q30634609	2	'revenue house'@en	'heritage designation'@en	'heritage designation'@en
+Q18142	P1435	Q30634609	2	'high-rise building'@en	'heritage designation'@en	'heritage designation'@en
+Q1406988	P1435	Q30634609	1	'grand ensemble'@en	'heritage designation'@en	'heritage designation'@en
+Q24354	P1435	Q30634609	1	'theatre'@en	'heritage designation'@en	'heritage designation'@en
+Q2755753	P1435	Q30634609	1	'area of London'@en	'heritage designation'@en	'heritage designation'@en
+Q27686	P1435	Q30634609	1	'hotel'@en	'heritage designation'@en	'heritage designation'@en
+Q41176	P1435	Q30634609	1	'building'@en	'heritage designation'@en	'heritage designation'@en
+Q47012103	P1435	Q30634609	1	'mixed-use building'@en	'heritage designation'@en	'heritage designation'@en
+Q6484056	P1435	Q30634609	1	'land development'@en	'heritage designation'@en	'heritage designation'@en
+Q655686	P1435	Q30634609	1	'commercial building'@en	'heritage designation'@en	'heritage designation'@en
+Q11303	P144	Q1021645	1	'skyscraper'@en	'based on'@en	'office building'@en
+Q11303	P149	Q32880	121	'skyscraper'@en	'architectural style'@en	'architectural style'@en
+Q11303	P149	Q968159	18	'skyscraper'@en	'architectural style'@en	'art movement'@en
+Q11303	P149	Q1792644	16	'skyscraper'@en	'architectural style'@en	'art style'@en
+Q18142	P149	Q32880	15	'high-rise building'@en	'architectural style'@en	'architectural style'@en
+Q1021645	P149	Q32880	6	'office building'@en	'architectural style'@en	'architectural style'@en
+Q1021645	P149	Q1792644	1	'office building'@en	'architectural style'@en	'art style'@en
+Q11303	P149	Q1292119	1	'skyscraper'@en	'architectural style'@en	'style'@en
+Q11755880	P149	Q32880	1	'residential building'@en	'architectural style'@en	'architectural style'@en
+Q133215	P149	Q1792644	1	'casino'@en	'architectural style'@en	'art style'@en
+Q133215	P149	Q968159	1	'casino'@en	'architectural style'@en	'art movement'@en
+Q1406988	P149	Q32880	1	'grand ensemble'@en	'architectural style'@en	'architectural style'@en
+Q1406988	P149	Q968159	1	'grand ensemble'@en	'architectural style'@en	'art movement'@en
+Q1577547	P149	Q32880	1	'revenue house'@en	'architectural style'@en	'architectural style'@en
+Q24354	P149	Q32880	1	'theatre'@en	'architectural style'@en	'architectural style'@en
+Q25550691	P149	Q32880	1	'town hall'@en	'architectural style'@en	'architectural style'@en
+Q2755753	P149	Q32880	1	'area of London'@en	'architectural style'@en	'architectural style'@en
+Q2755753	P149	Q968159	1	'area of London'@en	'architectural style'@en	'art movement'@en
+Q27686	P149	Q1792644	1	'hotel'@en	'architectural style'@en	'art style'@en
+Q27686	P149	Q32880	1	'hotel'@en	'architectural style'@en	'architectural style'@en
+Q27686	P149	Q968159	1	'hotel'@en	'architectural style'@en	'art movement'@en
+Q41176	P149	Q32880	1	'building'@en	'architectural style'@en	'architectural style'@en
+Q47012103	P149	Q32880	1	'mixed-use building'@en	'architectural style'@en	'architectural style'@en
+Q47012103	P149	Q968159	1	'mixed-use building'@en	'architectural style'@en	'art movement'@en
+Q543654	P149	Q1292119	1	'rathaus'@en	'architectural style'@en	'style'@en
+Q543654	P149	Q32880	1	'rathaus'@en	'architectural style'@en	'architectural style'@en
+Q543654	P149	Q968159	1	'rathaus'@en	'architectural style'@en	'art movement'@en
+Q6484056	P149	Q32880	1	'land development'@en	'architectural style'@en	'architectural style'@en
+Q6484056	P149	Q968159	1	'land development'@en	'architectural style'@en	'art movement'@en
+Q655686	P149	Q32880	1	'commercial building'@en	'architectural style'@en	'architectural style'@en
+Q811683	P149	Q32880	1	'proposed building or structure'@en	'architectural style'@en	'architectural style'@en
+Q811979	P149	Q32880	1	'architectural structure'@en	'architectural style'@en	'architectural style'@en
+Q8719053	P149	Q1792644	1	'music venue'@en	'architectural style'@en	'art style'@en
+Q8719053	P149	Q968159	1	'music venue'@en	'architectural style'@en	'art movement'@en
+Q11303	P166	Q1829324	7	'skyscraper'@en	'award received'@en	'architecture award'@en
+Q11303	P166	Q618779	3	'skyscraper'@en	'award received'@en	'award'@en
+Q1021645	P166	Q1829324	1	'office building'@en	'award received'@en	'architecture award'@en
+Q1021645	P166	Q374814	1	'office building'@en	'award received'@en	'certification'@en
+Q1021645	P166	Q97458548	1	'office building'@en	'award received'@en	'green building certification system'@en
+Q11303	P166	Q1339438	1	'skyscraper'@en	'award received'@en	'Emporis Skyscraper Award'@en
+Q11303	P166	Q374814	1	'skyscraper'@en	'award received'@en	'certification'@en
+Q11303	P166	Q97458548	1	'skyscraper'@en	'award received'@en	'green building certification system'@en
+Q655686	P166	Q1829324	1	'commercial building'@en	'award received'@en	'architecture award'@en
+Q11303	P167	Q11303	3	'skyscraper'@en	'structure replaced by'@en	'skyscraper'@en
+Q11303	P167	Q1021645	2	'skyscraper'@en	'structure replaced by'@en	'office building'@en
+Q1021645	P167	Q11303	1	'office building'@en	'structure replaced by'@en	'skyscraper'@en
+Q11303	P167	Q41176	1	'skyscraper'@en	'structure replaced by'@en	'building'@en
+Q18142	P167	Q1021645	1	'high-rise building'@en	'structure replaced by'@en	'office building'@en
+Q18142	P167	Q11303	1	'high-rise building'@en	'structure replaced by'@en	'skyscraper'@en
+Q11303	P17	Q6256	599	'skyscraper'@en	'country'@en	'country'@en
+Q11303	P17	Q3624078	596	'skyscraper'@en	'country'@en	'sovereign state'@en
+Q11303	P17	Q1520223	359	'skyscraper'@en	'country'@en	'constitutional republic'@en
+Q11303	P17	Q512187	319	'skyscraper'@en	'country'@en	'federal republic'@en
+Q11303	P17	Q5255892	309	'skyscraper'@en	'country'@en	'democratic republic'@en
+Q11303	P17	Q1489259	297	'skyscraper'@en	'country'@en	'superpower'@en
+Q11303	P17	Q99541706	297	'skyscraper'@en	'country'@en	'historical unrecognized state'@en
+Q11303	P17	Q112099	72	'skyscraper'@en	'country'@en	'island nation'@en
+Q11303	P17	Q202686	65	'skyscraper'@en	'country'@en	'Commonwealth realm'@en
+Q11303	P17	Q859563	63	'skyscraper'@en	'country'@en	'secular state'@en
+Q11303	P17	Q465613	60	'skyscraper'@en	'country'@en	'people\'s republic'@en
+Q18142	P17	Q3624078	58	'high-rise building'@en	'country'@en	'sovereign state'@en
+Q18142	P17	Q6256	58	'high-rise building'@en	'country'@en	'country'@en
+Q11303	P17	Q43702	57	'skyscraper'@en	'country'@en	'federation'@en
+Q11303	P17	Q849866	52	'skyscraper'@en	'country'@en	'communist state'@en
+Q11303	P17	Q15634554	51	'skyscraper'@en	'country'@en	'state with limited recognition'@en
+Q11303	P17	Q223832	50	'skyscraper'@en	'country'@en	'dominion of the British Empire'@en
+Q11303	P17	Q118365	49	'skyscraper'@en	'country'@en	'dictatorship of the proletariat'@en
+Q11303	P17	Q842112	49	'skyscraper'@en	'country'@en	'socialist state'@en
+Q18142	P17	Q1520223	38	'high-rise building'@en	'country'@en	'constitutional republic'@en
+Q11303	P17	Q7270	37	'skyscraper'@en	'country'@en	'republic'@en
+Q18142	P17	Q1489259	37	'high-rise building'@en	'country'@en	'superpower'@en
+Q18142	P17	Q512187	37	'high-rise building'@en	'country'@en	'federal republic'@en
+Q18142	P17	Q5255892	37	'high-rise building'@en	'country'@en	'democratic republic'@en
+Q18142	P17	Q99541706	37	'high-rise building'@en	'country'@en	'historical unrecognized state'@en
+Q11303	P17	Q20181813	34	'skyscraper'@en	'country'@en	'colonial power'@en
+Q11303	P17	Q51576574	32	'skyscraper'@en	'country'@en	'Mediterranean country'@en
+Q1021645	P17	Q3624078	30	'office building'@en	'country'@en	'sovereign state'@en
+Q1021645	P17	Q6256	30	'office building'@en	'country'@en	'country'@en
+Q11303	P17	Q1250464	28	'skyscraper'@en	'country'@en	'realm'@en
+Q11303	P17	Q4209223	20	'skyscraper'@en	'country'@en	'Rechtsstaat'@en
+Q11303	P17	Q63791824	17	'skyscraper'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q11303	P17	Q619610	16	'skyscraper'@en	'country'@en	'social state'@en
+Q27686	P17	Q3624078	16	'hotel'@en	'country'@en	'sovereign state'@en
+Q27686	P17	Q6256	16	'hotel'@en	'country'@en	'country'@en
+Q27686	P17	Q1489259	14	'hotel'@en	'country'@en	'superpower'@en
+Q27686	P17	Q1520223	14	'hotel'@en	'country'@en	'constitutional republic'@en
+Q27686	P17	Q512187	14	'hotel'@en	'country'@en	'federal republic'@en
+Q27686	P17	Q5255892	14	'hotel'@en	'country'@en	'democratic republic'@en
+Q27686	P17	Q99541706	14	'hotel'@en	'country'@en	'historical unrecognized state'@en
+Q1021645	P17	Q1520223	13	'office building'@en	'country'@en	'constitutional republic'@en
+Q1021645	P17	Q1489259	11	'office building'@en	'country'@en	'superpower'@en
+Q1021645	P17	Q512187	11	'office building'@en	'country'@en	'federal republic'@en
+Q1021645	P17	Q5255892	11	'office building'@en	'country'@en	'democratic republic'@en
+Q1021645	P17	Q99541706	11	'office building'@en	'country'@en	'historical unrecognized state'@en
+Q11303	P17	Q133442	11	'skyscraper'@en	'country'@en	'city-state'@en
+Q11303	P17	Q1549591	11	'skyscraper'@en	'country'@en	'big city'@en
+Q11303	P17	Q1637706	11	'skyscraper'@en	'country'@en	'million city'@en
+Q11303	P17	Q2264924	11	'skyscraper'@en	'country'@en	'port settlement'@en
+Q11303	P17	Q5119	11	'skyscraper'@en	'country'@en	'capital'@en
+Q11303	P17	Q515	11	'skyscraper'@en	'country'@en	'city'@en
+Q11303	P17	Q902814	11	'skyscraper'@en	'country'@en	'border town'@en
+Q1021645	P17	Q7270	10	'office building'@en	'country'@en	'republic'@en
+Q11303	P17	Q6266	9	'skyscraper'@en	'country'@en	'nation'@en
+Q11303	P17	Q179164	8	'skyscraper'@en	'country'@en	'unitary state'@en
+Q11303	P17	Q123480	7	'skyscraper'@en	'country'@en	'landlocked country'@en
+Q18142	P17	Q20181813	7	'high-rise building'@en	'country'@en	'colonial power'@en
+Q18142	P17	Q202686	7	'high-rise building'@en	'country'@en	'Commonwealth realm'@en
+Q11303	P17	Q48349	6	'skyscraper'@en	'country'@en	'empire'@en
+Q11303	P17	Q611214	6	'skyscraper'@en	'country'@en	'Next Eleven'@en
+Q1570262	P17	Q3624078	6	'unfinished building'@en	'country'@en	'sovereign state'@en
+Q1570262	P17	Q6256	6	'unfinished building'@en	'country'@en	'country'@en
+Q18142	P17	Q1250464	6	'high-rise building'@en	'country'@en	'realm'@en
+Q18142	P17	Q43702	6	'high-rise building'@en	'country'@en	'federation'@en
+Q1021645	P17	Q20181813	5	'office building'@en	'country'@en	'colonial power'@en
+Q1021645	P17	Q51576574	5	'office building'@en	'country'@en	'Mediterranean country'@en
+Q11303	P17	Q13107770	5	'skyscraper'@en	'country'@en	'archipelagic state'@en
+Q11303	P17	Q185145	5	'skyscraper'@en	'country'@en	'great power'@en
+Q18142	P17	Q112099	5	'high-rise building'@en	'country'@en	'island nation'@en
+Q811683	P17	Q3624078	5	'proposed building or structure'@en	'country'@en	'sovereign state'@en
+Q811683	P17	Q6256	5	'proposed building or structure'@en	'country'@en	'country'@en
+Q1021645	P17	Q63791824	4	'office building'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q11303	P17	Q1323642	4	'skyscraper'@en	'country'@en	'transcontinental country'@en
+Q11303	P17	Q15304003	4	'skyscraper'@en	'country'@en	'country of the Kingdom of the Netherlands'@en
+Q18142	P17	Q63791824	4	'high-rise building'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q18142	P17	Q7270	4	'high-rise building'@en	'country'@en	'republic'@en
+Q41176	P17	Q3624078	4	'building'@en	'country'@en	'sovereign state'@en
+Q41176	P17	Q6256	4	'building'@en	'country'@en	'country'@en
+Q1021645	P17	Q112099	3	'office building'@en	'country'@en	'island nation'@en
+Q1021645	P17	Q4209223	3	'office building'@en	'country'@en	'Rechtsstaat'@en
+Q1021645	P17	Q43702	3	'office building'@en	'country'@en	'federation'@en
+Q1021645	P17	Q465613	3	'office building'@en	'country'@en	'people\'s republic'@en
+Q1021645	P17	Q619610	3	'office building'@en	'country'@en	'social state'@en
+Q1021645	P17	Q849866	3	'office building'@en	'country'@en	'communist state'@en
+Q1021645	P17	Q859563	3	'office building'@en	'country'@en	'secular state'@en
+Q11303	P17	Q1951661	3	'skyscraper'@en	'country'@en	'member states of the Association of Southeast Asian Nations'@en
+Q11303	P17	Q417175	3	'skyscraper'@en	'country'@en	'kingdom'@en
+Q13402009	P17	Q3624078	3	'apartment building'@en	'country'@en	'sovereign state'@en
+Q13402009	P17	Q6256	3	'apartment building'@en	'country'@en	'country'@en
+Q1570262	P17	Q20181813	3	'unfinished building'@en	'country'@en	'colonial power'@en
+Q1570262	P17	Q202686	3	'unfinished building'@en	'country'@en	'Commonwealth realm'@en
+Q18142	P17	Q4209223	3	'high-rise building'@en	'country'@en	'Rechtsstaat'@en
+Q18142	P17	Q619610	3	'high-rise building'@en	'country'@en	'social state'@en
+Q655686	P17	Q3624078	3	'commercial building'@en	'country'@en	'sovereign state'@en
+Q655686	P17	Q6256	3	'commercial building'@en	'country'@en	'country'@en
+Q811683	P17	Q1520223	3	'proposed building or structure'@en	'country'@en	'constitutional republic'@en
+Q811683	P17	Q512187	3	'proposed building or structure'@en	'country'@en	'federal republic'@en
+Q811683	P17	Q5255892	3	'proposed building or structure'@en	'country'@en	'democratic republic'@en
+Q1021645	P17	Q118365	2	'office building'@en	'country'@en	'dictatorship of the proletariat'@en
+Q1021645	P17	Q15634554	2	'office building'@en	'country'@en	'state with limited recognition'@en
+Q1021645	P17	Q842112	2	'office building'@en	'country'@en	'socialist state'@en
+Q11303	P17	Q1351282	2	'skyscraper'@en	'country'@en	'crown colony'@en
+Q11303	P17	Q185441	2	'skyscraper'@en	'country'@en	'member state of the european union'@en
+Q11303	P17	Q23442	2	'skyscraper'@en	'country'@en	'island'@en
+Q11303	P17	Q33837	2	'skyscraper'@en	'country'@en	'archipelago'@en
+Q11303	P17	Q339834	2	'skyscraper'@en	'country'@en	'regional power'@en
+Q11303	P17	Q56061	2	'skyscraper'@en	'country'@en	'administrative territorial entity'@en
+Q11303	P17	Q63438000	2	'skyscraper'@en	'country'@en	'climate emergency declaration'@en
+Q11303	P17	Q672729	2	'skyscraper'@en	'country'@en	'Islamic Republic'@en
+Q11755880	P17	Q3624078	2	'residential building'@en	'country'@en	'sovereign state'@en
+Q11755880	P17	Q6256	2	'residential building'@en	'country'@en	'country'@en
+Q13402009	P17	Q1489259	2	'apartment building'@en	'country'@en	'superpower'@en
+Q13402009	P17	Q1520223	2	'apartment building'@en	'country'@en	'constitutional republic'@en
+Q13402009	P17	Q512187	2	'apartment building'@en	'country'@en	'federal republic'@en
+Q13402009	P17	Q5255892	2	'apartment building'@en	'country'@en	'democratic republic'@en
+Q13402009	P17	Q99541706	2	'apartment building'@en	'country'@en	'historical unrecognized state'@en
+Q1570262	P17	Q112099	2	'unfinished building'@en	'country'@en	'island nation'@en
+Q1570262	P17	Q1250464	2	'unfinished building'@en	'country'@en	'realm'@en
+Q1570262	P17	Q1489259	2	'unfinished building'@en	'country'@en	'superpower'@en
+Q1570262	P17	Q1520223	2	'unfinished building'@en	'country'@en	'constitutional republic'@en
+Q1570262	P17	Q512187	2	'unfinished building'@en	'country'@en	'federal republic'@en
+Q1570262	P17	Q5255892	2	'unfinished building'@en	'country'@en	'democratic republic'@en
+Q1570262	P17	Q99541706	2	'unfinished building'@en	'country'@en	'historical unrecognized state'@en
+Q1577547	P17	Q1489259	2	'revenue house'@en	'country'@en	'superpower'@en
+Q1577547	P17	Q1520223	2	'revenue house'@en	'country'@en	'constitutional republic'@en
+Q1577547	P17	Q3624078	2	'revenue house'@en	'country'@en	'sovereign state'@en
+Q1577547	P17	Q512187	2	'revenue house'@en	'country'@en	'federal republic'@en
+Q1577547	P17	Q5255892	2	'revenue house'@en	'country'@en	'democratic republic'@en
+Q1577547	P17	Q6256	2	'revenue house'@en	'country'@en	'country'@en
+Q1577547	P17	Q99541706	2	'revenue house'@en	'country'@en	'historical unrecognized state'@en
+Q18142	P17	Q123480	2	'high-rise building'@en	'country'@en	'landlocked country'@en
+Q18142	P17	Q223832	2	'high-rise building'@en	'country'@en	'dominion of the British Empire'@en
+Q18142	P17	Q56061	2	'high-rise building'@en	'country'@en	'administrative territorial entity'@en
+Q2304397	P17	Q3624078	2	'residential tower'@en	'country'@en	'sovereign state'@en
+Q2304397	P17	Q512187	2	'residential tower'@en	'country'@en	'federal republic'@en
+Q2304397	P17	Q6256	2	'residential tower'@en	'country'@en	'country'@en
+Q41176	P17	Q1489259	2	'building'@en	'country'@en	'superpower'@en
+Q41176	P17	Q1520223	2	'building'@en	'country'@en	'constitutional republic'@en
+Q41176	P17	Q512187	2	'building'@en	'country'@en	'federal republic'@en
+Q41176	P17	Q5255892	2	'building'@en	'country'@en	'democratic republic'@en
+Q41176	P17	Q99541706	2	'building'@en	'country'@en	'historical unrecognized state'@en
+Q543654	P17	Q1489259	2	'rathaus'@en	'country'@en	'superpower'@en
+Q543654	P17	Q1520223	2	'rathaus'@en	'country'@en	'constitutional republic'@en
+Q543654	P17	Q3624078	2	'rathaus'@en	'country'@en	'sovereign state'@en
+Q543654	P17	Q512187	2	'rathaus'@en	'country'@en	'federal republic'@en
+Q543654	P17	Q5255892	2	'rathaus'@en	'country'@en	'democratic republic'@en
+Q543654	P17	Q6256	2	'rathaus'@en	'country'@en	'country'@en
+Q543654	P17	Q99541706	2	'rathaus'@en	'country'@en	'historical unrecognized state'@en
+Q655686	P17	Q1489259	2	'commercial building'@en	'country'@en	'superpower'@en
+Q655686	P17	Q1520223	2	'commercial building'@en	'country'@en	'constitutional republic'@en
+Q655686	P17	Q512187	2	'commercial building'@en	'country'@en	'federal republic'@en
+Q655686	P17	Q5255892	2	'commercial building'@en	'country'@en	'democratic republic'@en
+Q655686	P17	Q99541706	2	'commercial building'@en	'country'@en	'historical unrecognized state'@en
+Q811683	P17	Q1489259	2	'proposed building or structure'@en	'country'@en	'superpower'@en
+Q811683	P17	Q99541706	2	'proposed building or structure'@en	'country'@en	'historical unrecognized state'@en
+Q100705206	P17	Q112099	1	'prefectural office building'@en	'country'@en	'island nation'@en
+Q100705206	P17	Q3624078	1	'prefectural office building'@en	'country'@en	'sovereign state'@en
+Q100705206	P17	Q6256	1	'prefectural office building'@en	'country'@en	'country'@en
+Q1021645	P17	Q1351282	1	'office building'@en	'country'@en	'crown colony'@en
+Q1021645	P17	Q179164	1	'office building'@en	'country'@en	'unitary state'@en
+Q1021645	P17	Q202686	1	'office building'@en	'country'@en	'Commonwealth realm'@en
+Q1021645	P17	Q223832	1	'office building'@en	'country'@en	'dominion of the British Empire'@en
+Q1021645	P17	Q63438000	1	'office building'@en	'country'@en	'climate emergency declaration'@en
+Q1021645	P17	Q672729	1	'office building'@en	'country'@en	'Islamic Republic'@en
+Q1129142	P17	Q1489259	1	'NRHP contributing property'@en	'country'@en	'superpower'@en
+Q1129142	P17	Q1520223	1	'NRHP contributing property'@en	'country'@en	'constitutional republic'@en
+Q1129142	P17	Q3624078	1	'NRHP contributing property'@en	'country'@en	'sovereign state'@en
+Q1129142	P17	Q512187	1	'NRHP contributing property'@en	'country'@en	'federal republic'@en
+Q1129142	P17	Q5255892	1	'NRHP contributing property'@en	'country'@en	'democratic republic'@en
+Q1129142	P17	Q6256	1	'NRHP contributing property'@en	'country'@en	'country'@en
+Q1129142	P17	Q99541706	1	'NRHP contributing property'@en	'country'@en	'historical unrecognized state'@en
+Q11303	P17	Q41614	1	'skyscraper'@en	'country'@en	'constitutional monarchy'@en
+Q11303	P17	Q4198907	1	'skyscraper'@en	'country'@en	'parliamentary republic'@en
+Q11755880	P17	Q1489259	1	'residential building'@en	'country'@en	'superpower'@en
+Q11755880	P17	Q1520223	1	'residential building'@en	'country'@en	'constitutional republic'@en
+Q11755880	P17	Q465613	1	'residential building'@en	'country'@en	'people\'s republic'@en
+Q11755880	P17	Q512187	1	'residential building'@en	'country'@en	'federal republic'@en
+Q11755880	P17	Q51576574	1	'residential building'@en	'country'@en	'Mediterranean country'@en
+Q11755880	P17	Q5255892	1	'residential building'@en	'country'@en	'democratic republic'@en
+Q11755880	P17	Q99541706	1	'residential building'@en	'country'@en	'historical unrecognized state'@en
+Q12518	P17	Q3624078	1	'tower'@en	'country'@en	'sovereign state'@en
+Q12518	P17	Q6256	1	'tower'@en	'country'@en	'country'@en
+Q12518	P17	Q672729	1	'tower'@en	'country'@en	'Islamic Republic'@en
+Q12771350	P17	Q1520223	1		'country'@en	'constitutional republic'@en
+Q12771350	P17	Q3624078	1		'country'@en	'sovereign state'@en
+Q12771350	P17	Q6256	1		'country'@en	'country'@en
+Q133215	P17	Q1489259	1	'casino'@en	'country'@en	'superpower'@en
+Q133215	P17	Q1520223	1	'casino'@en	'country'@en	'constitutional republic'@en
+Q133215	P17	Q3624078	1	'casino'@en	'country'@en	'sovereign state'@en
+Q133215	P17	Q512187	1	'casino'@en	'country'@en	'federal republic'@en
+Q133215	P17	Q5255892	1	'casino'@en	'country'@en	'democratic republic'@en
+Q133215	P17	Q6256	1	'casino'@en	'country'@en	'country'@en
+Q133215	P17	Q99541706	1	'casino'@en	'country'@en	'historical unrecognized state'@en
+Q1339195	P17	Q112099	1	'station building'@en	'country'@en	'island nation'@en
+Q1339195	P17	Q3624078	1	'station building'@en	'country'@en	'sovereign state'@en
+Q1339195	P17	Q6256	1	'station building'@en	'country'@en	'country'@en
+Q13402009	P17	Q20181813	1	'apartment building'@en	'country'@en	'colonial power'@en
+Q13402009	P17	Q51576574	1	'apartment building'@en	'country'@en	'Mediterranean country'@en
+Q13402009	P17	Q7270	1	'apartment building'@en	'country'@en	'republic'@en
+Q1406988	P17	Q112099	1	'grand ensemble'@en	'country'@en	'island nation'@en
+Q1406988	P17	Q1250464	1	'grand ensemble'@en	'country'@en	'realm'@en
+Q1406988	P17	Q20181813	1	'grand ensemble'@en	'country'@en	'colonial power'@en
+Q1406988	P17	Q202686	1	'grand ensemble'@en	'country'@en	'Commonwealth realm'@en
+Q1406988	P17	Q3624078	1	'grand ensemble'@en	'country'@en	'sovereign state'@en
+Q1406988	P17	Q6256	1	'grand ensemble'@en	'country'@en	'country'@en
+Q1497364	P17	Q1489259	1	'building complex'@en	'country'@en	'superpower'@en
+Q1497364	P17	Q1520223	1	'building complex'@en	'country'@en	'constitutional republic'@en
+Q1497364	P17	Q3624078	1	'building complex'@en	'country'@en	'sovereign state'@en
+Q1497364	P17	Q512187	1	'building complex'@en	'country'@en	'federal republic'@en
+Q1497364	P17	Q5255892	1	'building complex'@en	'country'@en	'democratic republic'@en
+Q1497364	P17	Q6256	1	'building complex'@en	'country'@en	'country'@en
+Q1497364	P17	Q99541706	1	'building complex'@en	'country'@en	'historical unrecognized state'@en
+Q1570262	P17	Q223832	1	'unfinished building'@en	'country'@en	'dominion of the British Empire'@en
+Q1570262	P17	Q43702	1	'unfinished building'@en	'country'@en	'federation'@en
+Q1570262	P17	Q51576574	1	'unfinished building'@en	'country'@en	'Mediterranean country'@en
+Q1570262	P17	Q7270	1	'unfinished building'@en	'country'@en	'republic'@en
+Q16831714	P17	Q112099	1	'government building'@en	'country'@en	'island nation'@en
+Q16831714	P17	Q3624078	1	'government building'@en	'country'@en	'sovereign state'@en
+Q16831714	P17	Q6256	1	'government building'@en	'country'@en	'country'@en
+Q18142	P17	Q118365	1	'high-rise building'@en	'country'@en	'dictatorship of the proletariat'@en
+Q18142	P17	Q15634554	1	'high-rise building'@en	'country'@en	'state with limited recognition'@en
+Q18142	P17	Q179164	1	'high-rise building'@en	'country'@en	'unitary state'@en
+Q18142	P17	Q185441	1	'high-rise building'@en	'country'@en	'member state of the european union'@en
+Q18142	P17	Q465613	1	'high-rise building'@en	'country'@en	'people\'s republic'@en
+Q18142	P17	Q51576574	1	'high-rise building'@en	'country'@en	'Mediterranean country'@en
+Q18142	P17	Q842112	1	'high-rise building'@en	'country'@en	'socialist state'@en
+Q18142	P17	Q849866	1	'high-rise building'@en	'country'@en	'communist state'@en
+Q18142	P17	Q859563	1	'high-rise building'@en	'country'@en	'secular state'@en
+Q19860854	P17	Q112099	1	'destroyed building or structure'@en	'country'@en	'island nation'@en
+Q19860854	P17	Q3624078	1	'destroyed building or structure'@en	'country'@en	'sovereign state'@en
+Q19860854	P17	Q6256	1	'destroyed building or structure'@en	'country'@en	'country'@en
+Q2304397	P17	Q4209223	1	'residential tower'@en	'country'@en	'Rechtsstaat'@en
+Q2304397	P17	Q6266	1	'residential tower'@en	'country'@en	'nation'@en
+Q2304397	P17	Q859563	1	'residential tower'@en	'country'@en	'secular state'@en
+Q242606	P17	Q202686	1	'green building'@en	'country'@en	'Commonwealth realm'@en
+Q242606	P17	Q223832	1	'green building'@en	'country'@en	'dominion of the British Empire'@en
+Q242606	P17	Q3624078	1	'green building'@en	'country'@en	'sovereign state'@en
+Q242606	P17	Q43702	1	'green building'@en	'country'@en	'federation'@en
+Q242606	P17	Q6256	1	'green building'@en	'country'@en	'country'@en
+Q24354	P17	Q1489259	1	'theatre'@en	'country'@en	'superpower'@en
+Q24354	P17	Q1520223	1	'theatre'@en	'country'@en	'constitutional republic'@en
+Q24354	P17	Q3624078	1	'theatre'@en	'country'@en	'sovereign state'@en
+Q24354	P17	Q512187	1	'theatre'@en	'country'@en	'federal republic'@en
+Q24354	P17	Q5255892	1	'theatre'@en	'country'@en	'democratic republic'@en
+Q24354	P17	Q6256	1	'theatre'@en	'country'@en	'country'@en
+Q24354	P17	Q99541706	1	'theatre'@en	'country'@en	'historical unrecognized state'@en
+Q2519340	P17	Q3624078	1	'administrative building'@en	'country'@en	'sovereign state'@en
+Q2519340	P17	Q4209223	1	'administrative building'@en	'country'@en	'Rechtsstaat'@en
+Q2519340	P17	Q43702	1	'administrative building'@en	'country'@en	'federation'@en
+Q2519340	P17	Q619610	1	'administrative building'@en	'country'@en	'social state'@en
+Q2519340	P17	Q6256	1	'administrative building'@en	'country'@en	'country'@en
+Q2519340	P17	Q63791824	1	'administrative building'@en	'country'@en	'country bordering the Baltic Sea'@en
+Q2519340	P17	Q7270	1	'administrative building'@en	'country'@en	'republic'@en
+Q25550691	P17	Q202686	1	'town hall'@en	'country'@en	'Commonwealth realm'@en
+Q25550691	P17	Q223832	1	'town hall'@en	'country'@en	'dominion of the British Empire'@en
+Q25550691	P17	Q3624078	1	'town hall'@en	'country'@en	'sovereign state'@en
+Q25550691	P17	Q43702	1	'town hall'@en	'country'@en	'federation'@en
+Q25550691	P17	Q6256	1	'town hall'@en	'country'@en	'country'@en
+Q2755753	P17	Q112099	1	'area of London'@en	'country'@en	'island nation'@en
+Q2755753	P17	Q1250464	1	'area of London'@en	'country'@en	'realm'@en
+Q2755753	P17	Q20181813	1	'area of London'@en	'country'@en	'colonial power'@en
+Q2755753	P17	Q202686	1	'area of London'@en	'country'@en	'Commonwealth realm'@en
+Q2755753	P17	Q3624078	1	'area of London'@en	'country'@en	'sovereign state'@en
+Q2755753	P17	Q6256	1	'area of London'@en	'country'@en	'country'@en
+Q27686	P17	Q1250464	1	'hotel'@en	'country'@en	'realm'@en
+Q27686	P17	Q51576574	1	'hotel'@en	'country'@en	'Mediterranean country'@en
+Q27686	P17	Q7270	1	'hotel'@en	'country'@en	'republic'@en
+Q3661265	P17	Q202686	1	'hall of residence'@en	'country'@en	'Commonwealth realm'@en
+Q3661265	P17	Q223832	1	'hall of residence'@en	'country'@en	'dominion of the British Empire'@en
+Q3661265	P17	Q3624078	1	'hall of residence'@en	'country'@en	'sovereign state'@en
+Q3661265	P17	Q43702	1	'hall of residence'@en	'country'@en	'federation'@en
+Q3661265	P17	Q6256	1	'hall of residence'@en	'country'@en	'country'@en
+Q41176	P17	Q123480	1	'building'@en	'country'@en	'landlocked country'@en
+Q41176	P17	Q202686	1	'building'@en	'country'@en	'Commonwealth realm'@en
+Q41176	P17	Q223832	1	'building'@en	'country'@en	'dominion of the British Empire'@en
+Q41176	P17	Q43702	1	'building'@en	'country'@en	'federation'@en
+Q41176	P17	Q7270	1	'building'@en	'country'@en	'republic'@en
+Q47012103	P17	Q112099	1	'mixed-use building'@en	'country'@en	'island nation'@en
+Q47012103	P17	Q1250464	1	'mixed-use building'@en	'country'@en	'realm'@en
+Q47012103	P17	Q20181813	1	'mixed-use building'@en	'country'@en	'colonial power'@en
+Q47012103	P17	Q202686	1	'mixed-use building'@en	'country'@en	'Commonwealth realm'@en
+Q47012103	P17	Q3624078	1	'mixed-use building'@en	'country'@en	'sovereign state'@en
+Q47012103	P17	Q6256	1	'mixed-use building'@en	'country'@en	'country'@en
+Q6484056	P17	Q112099	1	'land development'@en	'country'@en	'island nation'@en
+Q6484056	P17	Q1250464	1	'land development'@en	'country'@en	'realm'@en
+Q6484056	P17	Q20181813	1	'land development'@en	'country'@en	'colonial power'@en
+Q6484056	P17	Q202686	1	'land development'@en	'country'@en	'Commonwealth realm'@en
+Q6484056	P17	Q3624078	1	'land development'@en	'country'@en	'sovereign state'@en
+Q6484056	P17	Q6256	1	'land development'@en	'country'@en	'country'@en
+Q655686	P17	Q112099	1	'commercial building'@en	'country'@en	'island nation'@en
+Q76321820	P17	Q1489259	1	'contributing property'@en	'country'@en	'superpower'@en
+Q76321820	P17	Q1520223	1	'contributing property'@en	'country'@en	'constitutional republic'@en
+Q76321820	P17	Q3624078	1	'contributing property'@en	'country'@en	'sovereign state'@en
+Q76321820	P17	Q512187	1	'contributing property'@en	'country'@en	'federal republic'@en
+Q76321820	P17	Q5255892	1	'contributing property'@en	'country'@en	'democratic republic'@en
+Q76321820	P17	Q6256	1	'contributing property'@en	'country'@en	'country'@en
+Q76321820	P17	Q99541706	1	'contributing property'@en	'country'@en	'historical unrecognized state'@en
+Q811430	P17	Q3624078	1	'human-made geographic feature'@en	'country'@en	'sovereign state'@en
+Q811430	P17	Q6256	1	'human-made geographic feature'@en	'country'@en	'country'@en
+Q811683	P17	Q112099	1	'proposed building or structure'@en	'country'@en	'island nation'@en
+Q811683	P17	Q223832	1	'proposed building or structure'@en	'country'@en	'dominion of the British Empire'@en
+Q811683	P17	Q23442	1	'proposed building or structure'@en	'country'@en	'island'@en
+Q811683	P17	Q33837	1	'proposed building or structure'@en	'country'@en	'archipelago'@en
+Q811683	P17	Q7270	1	'proposed building or structure'@en	'country'@en	'republic'@en
+Q811979	P17	Q1250464	1	'architectural structure'@en	'country'@en	'realm'@en
+Q811979	P17	Q185441	1	'architectural structure'@en	'country'@en	'member state of the european union'@en
+Q811979	P17	Q20181813	1	'architectural structure'@en	'country'@en	'colonial power'@en
+Q811979	P17	Q3624078	1	'architectural structure'@en	'country'@en	'sovereign state'@en
+Q811979	P17	Q43702	1	'architectural structure'@en	'country'@en	'federation'@en
+Q811979	P17	Q6256	1	'architectural structure'@en	'country'@en	'country'@en
+Q8719053	P17	Q1489259	1	'music venue'@en	'country'@en	'superpower'@en
+Q8719053	P17	Q1520223	1	'music venue'@en	'country'@en	'constitutional republic'@en
+Q8719053	P17	Q3624078	1	'music venue'@en	'country'@en	'sovereign state'@en
+Q8719053	P17	Q512187	1	'music venue'@en	'country'@en	'federal republic'@en
+Q8719053	P17	Q5255892	1	'music venue'@en	'country'@en	'democratic republic'@en
+Q8719053	P17	Q6256	1	'music venue'@en	'country'@en	'country'@en
+Q8719053	P17	Q99541706	1	'music venue'@en	'country'@en	'historical unrecognized state'@en
+Q11303	P178	Q4830453	2	'skyscraper'@en	'developer'@en	'business'@en
+Q1021645	P178	Q4830453	1	'office building'@en	'developer'@en	'business'@en
+Q11755880	P178	Q4830453	1	'residential building'@en	'developer'@en	'business'@en
+Q11303	P186	Q214609	7	'skyscraper'@en	'made from material'@en	'material'@en
+Q11303	P186	Q15831577	6	'skyscraper'@en	'made from material'@en	'non-classical state of matter'@en
+Q1021645	P186	Q15831577	3	'office building'@en	'made from material'@en	'non-classical state of matter'@en
+Q1021645	P186	Q214609	3	'office building'@en	'made from material'@en	'material'@en
+Q11303	P186	Q11344	2	'skyscraper'@en	'made from material'@en	'chemical element'@en
+Q11303	P186	Q11426	2	'skyscraper'@en	'made from material'@en	'metal'@en
+Q1021645	P186	Q11344	1	'office building'@en	'made from material'@en	'chemical element'@en
+Q1021645	P186	Q11426	1	'office building'@en	'made from material'@en	'metal'@en
+Q11755880	P186	Q11344	1	'residential building'@en	'made from material'@en	'chemical element'@en
+Q11755880	P186	Q11426	1	'residential building'@en	'made from material'@en	'metal'@en
+Q11755880	P186	Q15831577	1	'residential building'@en	'made from material'@en	'non-classical state of matter'@en
+Q11755880	P186	Q214609	1	'residential building'@en	'made from material'@en	'material'@en
+Q2519340	P186	Q11344	1	'administrative building'@en	'made from material'@en	'chemical element'@en
+Q2519340	P186	Q11426	1	'administrative building'@en	'made from material'@en	'metal'@en
+Q2519340	P186	Q214609	1	'administrative building'@en	'made from material'@en	'material'@en
+Q11303	P1889	Q4167410	2	'skyscraper'@en	'different from'@en	'Wikimedia disambiguation page'@en
+Q11303	P1889	Q11303	1	'skyscraper'@en	'different from'@en	'skyscraper'@en
+Q11303	P1889	Q2376564	1	'skyscraper'@en	'different from'@en	'interchange'@en
+Q2304397	P1889	Q11303	1	'residential tower'@en	'different from'@en	'skyscraper'@en
+Q11303	P193	Q4830453	39	'skyscraper'@en	'main building contractor'@en	'business'@en
+Q11303	P193	Q6881511	13	'skyscraper'@en	'main building contractor'@en	'enterprise'@en
+Q11303	P193	Q811930	8	'skyscraper'@en	'main building contractor'@en	'construction business'@en
+Q11303	P193	Q891723	5	'skyscraper'@en	'main building contractor'@en	'public company'@en
+Q18142	P193	Q4830453	4	'high-rise building'@en	'main building contractor'@en	'business'@en
+Q1021645	P193	Q4830453	3	'office building'@en	'main building contractor'@en	'business'@en
+Q11303	P193	Q289612	3	'skyscraper'@en	'main building contractor'@en	'general contractor'@en
+Q11303	P193	Q4387609	2	'skyscraper'@en	'main building contractor'@en	'architectural firm'@en
+Q11303	P193	Q5	2	'skyscraper'@en	'main building contractor'@en	'human'@en
+Q1021645	P193	Q15887806	1	'office building'@en	'main building contractor'@en	'construction and real estate company'@en
+Q1021645	P193	Q6881511	1	'office building'@en	'main building contractor'@en	'enterprise'@en
+Q11303	P193	Q15887806	1	'skyscraper'@en	'main building contractor'@en	'construction and real estate company'@en
+Q11303	P193	Q22687	1	'skyscraper'@en	'main building contractor'@en	'bank'@en
+Q11303	P193	Q27555350	1	'skyscraper'@en	'main building contractor'@en	
+Q11755880	P193	Q15887806	1	'residential building'@en	'main building contractor'@en	'construction and real estate company'@en
+Q12771350	P193	Q4830453	1		'main building contractor'@en	'business'@en
+Q12771350	P193	Q6881511	1		'main building contractor'@en	'enterprise'@en
+Q13402009	P193	Q4830453	1	'apartment building'@en	'main building contractor'@en	'business'@en
+Q18142	P193	Q6881511	1	'high-rise building'@en	'main building contractor'@en	'enterprise'@en
+Q242606	P193	Q4830453	1	'green building'@en	'main building contractor'@en	'business'@en
+Q2519340	P193	Q4830453	1	'administrative building'@en	'main building contractor'@en	'business'@en
+Q27686	P193	Q4830453	1	'hotel'@en	'main building contractor'@en	'business'@en
+Q811430	P193	Q4830453	1	'human-made geographic feature'@en	'main building contractor'@en	'business'@en
+Q811683	P193	Q4830453	1	'proposed building or structure'@en	'main building contractor'@en	'business'@en
+Q811683	P193	Q891723	1	'proposed building or structure'@en	'main building contractor'@en	'public company'@en
+Q1021645	P206	Q12284	1	'office building'@en	'located in or next to body of water'@en	'canal'@en
+Q11303	P206	Q12284	1	'skyscraper'@en	'located in or next to body of water'@en	'canal'@en
+Q11303	P206	Q4022	1	'skyscraper'@en	'located in or next to body of water'@en	'river'@en
+Q655686	P206	Q12284	1	'commercial building'@en	'located in or next to body of water'@en	'canal'@en
+Q11303	P276	Q484170	9	'skyscraper'@en	'location'@en	'commune of France'@en
+Q11303	P276	Q1549591	6	'skyscraper'@en	'location'@en	'big city'@en
+Q11303	P276	Q515	6	'skyscraper'@en	'location'@en	'city'@en
+Q11303	P276	Q1637706	4	'skyscraper'@en	'location'@en	'million city'@en
+Q1021645	P276	Q484170	3	'office building'@en	'location'@en	'commune of France'@en
+Q11303	P276	Q5119	3	'skyscraper'@en	'location'@en	'capital'@en
+Q11303	P276	Q738570	3	'skyscraper'@en	'location'@en	'central business district'@en
+Q1021645	P276	Q515	2	'office building'@en	'location'@en	'city'@en
+Q11303	P276	Q2755753	2	'skyscraper'@en	'location'@en	'area of London'@en
+Q11303	P276	Q2983893	2	'skyscraper'@en	'location'@en	'quarter'@en
+Q11303	P276	Q51929311	2	'skyscraper'@en	'location'@en	'largest city'@en
+Q1021645	P276	Q1066984	1	'office building'@en	'location'@en	'financial centre'@en
+Q1021645	P276	Q1549591	1	'office building'@en	'location'@en	'big city'@en
+Q1021645	P276	Q486972	1	'office building'@en	'location'@en	'human settlement'@en
+Q1021645	P276	Q5119	1	'office building'@en	'location'@en	'capital'@en
+Q1021645	P276	Q5556082	1	'office building'@en	'location'@en	'neighbourhood in Tehran'@en
+Q1021645	P276	Q738570	1	'office building'@en	'location'@en	'central business district'@en
+Q1021645	P276	Q79416466	1	'office building'@en	'location'@en	'Neighborhood of Frankfurt'@en
+Q11303	P276	Q1066984	1	'skyscraper'@en	'location'@en	'financial centre'@en
+Q11303	P276	Q108862123	1	'skyscraper'@en	'location'@en	'office plaza'@en
+Q11303	P276	Q1093829	1	'skyscraper'@en	'location'@en	'city of the United States'@en
+Q11303	P276	Q11315	1	'skyscraper'@en	'location'@en	'shopping center'@en
+Q11303	P276	Q123705	1	'skyscraper'@en	'location'@en	'neighborhood'@en
+Q11303	P276	Q149621	1	'skyscraper'@en	'location'@en	'district'@en
+Q11303	P276	Q1496967	1	'skyscraper'@en	'location'@en	'territorial entity'@en
+Q11303	P276	Q1497364	1	'skyscraper'@en	'location'@en	'building complex'@en
+Q11303	P276	Q174844	1	'skyscraper'@en	'location'@en	'megacity'@en
+Q11303	P276	Q1808877	1	'skyscraper'@en	'location'@en	'deelgemeente'@en
+Q11303	P276	Q18142	1	'skyscraper'@en	'location'@en	'high-rise building'@en
+Q11303	P276	Q183342	1	'skyscraper'@en	'location'@en	'federal city of Russia'@en
+Q11303	P276	Q1851368	1	'skyscraper'@en	'location'@en	'waterfront'@en
+Q11303	P276	Q202435	1	'skyscraper'@en	'location'@en	'lieutenancy area of Scotland'@en
+Q11303	P276	Q21518270	1	'skyscraper'@en	'location'@en	'state or insular area capital of the United States'@en
+Q11303	P276	Q250811	1	'skyscraper'@en	'location'@en	'sub-province-level division'@en
+Q11303	P276	Q2779745	1	'skyscraper'@en	'location'@en	'urban district of the Netherlands'@en
+Q11303	P276	Q35034452	1	'skyscraper'@en	'location'@en	'locality of Berlin'@en
+Q11303	P276	Q4298922	1	'skyscraper'@en	'location'@en	'mixed-use development'@en
+Q11303	P276	Q43263	1	'skyscraper'@en	'location'@en	'federal subject of Russia'@en
+Q11303	P276	Q4442912	1	'skyscraper'@en	'location'@en	'capital of Russia'@en
+Q11303	P276	Q486972	1	'skyscraper'@en	'location'@en	'human settlement'@en
+Q11303	P276	Q50330360	1	'skyscraper'@en	'location'@en	'second largest city'@en
+Q11303	P276	Q5327369	1	'skyscraper'@en	'location'@en	'chōchō'@en
+Q11303	P276	Q5556082	1	'skyscraper'@en	'location'@en	'neighbourhood in Tehran'@en
+Q11303	P276	Q570116	1	'skyscraper'@en	'location'@en	'tourist attraction'@en
+Q11303	P276	Q62049	1	'skyscraper'@en	'location'@en	'county seat'@en
+Q11303	P276	Q748149	1	'skyscraper'@en	'location'@en	'prefecture-level city'@en
+Q11303	P276	Q7930989	1	'skyscraper'@en	'location'@en	'city/town'@en
+Q11303	P276	Q79416466	1	'skyscraper'@en	'location'@en	'Neighborhood of Frankfurt'@en
+Q13402009	P276	Q484170	1	'apartment building'@en	'location'@en	'commune of France'@en
+Q1570262	P276	Q1549591	1	'unfinished building'@en	'location'@en	'big city'@en
+Q1570262	P276	Q202435	1	'unfinished building'@en	'location'@en	'lieutenancy area of Scotland'@en
+Q1570262	P276	Q515	1	'unfinished building'@en	'location'@en	'city'@en
+Q1570262	P276	Q51929311	1	'unfinished building'@en	'location'@en	'largest city'@en
+Q18142	P276	Q1549591	1	'high-rise building'@en	'location'@en	'big city'@en
+Q18142	P276	Q2983893	1	'high-rise building'@en	'location'@en	'quarter'@en
+Q18142	P276	Q35034452	1	'high-rise building'@en	'location'@en	'locality of Berlin'@en
+Q18142	P276	Q484170	1	'high-rise building'@en	'location'@en	'commune of France'@en
+Q27686	P276	Q1093829	1	'hotel'@en	'location'@en	'city of the United States'@en
+Q27686	P276	Q1549591	1	'hotel'@en	'location'@en	'big city'@en
+Q27686	P276	Q1637706	1	'hotel'@en	'location'@en	'million city'@en
+Q27686	P276	Q21518270	1	'hotel'@en	'location'@en	'state or insular area capital of the United States'@en
+Q27686	P276	Q62049	1	'hotel'@en	'location'@en	'county seat'@en
+Q11303	P2817	Q13406463	1	'skyscraper'@en	'appears in the heritage monument list'@en	'Wikimedia list article'@en
+Q2519340	P2817	Q13406463	1	'administrative building'@en	'appears in the heritage monument list'@en	'Wikimedia list article'@en
+Q11303	P3032	Q1021645	1	'skyscraper'@en	'adjacent building'@en	'office building'@en
+Q11303	P3032	Q11303	1	'skyscraper'@en	'adjacent building'@en	'skyscraper'@en
+Q11303	P3032	Q5393308	1	'skyscraper'@en	'adjacent building'@en	'Buddhist temple'@en
+Q11303	P3173	Q44782	1	'skyscraper'@en	'offers view on'@en	'port'@en
+Q11303	P361	Q1497364	3	'skyscraper'@en	'part of'@en	'building complex'@en
+Q11303	P361	Q4298922	2	'skyscraper'@en	'part of'@en	'mixed-use development'@en
+Q1021645	P361	Q1497364	1	'office building'@en	'part of'@en	'building complex'@en
+Q11303	P361	Q11315	1	'skyscraper'@en	'part of'@en	'shopping center'@en
+Q11303	P361	Q15243209	1	'skyscraper'@en	'part of'@en	'historic district'@en
+Q11303	P361	Q17343829	1	'skyscraper'@en	'part of'@en	'unincorporated community in the United States'@en
+Q11303	P361	Q18142	1	'skyscraper'@en	'part of'@en	'high-rise building'@en
+Q11303	P361	Q570116	1	'skyscraper'@en	'part of'@en	'tourist attraction'@en
+Q11303	P366	Q29028649	2	'skyscraper'@en	'has use'@en	'economic concept'@en
+Q11303	P366	Q3769851	1	'skyscraper'@en	'has use'@en	'regional government in Italy'@en
+Q11303	P414	Q11691	1	'skyscraper'@en	'stock exchange'@en	'stock exchange'@en
+Q11303	P421	Q17272482	1	'skyscraper'@en	'located in time zone'@en	'time zone named for a UTC offset'@en
+Q11303	P462	Q1075	1	'skyscraper'@en	'color'@en	'color'@en
+Q11303	P462	Q166902	1	'skyscraper'@en	'color'@en	'primary color'@en
+Q11303	P462	Q56053097	1	'skyscraper'@en	'color'@en	'HTML4 named color'@en
+Q11303	P463	Q43229	1	'skyscraper'@en	'member of'@en	'organization'@en
+Q18142	P463	Q43229	1	'high-rise building'@en	'member of'@en	'organization'@en
+Q27686	P463	Q43229	1	'hotel'@en	'member of'@en	'organization'@en
+Q11303	P466	Q4830453	14	'skyscraper'@en	'occupant'@en	'business'@en
+Q11303	P466	Q891723	10	'skyscraper'@en	'occupant'@en	'public company'@en
+Q11303	P466	Q6881511	9	'skyscraper'@en	'occupant'@en	'enterprise'@en
+Q1021645	P466	Q4830453	6	'office building'@en	'occupant'@en	'business'@en
+Q11303	P466	Q613142	4	'skyscraper'@en	'occupant'@en	'law firm'@en
+Q1021645	P466	Q613142	3	'office building'@en	'occupant'@en	'law firm'@en
+Q1021645	P466	Q6881511	3	'office building'@en	'occupant'@en	'enterprise'@en
+Q1021645	P466	Q891723	3	'office building'@en	'occupant'@en	'public company'@en
+Q11303	P466	Q22687	3	'skyscraper'@en	'occupant'@en	'bank'@en
+Q11303	P466	Q27686	3	'skyscraper'@en	'occupant'@en	'hotel'@en
+Q11303	P466	Q650241	3	'skyscraper'@en	'occupant'@en	'financial institution'@en
+Q11303	P466	Q730038	3	'skyscraper'@en	'occupant'@en	'credit institution'@en
+Q1021645	P466	Q22687	2	'office building'@en	'occupant'@en	'bank'@en
+Q1021645	P466	Q650241	2	'office building'@en	'occupant'@en	'financial institution'@en
+Q1021645	P466	Q730038	2	'office building'@en	'occupant'@en	'credit institution'@en
+Q11303	P466	Q5	2	'skyscraper'@en	'occupant'@en	'human'@en
+Q11303	P466	Q87342028	2	'skyscraper'@en	'occupant'@en	'prefectural government'@en
+Q100705206	P466	Q87342028	1	'prefectural office building'@en	'occupant'@en	'prefectural government'@en
+Q1021645	P466	Q105611	1	'office building'@en	'occupant'@en	'hedge fund'@en
+Q1021645	P466	Q1548033	1	'office building'@en	'occupant'@en	'large bank'@en
+Q1021645	P466	Q261428	1	'office building'@en	'occupant'@en	'discount store'@en
+Q1021645	P466	Q319845	1	'office building'@en	'occupant'@en	'investment bank'@en
+Q1021645	P466	Q5	1	'office building'@en	'occupant'@en	'human'@en
+Q1021645	P466	Q66344	1	'office building'@en	'occupant'@en	'central bank'@en
+Q1021645	P466	Q783794	1	'office building'@en	'occupant'@en	'company'@en
+Q1021645	P466	Q879146	1	'office building'@en	'occupant'@en	'Christian denomination'@en
+Q11303	P466	Q105611	1	'skyscraper'@en	'occupant'@en	'hedge fund'@en
+Q11303	P466	Q106760956	1	'skyscraper'@en	'occupant'@en	'engineering society'@en
+Q11303	P466	Q1194970	1	'skyscraper'@en	'occupant'@en	'dot-com company'@en
+Q11303	P466	Q12540664	1	'skyscraper'@en	'occupant'@en	'distributor'@en
+Q11303	P466	Q1328899	1	'skyscraper'@en	'occupant'@en	'standards organization'@en
+Q11303	P466	Q1391517	1	'skyscraper'@en	'occupant'@en	'Fachverband'@en
+Q11303	P466	Q1548033	1	'skyscraper'@en	'occupant'@en	'large bank'@en
+Q11303	P466	Q1631129	1	'skyscraper'@en	'occupant'@en	'hotel chain'@en
+Q11303	P466	Q163740	1	'skyscraper'@en	'occupant'@en	'nonprofit organization'@en
+Q11303	P466	Q1802419	1	'skyscraper'@en	'occupant'@en	'state government'@en
+Q11303	P466	Q192283	1	'skyscraper'@en	'occupant'@en	'news agency'@en
+Q11303	P466	Q2085381	1	'skyscraper'@en	'occupant'@en	'publisher'@en
+Q11303	P466	Q2442401	1	'skyscraper'@en	'occupant'@en	'record company'@en
+Q11303	P466	Q261428	1	'skyscraper'@en	'occupant'@en	'discount store'@en
+Q11303	P466	Q319845	1	'skyscraper'@en	'occupant'@en	'investment bank'@en
+Q11303	P466	Q3917681	1	'skyscraper'@en	'occupant'@en	'embassy'@en
+Q11303	P466	Q45400320	1	'skyscraper'@en	'occupant'@en	'open-access publisher'@en
+Q11303	P466	Q48004378	1	'skyscraper'@en	'occupant'@en	'esport competition'@en
+Q11303	P466	Q5225895	1	'skyscraper'@en	'occupant'@en	'public limited company'@en
+Q11303	P466	Q568041	1	'skyscraper'@en	'occupant'@en	'universal bank'@en
+Q11303	P466	Q623109	1	'skyscraper'@en	'occupant'@en	'sports league'@en
+Q11303	P466	Q66344	1	'skyscraper'@en	'occupant'@en	'central bank'@en
+Q11303	P466	Q708676	1	'skyscraper'@en	'occupant'@en	'charitable organization'@en
+Q11303	P466	Q783794	1	'skyscraper'@en	'occupant'@en	'company'@en
+Q11303	P466	Q829080	1	'skyscraper'@en	'occupant'@en	'professional association'@en
+Q11303	P466	Q879146	1	'skyscraper'@en	'occupant'@en	'Christian denomination'@en
+Q11303	P466	Q955824	1	'skyscraper'@en	'occupant'@en	'learned society'@en
+Q11303	P466	Q9826	1	'skyscraper'@en	'occupant'@en	'high school'@en
+Q16831714	P466	Q87342028	1	'government building'@en	'occupant'@en	'prefectural government'@en
+Q18142	P466	Q4830453	1	'high-rise building'@en	'occupant'@en	'business'@en
+Q18142	P466	Q5	1	'high-rise building'@en	'occupant'@en	'human'@en
+Q18142	P466	Q6881511	1	'high-rise building'@en	'occupant'@en	'enterprise'@en
+Q18142	P466	Q730038	1	'high-rise building'@en	'occupant'@en	'credit institution'@en
+Q18142	P466	Q891723	1	'high-rise building'@en	'occupant'@en	'public company'@en
+Q2519340	P466	Q22687	1	'administrative building'@en	'occupant'@en	'bank'@en
+Q2519340	P466	Q4830453	1	'administrative building'@en	'occupant'@en	'business'@en
+Q2519340	P466	Q650241	1	'administrative building'@en	'occupant'@en	'financial institution'@en
+Q655686	P466	Q106760956	1	'commercial building'@en	'occupant'@en	'engineering society'@en
+Q655686	P466	Q1194970	1	'commercial building'@en	'occupant'@en	'dot-com company'@en
+Q655686	P466	Q1328899	1	'commercial building'@en	'occupant'@en	'standards organization'@en
+Q655686	P466	Q1391517	1	'commercial building'@en	'occupant'@en	'Fachverband'@en
+Q655686	P466	Q163740	1	'commercial building'@en	'occupant'@en	'nonprofit organization'@en
+Q655686	P466	Q2085381	1	'commercial building'@en	'occupant'@en	'publisher'@en
+Q655686	P466	Q45400320	1	'commercial building'@en	'occupant'@en	'open-access publisher'@en
+Q655686	P466	Q48004378	1	'commercial building'@en	'occupant'@en	'esport competition'@en
+Q655686	P466	Q4830453	1	'commercial building'@en	'occupant'@en	'business'@en
+Q655686	P466	Q623109	1	'commercial building'@en	'occupant'@en	'sports league'@en
+Q655686	P466	Q6881511	1	'commercial building'@en	'occupant'@en	'enterprise'@en
+Q655686	P466	Q708676	1	'commercial building'@en	'occupant'@en	'charitable organization'@en
+Q655686	P466	Q829080	1	'commercial building'@en	'occupant'@en	'professional association'@en
+Q655686	P466	Q891723	1	'commercial building'@en	'occupant'@en	'public company'@en
+Q655686	P466	Q955824	1	'commercial building'@en	'occupant'@en	'learned society'@en
+Q655686	P466	Q9826	1	'commercial building'@en	'occupant'@en	'high school'@en
+Q811683	P466	Q4830453	1	'proposed building or structure'@en	'occupant'@en	'business'@en
+Q11303	P47	Q11303	3	'skyscraper'@en	'shares border with'@en	'skyscraper'@en
+Q11303	P47	Q18142	1	'skyscraper'@en	'shares border with'@en	'high-rise building'@en
+Q11303	P47	Q4022	1	'skyscraper'@en	'shares border with'@en	'river'@en
+Q11303	P47	Q811979	1	'skyscraper'@en	'shares border with'@en	'architectural structure'@en
+Q11303	P485	Q2085381	1	'skyscraper'@en	'archives at'@en	'publisher'@en
+Q11303	P485	Q856234	1	'skyscraper'@en	'archives at'@en	'academic library'@en
+Q133215	P485	Q2085381	1	'casino'@en	'archives at'@en	'publisher'@en
+Q133215	P485	Q856234	1	'casino'@en	'archives at'@en	'academic library'@en
+Q27686	P485	Q2085381	1	'hotel'@en	'archives at'@en	'publisher'@en
+Q27686	P485	Q856234	1	'hotel'@en	'archives at'@en	'academic library'@en
+Q8719053	P485	Q2085381	1	'music venue'@en	'archives at'@en	'publisher'@en
+Q8719053	P485	Q856234	1	'music venue'@en	'archives at'@en	'academic library'@en
+Q11303	P527	Q11315	2	'skyscraper'@en	'has part or parts'@en	'shopping center'@en
+Q1021645	P527	Q11315	1	'office building'@en	'has part or parts'@en	'shopping center'@en
+Q11303	P527	Q1060829	1	'skyscraper'@en	'has part or parts'@en	'concert hall'@en
+Q11303	P527	Q11303	1	'skyscraper'@en	'has part or parts'@en	'skyscraper'@en
+Q11303	P527	Q207694	1	'skyscraper'@en	'has part or parts'@en	'art museum'@en
+Q11303	P527	Q24354	1	'skyscraper'@en	'has part or parts'@en	'theatre'@en
+Q11303	P527	Q27686	1	'skyscraper'@en	'has part or parts'@en	'hotel'@en
+Q11303	P527	Q3469910	1	'skyscraper'@en	'has part or parts'@en	'performing arts center'@en
+Q11303	P527	Q8719053	1	'skyscraper'@en	'has part or parts'@en	'music venue'@en
+Q1406988	P527	Q1060829	1	'grand ensemble'@en	'has part or parts'@en	'concert hall'@en
+Q1406988	P527	Q207694	1	'grand ensemble'@en	'has part or parts'@en	'art museum'@en
+Q1406988	P527	Q24354	1	'grand ensemble'@en	'has part or parts'@en	'theatre'@en
+Q1406988	P527	Q3469910	1	'grand ensemble'@en	'has part or parts'@en	'performing arts center'@en
+Q2755753	P527	Q1060829	1	'area of London'@en	'has part or parts'@en	'concert hall'@en
+Q2755753	P527	Q207694	1	'area of London'@en	'has part or parts'@en	'art museum'@en
+Q2755753	P527	Q24354	1	'area of London'@en	'has part or parts'@en	'theatre'@en
+Q2755753	P527	Q3469910	1	'area of London'@en	'has part or parts'@en	'performing arts center'@en
+Q47012103	P527	Q1060829	1	'mixed-use building'@en	'has part or parts'@en	'concert hall'@en
+Q47012103	P527	Q207694	1	'mixed-use building'@en	'has part or parts'@en	'art museum'@en
+Q47012103	P527	Q24354	1	'mixed-use building'@en	'has part or parts'@en	'theatre'@en
+Q47012103	P527	Q3469910	1	'mixed-use building'@en	'has part or parts'@en	'performing arts center'@en
+Q6484056	P527	Q1060829	1	'land development'@en	'has part or parts'@en	'concert hall'@en
+Q6484056	P527	Q207694	1	'land development'@en	'has part or parts'@en	'art museum'@en
+Q6484056	P527	Q24354	1	'land development'@en	'has part or parts'@en	'theatre'@en
+Q6484056	P527	Q3469910	1	'land development'@en	'has part or parts'@en	'performing arts center'@en
+Q655686	P527	Q11315	1	'commercial building'@en	'has part or parts'@en	'shopping center'@en
+Q11303	P5816	Q55553838	1	'skyscraper'@en	'state of conservation'@en	'conservation state'@en
+Q19860854	P5816	Q55553838	1	'destroyed building or structure'@en	'state of conservation'@en	'conservation state'@en
+Q11303	P5817	Q56557118	1	'skyscraper'@en	'state of use'@en	'use status'@en
+Q811683	P5817	Q56557118	1	'proposed building or structure'@en	'state of use'@en	'use status'@en
+Q11303	P6237	Q5	1	'skyscraper'@en	'real estate developer'@en	'human'@en
+Q1570262	P6237	Q5	1	'unfinished building'@en	'real estate developer'@en	'human'@en
+Q11303	P631	Q4830453	19	'skyscraper'@en	'structural engineer'@en	'business'@en
+Q11303	P631	Q4387609	11	'skyscraper'@en	'structural engineer'@en	'architectural firm'@en
+Q11303	P631	Q6881511	5	'skyscraper'@en	'structural engineer'@en	'enterprise'@en
+Q11303	P631	Q5	2	'skyscraper'@en	'structural engineer'@en	'human'@en
+Q1021645	P631	Q4387609	1	'office building'@en	'structural engineer'@en	'architectural firm'@en
+Q11303	P631	Q891723	1	'skyscraper'@en	'structural engineer'@en	'public company'@en
+Q11755880	P631	Q4387609	1	'residential building'@en	'structural engineer'@en	'architectural firm'@en
+Q1406988	P631	Q4387609	1	'grand ensemble'@en	'structural engineer'@en	'architectural firm'@en
+Q1406988	P631	Q4830453	1	'grand ensemble'@en	'structural engineer'@en	'business'@en
+Q1406988	P631	Q6881511	1	'grand ensemble'@en	'structural engineer'@en	'enterprise'@en
+Q18142	P631	Q4830453	1	'high-rise building'@en	'structural engineer'@en	'business'@en
+Q2755753	P631	Q4387609	1	'area of London'@en	'structural engineer'@en	'architectural firm'@en
+Q2755753	P631	Q4830453	1	'area of London'@en	'structural engineer'@en	'business'@en
+Q2755753	P631	Q6881511	1	'area of London'@en	'structural engineer'@en	'enterprise'@en
+Q27686	P631	Q4830453	1	'hotel'@en	'structural engineer'@en	'business'@en
+Q47012103	P631	Q4387609	1	'mixed-use building'@en	'structural engineer'@en	'architectural firm'@en
+Q47012103	P631	Q4830453	1	'mixed-use building'@en	'structural engineer'@en	'business'@en
+Q47012103	P631	Q6881511	1	'mixed-use building'@en	'structural engineer'@en	'enterprise'@en
+Q6484056	P631	Q4387609	1	'land development'@en	'structural engineer'@en	'architectural firm'@en
+Q6484056	P631	Q4830453	1	'land development'@en	'structural engineer'@en	'business'@en
+Q6484056	P631	Q6881511	1	'land development'@en	'structural engineer'@en	'enterprise'@en
+Q11303	P669	Q79007	30	'skyscraper'@en	'located on street'@en	'street'@en
+Q11303	P669	Q34442	9	'skyscraper'@en	'located on street'@en	'road'@en
+Q1021645	P669	Q79007	6	'office building'@en	'located on street'@en	'street'@en
+Q11303	P669	Q83620	5	'skyscraper'@en	'located on street'@en	'thoroughfare'@en
+Q11303	P669	Q7543083	3	'skyscraper'@en	'located on street'@en	'avenue'@en
+Q18142	P669	Q79007	3	'high-rise building'@en	'located on street'@en	'street'@en
+Q1021645	P669	Q34442	2	'office building'@en	'located on street'@en	'road'@en
+Q11303	P669	Q174782	2	'skyscraper'@en	'located on street'@en	'square'@en
+Q41176	P669	Q79007	2	'building'@en	'located on street'@en	'street'@en
+Q1021645	P669	Q83620	1	'office building'@en	'located on street'@en	'thoroughfare'@en
+Q11303	P669	Q3840711	1	'skyscraper'@en	'located on street'@en	'pier'@en
+Q11303	P669	Q786886	1	'skyscraper'@en	'located on street'@en	'one-way traffic'@en
+Q11755880	P669	Q79007	1	'residential building'@en	'located on street'@en	'street'@en
+Q13402009	P669	Q3840711	1	'apartment building'@en	'located on street'@en	'pier'@en
+Q18142	P669	Q7543083	1	'high-rise building'@en	'located on street'@en	'avenue'@en
+Q27686	P669	Q7543083	1	'hotel'@en	'located on street'@en	'avenue'@en
+Q655686	P669	Q79007	1	'commercial building'@en	'located on street'@en	'street'@en
+Q811430	P669	Q83620	1	'human-made geographic feature'@en	'located on street'@en	'thoroughfare'@en
+Q811683	P669	Q34442	1	'proposed building or structure'@en	'located on street'@en	'road'@en
+Q811979	P669	Q79007	1	'architectural structure'@en	'located on street'@en	'street'@en
+Q11303	P706	Q23442	1	'skyscraper'@en	'located in/on physical feature'@en	'island'@en
+Q11303	P706	Q2983893	1	'skyscraper'@en	'located in/on physical feature'@en	'quarter'@en
+Q11303	P7084	Q4167836	1	'skyscraper'@en	'related category'@en	'Wikimedia category'@en
+Q133215	P7084	Q4167836	1	'casino'@en	'related category'@en	'Wikimedia category'@en
+Q27686	P7084	Q4167836	1	'hotel'@en	'related category'@en	'Wikimedia category'@en
+Q8719053	P7084	Q4167836	1	'music venue'@en	'related category'@en	'Wikimedia category'@en
+Q11303	P7514	Q5	1	'skyscraper'@en	'landscape architect'@en	'human'@en
+Q11303	P7561	Q4167836	13	'skyscraper'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q27686	P7561	Q4167836	3	'hotel'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q18142	P7561	Q4167836	2	'high-rise building'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q133215	P7561	Q4167836	1	'casino'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q24354	P7561	Q4167836	1	'theatre'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q8719053	P7561	Q4167836	1	'music venue'@en	'category for the interior of the item'@en	'Wikimedia category'@en
+Q11303	P793	Q3958441	8	'skyscraper'@en	'significant event'@en	'economic sector'@en
+Q11303	P793	Q8187769	8	'skyscraper'@en	'significant event'@en	'economic activity'@en
+Q11303	P793	Q1190554	4	'skyscraper'@en	'significant event'@en	'occurrence'@en
+Q1021645	P793	Q1190554	2	'office building'@en	'significant event'@en	'occurrence'@en
+Q1021645	P793	Q3958441	1	'office building'@en	'significant event'@en	'economic sector'@en
+Q1021645	P793	Q8187769	1	'office building'@en	'significant event'@en	'economic activity'@en
+Q11303	P793	Q12085385	1	'skyscraper'@en	'significant event'@en	
+Q11303	P793	Q1969448	1	'skyscraper'@en	'significant event'@en	'term'@en
+Q11303	P793	Q3839081	1	'skyscraper'@en	'significant event'@en	'disaster'@en
+Q11303	P793	Q7625093	1	'skyscraper'@en	'significant event'@en	'structure fire'@en
+Q18142	P793	Q1190554	1	'high-rise building'@en	'significant event'@en	'occurrence'@en
+Q18142	P793	Q3958441	1	'high-rise building'@en	'significant event'@en	'economic sector'@en
+Q18142	P793	Q7625093	1	'high-rise building'@en	'significant event'@en	'structure fire'@en
+Q18142	P793	Q8187769	1	'high-rise building'@en	'significant event'@en	'economic activity'@en
+Q41176	P793	Q1190554	1	'building'@en	'significant event'@en	'occurrence'@en
+Q41176	P793	Q12085385	1	'building'@en	'significant event'@en	
+Q41176	P793	Q1969448	1	'building'@en	'significant event'@en	'term'@en
+Q11303	P7959	Q1138494	15	'skyscraper'@en	'historic county'@en	'historic county of England'@en
+Q18142	P7959	Q1138494	5	'high-rise building'@en	'historic county'@en	'historic county of England'@en
+Q11303	P7959	Q67376938	4	'skyscraper'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q11303	P7959	Q1350181	2	'skyscraper'@en	'historic county'@en	'shire of Scotland'@en
+Q11303	P7959	Q179872	2	'skyscraper'@en	'historic county'@en	'county of Ireland'@en
+Q11303	P7959	Q1857731	2	'skyscraper'@en	'historic county'@en	'historic county of Wales'@en
+Q11303	P7959	Q19953632	2	'skyscraper'@en	'historic county'@en	'former administrative territorial entity'@en
+Q11303	P7959	Q202435	2	'skyscraper'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q11303	P7959	Q7309443	2	'skyscraper'@en	'historic county'@en	'registration county'@en
+Q1406988	P7959	Q1138494	1	'grand ensemble'@en	'historic county'@en	'historic county of England'@en
+Q1570262	P7959	Q1138494	1	'unfinished building'@en	'historic county'@en	'historic county of England'@en
+Q1570262	P7959	Q1350181	1	'unfinished building'@en	'historic county'@en	'shire of Scotland'@en
+Q1570262	P7959	Q202435	1	'unfinished building'@en	'historic county'@en	'lieutenancy area of Scotland'@en
+Q1570262	P7959	Q67376938	1	'unfinished building'@en	'historic county'@en	'historic county of the United Kingdom'@en
+Q1570262	P7959	Q7309443	1	'unfinished building'@en	'historic county'@en	'registration county'@en
+Q2755753	P7959	Q1138494	1	'area of London'@en	'historic county'@en	'historic county of England'@en
+Q47012103	P7959	Q1138494	1	'mixed-use building'@en	'historic county'@en	'historic county of England'@en
+Q6484056	P7959	Q1138494	1	'land development'@en	'historic county'@en	'historic county of England'@en
+Q11303	P84	Q4387609	139	'skyscraper'@en	'architect'@en	'architectural firm'@en
+Q11303	P84	Q5	112	'skyscraper'@en	'architect'@en	'human'@en
+Q11303	P84	Q4830453	26	'skyscraper'@en	'architect'@en	'business'@en
+Q18142	P84	Q4387609	17	'high-rise building'@en	'architect'@en	'architectural firm'@en
+Q18142	P84	Q5	12	'high-rise building'@en	'architect'@en	'human'@en
+Q1021645	P84	Q5	10	'office building'@en	'architect'@en	'human'@en
+Q1021645	P84	Q4387609	8	'office building'@en	'architect'@en	'architectural firm'@en
+Q11303	P84	Q891723	6	'skyscraper'@en	'architect'@en	'public company'@en
+Q11303	P84	Q10648343	4	'skyscraper'@en	'architect'@en	'duo'@en
+Q11303	P84	Q811930	4	'skyscraper'@en	'architect'@en	'construction business'@en
+Q27686	P84	Q5	4	'hotel'@en	'architect'@en	'human'@en
+Q11303	P84	Q6881511	3	'skyscraper'@en	'architect'@en	'enterprise'@en
+Q1570262	P84	Q4387609	3	'unfinished building'@en	'architect'@en	'architectural firm'@en
+Q27686	P84	Q4387609	3	'hotel'@en	'architect'@en	'architectural firm'@en
+Q811683	P84	Q4387609	3	'proposed building or structure'@en	'architect'@en	'architectural firm'@en
+Q13402009	P84	Q5	2	'apartment building'@en	'architect'@en	'human'@en
+Q18142	P84	Q4830453	2	'high-rise building'@en	'architect'@en	'business'@en
+Q655686	P84	Q4387609	2	'commercial building'@en	'architect'@en	'architectural firm'@en
+Q100705206	P84	Q4830453	1	'prefectural office building'@en	'architect'@en	'business'@en
+Q1021645	P84	Q1549591	1	'office building'@en	'architect'@en	'big city'@en
+Q1021645	P84	Q1637706	1	'office building'@en	'architect'@en	'million city'@en
+Q1021645	P84	Q1907114	1	'office building'@en	'architect'@en	'metropolitan area'@en
+Q1021645	P84	Q3502482	1	'office building'@en	'architect'@en	'cultural region'@en
+Q1021645	P84	Q4830453	1	'office building'@en	'architect'@en	'business'@en
+Q1021645	P84	Q486972	1	'office building'@en	'architect'@en	'human settlement'@en
+Q1021645	P84	Q515	1	'office building'@en	'architect'@en	'city'@en
+Q1021645	P84	Q779415	1	'office building'@en	'architect'@en	'special administrative region of China'@en
+Q1129142	P84	Q5	1	'NRHP contributing property'@en	'architect'@en	'human'@en
+Q11303	P84	Q1549591	1	'skyscraper'@en	'architect'@en	'big city'@en
+Q11303	P84	Q1637706	1	'skyscraper'@en	'architect'@en	'million city'@en
+Q11303	P84	Q1907114	1	'skyscraper'@en	'architect'@en	'metropolitan area'@en
+Q11303	P84	Q197952	1	'skyscraper'@en	'architect'@en	'corporate group'@en
+Q11303	P84	Q3502482	1	'skyscraper'@en	'architect'@en	'cultural region'@en
+Q11303	P84	Q486972	1	'skyscraper'@en	'architect'@en	'human settlement'@en
+Q11303	P84	Q515	1	'skyscraper'@en	'architect'@en	'city'@en
+Q11303	P84	Q779415	1	'skyscraper'@en	'architect'@en	'special administrative region of China'@en
+Q11303	P84	Q879146	1	'skyscraper'@en	'architect'@en	'Christian denomination'@en
+Q11303	P84	Q921773	1	'skyscraper'@en	'architect'@en	'engineering office'@en
+Q11755880	P84	Q4387609	1	'residential building'@en	'architect'@en	'architectural firm'@en
+Q11755880	P84	Q5	1	'residential building'@en	'architect'@en	'human'@en
+Q12771350	P84	Q5	1		'architect'@en	'human'@en
+Q1339195	P84	Q4387609	1	'station building'@en	'architect'@en	'architectural firm'@en
+Q1406988	P84	Q4387609	1	'grand ensemble'@en	'architect'@en	'architectural firm'@en
+Q1570262	P84	Q5	1	'unfinished building'@en	'architect'@en	'human'@en
+Q1577547	P84	Q4387609	1	'revenue house'@en	'architect'@en	'architectural firm'@en
+Q18142	P84	Q10648343	1	'high-rise building'@en	'architect'@en	'duo'@en
+Q18142	P84	Q891723	1	'high-rise building'@en	'architect'@en	'public company'@en
+Q2304397	P84	Q5	1	'residential tower'@en	'architect'@en	'human'@en
+Q242606	P84	Q4387609	1	'green building'@en	'architect'@en	'architectural firm'@en
+Q24354	P84	Q5	1	'theatre'@en	'architect'@en	'human'@en
+Q2519340	P84	Q4387609	1	'administrative building'@en	'architect'@en	'architectural firm'@en
+Q2755753	P84	Q4387609	1	'area of London'@en	'architect'@en	'architectural firm'@en
+Q41176	P84	Q4387609	1	'building'@en	'architect'@en	'architectural firm'@en
+Q41176	P84	Q5	1	'building'@en	'architect'@en	'human'@en
+Q47012103	P84	Q4387609	1	'mixed-use building'@en	'architect'@en	'architectural firm'@en
+Q6484056	P84	Q4387609	1	'land development'@en	'architect'@en	'architectural firm'@en
+Q76321820	P84	Q5	1	'contributing property'@en	'architect'@en	'human'@en
+Q811683	P84	Q10648343	1	'proposed building or structure'@en	'architect'@en	'duo'@en
+Q811683	P84	Q4830453	1	'proposed building or structure'@en	'architect'@en	'business'@en
+Q811683	P84	Q5	1	'proposed building or structure'@en	'architect'@en	'human'@en
+Q811683	P84	Q891723	1	'proposed building or structure'@en	'architect'@en	'public company'@en
+Q11303	P8596	Q4167836	9	'skyscraper'@en	'category for the exterior of the item'@en	'Wikimedia category'@en
+Q27686	P8596	Q4167836	2	'hotel'@en	'category for the exterior of the item'@en	'Wikimedia category'@en
+Q133215	P8596	Q4167836	1	'casino'@en	'category for the exterior of the item'@en	'Wikimedia category'@en
+Q18142	P8596	Q4167836	1	'high-rise building'@en	'category for the exterior of the item'@en	'Wikimedia category'@en
+Q8719053	P8596	Q4167836	1	'music venue'@en	'category for the exterior of the item'@en	'Wikimedia category'@en
+Q11303	P88	Q4830453	7	'skyscraper'@en	'commissioned by'@en	'business'@en
+Q11303	P88	Q891723	5	'skyscraper'@en	'commissioned by'@en	'public company'@en
+Q11303	P88	Q6881511	4	'skyscraper'@en	'commissioned by'@en	'enterprise'@en
+Q1021645	P88	Q4830453	2	'office building'@en	'commissioned by'@en	'business'@en
+Q1021645	P88	Q6881511	2	'office building'@en	'commissioned by'@en	'enterprise'@en
+Q1021645	P88	Q460178	1	'office building'@en	'commissioned by'@en	'GmbH'@en
+Q1021645	P88	Q730038	1	'office building'@en	'commissioned by'@en	'credit institution'@en
+Q1021645	P88	Q891723	1	'office building'@en	'commissioned by'@en	'public company'@en
+Q11303	P88	Q1062083	1	'skyscraper'@en	'commissioned by'@en	'billionaire'@en
+Q11303	P88	Q22687	1	'skyscraper'@en	'commissioned by'@en	'bank'@en
+Q11303	P88	Q43229	1	'skyscraper'@en	'commissioned by'@en	'organization'@en
+Q11303	P88	Q460178	1	'skyscraper'@en	'commissioned by'@en	'GmbH'@en
+Q11303	P88	Q5	1	'skyscraper'@en	'commissioned by'@en	'human'@en
+Q11303	P88	Q5393308	1	'skyscraper'@en	'commissioned by'@en	'Buddhist temple'@en
+Q11303	P88	Q650241	1	'skyscraper'@en	'commissioned by'@en	'financial institution'@en
+Q11303	P88	Q730038	1	'skyscraper'@en	'commissioned by'@en	'credit institution'@en
+Q18142	P88	Q43229	1	'high-rise building'@en	'commissioned by'@en	'organization'@en
+Q2519340	P88	Q22687	1	'administrative building'@en	'commissioned by'@en	'bank'@en
+Q2519340	P88	Q4830453	1	'administrative building'@en	'commissioned by'@en	'business'@en
+Q2519340	P88	Q650241	1	'administrative building'@en	'commissioned by'@en	'financial institution'@en
+Q11303	P8933	Q4167836	28	'skyscraper'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q18142	P8933	Q4167836	3	'high-rise building'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q1021645	P8933	Q4167836	1	'office building'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q11755880	P8933	Q4167836	1	'residential building'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q133215	P8933	Q4167836	1	'casino'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q27686	P8933	Q4167836	1	'hotel'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q41176	P8933	Q4167836	1	'building'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q8719053	P8933	Q4167836	1	'music venue'@en	'category for the view from the item'@en	'Wikimedia category'@en
+Q11303	P8989	Q4167836	3	'skyscraper'@en	'category for the view of the item'@en	'Wikimedia category'@en
+Q11303	P910	Q4167836	9	'skyscraper'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q18142	P910	Q4167836	3	'high-rise building'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q1406988	P910	Q4167836	1	'grand ensemble'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q2755753	P910	Q4167836	1	'area of London'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q47012103	P910	Q4167836	1	'mixed-use building'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q6484056	P910	Q4167836	1	'land development'@en	'topic\'s main category'@en	'Wikimedia category'@en
+Q11303	P1004	external-id	1	'skyscraper'@en	'MusicBrainz place ID'@en	
+Q133215	P1004	external-id	1	'casino'@en	'MusicBrainz place ID'@en	
+Q27686	P1004	external-id	1	'hotel'@en	'MusicBrainz place ID'@en	
+Q8719053	P1004	external-id	1	'music venue'@en	'MusicBrainz place ID'@en	
+Q11303	P10425	external-id	1	'skyscraper'@en	'Trip.com hotel ID'@en	
+Q27686	P10425	external-id	1	'hotel'@en	'Trip.com hotel ID'@en	
+Q11303	P10487	external-id	7	'skyscraper'@en	'skyscanner hotel ID'@en	
+Q27686	P10487	external-id	7	'hotel'@en	'skyscanner hotel ID'@en	
+Q18142	P10487	external-id	1	'high-rise building'@en	'skyscanner hotel ID'@en	
+Q11303	P10532	external-id	7	'skyscraper'@en	'Booking.com numeric ID'@en	
+Q27686	P10532	external-id	7	'hotel'@en	'Booking.com numeric ID'@en	
+Q18142	P10532	external-id	1	'high-rise building'@en	'Booking.com numeric ID'@en	
+Q11303	P10533	external-id	7	'skyscraper'@en	'Agoda hotel numeric ID'@en	
+Q27686	P10533	external-id	7	'hotel'@en	'Agoda hotel numeric ID'@en	
+Q18142	P10533	external-id	1	'high-rise building'@en	'Agoda hotel numeric ID'@en	
+Q11303	P1101	quantity	488	'skyscraper'@en	'floors above ground'@en	
+Q18142	P1101	quantity	51	'high-rise building'@en	'floors above ground'@en	
+Q1021645	P1101	quantity	27	'office building'@en	'floors above ground'@en	
+Q27686	P1101	quantity	12	'hotel'@en	'floors above ground'@en	
+Q811683	P1101	quantity	5	'proposed building or structure'@en	'floors above ground'@en	
+Q1570262	P1101	quantity	4	'unfinished building'@en	'floors above ground'@en	
+Q41176	P1101	quantity	4	'building'@en	'floors above ground'@en	
+Q11755880	P1101	quantity	2	'residential building'@en	'floors above ground'@en	
+Q2304397	P1101	quantity	2	'residential tower'@en	'floors above ground'@en	
+Q543654	P1101	quantity	2	'rathaus'@en	'floors above ground'@en	
+Q100705206	P1101	quantity	1	'prefectural office building'@en	'floors above ground'@en	
+Q1129142	P1101	quantity	1	'NRHP contributing property'@en	'floors above ground'@en	
+Q12518	P1101	quantity	1	'tower'@en	'floors above ground'@en	
+Q12771350	P1101	quantity	1		'floors above ground'@en	
+Q1339195	P1101	quantity	1	'station building'@en	'floors above ground'@en	
+Q13402009	P1101	quantity	1	'apartment building'@en	'floors above ground'@en	
+Q1406988	P1101	quantity	1	'grand ensemble'@en	'floors above ground'@en	
+Q1577547	P1101	quantity	1	'revenue house'@en	'floors above ground'@en	
+Q19860854	P1101	quantity	1	'destroyed building or structure'@en	'floors above ground'@en	
+Q242606	P1101	quantity	1	'green building'@en	'floors above ground'@en	
+Q24354	P1101	quantity	1	'theatre'@en	'floors above ground'@en	
+Q2519340	P1101	quantity	1	'administrative building'@en	'floors above ground'@en	
+Q25550691	P1101	quantity	1	'town hall'@en	'floors above ground'@en	
+Q2755753	P1101	quantity	1	'area of London'@en	'floors above ground'@en	
+Q47012103	P1101	quantity	1	'mixed-use building'@en	'floors above ground'@en	
+Q6484056	P1101	quantity	1	'land development'@en	'floors above ground'@en	
+Q655686	P1101	quantity	1	'commercial building'@en	'floors above ground'@en	
+Q76321820	P1101	quantity	1	'contributing property'@en	'floors above ground'@en	
+Q811430	P1101	quantity	1	'human-made geographic feature'@en	'floors above ground'@en	
+Q811979	P1101	quantity	1	'architectural structure'@en	'floors above ground'@en	
+Q11303	P1139	quantity	36	'skyscraper'@en	'floors below ground'@en	
+Q1021645	P1139	quantity	4	'office building'@en	'floors below ground'@en	
+Q18142	P1139	quantity	2	'high-rise building'@en	'floors below ground'@en	
+Q100705206	P1139	quantity	1	'prefectural office building'@en	'floors below ground'@en	
+Q1339195	P1139	quantity	1	'station building'@en	'floors below ground'@en	
+Q2519340	P1139	quantity	1	'administrative building'@en	'floors below ground'@en	
+Q811430	P1139	quantity	1	'human-made geographic feature'@en	'floors below ground'@en	
+Q811979	P1139	quantity	1	'architectural structure'@en	'floors below ground'@en	
+Q11303	P1216	external-id	4	'skyscraper'@en	'National Heritage List for England number'@en	
+Q1406988	P1216	external-id	1	'grand ensemble'@en	'National Heritage List for England number'@en	
+Q18142	P1216	external-id	1	'high-rise building'@en	'National Heritage List for England number'@en	
+Q2755753	P1216	external-id	1	'area of London'@en	'National Heritage List for England number'@en	
+Q47012103	P1216	external-id	1	'mixed-use building'@en	'National Heritage List for England number'@en	
+Q6484056	P1216	external-id	1	'land development'@en	'National Heritage List for England number'@en	
+Q11303	P1301	quantity	125	'skyscraper'@en	'number of elevators'@en	
+Q1021645	P1301	quantity	14	'office building'@en	'number of elevators'@en	
+Q18142	P1301	quantity	10	'high-rise building'@en	'number of elevators'@en	
+Q27686	P1301	quantity	5	'hotel'@en	'number of elevators'@en	
+Q655686	P1301	quantity	2	'commercial building'@en	'number of elevators'@en	
+Q11755880	P1301	quantity	1	'residential building'@en	'number of elevators'@en	
+Q1577547	P1301	quantity	1	'revenue house'@en	'number of elevators'@en	
+Q242606	P1301	quantity	1	'green building'@en	'number of elevators'@en	
+Q24354	P1301	quantity	1	'theatre'@en	'number of elevators'@en	
+Q2519340	P1301	quantity	1	'administrative building'@en	'number of elevators'@en	
+Q811683	P1301	quantity	1	'proposed building or structure'@en	'number of elevators'@en	
+Q811979	P1301	quantity	1	'architectural structure'@en	'number of elevators'@en	
+Q11303	P1305	external-id	424	'skyscraper'@en	'CTBUH Skyscraper Center building ID'@en	
+Q18142	P1305	external-id	50	'high-rise building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q1021645	P1305	external-id	22	'office building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q27686	P1305	external-id	10	'hotel'@en	'CTBUH Skyscraper Center building ID'@en	
+Q1570262	P1305	external-id	3	'unfinished building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q811683	P1305	external-id	3	'proposed building or structure'@en	'CTBUH Skyscraper Center building ID'@en	
+Q41176	P1305	external-id	2	'building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q543654	P1305	external-id	2	'rathaus'@en	'CTBUH Skyscraper Center building ID'@en	
+Q655686	P1305	external-id	2	'commercial building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q100705206	P1305	external-id	1	'prefectural office building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q11755880	P1305	external-id	1	'residential building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q12518	P1305	external-id	1	'tower'@en	'CTBUH Skyscraper Center building ID'@en	
+Q1339195	P1305	external-id	1	'station building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q13402009	P1305	external-id	1	'apartment building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q2304397	P1305	external-id	1	'residential tower'@en	'CTBUH Skyscraper Center building ID'@en	
+Q242606	P1305	external-id	1	'green building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q24354	P1305	external-id	1	'theatre'@en	'CTBUH Skyscraper Center building ID'@en	
+Q2519340	P1305	external-id	1	'administrative building'@en	'CTBUH Skyscraper Center building ID'@en	
+Q25550691	P1305	external-id	1	'town hall'@en	'CTBUH Skyscraper Center building ID'@en	
+Q811430	P1305	external-id	1	'human-made geographic feature'@en	'CTBUH Skyscraper Center building ID'@en	
+Q811979	P1305	external-id	1	'architectural structure'@en	'CTBUH Skyscraper Center building ID'@en	
+Q11303	P1329	string	3	'skyscraper'@en	'phone number'@en	
+Q1021645	P1329	string	1	'office building'@en	'phone number'@en	
+Q27686	P1329	string	1	'hotel'@en	'phone number'@en	
+Q11303	P1417	external-id	11	'skyscraper'@en	'Encyclopædia Britannica Online ID'@en	
+Q1021645	P1417	external-id	2	'office building'@en	'Encyclopædia Britannica Online ID'@en	
+Q11755880	P1417	external-id	1	'residential building'@en	'Encyclopædia Britannica Online ID'@en	
+Q133215	P1417	external-id	1	'casino'@en	'Encyclopædia Britannica Online ID'@en	
+Q1406988	P1417	external-id	1	'grand ensemble'@en	'Encyclopædia Britannica Online ID'@en	
+Q1497364	P1417	external-id	1	'building complex'@en	'Encyclopædia Britannica Online ID'@en	
+Q2755753	P1417	external-id	1	'area of London'@en	'Encyclopædia Britannica Online ID'@en	
+Q27686	P1417	external-id	1	'hotel'@en	'Encyclopædia Britannica Online ID'@en	
+Q47012103	P1417	external-id	1	'mixed-use building'@en	'Encyclopædia Britannica Online ID'@en	
+Q6484056	P1417	external-id	1	'land development'@en	'Encyclopædia Britannica Online ID'@en	
+Q8719053	P1417	external-id	1	'music venue'@en	'Encyclopædia Britannica Online ID'@en	
+Q11303	P154	commonsMedia	2	'skyscraper'@en	'logo image'@en	
+Q11303	P1566	external-id	35	'skyscraper'@en	'GeoNames ID'@en	
+Q18142	P1566	external-id	4	'high-rise building'@en	'GeoNames ID'@en	
+Q27686	P1566	external-id	4	'hotel'@en	'GeoNames ID'@en	
+Q1021645	P1566	external-id	3	'office building'@en	'GeoNames ID'@en	
+Q11755880	P1566	external-id	1	'residential building'@en	'GeoNames ID'@en	
+Q1339195	P1566	external-id	1	'station building'@en	'GeoNames ID'@en	
+Q1406988	P1566	external-id	1	'grand ensemble'@en	'GeoNames ID'@en	
+Q1497364	P1566	external-id	1	'building complex'@en	'GeoNames ID'@en	
+Q2755753	P1566	external-id	1	'area of London'@en	'GeoNames ID'@en	
+Q47012103	P1566	external-id	1	'mixed-use building'@en	'GeoNames ID'@en	
+Q543654	P1566	external-id	1	'rathaus'@en	'GeoNames ID'@en	
+Q6484056	P1566	external-id	1	'land development'@en	'GeoNames ID'@en	
+Q655686	P1566	external-id	1	'commercial building'@en	'GeoNames ID'@en	
+Q11303	P1619	time	167	'skyscraper'@en	'date of official opening'@en	
+Q1021645	P1619	time	16	'office building'@en	'date of official opening'@en	
+Q18142	P1619	time	13	'high-rise building'@en	'date of official opening'@en	
+Q27686	P1619	time	6	'hotel'@en	'date of official opening'@en	
+Q655686	P1619	time	2	'commercial building'@en	'date of official opening'@en	
+Q1129142	P1619	time	1	'NRHP contributing property'@en	'date of official opening'@en	
+Q11755880	P1619	time	1	'residential building'@en	'date of official opening'@en	
+Q133215	P1619	time	1	'casino'@en	'date of official opening'@en	
+Q1406988	P1619	time	1	'grand ensemble'@en	'date of official opening'@en	
+Q1577547	P1619	time	1	'revenue house'@en	'date of official opening'@en	
+Q19860854	P1619	time	1	'destroyed building or structure'@en	'date of official opening'@en	
+Q242606	P1619	time	1	'green building'@en	'date of official opening'@en	
+Q2519340	P1619	time	1	'administrative building'@en	'date of official opening'@en	
+Q2755753	P1619	time	1	'area of London'@en	'date of official opening'@en	
+Q41176	P1619	time	1	'building'@en	'date of official opening'@en	
+Q47012103	P1619	time	1	'mixed-use building'@en	'date of official opening'@en	
+Q6484056	P1619	time	1	'land development'@en	'date of official opening'@en	
+Q76321820	P1619	time	1	'contributing property'@en	'date of official opening'@en	
+Q811430	P1619	time	1	'human-made geographic feature'@en	'date of official opening'@en	
+Q8719053	P1619	time	1	'music venue'@en	'date of official opening'@en	
+Q11303	P1699	external-id	120	'skyscraper'@en	'SkyscraperPage building ID'@en	
+Q18142	P1699	external-id	13	'high-rise building'@en	'SkyscraperPage building ID'@en	
+Q1021645	P1699	external-id	12	'office building'@en	'SkyscraperPage building ID'@en	
+Q11755880	P1699	external-id	2	'residential building'@en	'SkyscraperPage building ID'@en	
+Q100705206	P1699	external-id	1	'prefectural office building'@en	'SkyscraperPage building ID'@en	
+Q1339195	P1699	external-id	1	'station building'@en	'SkyscraperPage building ID'@en	
+Q13402009	P1699	external-id	1	'apartment building'@en	'SkyscraperPage building ID'@en	
+Q16831714	P1699	external-id	1	'government building'@en	'SkyscraperPage building ID'@en	
+Q24354	P1699	external-id	1	'theatre'@en	'SkyscraperPage building ID'@en	
+Q27686	P1699	external-id	1	'hotel'@en	'SkyscraperPage building ID'@en	
+Q41176	P1699	external-id	1	'building'@en	'SkyscraperPage building ID'@en	
+Q655686	P1699	external-id	1	'commercial building'@en	'SkyscraperPage building ID'@en	
+Q811979	P1699	external-id	1	'architectural structure'@en	'SkyscraperPage building ID'@en	
+Q11303	P1705	monolingualtext	11	'skyscraper'@en	'native label'@en	
+Q1021645	P1705	monolingualtext	2	'office building'@en	'native label'@en	
+Q1406988	P1705	monolingualtext	1	'grand ensemble'@en	'native label'@en	
+Q18142	P1705	monolingualtext	1	'high-rise building'@en	'native label'@en	
+Q2755753	P1705	monolingualtext	1	'area of London'@en	'native label'@en	
+Q27686	P1705	monolingualtext	1	'hotel'@en	'native label'@en	
+Q47012103	P1705	monolingualtext	1	'mixed-use building'@en	'native label'@en	
+Q6484056	P1705	monolingualtext	1	'land development'@en	'native label'@en	
+Q655686	P1705	monolingualtext	1	'commercial building'@en	'native label'@en	
+Q11303	P18	commonsMedia	504	'skyscraper'@en	'image'@en	
+Q18142	P18	commonsMedia	51	'high-rise building'@en	'image'@en	
+Q1021645	P18	commonsMedia	28	'office building'@en	'image'@en	
+Q27686	P18	commonsMedia	16	'hotel'@en	'image'@en	
+Q41176	P18	commonsMedia	4	'building'@en	'image'@en	
+Q655686	P18	commonsMedia	3	'commercial building'@en	'image'@en	
+Q11755880	P18	commonsMedia	2	'residential building'@en	'image'@en	
+Q13402009	P18	commonsMedia	2	'apartment building'@en	'image'@en	
+Q1577547	P18	commonsMedia	2	'revenue house'@en	'image'@en	
+Q2304397	P18	commonsMedia	2	'residential tower'@en	'image'@en	
+Q543654	P18	commonsMedia	2	'rathaus'@en	'image'@en	
+Q100705206	P18	commonsMedia	1	'prefectural office building'@en	'image'@en	
+Q1129142	P18	commonsMedia	1	'NRHP contributing property'@en	'image'@en	
+Q12518	P18	commonsMedia	1	'tower'@en	'image'@en	
+Q133215	P18	commonsMedia	1	'casino'@en	'image'@en	
+Q1339195	P18	commonsMedia	1	'station building'@en	'image'@en	
+Q1406988	P18	commonsMedia	1	'grand ensemble'@en	'image'@en	
+Q1570262	P18	commonsMedia	1	'unfinished building'@en	'image'@en	
+Q16831714	P18	commonsMedia	1	'government building'@en	'image'@en	
+Q19860854	P18	commonsMedia	1	'destroyed building or structure'@en	'image'@en	
+Q242606	P18	commonsMedia	1	'green building'@en	'image'@en	
+Q24354	P18	commonsMedia	1	'theatre'@en	'image'@en	
+Q2519340	P18	commonsMedia	1	'administrative building'@en	'image'@en	
+Q25550691	P18	commonsMedia	1	'town hall'@en	'image'@en	
+Q2755753	P18	commonsMedia	1	'area of London'@en	'image'@en	
+Q3661265	P18	commonsMedia	1	'hall of residence'@en	'image'@en	
+Q47012103	P18	commonsMedia	1	'mixed-use building'@en	'image'@en	
+Q6484056	P18	commonsMedia	1	'land development'@en	'image'@en	
+Q76321820	P18	commonsMedia	1	'contributing property'@en	'image'@en	
+Q811430	P18	commonsMedia	1	'human-made geographic feature'@en	'image'@en	
+Q811979	P18	commonsMedia	1	'architectural structure'@en	'image'@en	
+Q8719053	P18	commonsMedia	1	'music venue'@en	'image'@en	
+Q1021645	P1813	monolingualtext	1	'office building'@en	'short name'@en	
+Q11303	P1813	monolingualtext	1	'skyscraper'@en	'short name'@en	
+Q655686	P1813	monolingualtext	1	'commercial building'@en	'short name'@en	
+Q11303	P1814	string	1	'skyscraper'@en	'name in kana'@en	
+Q11303	P1837	external-id	5	'skyscraper'@en	'Gaoloumi ID'@en	
+Q1021645	P1837	external-id	1	'office building'@en	'Gaoloumi ID'@en	
+Q11303	P1838	external-id	16	'skyscraper'@en	'PSS-archi ID'@en	
+Q1021645	P1838	external-id	5	'office building'@en	'PSS-archi ID'@en	
+Q18142	P1838	external-id	2	'high-rise building'@en	'PSS-archi ID'@en	
+Q13402009	P1838	external-id	1	'apartment building'@en	'PSS-archi ID'@en	
+Q1570262	P1838	external-id	1	'unfinished building'@en	'PSS-archi ID'@en	
+Q811979	P1838	external-id	1	'architectural structure'@en	'PSS-archi ID'@en	
+Q11303	P1942	string	1	'skyscraper'@en	'McCune-Reischauer romanization'@en	
+Q11303	P2001	string	1	'skyscraper'@en	'Revised Romanization'@en	
+Q11303	P2003	external-id	1	'skyscraper'@en	'Instagram username'@en	
+Q18142	P2003	external-id	1	'high-rise building'@en	'Instagram username'@en	
+Q27686	P2003	external-id	1	'hotel'@en	'Instagram username'@en	
+Q11303	P2013	external-id	6	'skyscraper'@en	'Facebook ID'@en	
+Q18142	P2013	external-id	2	'high-rise building'@en	'Facebook ID'@en	
+Q27686	P2013	external-id	2	'hotel'@en	'Facebook ID'@en	
+Q11303	P2043	quantity	1	'skyscraper'@en	'length'@en	
+Q41176	P2043	quantity	1	'building'@en	'length'@en	
+Q11303	P2046	quantity	19	'skyscraper'@en	'area'@en	
+Q100705206	P2046	quantity	1	'prefectural office building'@en	'area'@en	
+Q1021645	P2046	quantity	1	'office building'@en	'area'@en	
+Q11755880	P2046	quantity	1	'residential building'@en	'area'@en	
+Q1339195	P2046	quantity	1	'station building'@en	'area'@en	
+Q811683	P2046	quantity	1	'proposed building or structure'@en	'area'@en	
+Q11303	P2048	quantity	122	'skyscraper'@en	'height'@en	
+Q1021645	P2048	quantity	17	'office building'@en	'height'@en	
+Q18142	P2048	quantity	11	'high-rise building'@en	'height'@en	
+Q27686	P2048	quantity	2	'hotel'@en	'height'@en	
+Q41176	P2048	quantity	2	'building'@en	'height'@en	
+Q811683	P2048	quantity	2	'proposed building or structure'@en	'height'@en	
+Q11755880	P2048	quantity	1	'residential building'@en	'height'@en	
+Q13402009	P2048	quantity	1	'apartment building'@en	'height'@en	
+Q2304397	P2048	quantity	1	'residential tower'@en	'height'@en	
+Q24354	P2048	quantity	1	'theatre'@en	'height'@en	
+Q2519340	P2048	quantity	1	'administrative building'@en	'height'@en	
+Q25550691	P2048	quantity	1	'town hall'@en	'height'@en	
+Q655686	P2048	quantity	1	'commercial building'@en	'height'@en	
+Q811430	P2048	quantity	1	'human-made geographic feature'@en	'height'@en	
+Q811979	P2048	quantity	1	'architectural structure'@en	'height'@en	
+Q11303	P2049	quantity	1	'skyscraper'@en	'width'@en	
+Q41176	P2049	quantity	1	'building'@en	'width'@en	
+Q1021645	P213	external-id	1	'office building'@en	'ISNI'@en	
+Q11303	P213	external-id	1	'skyscraper'@en	'ISNI'@en	
+Q11303	P2130	quantity	2	'skyscraper'@en	'cost'@en	
+Q1021645	P2130	quantity	1	'office building'@en	'cost'@en	
+Q11755880	P2130	quantity	1	'residential building'@en	'cost'@en	
+Q11303	P214	external-id	15	'skyscraper'@en	'VIAF ID'@en	
+Q1021645	P214	external-id	3	'office building'@en	'VIAF ID'@en	
+Q18142	P214	external-id	2	'high-rise building'@en	'VIAF ID'@en	
+Q27686	P214	external-id	2	'hotel'@en	'VIAF ID'@en	
+Q11755880	P214	external-id	1	'residential building'@en	'VIAF ID'@en	
+Q133215	P214	external-id	1	'casino'@en	'VIAF ID'@en	
+Q2519340	P214	external-id	1	'administrative building'@en	'VIAF ID'@en	
+Q8719053	P214	external-id	1	'music venue'@en	'VIAF ID'@en	
+Q11303	P2186	external-id	1	'skyscraper'@en	'Wiki Loves Monuments ID'@en	
+Q11303	P227	external-id	5	'skyscraper'@en	'GND ID'@en	
+Q1021645	P227	external-id	2	'office building'@en	'GND ID'@en	
+Q18142	P227	external-id	1	'high-rise building'@en	'GND ID'@en	
+Q11303	P2270	external-id	2	'skyscraper'@en	'Emporis building complex ID'@en	
+Q1021645	P2284	quantity	1	'office building'@en	'price'@en	
+Q11303	P2284	quantity	1	'skyscraper'@en	'price'@en	
+Q11303	P244	external-id	6	'skyscraper'@en	'Library of Congress authority ID'@en	
+Q1021645	P244	external-id	2	'office building'@en	'Library of Congress authority ID'@en	
+Q11755880	P244	external-id	1	'residential building'@en	'Library of Congress authority ID'@en	
+Q100705206	P2441	monolingualtext	1	'prefectural office building'@en	'literal translation'@en	
+Q11303	P2441	monolingualtext	1	'skyscraper'@en	'literal translation'@en	
+Q11303	P2581	external-id	29	'skyscraper'@en	'BabelNet ID'@en	
+Q18142	P2581	external-id	3	'high-rise building'@en	'BabelNet ID'@en	
+Q27686	P2581	external-id	1	'hotel'@en	'BabelNet ID'@en	
+Q811683	P2581	external-id	1	'proposed building or structure'@en	'BabelNet ID'@en	
+Q11303	P2671	external-id	5	'skyscraper'@en	'Google Knowledge Graph ID'@en	
+Q19860854	P2671	external-id	1	'destroyed building or structure'@en	'Google Knowledge Graph ID'@en	
+Q11303	P2762	external-id	3	'skyscraper'@en	'CTBUH Skyscraper Center building complex ID'@en	
+Q11755880	P2762	external-id	1	'residential building'@en	'CTBUH Skyscraper Center building complex ID'@en	
+Q1406988	P2762	external-id	1	'grand ensemble'@en	'CTBUH Skyscraper Center building complex ID'@en	
+Q2755753	P2762	external-id	1	'area of London'@en	'CTBUH Skyscraper Center building complex ID'@en	
+Q47012103	P2762	external-id	1	'mixed-use building'@en	'CTBUH Skyscraper Center building complex ID'@en	
+Q6484056	P2762	external-id	1	'land development'@en	'CTBUH Skyscraper Center building complex ID'@en	
+Q11303	P2765	external-id	4	'skyscraper'@en	'blue-style.com ID'@en	
+Q11303	P281	string	24	'skyscraper'@en	'postal code'@en	
+Q1021645	P281	string	6	'office building'@en	'postal code'@en	
+Q18142	P281	string	2	'high-rise building'@en	'postal code'@en	
+Q1339195	P281	string	1	'station building'@en	'postal code'@en	
+Q13402009	P281	string	1	'apartment building'@en	'postal code'@en	
+Q11303	P2917	external-id	1	'skyscraper'@en	'COAM structure ID'@en	
+Q11303	P3059	external-id	1	'skyscraper'@en	'Architectuurgids building ID'@en	
+Q11303	P3134	external-id	12	'skyscraper'@en	'TripAdvisor ID'@en	
+Q18142	P3134	external-id	2	'high-rise building'@en	'TripAdvisor ID'@en	
+Q27686	P3134	external-id	2	'hotel'@en	'TripAdvisor ID'@en	
+Q100705206	P3134	external-id	1	'prefectural office building'@en	'TripAdvisor ID'@en	
+Q1021645	P3134	external-id	1	'office building'@en	'TripAdvisor ID'@en	
+Q655686	P3134	external-id	1	'commercial building'@en	'TripAdvisor ID'@en	
+Q11303	P3222	external-id	1	'skyscraper'@en	'NE.se ID'@en	
+Q11303	P3225	external-id	1	'skyscraper'@en	'Corporate Number (Japan)'@en	
+Q11303	P3417	external-id	15	'skyscraper'@en	'Quora topic ID'@en	
+Q27686	P3417	external-id	5	'hotel'@en	'Quora topic ID'@en	
+Q18142	P3417	external-id	2	'high-rise building'@en	'Quora topic ID'@en	
+Q1021645	P3417	external-id	1	'office building'@en	'Quora topic ID'@en	
+Q11755880	P3417	external-id	1	'residential building'@en	'Quora topic ID'@en	
+Q11303	P3451	commonsMedia	12	'skyscraper'@en	'nighttime view'@en	
+Q11303	P3579	external-id	1	'skyscraper'@en	'Sina Weibo user ID'@en	
+Q11303	P3607	external-id	3	'skyscraper'@en	'Booking.com hotel ID'@en	
+Q27686	P3607	external-id	3	'hotel'@en	'Booking.com hotel ID'@en	
+Q133215	P3607	external-id	1	'casino'@en	'Booking.com hotel ID'@en	
+Q18142	P3607	external-id	1	'high-rise building'@en	'Booking.com hotel ID'@en	
+Q8719053	P3607	external-id	1	'music venue'@en	'Booking.com hotel ID'@en	
+Q11303	P373	string	353	'skyscraper'@en	'Commons category'@en	
+Q18142	P373	string	35	'high-rise building'@en	'Commons category'@en	
+Q1021645	P373	string	23	'office building'@en	'Commons category'@en	
+Q27686	P373	string	12	'hotel'@en	'Commons category'@en	
+Q41176	P373	string	3	'building'@en	'Commons category'@en	
+Q543654	P373	string	2	'rathaus'@en	'Commons category'@en	
+Q655686	P373	string	2	'commercial building'@en	'Commons category'@en	
+Q100705206	P373	string	1	'prefectural office building'@en	'Commons category'@en	
+Q11755880	P373	string	1	'residential building'@en	'Commons category'@en	
+Q133215	P373	string	1	'casino'@en	'Commons category'@en	
+Q1339195	P373	string	1	'station building'@en	'Commons category'@en	
+Q13402009	P373	string	1	'apartment building'@en	'Commons category'@en	
+Q1406988	P373	string	1	'grand ensemble'@en	'Commons category'@en	
+Q1497364	P373	string	1	'building complex'@en	'Commons category'@en	
+Q1570262	P373	string	1	'unfinished building'@en	'Commons category'@en	
+Q1577547	P373	string	1	'revenue house'@en	'Commons category'@en	
+Q19860854	P373	string	1	'destroyed building or structure'@en	'Commons category'@en	
+Q2304397	P373	string	1	'residential tower'@en	'Commons category'@en	
+Q242606	P373	string	1	'green building'@en	'Commons category'@en	
+Q24354	P373	string	1	'theatre'@en	'Commons category'@en	
+Q2519340	P373	string	1	'administrative building'@en	'Commons category'@en	
+Q25550691	P373	string	1	'town hall'@en	'Commons category'@en	
+Q2755753	P373	string	1	'area of London'@en	'Commons category'@en	
+Q47012103	P373	string	1	'mixed-use building'@en	'Commons category'@en	
+Q6484056	P373	string	1	'land development'@en	'Commons category'@en	
+Q811979	P373	string	1	'architectural structure'@en	'Commons category'@en	
+Q8719053	P373	string	1	'music venue'@en	'Commons category'@en	
+Q11303	P3749	external-id	4	'skyscraper'@en	'Google Maps Customer ID'@en	
+Q11303	P3758	external-id	1	'skyscraper'@en	'DOCOMOMO Ibérico ID'@en	
+Q11303	P3794	external-id	1	'skyscraper'@en	'Dictionary of Sydney ID'@en	
+Q11303	P3898	external-id	2	'skyscraper'@en	'Hotels.com hotel ID'@en	
+Q27686	P3898	external-id	2	'hotel'@en	'Hotels.com hotel ID'@en	
+Q18142	P3898	external-id	1	'high-rise building'@en	'Hotels.com hotel ID'@en	
+Q11303	P3977	external-id	1	'skyscraper'@en	'Songkick venue ID'@en	
+Q1021645	P3987	external-id	1	'office building'@en	'SHARE Catalogue author ID'@en	
+Q11303	P3987	external-id	1	'skyscraper'@en	'SHARE Catalogue author ID'@en	
+Q11303	P3988	external-id	5	'skyscraper'@en	'National Library Board Singapore ID'@en	
+Q11303	P402	external-id	4	'skyscraper'@en	'OpenStreetMap relation ID'@en	
+Q11303	P4088	external-id	1	'skyscraper'@en	'Irish National Inventory of Architectural Heritage ID'@en	
+Q11303	P4129	external-id	1	'skyscraper'@en	'Cinema Treasures ID'@en	
+Q24354	P4129	external-id	1	'theatre'@en	'Cinema Treasures ID'@en	
+Q11303	P4173	external-id	3	'skyscraper'@en	'Instagram location ID'@en	
+Q18142	P4173	external-id	1	'high-rise building'@en	'Instagram location ID'@en	
+Q27686	P4173	external-id	1	'hotel'@en	'Instagram location ID'@en	
+Q11303	P4244	external-id	1	'skyscraper'@en	'Bavarian monument authority ID'@en	
+Q2519340	P4244	external-id	1	'administrative building'@en	'Bavarian monument authority ID'@en	
+Q11303	P4264	external-id	1	'skyscraper'@en	'LinkedIn company ID'@en	
+Q18142	P4264	external-id	1	'high-rise building'@en	'LinkedIn company ID'@en	
+Q27686	P4264	external-id	1	'hotel'@en	'LinkedIn company ID'@en	
+Q11303	P4273	external-id	1	'skyscraper'@en	'New York City Landmarks Preservation Commission ID'@en	
+Q18142	P4273	external-id	1	'high-rise building'@en	'New York City Landmarks Preservation Commission ID'@en	
+Q27686	P4273	external-id	1	'hotel'@en	'New York City Landmarks Preservation Commission ID'@en	
+Q11303	P4291	commonsMedia	1	'skyscraper'@en	'panoramic view'@en	
+Q11303	P443	commonsMedia	3	'skyscraper'@en	'pronunciation audio'@en	
+Q1021645	P443	commonsMedia	1	'office building'@en	'pronunciation audio'@en	
+Q18142	P443	commonsMedia	1	'high-rise building'@en	'pronunciation audio'@en	
+Q11303	P454	external-id	174	'skyscraper'@en	'Structurae structure ID'@en	
+Q18142	P454	external-id	25	'high-rise building'@en	'Structurae structure ID'@en	
+Q1021645	P454	external-id	13	'office building'@en	'Structurae structure ID'@en	
+Q27686	P454	external-id	2	'hotel'@en	'Structurae structure ID'@en	
+Q11755880	P454	external-id	1	'residential building'@en	'Structurae structure ID'@en	
+Q1339195	P454	external-id	1	'station building'@en	'Structurae structure ID'@en	
+Q13402009	P454	external-id	1	'apartment building'@en	'Structurae structure ID'@en	
+Q1406988	P454	external-id	1	'grand ensemble'@en	'Structurae structure ID'@en	
+Q1497364	P454	external-id	1	'building complex'@en	'Structurae structure ID'@en	
+Q24354	P454	external-id	1	'theatre'@en	'Structurae structure ID'@en	
+Q2519340	P454	external-id	1	'administrative building'@en	'Structurae structure ID'@en	
+Q2755753	P454	external-id	1	'area of London'@en	'Structurae structure ID'@en	
+Q41176	P454	external-id	1	'building'@en	'Structurae structure ID'@en	
+Q47012103	P454	external-id	1	'mixed-use building'@en	'Structurae structure ID'@en	
+Q6484056	P454	external-id	1	'land development'@en	'Structurae structure ID'@en	
+Q655686	P454	external-id	1	'commercial building'@en	'Structurae structure ID'@en	
+Q811979	P454	external-id	1	'architectural structure'@en	'Structurae structure ID'@en	
+Q11303	P455	external-id	214	'skyscraper'@en	'Emporis building ID'@en	
+Q18142	P455	external-id	21	'high-rise building'@en	'Emporis building ID'@en	
+Q1021645	P455	external-id	17	'office building'@en	'Emporis building ID'@en	
+Q27686	P455	external-id	4	'hotel'@en	'Emporis building ID'@en	
+Q13402009	P455	external-id	2	'apartment building'@en	'Emporis building ID'@en	
+Q1570262	P455	external-id	2	'unfinished building'@en	'Emporis building ID'@en	
+Q41176	P455	external-id	2	'building'@en	'Emporis building ID'@en	
+Q811683	P455	external-id	2	'proposed building or structure'@en	'Emporis building ID'@en	
+Q100705206	P455	external-id	1	'prefectural office building'@en	'Emporis building ID'@en	
+Q11755880	P455	external-id	1	'residential building'@en	'Emporis building ID'@en	
+Q1339195	P455	external-id	1	'station building'@en	'Emporis building ID'@en	
+Q2304397	P455	external-id	1	'residential tower'@en	'Emporis building ID'@en	
+Q242606	P455	external-id	1	'green building'@en	'Emporis building ID'@en	
+Q655686	P455	external-id	1	'commercial building'@en	'Emporis building ID'@en	
+Q811979	P455	external-id	1	'architectural structure'@en	'Emporis building ID'@en	
+Q11303	P4672	external-id	1	'skyscraper'@en	'EMLO location ID'@en	
+Q1406988	P4672	external-id	1	'grand ensemble'@en	'EMLO location ID'@en	
+Q2755753	P4672	external-id	1	'area of London'@en	'EMLO location ID'@en	
+Q47012103	P4672	external-id	1	'mixed-use building'@en	'EMLO location ID'@en	
+Q6484056	P4672	external-id	1	'land development'@en	'EMLO location ID'@en	
+Q11303	P4694	external-id	1	'skyscraper'@en	'Arquivo Arq ID'@en	
+Q11303	P4839	external-id	5	'skyscraper'@en	'Wolfram Language entity code'@en	
+Q1339195	P4839	external-id	1	'station building'@en	'Wolfram Language entity code'@en	
+Q11303	P4856	string	2	'skyscraper'@en	'conscription number'@en	
+Q41176	P4856	string	1	'building'@en	'conscription number'@en	
+Q11303	P4896	commonsMedia	1	'skyscraper'@en	'3D model'@en	
+Q11303	P5208	external-id	1	'skyscraper'@en	'BAG building ID'@en	
+Q11303	P528	string	1	'skyscraper'@en	'catalog code'@en	
+Q11303	P5383	external-id	40	'skyscraper'@en	'archINFORM project ID'@en	
+Q1021645	P5383	external-id	5	'office building'@en	'archINFORM project ID'@en	
+Q18142	P5383	external-id	2	'high-rise building'@en	'archINFORM project ID'@en	
+Q27686	P5383	external-id	2	'hotel'@en	'archINFORM project ID'@en	
+Q11755880	P5383	external-id	1	'residential building'@en	'archINFORM project ID'@en	
+Q1406988	P5383	external-id	1	'grand ensemble'@en	'archINFORM project ID'@en	
+Q1497364	P5383	external-id	1	'building complex'@en	'archINFORM project ID'@en	
+Q1577547	P5383	external-id	1	'revenue house'@en	'archINFORM project ID'@en	
+Q24354	P5383	external-id	1	'theatre'@en	'archINFORM project ID'@en	
+Q2519340	P5383	external-id	1	'administrative building'@en	'archINFORM project ID'@en	
+Q2755753	P5383	external-id	1	'area of London'@en	'archINFORM project ID'@en	
+Q47012103	P5383	external-id	1	'mixed-use building'@en	'archINFORM project ID'@en	
+Q6484056	P5383	external-id	1	'land development'@en	'archINFORM project ID'@en	
+Q655686	P5383	external-id	1	'commercial building'@en	'archINFORM project ID'@en	
+Q11303	P5652	external-id	1	'skyscraper'@en	'Carthalia ID'@en	
+Q24354	P5652	external-id	1	'theatre'@en	'Carthalia ID'@en	
+Q11303	P571	time	440	'skyscraper'@en	'inception'@en	
+Q18142	P571	time	47	'high-rise building'@en	'inception'@en	
+Q1021645	P571	time	20	'office building'@en	'inception'@en	
+Q27686	P571	time	13	'hotel'@en	'inception'@en	
+Q13402009	P571	time	3	'apartment building'@en	'inception'@en	
+Q41176	P571	time	3	'building'@en	'inception'@en	
+Q2304397	P571	time	2	'residential tower'@en	'inception'@en	
+Q543654	P571	time	2	'rathaus'@en	'inception'@en	
+Q100705206	P571	time	1	'prefectural office building'@en	'inception'@en	
+Q11755880	P571	time	1	'residential building'@en	'inception'@en	
+Q133215	P571	time	1	'casino'@en	'inception'@en	
+Q1339195	P571	time	1	'station building'@en	'inception'@en	
+Q1406988	P571	time	1	'grand ensemble'@en	'inception'@en	
+Q19860854	P571	time	1	'destroyed building or structure'@en	'inception'@en	
+Q242606	P571	time	1	'green building'@en	'inception'@en	
+Q24354	P571	time	1	'theatre'@en	'inception'@en	
+Q2519340	P571	time	1	'administrative building'@en	'inception'@en	
+Q25550691	P571	time	1	'town hall'@en	'inception'@en	
+Q2755753	P571	time	1	'area of London'@en	'inception'@en	
+Q47012103	P571	time	1	'mixed-use building'@en	'inception'@en	
+Q6484056	P571	time	1	'land development'@en	'inception'@en	
+Q655686	P571	time	1	'commercial building'@en	'inception'@en	
+Q811430	P571	time	1	'human-made geographic feature'@en	'inception'@en	
+Q811979	P571	time	1	'architectural structure'@en	'inception'@en	
+Q8719053	P571	time	1	'music venue'@en	'inception'@en	
+Q11303	P5734	external-id	1	'skyscraper'@en	'Historic Hotels of America ID'@en	
+Q18142	P5734	external-id	1	'high-rise building'@en	'Historic Hotels of America ID'@en	
+Q27686	P5734	external-id	1	'hotel'@en	'Historic Hotels of America ID'@en	
+Q11303	P576	time	3	'skyscraper'@en	'dissolved, abolished or demolished date'@en	
+Q1021645	P576	time	2	'office building'@en	'dissolved, abolished or demolished date'@en	
+Q11303	P5775	commonsMedia	9	'skyscraper'@en	'image of interior'@en	
+Q1021645	P5775	commonsMedia	2	'office building'@en	'image of interior'@en	
+Q11303	P580	time	1	'skyscraper'@en	'start time'@en	
+Q18142	P580	time	1	'high-rise building'@en	'start time'@en	
+Q11303	P582	time	2	'skyscraper'@en	'end time'@en	
+Q18142	P582	time	1	'high-rise building'@en	'end time'@en	
+Q11303	P5835	external-id	1	'skyscraper'@en	'World Travel Awards ID'@en	
+Q18142	P5835	external-id	1	'high-rise building'@en	'World Travel Awards ID'@en	
+Q27686	P5835	external-id	1	'hotel'@en	'World Travel Awards ID'@en	
+Q11303	P5904	external-id	1	'skyscraper'@en	'ASCE Historical Civil Engineering Landmark ID'@en	
+Q11303	P6008	external-id	1	'skyscraper'@en	'Agoda hotel ID'@en	
+Q18142	P6008	external-id	1	'high-rise building'@en	'Agoda hotel ID'@en	
+Q27686	P6008	external-id	1	'hotel'@en	'Agoda hotel ID'@en	
+Q11303	P6012	external-id	3	'skyscraper'@en	'California Office of Historic Preservation ID'@en	
+Q11303	P613	string	3	'skyscraper'@en	'OS grid reference'@en	
+Q1406988	P613	string	1	'grand ensemble'@en	'OS grid reference'@en	
+Q18142	P613	string	1	'high-rise building'@en	'OS grid reference'@en	
+Q2755753	P613	string	1	'area of London'@en	'OS grid reference'@en	
+Q47012103	P613	string	1	'mixed-use building'@en	'OS grid reference'@en	
+Q6484056	P613	string	1	'land development'@en	'OS grid reference'@en	
+Q11303	P625	globe-coordinate	584	'skyscraper'@en	'coordinate location'@en	
+Q18142	P625	globe-coordinate	57	'high-rise building'@en	'coordinate location'@en	
+Q1021645	P625	globe-coordinate	30	'office building'@en	'coordinate location'@en	
+Q27686	P625	globe-coordinate	16	'hotel'@en	'coordinate location'@en	
+Q1570262	P625	globe-coordinate	6	'unfinished building'@en	'coordinate location'@en	
+Q41176	P625	globe-coordinate	4	'building'@en	'coordinate location'@en	
+Q13402009	P625	globe-coordinate	3	'apartment building'@en	'coordinate location'@en	
+Q655686	P625	globe-coordinate	3	'commercial building'@en	'coordinate location'@en	
+Q811683	P625	globe-coordinate	3	'proposed building or structure'@en	'coordinate location'@en	
+Q11755880	P625	globe-coordinate	2	'residential building'@en	'coordinate location'@en	
+Q1577547	P625	globe-coordinate	2	'revenue house'@en	'coordinate location'@en	
+Q2304397	P625	globe-coordinate	2	'residential tower'@en	'coordinate location'@en	
+Q543654	P625	globe-coordinate	2	'rathaus'@en	'coordinate location'@en	
+Q100705206	P625	globe-coordinate	1	'prefectural office building'@en	'coordinate location'@en	
+Q1129142	P625	globe-coordinate	1	'NRHP contributing property'@en	'coordinate location'@en	
+Q12518	P625	globe-coordinate	1	'tower'@en	'coordinate location'@en	
+Q12771350	P625	globe-coordinate	1		'coordinate location'@en	
+Q133215	P625	globe-coordinate	1	'casino'@en	'coordinate location'@en	
+Q1339195	P625	globe-coordinate	1	'station building'@en	'coordinate location'@en	
+Q1406988	P625	globe-coordinate	1	'grand ensemble'@en	'coordinate location'@en	
+Q1497364	P625	globe-coordinate	1	'building complex'@en	'coordinate location'@en	
+Q16831714	P625	globe-coordinate	1	'government building'@en	'coordinate location'@en	
+Q19860854	P625	globe-coordinate	1	'destroyed building or structure'@en	'coordinate location'@en	
+Q242606	P625	globe-coordinate	1	'green building'@en	'coordinate location'@en	
+Q24354	P625	globe-coordinate	1	'theatre'@en	'coordinate location'@en	
+Q2519340	P625	globe-coordinate	1	'administrative building'@en	'coordinate location'@en	
+Q25550691	P625	globe-coordinate	1	'town hall'@en	'coordinate location'@en	
+Q2755753	P625	globe-coordinate	1	'area of London'@en	'coordinate location'@en	
+Q3661265	P625	globe-coordinate	1	'hall of residence'@en	'coordinate location'@en	
+Q47012103	P625	globe-coordinate	1	'mixed-use building'@en	'coordinate location'@en	
+Q6484056	P625	globe-coordinate	1	'land development'@en	'coordinate location'@en	
+Q76321820	P625	globe-coordinate	1	'contributing property'@en	'coordinate location'@en	
+Q811430	P625	globe-coordinate	1	'human-made geographic feature'@en	'coordinate location'@en	
+Q811979	P625	globe-coordinate	1	'architectural structure'@en	'coordinate location'@en	
+Q8719053	P625	globe-coordinate	1	'music venue'@en	'coordinate location'@en	
+Q11303	P6375	monolingualtext	67	'skyscraper'@en	'street address'@en	
+Q1021645	P6375	monolingualtext	8	'office building'@en	'street address'@en	
+Q18142	P6375	monolingualtext	3	'high-rise building'@en	'street address'@en	
+Q41176	P6375	monolingualtext	3	'building'@en	'street address'@en	
+Q1129142	P6375	monolingualtext	1	'NRHP contributing property'@en	'street address'@en	
+Q11755880	P6375	monolingualtext	1	'residential building'@en	'street address'@en	
+Q13402009	P6375	monolingualtext	1	'apartment building'@en	'street address'@en	
+Q2304397	P6375	monolingualtext	1	'residential tower'@en	'street address'@en	
+Q24354	P6375	monolingualtext	1	'theatre'@en	'street address'@en	
+Q2519340	P6375	monolingualtext	1	'administrative building'@en	'street address'@en	
+Q27686	P6375	monolingualtext	1	'hotel'@en	'street address'@en	
+Q3661265	P6375	monolingualtext	1	'hall of residence'@en	'street address'@en	
+Q76321820	P6375	monolingualtext	1	'contributing property'@en	'street address'@en	
+Q11303	P646	external-id	542	'skyscraper'@en	'Freebase ID'@en	
+Q18142	P646	external-id	54	'high-rise building'@en	'Freebase ID'@en	
+Q1021645	P646	external-id	25	'office building'@en	'Freebase ID'@en	
+Q1570262	P646	external-id	6	'unfinished building'@en	'Freebase ID'@en	
+Q811683	P646	external-id	5	'proposed building or structure'@en	'Freebase ID'@en	
+Q27686	P646	external-id	4	'hotel'@en	'Freebase ID'@en	
+Q41176	P646	external-id	4	'building'@en	'Freebase ID'@en	
+Q13402009	P646	external-id	3	'apartment building'@en	'Freebase ID'@en	
+Q655686	P646	external-id	3	'commercial building'@en	'Freebase ID'@en	
+Q11755880	P646	external-id	2	'residential building'@en	'Freebase ID'@en	
+Q1577547	P646	external-id	2	'revenue house'@en	'Freebase ID'@en	
+Q2304397	P646	external-id	2	'residential tower'@en	'Freebase ID'@en	
+Q100705206	P646	external-id	1	'prefectural office building'@en	'Freebase ID'@en	
+Q1129142	P646	external-id	1	'NRHP contributing property'@en	'Freebase ID'@en	
+Q12518	P646	external-id	1	'tower'@en	'Freebase ID'@en	
+Q12771350	P646	external-id	1		'Freebase ID'@en	
+Q133215	P646	external-id	1	'casino'@en	'Freebase ID'@en	
+Q1339195	P646	external-id	1	'station building'@en	'Freebase ID'@en	
+Q1406988	P646	external-id	1	'grand ensemble'@en	'Freebase ID'@en	
+Q1497364	P646	external-id	1	'building complex'@en	'Freebase ID'@en	
+Q16831714	P646	external-id	1	'government building'@en	'Freebase ID'@en	
+Q19860854	P646	external-id	1	'destroyed building or structure'@en	'Freebase ID'@en	
+Q24354	P646	external-id	1	'theatre'@en	'Freebase ID'@en	
+Q2519340	P646	external-id	1	'administrative building'@en	'Freebase ID'@en	
+Q25550691	P646	external-id	1	'town hall'@en	'Freebase ID'@en	
+Q2755753	P646	external-id	1	'area of London'@en	'Freebase ID'@en	
+Q3661265	P646	external-id	1	'hall of residence'@en	'Freebase ID'@en	
+Q47012103	P646	external-id	1	'mixed-use building'@en	'Freebase ID'@en	
+Q543654	P646	external-id	1	'rathaus'@en	'Freebase ID'@en	
+Q6484056	P646	external-id	1	'land development'@en	'Freebase ID'@en	
+Q76321820	P646	external-id	1	'contributing property'@en	'Freebase ID'@en	
+Q811430	P646	external-id	1	'human-made geographic feature'@en	'Freebase ID'@en	
+Q811979	P646	external-id	1	'architectural structure'@en	'Freebase ID'@en	
+Q8719053	P646	external-id	1	'music venue'@en	'Freebase ID'@en	
+Q11303	P649	external-id	26	'skyscraper'@en	'NRHP reference number'@en	
+Q1021645	P649	external-id	3	'office building'@en	'NRHP reference number'@en	
+Q1577547	P649	external-id	2	'revenue house'@en	'NRHP reference number'@en	
+Q18142	P649	external-id	1	'high-rise building'@en	'NRHP reference number'@en	
+Q24354	P649	external-id	1	'theatre'@en	'NRHP reference number'@en	
+Q27686	P649	external-id	1	'hotel'@en	'NRHP reference number'@en	
+Q41176	P649	external-id	1	'building'@en	'NRHP reference number'@en	
+Q655686	P649	external-id	1	'commercial building'@en	'NRHP reference number'@en	
+Q11303	P6766	external-id	2	'skyscraper'@en	'Who\'s on First ID'@en	
+Q1406988	P6766	external-id	1	'grand ensemble'@en	'Who\'s on First ID'@en	
+Q2755753	P6766	external-id	1	'area of London'@en	'Who\'s on First ID'@en	
+Q47012103	P6766	external-id	1	'mixed-use building'@en	'Who\'s on First ID'@en	
+Q6484056	P6766	external-id	1	'land development'@en	'Who\'s on First ID'@en	
+Q11303	P6776	external-id	2	'skyscraper'@en	'IMTL.org ID'@en	
+Q11303	P7772	external-id	6	'skyscraper'@en	'Atlas Obscura identifier'@en	
+Q133215	P7772	external-id	1	'casino'@en	'Atlas Obscura identifier'@en	
+Q18142	P7772	external-id	1	'high-rise building'@en	'Atlas Obscura identifier'@en	
+Q27686	P7772	external-id	1	'hotel'@en	'Atlas Obscura identifier'@en	
+Q8719053	P7772	external-id	1	'music venue'@en	'Atlas Obscura identifier'@en	
+Q11303	P7818	external-id	1	'skyscraper'@en	'French Vikidia ID'@en	
+Q11303	P7859	external-id	9	'skyscraper'@en	'WorldCat Identities ID'@en	
+Q1021645	P7859	external-id	2	'office building'@en	'WorldCat Identities ID'@en	
+Q11755880	P7859	external-id	1	'residential building'@en	'WorldCat Identities ID'@en	
+Q18142	P7859	external-id	1	'high-rise building'@en	'WorldCat Identities ID'@en	
+Q27686	P7859	external-id	1	'hotel'@en	'WorldCat Identities ID'@en	
+Q11303	P8132	external-id	2	'skyscraper'@en	'Texas Historic Sites Atlas ID'@en	
+Q1129142	P8132	external-id	1	'NRHP contributing property'@en	'Texas Historic Sites Atlas ID'@en	
+Q41176	P8132	external-id	1	'building'@en	'Texas Historic Sites Atlas ID'@en	
+Q76321820	P8132	external-id	1	'contributing property'@en	'Texas Historic Sites Atlas ID'@en	
+Q11303	P8189	external-id	2	'skyscraper'@en	'National Library of Israel J9U ID'@en	
+Q18142	P8189	external-id	1	'high-rise building'@en	'National Library of Israel J9U ID'@en	
+Q27686	P8189	external-id	1	'hotel'@en	'National Library of Israel J9U ID'@en	
+Q11303	P8350	external-id	1	'skyscraper'@en	'Singapore Infopedia ID'@en	
+Q11303	P8517	commonsMedia	7	'skyscraper'@en	'view'@en	
+Q100705206	P8517	commonsMedia	1	'prefectural office building'@en	'view'@en	
+Q11303	P856	url	108	'skyscraper'@en	'official website'@en	
+Q1021645	P856	url	13	'office building'@en	'official website'@en	
+Q27686	P856	url	10	'hotel'@en	'official website'@en	
+Q18142	P856	url	8	'high-rise building'@en	'official website'@en	
+Q41176	P856	url	2	'building'@en	'official website'@en	
+Q100705206	P856	url	1	'prefectural office building'@en	'official website'@en	
+Q11755880	P856	url	1	'residential building'@en	'official website'@en	
+Q133215	P856	url	1	'casino'@en	'official website'@en	
+Q1339195	P856	url	1	'station building'@en	'official website'@en	
+Q13402009	P856	url	1	'apartment building'@en	'official website'@en	
+Q1406988	P856	url	1	'grand ensemble'@en	'official website'@en	
+Q1497364	P856	url	1	'building complex'@en	'official website'@en	
+Q16831714	P856	url	1	'government building'@en	'official website'@en	
+Q24354	P856	url	1	'theatre'@en	'official website'@en	
+Q2519340	P856	url	1	'administrative building'@en	'official website'@en	
+Q2755753	P856	url	1	'area of London'@en	'official website'@en	
+Q47012103	P856	url	1	'mixed-use building'@en	'official website'@en	
+Q6484056	P856	url	1	'land development'@en	'official website'@en	
+Q655686	P856	url	1	'commercial building'@en	'official website'@en	
+Q8719053	P856	url	1	'music venue'@en	'official website'@en	
+Q11303	P8655	external-id	1	'skyscraper'@en	'LoC HABS/HAER/HALS place ID'@en	
+Q11303	P8988	external-id	3	'skyscraper'@en	'Mapy.cz ID'@en	
+Q41176	P8988	external-id	1	'building'@en	'Mapy.cz ID'@en	
+Q11303	P9339	external-id	1	'skyscraper'@en	'Bavarian Monument Map object ID (architectural monument)'@en	
+Q2519340	P9339	external-id	1	'administrative building'@en	'Bavarian Monument Map object ID (architectural monument)'@en	
+Q11303	P935	string	9	'skyscraper'@en	'Commons gallery'@en	
+Q18142	P935	string	3	'high-rise building'@en	'Commons gallery'@en	
+Q11303	P9721	commonsMedia	1	'skyscraper'@en	'image of entrance'@en	
+Q11303	P973	url	4	'skyscraper'@en	'described at URL'@en	
+Q1021645	P973	url	3	'office building'@en	'described at URL'@en	
+Q11303	P989	commonsMedia	1	'skyscraper'@en	'spoken text audio'@en	

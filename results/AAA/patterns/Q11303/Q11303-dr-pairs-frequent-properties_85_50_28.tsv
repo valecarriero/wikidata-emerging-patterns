@@ -1,0 +1,29 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q11303	P454	external-id	174.0	'skyscraper'@en	'Structurae structure ID'@en		28.95%
+Q11303	P1101	quantity	488.0	'skyscraper'@en	'floors above ground'@en		81.2%
+Q11303	P1301	quantity	125.0	'skyscraper'@en	'number of elevators'@en		20.8%
+Q11303	P373	string	353.0	'skyscraper'@en	'Commons category'@en		58.74%
+Q11303	P149	Q32880	121.0	'skyscraper'@en	'architectural style'@en	'architectural style'@en	20.13%
+Q11303	P18	commonsMedia	504.0	'skyscraper'@en	'image'@en		83.86%
+Q11303	P646	external-id	542.0	'skyscraper'@en	'Freebase ID'@en		90.18%
+Q11303	P856	url	108.0	'skyscraper'@en	'official website'@en		17.97%
+Q11303	P625	globe-coordinate	584.0	'skyscraper'@en	'coordinate location'@en		97.17%
+Q11303	P1699	external-id	120.0	'skyscraper'@en	'SkyscraperPage building ID'@en		19.97%
+Q11303	P2048	quantity	122.0	'skyscraper'@en	'height'@en		20.3%
+Q11303	P455	external-id	214.0	'skyscraper'@en	'Emporis building ID'@en		35.61%
+Q11303	P17	Q6256	599.0	'skyscraper'@en	'country'@en	'country'@en	99.67%
+Q11303	P17	Q3624078	596.0	'skyscraper'@en	'country'@en	'sovereign state'@en	99.17%
+Q11303	P17	Q1520223	359.0	'skyscraper'@en	'country'@en	'constitutional republic'@en	59.73%
+Q11303	P17	Q512187	319.0	'skyscraper'@en	'country'@en	'federal republic'@en	53.08%
+Q11303	P17	Q5255892	309.0	'skyscraper'@en	'country'@en	'democratic republic'@en	51.41%
+Q11303	P1305	external-id	424.0	'skyscraper'@en	'CTBUH Skyscraper Center building ID'@en		70.55%
+Q11303	P127	Q4830453	64.0	'skyscraper'@en	'owned by'@en	'business'@en	10.65%
+Q11303	P127	Q891723	37.0	'skyscraper'@en	'owned by'@en	'public company'@en	6.16%
+Q11303	P84	Q4387609	139.0	'skyscraper'@en	'architect'@en	'architectural firm'@en	23.13%
+Q11303	P84	Q5	112.0	'skyscraper'@en	'architect'@en	'human'@en	18.64%
+Q11303	P571	time	440.0	'skyscraper'@en	'inception'@en		73.21%
+Q11303	P1619	time	167.0	'skyscraper'@en	'date of official opening'@en		27.79%
+Q11303	P131	Q1549591	214.0	'skyscraper'@en	'located in the administrative territorial entity'@en	'big city'@en	35.61%
+Q11303	P131	Q515	152.0	'skyscraper'@en	'located in the administrative territorial entity'@en	'city'@en	25.29%
+Q11303	P131	Q35657	121.0	'skyscraper'@en	'located in the administrative territorial entity'@en	'U.S. state'@en	20.13%
+Q11303	P131	Q1637706	109.0	'skyscraper'@en	'located in the administrative territorial entity'@en	'million city'@en	18.14%

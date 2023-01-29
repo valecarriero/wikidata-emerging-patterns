@@ -1,0 +1,88 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:AAA_Q27686_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:references wd:Q27686 . 
+
+weps:wikidata_AAA_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_AAA_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'hotel' 'country' 'entity'
+<< << wd:Q27686 wdt:P17 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "100.0%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'located in the administrative territorial entity' 'entity'
+<< << wd:Q27686 wdt:P131 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "84.31%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'heritage designation' 'entity'
+<< << wd:Q27686 wdt:P1435 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "42.86%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'inception' time
+<< << wd:Q27686 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.6%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'official website' url
+<< << wd:Q27686 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "32.08%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'coordinate location' globe-coordinate
+<< << wd:Q27686 wdt:P625 wikibase:Globe-coordinate >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "94.15%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'country'
+<< << wd:Q27686 wdt:P17 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.77%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'sovereign state'
+<< << wd:Q27686 wdt:P17 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.59%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'constitutional republic'
+<< << wd:Q27686 wdt:P17 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "66.04%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'federal republic'
+<< << wd:Q27686 wdt:P17 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "64.87%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'democratic republic'
+<< << wd:Q27686 wdt:P17 wd:Q5255892 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "63.93%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'historical unrecognized state'
+<< << wd:Q27686 wdt:P17 wd:Q99541706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "62.3%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'country' 'superpower'
+<< << wd:Q27686 wdt:P17 wd:Q1489259 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "61.83%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'Commons category' string
+<< << wd:Q27686 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "38.88%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'NRHP reference number' external-id
+<< << wd:Q27686 wdt:P649 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.36%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'date of official opening' time
+<< << wd:Q27686 wdt:P1619 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "21.55%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'archINFORM project ID' external-id
+<< << wd:Q27686 wdt:P5383 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.17%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'heritage designation' 'heritage designation'
+<< << wd:Q27686 wdt:P1435 wd:Q30634609 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "39.81%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'located in the administrative territorial entity' 'U.S. state'
+<< << wd:Q27686 wdt:P131 wd:Q35657 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "37.47%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'image' commonsMedia
+<< << wd:Q27686 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "74.0%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'floors above ground' quantity
+<< << wd:Q27686 wdt:P1101 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.5%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+
+# 'hotel' 'Freebase ID' external-id
+<< << wd:Q27686 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "41.69%" ; oplax:isNativeTo weps:AAA_Q27686_09508505 .
+

@@ -1,0 +1,145 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:music_Q215380_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_music_subkg_20220404 ; 
+ dcterms:references wd:Q215380 . 
+
+weps:wikidata_music_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_music_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'musical group' 'country of origin' 'entity'
+<< << wd:Q215380 wdt:P495 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.3%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'genre' 'entity'
+<< << wd:Q215380 wdt:P136 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "84.25%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'location of formation' 'entity'
+<< << wd:Q215380 wdt:P740 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "50.74%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'record label' 'entity'
+<< << wd:Q215380 wdt:P264 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "48.68%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'has part or parts' 'entity'
+<< << wd:Q215380 wdt:P527 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "30.52%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Facebook ID' external-id
+<< << wd:Q215380 wdt:P2013 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "37.74%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'MusicBrainz artist ID' external-id
+<< << wd:Q215380 wdt:P434 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "83.39%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'work period (start)' time
+<< << wd:Q215380 wdt:P2031 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "78.7%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'ISNI' external-id
+<< << wd:Q215380 wdt:P213 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "54.31%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Deezer artist ID' external-id
+<< << wd:Q215380 wdt:P2722 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.67%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Rate Your Music artist ID' external-id
+<< << wd:Q215380 wdt:P5404 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.69%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'location of formation' 'big city'
+<< << wd:Q215380 wdt:P740 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.77%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'location of formation' 'city'
+<< << wd:Q215380 wdt:P740 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.75%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'location of formation' 'city of the United States'
+<< << wd:Q215380 wdt:P740 wd:Q1093829 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.44%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Discogs artist ID' external-id
+<< << wd:Q215380 wdt:P1953 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "81.53%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'official website' url
+<< << wd:Q215380 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "51.56%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Acharts.co artist ID' external-id
+<< << wd:Q215380 wdt:P7109 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "14.09%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'inception' time
+<< << wd:Q215380 wdt:P571 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "66.89%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'country of origin' 'country'
+<< << wd:Q215380 wdt:P495 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.08%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'country of origin' 'sovereign state'
+<< << wd:Q215380 wdt:P495 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "85.52%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'country of origin' 'federal republic'
+<< << wd:Q215380 wdt:P495 wd:Q512187 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "44.48%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'country of origin' 'constitutional republic'
+<< << wd:Q215380 wdt:P495 wd:Q1520223 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "43.8%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Billboard artist ID' external-id
+<< << wd:Q215380 wdt:P4208 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.42%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Twitter username' external-id
+<< << wd:Q215380 wdt:P2002 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "24.01%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Commons category' string
+<< << wd:Q215380 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.77%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Myspace ID' external-id
+<< << wd:Q215380 wdt:P3265 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.21%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'WorldCat Identities ID' external-id
+<< << wd:Q215380 wdt:P7859 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "51.2%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Library of Congress authority ID' external-id
+<< << wd:Q215380 wdt:P244 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "31.79%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'social media followers' quantity
+<< << wd:Q215380 wdt:P8687 wikibase:Quantity >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.16%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Last.fm ID' external-id
+<< << wd:Q215380 wdt:P3192 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.93%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'genre' 'music genre'
+<< << wd:Q215380 wdt:P136 wd:Q188451 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "84.09%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'has part or parts' 'human'
+<< << wd:Q215380 wdt:P527 wd:Q5 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "30.01%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Songkick artist ID' external-id
+<< << wd:Q215380 wdt:P3478 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "62.9%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'AllMusic artist ID' external-id
+<< << wd:Q215380 wdt:P1728 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "40.77%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'LyricsTranslate ID' external-id
+<< << wd:Q215380 wdt:P7212 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.6%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Muziekweb performer ID' external-id
+<< << wd:Q215380 wdt:P5882 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "47.85%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'record label' 'record label'
+<< << wd:Q215380 wdt:P264 wd:Q18127 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.45%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Spotify artist ID' external-id
+<< << wd:Q215380 wdt:P1902 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "24.39%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'VIAF ID' external-id
+<< << wd:Q215380 wdt:P214 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "53.6%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'Freebase ID' external-id
+<< << wd:Q215380 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "89.21%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+
+# 'musical group' 'image' commonsMedia
+<< << wd:Q215380 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.81%" ; oplax:isNativeTo weps:music_Q215380_09508505 .
+

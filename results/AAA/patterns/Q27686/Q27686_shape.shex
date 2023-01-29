@@ -1,0 +1,82 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<hotel> 
+
+<hotel> { wdt:P31 [wd:Q27686] ; 
+
+# 'hotel' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 100.0% 
+
+# 'hotel' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 84.31% 
+
+# 'hotel' 'heritage designation' 'entity'
+wdt:P1435 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 42.86% 
+
+# 'hotel' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 35.6% 
+
+# 'hotel' 'official website' url
+wdt:P856 xsd:string ;   # probability of constraint: 32.08% 
+
+# 'hotel' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 94.15% 
+
+# 'hotel' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 99.77% 
+
+# 'hotel' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 98.59% 
+
+# 'hotel' 'country' 'constitutional republic'
+wdt:P17 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 66.04% 
+
+# 'hotel' 'country' 'federal republic'
+wdt:P17 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 64.87% 
+
+# 'hotel' 'country' 'democratic republic'
+wdt:P17 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 63.93% 
+
+# 'hotel' 'country' 'historical unrecognized state'
+wdt:P17 { wdt:P31 [wd:Q99541706] } ;   # probability of constraint: 62.3% 
+
+# 'hotel' 'country' 'superpower'
+wdt:P17 { wdt:P31 [wd:Q1489259] } ;   # probability of constraint: 61.83% 
+
+# 'hotel' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 38.88% 
+
+# 'hotel' 'NRHP reference number' external-id
+wdt:P649 xsd:string ;   # probability of constraint: 35.36% 
+
+# 'hotel' 'date of official opening' time
+wdt:P1619 xsd:dateTime ;   # probability of constraint: 21.55% 
+
+# 'hotel' 'archINFORM project ID' external-id
+wdt:P5383 xsd:string ;   # probability of constraint: 27.17% 
+
+# 'hotel' 'heritage designation' 'heritage designation'
+wdt:P1435 { wdt:P31 [wd:Q30634609] } ;   # probability of constraint: 39.81% 
+
+# 'hotel' 'located in the administrative territorial entity' 'U.S. state'
+wdt:P131 { wdt:P31 [wd:Q35657] } ;   # probability of constraint: 37.47% 
+
+# 'hotel' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 74.0% 
+
+# 'hotel' 'floors above ground' quantity
+wdt:P1101 xsd:decimal ;   # probability of constraint: 18.5% 
+
+# 'hotel' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 41.69% 
+
+
+ }

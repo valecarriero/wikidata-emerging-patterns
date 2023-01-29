@@ -1,0 +1,103 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<art museum> 
+
+<art museum> { wdt:P31 [wd:Q207694] ; 
+
+# 'art museum' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 100.0% 
+
+# 'art museum' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 90.56% 
+
+# 'art museum' 'location' 'entity'
+wdt:P276 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 26.88% 
+
+# 'art museum' 'Twitter username' external-id
+wdt:P2002 xsd:string ;   # probability of constraint: 18.4% 
+
+# 'art museum' 'official website' url
+wdt:P856 xsd:string ;   # probability of constraint: 79.66% 
+
+# 'art museum' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 91.53% 
+
+# 'art museum' 'VIAF ID' external-id
+wdt:P214 xsd:string ;   # probability of constraint: 73.37% 
+
+# 'art museum' 'Library of Congress authority ID' external-id
+wdt:P244 xsd:string ;   # probability of constraint: 65.86% 
+
+# 'art museum' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 99.76% 
+
+# 'art museum' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 98.06% 
+
+# 'art museum' 'WorldCat Identities ID' external-id
+wdt:P7859 xsd:string ;   # probability of constraint: 71.67% 
+
+# 'art museum' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 55.69% 
+
+# 'art museum' 'location' 'big city'
+wdt:P276 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 6.54% 
+
+# 'art museum' 'location' 'city'
+wdt:P276 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 5.33% 
+
+# 'art museum' 'location' 'city of the United States'
+wdt:P276 { wdt:P31 [wd:Q1093829] } ;   # probability of constraint: 4.36% 
+
+# 'art museum' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 94.67% 
+
+# 'art museum' 'Commons Institution page' string
+wdt:P1612 xsd:string ;   # probability of constraint: 15.74% 
+
+# 'art museum' 'ISNI' external-id
+wdt:P213 xsd:string ;   # probability of constraint: 38.5% 
+
+# 'art museum' 'IdRef ID' external-id
+wdt:P269 xsd:string ;   # probability of constraint: 16.22% 
+
+# 'art museum' 'street address' monolingualtext
+wdt:P6375 rdf:langString ;   # probability of constraint: 18.89% 
+
+# 'art museum' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 74.09% 
+
+# 'art museum' 'located in the administrative territorial entity' 'big city'
+wdt:P131 { wdt:P31 [wd:Q1549591] } ;   # probability of constraint: 23.73% 
+
+# 'art museum' 'located in the administrative territorial entity' 'U.S. state'
+wdt:P131 { wdt:P31 [wd:Q35657] } ;   # probability of constraint: 20.82% 
+
+# 'art museum' 'located in the administrative territorial entity' 'city'
+wdt:P131 { wdt:P31 [wd:Q515] } ;   # probability of constraint: 14.53% 
+
+# 'art museum' 'Athenaeum museum ID' external-id
+wdt:P4146 xsd:string ;   # probability of constraint: 19.13% 
+
+# 'art museum' 'date of official opening' time
+wdt:P1619 xsd:dateTime ;   # probability of constraint: 23.0% 
+
+# 'art museum' 'postal code' string
+wdt:P281 xsd:string ;   # probability of constraint: 15.98% 
+
+# 'art museum' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 91.28% 
+
+# 'art museum' 'GND ID' external-id
+wdt:P227 xsd:string ;   # probability of constraint: 19.61% 
+
+
+ }

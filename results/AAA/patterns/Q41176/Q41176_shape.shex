@@ -1,0 +1,76 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX wd: <http://www.wikidata.org/entity/> 
+PREFIX wdt: <http://www.wikidata.org/prop/direct/> 
+PREFIX wikibase: <http://wikiba.se/ontology#> 
+PREFIX dcterms: <http://purl.org/dc/terms/> 
+PREFIX os: <http://w3id.org/owlstar/> 
+PREFIX oplax: <https://w3id.org/OPLaX/> 
+
+# shape extracted from dataset wikidata_AAA_subkg_20220404 which is derived from wikidata_20220404, dated 2022-04-04
+
+start = @<building> 
+
+<building> { wdt:P31 [wd:Q41176] ; 
+
+# 'building' 'country' 'entity'
+wdt:P17 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 99.75% 
+
+# 'building' 'located in the administrative territorial entity' 'entity'
+wdt:P131 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 95.98% 
+
+# 'building' 'heritage designation' 'entity'
+wdt:P1435 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 76.81% 
+
+# 'building' 'architectural style' 'entity'
+wdt:P149 { wdt:P31 [wd:Q35120] } ;   # probability of constraint: 30.3% 
+
+# 'building' 'located in the administrative territorial entity' 'U.S. state'
+wdt:P131 { wdt:P31 [wd:Q35657] } ;   # probability of constraint: 62.65% 
+
+# 'building' 'heritage designation' 'heritage designation'
+wdt:P1435 { wdt:P31 [wd:Q30634609] } ;   # probability of constraint: 72.48% 
+
+# 'building' 'Freebase ID' external-id
+wdt:P646 xsd:string ;   # probability of constraint: 91.16% 
+
+# 'building' 'NRHP reference number' external-id
+wdt:P649 xsd:string ;   # probability of constraint: 68.46% 
+
+# 'building' 'Commons category' string
+wdt:P373 xsd:string ;   # probability of constraint: 26.47% 
+
+# 'building' 'coordinate location' globe-coordinate
+wdt:P625 wikibase:Globe-coordinate ;   # probability of constraint: 97.9% 
+
+# 'building' 'image' commonsMedia
+wdt:P18 xsd:string ;   # probability of constraint: 87.94% 
+
+# 'building' 'architectural style' 'architectural style'
+wdt:P149 { wdt:P31 [wd:Q32880] } ;   # probability of constraint: 29.62% 
+
+# 'building' 'country' 'country'
+wdt:P17 { wdt:P31 [wd:Q6256] } ;   # probability of constraint: 99.69% 
+
+# 'building' 'country' 'sovereign state'
+wdt:P17 { wdt:P31 [wd:Q3624078] } ;   # probability of constraint: 98.64% 
+
+# 'building' 'country' 'constitutional republic'
+wdt:P17 { wdt:P31 [wd:Q1520223] } ;   # probability of constraint: 80.64% 
+
+# 'building' 'country' 'federal republic'
+wdt:P17 { wdt:P31 [wd:Q512187] } ;   # probability of constraint: 80.52% 
+
+# 'building' 'country' 'democratic republic'
+wdt:P17 { wdt:P31 [wd:Q5255892] } ;   # probability of constraint: 79.65% 
+
+# 'building' 'country' 'historical unrecognized state'
+wdt:P17 { wdt:P31 [wd:Q99541706] } ;   # probability of constraint: 78.79% 
+
+# 'building' 'country' 'superpower'
+wdt:P17 { wdt:P31 [wd:Q1489259] } ;   # probability of constraint: 78.6% 
+
+# 'building' 'inception' time
+wdt:P571 xsd:dateTime ;   # probability of constraint: 17.19% 
+
+
+ }

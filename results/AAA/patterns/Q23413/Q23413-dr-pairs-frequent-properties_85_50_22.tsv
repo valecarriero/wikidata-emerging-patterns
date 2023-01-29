@@ -1,0 +1,23 @@
+domain	property	range	count	domain;label	property;label	range;label	percentage
+Q23413	P625	globe-coordinate	1033.0	'castle'@en	'coordinate location'@en		99.04%
+Q23413	P18	commonsMedia	896.0	'castle'@en	'image'@en		85.91%
+Q23413	P131	Q15060255	216.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish council area'@en	20.71%
+Q23413	P131	Q1115575	199.0	'castle'@en	'located in the administrative territorial entity'@en	'civil parish'@en	19.08%
+Q23413	P131	Q532	141.0	'castle'@en	'located in the administrative territorial entity'@en	'village'@en	13.52%
+Q23413	P131	Q5124673	122.0	'castle'@en	'located in the administrative territorial entity'@en	'Scottish civil parish'@en	11.7%
+Q23413	P1566	external-id	369.0	'castle'@en	'GeoNames ID'@en		35.38%
+Q23413	P7959	Q67376938	294.0	'castle'@en	'historic county'@en	'historic county of the United Kingdom'@en	28.19%
+Q23413	P7959	Q1138494	290.0	'castle'@en	'historic county'@en	'historic county of England'@en	27.8%
+Q23413	P7959	Q1350181	215.0	'castle'@en	'historic county'@en	'shire of Scotland'@en	20.61%
+Q23413	P4141	external-id	242.0	'castle'@en	'Gatehouse Gazetteer place ID'@en		23.2%
+Q23413	P646	external-id	987.0	'castle'@en	'Freebase ID'@en		94.63%
+Q23413	P1435	Q30634609	183.0	'castle'@en	'heritage designation'@en	'heritage designation'@en	17.55%
+Q23413	P17	Q6256	1042.0	'castle'@en	'country'@en	'country'@en	99.9%
+Q23413	P17	Q3624078	1038.0	'castle'@en	'country'@en	'sovereign state'@en	99.52%
+Q23413	P17	Q112099	699.0	'castle'@en	'country'@en	'island nation'@en	67.02%
+Q23413	P17	Q1250464	627.0	'castle'@en	'country'@en	'realm'@en	60.12%
+Q23413	P17	Q20181813	623.0	'castle'@en	'country'@en	'colonial power'@en	59.73%
+Q23413	P17	Q202686	594.0	'castle'@en	'country'@en	'Commonwealth realm'@en	56.95%
+Q23413	P373	string	714.0	'castle'@en	'Commons category'@en		68.46%
+Q23413	P1216	external-id	161.0	'castle'@en	'National Heritage List for England number'@en		15.44%
+Q23413	P571	time	219.0	'castle'@en	'inception'@en		21.0%

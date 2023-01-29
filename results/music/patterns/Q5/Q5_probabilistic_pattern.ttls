@@ -1,0 +1,250 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix os: <http://w3id.org/owlstar/> .
+@prefix oplax: <https://w3id.org/OPLaX/> .
+@prefix weps: <https://w3id.org/wikidata-eps/> .
+
+weps:music_Q5_09508505 rdf:type oplax:FrequentistProbabilisticPattern ; 
+ dcterms:source weps:wikidata_music_subkg_20220404 ; 
+ dcterms:references wd:Q5 . 
+
+weps:wikidata_music_subkg_20220404 rdf:type dcterms:Dataset ; 
+ prov:wasDerivedFrom weps:wikidata_20220404 ; 
+ dcterms:isPartOf weps:wikidata_20220404 . 
+
+weps:wikidata_20220404 rdf:type dcterms:Dataset ; 
+ dcterms:hasPart weps:wikidata_music_subkg_20220404 ; 
+ dcterms:date "2022-04-04"^^xsd:date . 
+
+# 'human' 'sex or gender' 'entity'
+<< << wd:Q5 wdt:P21 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.99%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'occupation' 'entity'
+<< << wd:Q5 wdt:P106 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.01%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'country of citizenship' 'entity'
+<< << wd:Q5 wdt:P27 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "95.59%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'given name' 'entity'
+<< << wd:Q5 wdt:P735 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.45%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of birth' 'entity'
+<< << wd:Q5 wdt:P19 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "75.81%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'family name' 'entity'
+<< << wd:Q5 wdt:P734 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "63.83%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'instrument' 'entity'
+<< << wd:Q5 wdt:P1303 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "63.37%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'genre' 'entity'
+<< << wd:Q5 wdt:P136 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "50.78%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'entity'
+<< << wd:Q5 wdt:P1412 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "46.04%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'educated at' 'entity'
+<< << wd:Q5 wdt:P69 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "32.42%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of death' 'entity'
+<< << wd:Q5 wdt:P20 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.36%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'record label' 'entity'
+<< << wd:Q5 wdt:P264 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "26.25%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'described by source' 'entity'
+<< << wd:Q5 wdt:P1343 wd:Q35120 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.01%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of death' 'big city'
+<< << wd:Q5 wdt:P20 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "12.44%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of death' 'city'
+<< << wd:Q5 wdt:P20 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "8.63%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of death' 'city of the United States'
+<< << wd:Q5 wdt:P20 wd:Q1093829 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.68%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of death' 'million city'
+<< << wd:Q5 wdt:P20 wd:Q1637706 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.59%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Facebook ID' external-id
+<< << wd:Q5 wdt:P2013 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.76%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Europeana entity' external-id
+<< << wd:Q5 wdt:P7704 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "76.11%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'VIAF ID' external-id
+<< << wd:Q5 wdt:P214 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "68.47%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Rate Your Music artist ID' external-id
+<< << wd:Q5 wdt:P5404 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.89%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Discogs artist ID' external-id
+<< << wd:Q5 wdt:P1953 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "65.63%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'IdRef ID' external-id
+<< << wd:Q5 wdt:P269 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.83%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'record label' 'record label'
+<< << wd:Q5 wdt:P264 wd:Q18127 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "25.0%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'NKCR AUT ID' external-id
+<< << wd:Q5 wdt:P691 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "22.67%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'family name' 'family name'
+<< << wd:Q5 wdt:P734 wd:Q101352 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "63.67%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Prabook ID' external-id
+<< << wd:Q5 wdt:P3368 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.95%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'GND ID' external-id
+<< << wd:Q5 wdt:P227 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "38.79%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Muziekweb performer ID' external-id
+<< << wd:Q5 wdt:P5882 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "40.9%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'AllMusic artist ID' external-id
+<< << wd:Q5 wdt:P1728 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "34.74%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'educated at' 'university'
+<< << wd:Q5 wdt:P69 wd:Q3918 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "9.67%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'educated at' 'conservatory'
+<< << wd:Q5 wdt:P69 wd:Q184644 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "8.26%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'educated at' 'private not-for-profit educational institution'
+<< << wd:Q5 wdt:P69 wd:Q23002054 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "7.46%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'educated at' 'high school'
+<< << wd:Q5 wdt:P69 wd:Q9826 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "6.53%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Songkick artist ID' external-id
+<< << wd:Q5 wdt:P3478 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "27.95%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'NUKAT ID' external-id
+<< << wd:Q5 wdt:P1207 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.19%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Spotify artist ID' external-id
+<< << wd:Q5 wdt:P1902 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.63%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'given name' 'male given name'
+<< << wd:Q5 wdt:P735 wd:Q12308941 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "64.18%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'language'
+<< << wd:Q5 wdt:P1412 wd:Q34770 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "45.76%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'modern language'
+<< << wd:Q5 wdt:P1412 wd:Q1288568 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "45.69%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'languages spoken, written or signed' 'natural language'
+<< << wd:Q5 wdt:P1412 wd:Q33742 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "31.98%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'IMDb ID' external-id
+<< << wd:Q5 wdt:P345 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "39.89%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'FAST ID' external-id
+<< << wd:Q5 wdt:P2163 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "23.7%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Library of Congress authority ID' external-id
+<< << wd:Q5 wdt:P244 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "55.84%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'occupation' 'occupation'
+<< << wd:Q5 wdt:P106 wd:Q12737077 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "87.82%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'occupation' 'musical profession'
+<< << wd:Q5 wdt:P106 wd:Q66715801 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "83.78%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'occupation' 'profession'
+<< << wd:Q5 wdt:P106 wd:Q28640 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "50.31%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Bibliothèque nationale de France ID' external-id
+<< << wd:Q5 wdt:P268 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "36.98%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'TMDb person ID' external-id
+<< << wd:Q5 wdt:P4985 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "18.41%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'date of birth' time
+<< << wd:Q5 wdt:P569 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "92.41%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'SNAC ARK ID' external-id
+<< << wd:Q5 wdt:P3430 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.36%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'genre' 'music genre'
+<< << wd:Q5 wdt:P136 wd:Q188451 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "50.22%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'image' commonsMedia
+<< << wd:Q5 wdt:P18 wikibase:Commonsmedia >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "49.79%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'MusicBrainz artist ID' external-id
+<< << wd:Q5 wdt:P434 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "70.53%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'ISNI' external-id
+<< << wd:Q5 wdt:P213 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "56.88%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'name in native language' monolingualtext
+<< << wd:Q5 wdt:P1559 wikibase:Monolingualtext >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "15.15%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'official website' url
+<< << wd:Q5 wdt:P856 wikibase:Url >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "29.8%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'described by source' 'multimedia database'
+<< << wd:Q5 wdt:P1343 wd:Q12038942 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "10.0%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'described by source' 'web portal'
+<< << wd:Q5 wdt:P1343 wd:Q186165 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "10.0%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of birth' 'big city'
+<< << wd:Q5 wdt:P19 wd:Q1549591 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "32.79%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of birth' 'city'
+<< << wd:Q5 wdt:P19 wd:Q515 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "21.81%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'place of birth' 'city of the United States'
+<< << wd:Q5 wdt:P19 wd:Q1093829 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "17.31%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Commons category' string
+<< << wd:Q5 wdt:P373 wikibase:String >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "31.46%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'sex or gender' 'gender identity'
+<< << wd:Q5 wdt:P21 wd:Q48264 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.99%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'sex or gender' 'sex of humans'
+<< << wd:Q5 wdt:P21 wd:Q4369513 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "99.89%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Twitter username' external-id
+<< << wd:Q5 wdt:P2002 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.25%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'country of citizenship' 'sovereign state'
+<< << wd:Q5 wdt:P27 wd:Q3624078 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "93.92%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'country of citizenship' 'country'
+<< << wd:Q5 wdt:P27 wd:Q6256 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "92.32%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'work period (start)' time
+<< << wd:Q5 wdt:P2031 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "43.05%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'date of death' time
+<< << wd:Q5 wdt:P570 wikibase:Time >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "35.73%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Freebase ID' external-id
+<< << wd:Q5 wdt:P646 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "98.72%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'instrument' 'type of musical instrument'
+<< << wd:Q5 wdt:P1303 wd:Q110295396 >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.65%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'PLWABN ID' external-id
+<< << wd:Q5 wdt:P7293 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "19.02%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Biblioteca Nacional de España ID' external-id
+<< << wd:Q5 wdt:P950 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "16.69%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'WorldCat Identities ID' external-id
+<< << wd:Q5 wdt:P7859 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "66.23%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+
+# 'human' 'Nationale Thesaurus voor Auteurs ID' external-id
+<< << wd:Q5 wdt:P1006 "External-ID" >> os:interpretation os:AllSomeInterpretation . >> os:frequentistProbability "20.59%" ; oplax:isNativeTo weps:music_Q5_09508505 .
+

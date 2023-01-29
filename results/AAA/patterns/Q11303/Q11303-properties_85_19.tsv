@@ -1,0 +1,20 @@
+property	count	property;label	percentage
+P17	600	'country'@en	99.83%
+P625	584	'coordinate location'@en	97.17%
+P131	556	'located in the administrative territorial entity'@en	92.51%
+P646	542	'Freebase ID'@en	90.18%
+P18	504	'image'@en	83.86%
+P1101	488	'floors above ground'@en	81.2%
+P571	440	'inception'@en	73.21%
+P1305	424	'CTBUH Skyscraper Center building ID'@en	70.55%
+P373	353	'Commons category'@en	58.74%
+P84	278	'architect'@en	46.26%
+P455	214	'Emporis building ID'@en	35.61%
+P454	174	'Structurae structure ID'@en	28.95%
+P1619	167	'date of official opening'@en	27.79%
+P149	133	'architectural style'@en	22.13%
+P1301	125	'number of elevators'@en	20.8%
+P2048	122	'height'@en	20.3%
+P1699	120	'SkyscraperPage building ID'@en	19.97%
+P856	108	'official website'@en	17.97%
+P127	106	'owned by'@en	17.64%

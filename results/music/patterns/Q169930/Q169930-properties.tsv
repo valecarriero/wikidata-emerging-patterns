@@ -1,0 +1,122 @@
+property	count	property;label	percentage
+P577	3770	'publication date'@en	99.45%
+P175	3733	'performer'@en	98.47%
+P646	3572	'Freebase ID'@en	94.22%
+P156	2880	'followed by'@en	75.97%
+P136	2868	'genre'@en	75.65%
+P436	2661	'MusicBrainz release group ID'@en	70.19%
+P155	2368	'follows'@en	62.46%
+P264	1856	'record label'@en	48.96%
+P1954	1521	'Discogs master ID'@en	40.12%
+P407	643	'language of work or name'@en	16.96%
+P1476	408	'title'@en	10.76%
+P495	378	'country of origin'@en	9.97%
+P162	370	'producer'@en	9.76%
+P1729	245	'AllMusic album ID'@en	6.46%
+P361	159	'part of'@en	4.19%
+P437	130	'distribution format'@en	3.43%
+P291	106	'place of publication'@en	2.8%
+P2635	103	'number of parts of this work'@en	2.72%
+P2047	78	'duration'@en	2.06%
+P7937	76	'form of creative work'@en	2.0%
+P2206	73	'Discogs release ID'@en	1.93%
+P856	68	'official website'@en	1.79%
+P2721	68	'Encyclopaedia Metallum release ID'@en	1.79%
+P1889	66	'different from'@en	1.74%
+P658	57	'tracklist'@en	1.5%
+P1552	42	'has quality'@en	1.11%
+P2205	35	'Spotify album ID'@en	0.92%
+P2671	31	'Google Knowledge Graph ID'@en	0.82%
+P7067	23	'Album of the Year album ID'@en	0.61%
+P3417	21	'Quora topic ID'@en	0.55%
+P4300	20	'YouTube playlist ID'@en	0.53%
+P483	19	'recorded at studio or venue'@en	0.5%
+P2624	19	'MetroLyrics ID'@en	0.5%
+P1712	19	'Metacritic ID'@en	0.5%
+P2581	18	'BabelNet ID'@en	0.47%
+P8411	15	'set in environment'@en	0.4%
+P6217	15	'Genius album ID'@en	0.4%
+P5749	12	'Amazon Standard Identification Number'@en	0.32%
+P8392	11	'Rate Your Music release ID'@en	0.29%
+P435	11	'MusicBrainz work ID'@en	0.29%
+P9083	10	'45cat 7\" release ID'@en	0.26%
+P2281	10	'Apple Music album ID (U.S. version)'@en	0.26%
+P676	9	'lyrics by'@en	0.24%
+P17	8	'country'@en	0.21%
+P1651	8	'YouTube video ID'@en	0.21%
+P2014	7	'Museum of Modern Art work ID'@en	0.18%
+P195	7	'collection'@en	0.18%
+P170	7	'creator'@en	0.18%
+P86	6	'composer'@en	0.16%
+P6216	6	'copyright status'@en	0.16%
+P3931	6	'copyright holder'@en	0.16%
+P18	6	'image'@en	0.16%
+P750	5	'distributed by'@en	0.13%
+P736	5	'cover art by'@en	0.13%
+P571	5	'inception'@en	0.13%
+P1680	5	'subtitle'@en	0.13%
+P8856	4	'British Phonographic Industry ID'@en	0.11%
+P4518	4	'Melon album ID'@en	0.11%
+P444	4	'review score'@en	0.11%
+P373	4	'Commons category'@en	0.11%
+P179	4	'part of the series'@en	0.11%
+P1449	4	'nickname'@en	0.11%
+P138	4	'named after'@en	0.11%
+P10262	4	'Offizielle Deutsche Charts album ID'@en	0.11%
+P7936	3	'business model'@en	0.08%
+P527	3	'has part or parts'@en	0.08%
+P3962	3	'Global Trade Item Number'@en	0.08%
+P2819	3	'Yandex Music release ID'@en	0.08%
+P2723	3	'Deezer album ID'@en	0.08%
+P973	2	'described at URL'@en	0.05%
+P921	2	'main subject'@en	0.05%
+P9182	2	'uta-net.com song ID'@en	0.05%
+P4947	2	'TMDb movie ID'@en	0.05%
+P4577	2	'Tidal album ID'@en	0.05%
+P364	2	'original language of film or TV show'@en	0.05%
+P345	2	'IMDb ID'@en	0.05%
+P3192	2	'Last.fm ID'@en	0.05%
+P3143	2	'elFilm film ID'@en	0.05%
+P3138	2	'OFDb film ID'@en	0.05%
+P2291	2	'charted in'@en	0.05%
+P2031	2	'work period (start)'@en	0.05%
+P2002	2	'Twitter username'@en	0.05%
+P161	2	'cast member'@en	0.05%
+P154	2	'logo image'@en	0.05%
+P1411	2	'nominated for'@en	0.05%
+P1259	2	'coordinates of the point of view'@en	0.05%
+P9237	1	'reissue of'@en	0.03%
+P910	1	'topic\'s main category'@en	0.03%
+P9035	1	'Muck Rack media outlet ID'@en	0.03%
+P8687	1	'social media followers'@en	0.03%
+P8663	1	'Maniadb album ID'@en	0.03%
+P8546	1	'recording location'@en	0.03%
+P8408	1	'KBpedia ID'@en	0.03%
+P825	1	'dedicated to'@en	0.03%
+P7704	1	'Europeana entity'@en	0.03%
+P767	1	'contributor to the creative work or subject'@en	0.03%
+P747	1	'has edition or translation'@en	0.03%
+P724	1	'Internet Archive ID'@en	0.03%
+P7194	1	'AZLyrics.com artist ID'@en	0.03%
+P710	1	'participant'@en	0.03%
+P7055	1	'Jaxsta release ID'@en	0.03%
+P6218	1	'Genius song ID'@en	0.03%
+P528	1	'catalog code'@en	0.03%
+P5008	1	'on focus list of Wikimedia project'@en	0.03%
+P50	1	'author'@en	0.03%
+P4839	1	'Wolfram Language entity code'@en	0.03%
+P4208	1	'Billboard artist ID'@en	0.03%
+P3265	1	'Myspace ID'@en	0.03%
+P2704	1	'EIDR content ID'@en	0.03%
+P268	1	'Bibliothèque nationale de France ID'@en	0.03%
+P2013	1	'Facebook ID'@en	0.03%
+P2003	1	'Instagram username'@en	0.03%
+P1874	1	'Netflix ID'@en	0.03%
+P1814	1	'name in kana'@en	0.03%
+P1730	1	'AllMusic song ID'@en	0.03%
+P166	1	'award received'@en	0.03%
+P1562	1	'AllMovie title ID'@en	0.03%
+P1448	1	'official name'@en	0.03%
+P1417	1	'Encyclopædia Britannica Online ID'@en	0.03%
+P1407	1	'MusicBrainz series ID'@en	0.03%
+P1292	1	'DNB editions'@en	0.03%
