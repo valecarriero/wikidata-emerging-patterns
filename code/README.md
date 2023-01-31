@@ -1,6 +1,6 @@
-# Code for extracting Emerging Patterns from Wikidata
+# Code for extracting the Empirical ODPs emerging from Wikidata
 
-For extracting Emerging Patterns (EPs) from (a portion of) Wikidata, you first need to install KGTK and import a (sub)dump of Wikidata using it.
+For extracting the Empirical Ontology Design Patterns (EODPs) from (a portion of) Wikidata, you first need to install KGTK and import a (sub)dump of Wikidata using it.
 Indeed, our code relies on KGTK.
 
 Useful links:
