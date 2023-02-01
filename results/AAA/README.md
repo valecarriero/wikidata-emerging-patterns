@@ -19,7 +19,7 @@ The folder `patterns` contains the actual results of the patterns extraction met
 - the file `[CLASS]_probabilistic_pattern.ttls` contains the pattern expressed in rdf-star, using owl-star
 - the file `[CLASS]_shape.shex` contains the pattern expressed as a ShEx shape
 
-Here's an example of a pattern extracted from the Wikidata subgraph on AAA, corresponding to the `Q482994/Q482994-dr-pairs-frequent-properties_85_50_18.tsv`, `Q482994/Q482994_probabilistic_pattern.ttls`, and `Q482994/Q482994_shape.shex` files 
+Here's an example of a pattern extracted from the Wikidata subgraph on AAA, corresponding to the `Q33506/Q33506-dr-pairs-frequent-properties_85_50_19.tsv`, `Q33506/Q33506_probabilistic_pattern.ttls`, and `Q33506/Q33506_shape.shex` files 
 
 <img width="646" alt="Screenshot 2023-01-02 at 15 52 29" src="https://user-images.githubusercontent.com/36740200/216062969-e8dd0ac6-a6bf-4fae-bdad-23dfcca3965c.png">
 
