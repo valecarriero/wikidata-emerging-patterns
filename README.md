@@ -1,4 +1,4 @@
-# Wikidata Emerging Patterns
+# Wikidata Empirical Patterns
 This repository contains the code for extracting empirical ontology design patterns that emerge from (a subgraph of) Wikidata, and the results of the experiments focusing on a subgraph about the music domain and a subgraph on the art, architecture and archaeology domain.
 
 These patterns are expressed in the form of `< domain, property, range >` triplets, where `domain` is the type (`wdt:P31`) of the subject and `range` is either the type of the object (when the object is a `wikibase-item`) or the wikidata `data type`.
