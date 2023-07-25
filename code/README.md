@@ -20,6 +20,10 @@ kgtk --debug --timing import-wikidata -i WIKIDATA_JSON_DUMP.json.gz minimal-edge
 kgtk --debug --timing filter --verbose --use-mgzip TRUE --input-file CLAIMS.RAW.UNSORTED.tsv.gz --first-match-only --pattern ";; novalue"  -o CLAIMS.NOVALUE.UNSORTED.tsv.gz --pattern ";; somevalue" -o CLAIMS.SOMEVALUE.UNSORTED.tsv.gz --reject-file CLAIMS.UNSORTED.tsv.gz
 ```
 
+```
+kgtk --debug --timing sort --verbose --input-file CLAIMS.UNSORTED.tsv.gz --output-file CLAIMS.SORTED.tsv.gz --gzip-command pigz --sort-command sort --extra '--parallel 6 --buffer-size 50% -T FOLDER_FOR_TEMPORARY_FILES
+```
+
 ## Generate the "is a " (P31 property) and "subclass of" relation files (P279 property)
 At this point, you need to generate the file containing all the subclass of (P279) edges present in the claims file.
 You can see the see the [notebook for importing Wikidata](https://github.com/usc-isi-i2/kgtk-notebooks/blob/main/use-cases/create_wikidata/Wikidata-Useful-Files.ipynb) for instructions, but we also report here the commands you need to run.
